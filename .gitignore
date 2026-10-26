@@ -1,0 +1,3 @@
+external/
+!./external/instructs.txt
+blender/*.blend1
