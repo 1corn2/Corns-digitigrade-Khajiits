@@ -1,0 +1,5 @@
+Move stuff in blender -> export into FirstExport ->
+Import as bare into OutfitStudio, import a vanilla ref, set it as reference and copy weights onto the new feet ->
+export into FixedWeights -> create new outfit in OutfitStudio and import -> import vanilla reference, hit conform sliders, remove reference and save project
+
+(This is because I used male feet as the template and female feet have different weights..., so this probably isn't necessary for male feet)
