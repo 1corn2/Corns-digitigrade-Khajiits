@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vanilla2DigitigradeMale">
+        <DataFolder>Vanilla2DigitigradeMale</DataFolder>
+        <SourceFile>Vanilla2DigitigradeMale.nif</SourceFile>
+        <OutputPath>meshes\armor\New Outfit</OutputPath>
+        <OutputFile GenWeights="false" PreventMorphFile="false" KeepZappedShapes="false">New Outfit</OutputFile>
+        <Shape target="FootMale_Big">FootMale_Big</Shape>
+        <Slider name="Vanilla2Digitigrade" invert="false" default="0">
+            <Data name="FootMale_BigVanilla2Digitigrade" target="FootMale_Big" local="true">Vanilla2DigitigradeMale.osd\FootMale_BigVanilla2Digitigrade</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

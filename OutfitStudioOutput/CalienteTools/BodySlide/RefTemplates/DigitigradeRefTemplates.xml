@@ -1,4 +1,6 @@
 <RefTemplates>
     <Template sourcefile="SliderSets\VanillaDigitigradeKhajiitFeetFemale.osp" set="VanillaDigitigradeKhajiitFeetFemale" shape="FootPaws_Base">VanillaDigitigradeKhajiitFeetFemale</Template>
     <Template sourcefile="SliderSets\VanillaDigitigradeKhajiitFeetMale.osp" set="VanillaDigitigradeKhajiitFeetMale" shape="FootPaws_Base">VanillaDigitigradeKhajiitFeetMale</Template>
+	<Template sourcefile="SliderSets\Vanilla2DigitigradeMale.osp" set="Vanilla2DigitigradeMale" shape="FootMale_Big">Convert: Vanilla to Digitigrade Male</Template>
+    <Template sourcefile="SliderSets\Vanilla2DigitigradeFemale.osp" set="Vanilla2DigitigradeFemale" shape="FootFemale_Big">Convert: Vanilla to Digitigrade Female</Template>
 </RefTemplates>
