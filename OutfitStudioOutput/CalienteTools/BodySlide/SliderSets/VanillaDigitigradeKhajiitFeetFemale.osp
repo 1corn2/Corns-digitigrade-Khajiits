@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="VanillaDigitigradeKhajiitFeetFemale">
+        <ReferenceInfo ShapeName="FootPaws_Base"/>
+        <DataFolder>VanillaDigitigradeKhajiitFeetFemale</DataFolder>
+        <SourceFile>VanillaDigitigradeKhajiitFeetFemale.nif</SourceFile>
+        <OutputPath>meshes\actors\character\character assets\digitigrade</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">khajiitfeetf</OutputFile>
+        <Shape target="FootPaws_Base">FootPaws_Base</Shape>
+        <Slider name="Weight" invert="false" small="0" big="100">
+            <Data name="FootPaws_BaseWeight" target="FootPaws_Base" local="true">VanillaDigitigradeKhajiitFeetFemale.osd\FootPaws_BaseWeight</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

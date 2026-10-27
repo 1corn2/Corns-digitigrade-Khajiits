@@ -1,0 +1,4 @@
+<RefTemplates>
+    <Template sourcefile="SliderSets\VanillaDigitigradeKhajiitFeetFemale.osp" set="VanillaDigitigradeKhajiitFeetFemale" shape="FootPaws_Base">VanillaDigitigradeKhajiitFeetFemale</Template>
+    <Template sourcefile="SliderSets\VanillaDigitigradeKhajiitFeetMale.osp" set="VanillaDigitigradeKhajiitFeetMale" shape="FootPaws_Base">VanillaDigitigradeKhajiitFeetMale</Template>
+</RefTemplates>
