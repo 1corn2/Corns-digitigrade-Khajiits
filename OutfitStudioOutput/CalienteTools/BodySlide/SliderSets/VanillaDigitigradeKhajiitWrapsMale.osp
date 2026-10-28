@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="VanillaDigitigradeKhajiitWrapsMale">
+        <ReferenceInfo ProjectFile="SliderSets\VanillaDigitigradeKhajiitFeetMale.osp" ProjectName="VanillaDigitigradeKhajiitFeetMale" ShapeName="FootPaws_Base"/>
+        <DataFolder>VanillaDigitigradeKhajiitWrapsMale</DataFolder>
+        <SourceFile>VanillaDigitigradeKhajiitWrapsMale.nif</SourceFile>
+        <OutputPath>meshes\clothes\digitigrade\prisoner</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">prisonershoes</OutputFile>
+        <Shape target="FootPaws_Base" DataFolder="VanillaDigitigradeKhajiitFeetMale">FootPaws_Base</Shape>
+        <Shape target="shoes">shoes</Shape>
+        <Slider name="Weight" invert="false" small="0" big="100">
+            <Data name="FootPaws_BaseWeight" target="FootPaws_Base">VanillaDigitigradeKhajiitFeetMale.osd\FootPaws_BaseWeight</Data>
+            <Data name="shoesWeight" target="shoes" local="true">VanillaDigitigradeKhajiitWrapsMale.osd\shoesWeight</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>
