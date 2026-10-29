@@ -8,9 +8,9 @@
         <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">prisonershoes_f</OutputFile>
         <Shape target="FootPaws_Base" DataFolder="VanillaDigitigradeKhajiitFeetFemale">FootPaws_Base</Shape>
         <Shape target="shoes">shoes</Shape>
-        <Slider name="Weight" invert="false" small="0" big="100">
-            <Data name="FootPaws_BaseWeight" target="FootPaws_Base">VanillaDigitigradeKhajiitFeetFemale.osd\FootPaws_BaseWeight</Data>
-            <Data name="shoesWeight" target="shoes" local="true">VanillaDigitigradeKhajiitWrapsFemale.osd\shoesWeight</Data>
+        <Slider name="0 -&gt; 1" invert="false" small="0" big="100">
+            <Data name="FootPaws_Base0 -&gt; 1" target="FootPaws_Base">VanillaDigitigradeKhajiitFeetFemale.osd\FootPaws_Base0 -&gt; 1</Data>
+            <Data name="shoes0 -&gt; 1" target="shoes" local="true">VanillaDigitigradeKhajiitWrapsFemale.osd\shoes0 -&gt; 1</Data>
         </Slider>
     </SliderSet>
 </SliderSetInfo>
