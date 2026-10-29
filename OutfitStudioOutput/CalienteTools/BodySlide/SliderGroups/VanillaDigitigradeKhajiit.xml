@@ -5,5 +5,7 @@
         <Member name="VanillaDigitigradeKhajiitFeetMale"/>
         <Member name="VanillaDigitigradeKhajiitWrapsFemale"/>
         <Member name="VanillaDigitigradeKhajiitWrapsMale"/>
+        <Member name="VanillaDigitigradeKhajiitIronBootsFemale"/>
+        <Member name="VanillaDigitigradeKhajiitIronBootsMale"/>
     </Group>
 </SliderGroups>
