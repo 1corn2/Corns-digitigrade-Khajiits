@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderGroups>
+    <Group name="Vanilla Digitigrade Khajiit">
+        <Member name="VanillaDigitigradeKhajiitFeetFemale"/>
+        <Member name="VanillaDigitigradeKhajiitFeetMale"/>
+        <Member name="VanillaDigitigradeKhajiitWrapsFemale"/>
+        <Member name="VanillaDigitigradeKhajiitWrapsMale"/>
+    </Group>
+</SliderGroups>
