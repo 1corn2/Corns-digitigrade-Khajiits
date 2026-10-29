@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="VanillaDigitigradeKhajiitM2F">
+        <ReferenceInfo ShapeName="FootPaws_Base"/>
+        <DataFolder>VanillaDigitigradeKhajiitM2F</DataFolder>
+        <SourceFile>VanillaDigitigradeKhajiitM2F.nif</SourceFile>
+        <OutputPath>meshes\armor\New Outfit</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">New Outfit</OutputFile>
+        <Shape target="FootPaws_Base">FootPaws_Base</Shape>
+        <Slider name="VanillaDigitigradeM2F" invert="false" small="0" big="0">
+            <Data name="FootPaws_BaseVanillaDigitigradeM2F" target="FootPaws_Base" local="true">VanillaDigitigradeKhajiitM2F.osd\FootPaws_BaseVanillaDigitigradeM2F</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>
