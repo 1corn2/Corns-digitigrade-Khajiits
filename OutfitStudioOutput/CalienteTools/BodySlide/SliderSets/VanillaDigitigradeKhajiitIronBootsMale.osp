@@ -4,7 +4,7 @@
         <ReferenceInfo ShapeName="FootPaws_Base"/>
         <DataFolder>VanillaDigitigradeKhajiitIronBootsMale</DataFolder>
         <SourceFile>VanillaDigitigradeKhajiitIronBootsMale.nif</SourceFile>
-        <OutputPath>meshes\armor\iron\digitigrade</OutputPath>
+        <OutputPath>meshes\armor\digitigrade\iron</OutputPath>
         <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">ironbootsm</OutputFile>
         <Shape target="Boots_1">Boots_1</Shape>
         <Shape target="FootPaws_Base" DataFolder="VanillaDigitigradeKhajiitFeetMale">FootPaws_Base</Shape>
