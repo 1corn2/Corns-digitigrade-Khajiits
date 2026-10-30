@@ -17,5 +17,11 @@
         <Member name="VanillaDigitigradeKhajiitDragonBoneBootsMale"/>
         <Member name="VanillaDigitigradeKhajiitDragonscaleBootsFemale"/>
         <Member name="VanillaDigitigradeKhajiitDragonscaleBootsMale"/>
+        <Member name="VanillaDigitigradeKhajiitDraugrBootsFemale"/>
+        <Member name="VanillaDigitigradeKhajiitDraugrBootsMale"/>
+        <Member name="VanillaDigitigradeKhajiitDwarvenBootsFemale"/>
+        <Member name="VanillaDigitigradeKhajiitDwarvenBootsMale"/>
+        <Member name="VanillaDigitigradeKhajiitEbonyBootsFemale"/>
+        <Member name="VanillaDigitigradeKhajiitEbonyBootsMale"/>
     </Group>
 </SliderGroups>
