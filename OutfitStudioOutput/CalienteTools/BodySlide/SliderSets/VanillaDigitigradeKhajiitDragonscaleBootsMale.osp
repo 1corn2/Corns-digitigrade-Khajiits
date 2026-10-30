@@ -10,7 +10,7 @@
         <Shape target="Dragonboots:1">Dragonboots:1</Shape>
         <Shape target="FootPaws_Base" DataFolder="VanillaDigitigradeKhajiitFeetMale">FootPaws_Base</Shape>
         <Shape target="shoes" DataFolder="VanillaDigitigradeKhajiitWrapsCutMale">shoes</Shape>
-        <Slider name="0 -&gt; 1" invert="false" small="0" big="0">
+        <Slider name="0 -&gt; 1" invert="false" small="0" big="100">
             <Data name="FootPaws_Base0 -&gt; 1" target="FootPaws_Base">VanillaDigitigradeKhajiitFeetMale.osd\FootPaws_Base0 -&gt; 1</Data>
             <Data name="Dragonboots:00 -&gt; 1" target="Dragonboots:0" local="true">VanillaDigitigradeKhajiitDragonscaleBootsMale.osd\Dragonboots:00 -&gt; 1</Data>
             <Data name="Dragonboots:10 -&gt; 1" target="Dragonboots:1" local="true">VanillaDigitigradeKhajiitDragonscaleBootsMale.osd\Dragonboots:10 -&gt; 1</Data>

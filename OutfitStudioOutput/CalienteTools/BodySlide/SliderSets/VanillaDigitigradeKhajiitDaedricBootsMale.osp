@@ -9,7 +9,7 @@
         <Shape target="BootsLow">BootsLow</Shape>
         <Shape target="FootPaws_Base" DataFolder="VanillaDigitigradeKhajiitFeetMale">FootPaws_Base</Shape>
         <Shape target="shoes" DataFolder="VanillaDigitigradeKhajiitWrapsCutMale">shoes</Shape>
-        <Slider name="0 -&gt; 1" invert="false" small="100" big="100">
+        <Slider name="0 -&gt; 1" invert="false" small="0" big="100">
             <Data name="FootPaws_Base0 -&gt; 1" target="FootPaws_Base">VanillaDigitigradeKhajiitFeetMale.osd\FootPaws_Base0 -&gt; 1</Data>
             <Data name="shoes0 -&gt; 1" target="shoes">VanillaDigitigradeKhajiitWrapsCutMale.osd\shoes0 -&gt; 1</Data>
             <Data name="BootsLow0 -&gt; 1" target="BootsLow" local="true">VanillaDigitigradeKhajiitDaedricBootsMale.osd\BootsLow0 -&gt; 1</Data>

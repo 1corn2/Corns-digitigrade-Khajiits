@@ -9,7 +9,7 @@
         <Shape target="DB_Boots_Big">DB_Boots_Big</Shape>
         <Shape target="FootPaws_Base" DataFolder="VanillaDigitigradeKhajiitFeetFemale">FootPaws_Base</Shape>
         <Shape target="shoes" DataFolder="VanillaDigitigradeKhajiitWrapsCutFemale">shoes</Shape>
-        <Slider name="0 -&gt; 1" invert="false" small="0" big="0">
+        <Slider name="0 -&gt; 1" invert="false" small="0" big="100">
             <Data name="FootPaws_Base0 -&gt; 1" target="FootPaws_Base">VanillaDigitigradeKhajiitFeetFemale.osd\FootPaws_Base0 -&gt; 1</Data>
             <Data name="DB_Boots_Big0 -&gt; 1" target="DB_Boots_Big" local="true">VanillaDigitigradeKhajiitDragonBoneBootsFemale.osd\DB_Boots_Big0 -&gt; 1</Data>
             <Data name="shoes0 -&gt; 1" target="shoes">VanillaDigitigradeKhajiitWrapsCutFemale.osd\shoes0 -&gt; 1</Data>

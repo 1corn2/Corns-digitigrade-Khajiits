@@ -7,7 +7,7 @@
         <OutputPath>meshes\armor\digitigrade\dbarmor</OutputPath>
         <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">dbarmor_boots_f</OutputFile>
         <Shape target="DBBoots">DBBoots</Shape>
-        <Slider name="0 -&gt; 1" invert="false" small="0" big="0">
+        <Slider name="0 -&gt; 1" invert="false" small="0" big="100">
             <Data name="DBBoots0 -&gt; 1" target="DBBoots" local="true">VanillaDigitigradeKhajiitDBBootsFemale.osd\DBBoots0 -&gt; 1</Data>
         </Slider>
     </SliderSet>
