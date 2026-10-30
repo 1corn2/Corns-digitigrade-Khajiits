@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="VanillaDigitigradeKhajiitDragonBoneBootsFemale">
+        <ReferenceInfo ShapeName="FootPaws_Base"/>
+        <DataFolder>VanillaDigitigradeKhajiitDragonBoneBootsFemale</DataFolder>
+        <SourceFile>VanillaDigitigradeKhajiitDragonBoneBootsFemale.nif</SourceFile>
+        <OutputPath>meshes\armor\digitigrade\dragonbone</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">dragonbonebootsf</OutputFile>
+        <Shape target="DB_Boots_Big">DB_Boots_Big</Shape>
+        <Shape target="FootPaws_Base" DataFolder="VanillaDigitigradeKhajiitFeetFemale">FootPaws_Base</Shape>
+        <Shape target="shoes" DataFolder="VanillaDigitigradeKhajiitWrapsCutFemale">shoes</Shape>
+        <Slider name="0 -&gt; 1" invert="false" small="0" big="0">
+            <Data name="FootPaws_Base0 -&gt; 1" target="FootPaws_Base">VanillaDigitigradeKhajiitFeetFemale.osd\FootPaws_Base0 -&gt; 1</Data>
+            <Data name="DB_Boots_Big0 -&gt; 1" target="DB_Boots_Big" local="true">VanillaDigitigradeKhajiitDragonBoneBootsFemale.osd\DB_Boots_Big0 -&gt; 1</Data>
+            <Data name="shoes0 -&gt; 1" target="shoes">VanillaDigitigradeKhajiitWrapsCutFemale.osd\shoes0 -&gt; 1</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

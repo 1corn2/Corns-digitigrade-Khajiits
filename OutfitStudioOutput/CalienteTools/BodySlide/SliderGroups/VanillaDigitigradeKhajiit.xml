@@ -13,5 +13,7 @@
         <Member name="VanillaDigitigradeKhajiitDaedricBootsMale"/>
         <Member name="VanillaDigitigradeKhajiitDBBootsFemale"/>
         <Member name="VanillaDigitigradeKhajiitDBBootsMale"/>
+        <Member name="VanillaDigitigradeKhajiitDragonBoneBootsFemale"/>
+        <Member name="VanillaDigitigradeKhajiitDragonBoneBootsMale"/>
     </Group>
 </SliderGroups>
