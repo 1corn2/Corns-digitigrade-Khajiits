@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="VanillaDigitigradeKhajiitHideHeavyBootsFemale">
+        <ReferenceInfo ShapeName="FootPaws_Base"/>
+        <DataFolder>VanillaDigitigradeKhajiitHideHeavyBootsFemale</DataFolder>
+        <SourceFile>VanillaDigitigradeKhajiitHideHeavyBootsFemale.nif</SourceFile>
+        <OutputPath>meshes\armor\digitigrade\hide\f\</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">bootsheavy</OutputFile>
+        <Shape target="FootPaws_Base" DataFolder="VanillaDigitigradeKhajiitFeetFemale">FootPaws_Base</Shape>
+        <Shape target="_BootsHeavy_1">_BootsHeavy_1</Shape>
+        <Shape target="shoes" DataFolder="VanillaDigitigradeKhajiitWrapsCutFemale">shoes</Shape>
+        <Slider name="0 -&gt; 1" invert="false" small="0" big="100">
+            <Data name="FootPaws_Base0 -&gt; 1" target="FootPaws_Base">VanillaDigitigradeKhajiitFeetFemale.osd\FootPaws_Base0 -&gt; 1</Data>
+            <Data name="_BootsHeavy_10 -&gt; 1" target="_BootsHeavy_1" local="true">VanillaDigitigradeKhajiitHideHeavyBootsFemale.osd\_BootsHeavy_10 -&gt; 1</Data>
+            <Data name="shoes0 -&gt; 1" target="shoes">VanillaDigitigradeKhajiitWrapsCutFemale.osd\shoes0 -&gt; 1</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>
