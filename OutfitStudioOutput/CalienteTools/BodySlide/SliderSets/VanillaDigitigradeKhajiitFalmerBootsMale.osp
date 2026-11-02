@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <SliderSetInfo version="1">
     <SliderSet name="VanillaDigitigradeKhajiitFalmerBootsMale">
-        <ReferenceInfo ShapeName="FootPaws_Base"/>
+        <ReferenceInfo ProjectFile="SliderSets\VanillaDigitigradeKhajiitWrapsCutMale.osp" ProjectName="VanillaDigitigradeKhajiitWrapsCutMale" ShapeName="FootPaws_Base"/>
         <DataFolder>VanillaDigitigradeKhajiitFalmerBootsMale</DataFolder>
         <SourceFile>VanillaDigitigradeKhajiitFalmerBootsMale.nif</SourceFile>
         <OutputPath>meshes\armor\digitigrade\falmer</OutputPath>
@@ -13,6 +13,9 @@
             <Data name="FootPaws_Base0 -&gt; 1" target="FootPaws_Base">VanillaDigitigradeKhajiitFeetMale.osd\FootPaws_Base0 -&gt; 1</Data>
             <Data name="Armor_Variation_010 -&gt; 1" target="Armor_Variation_01" local="true">VanillaDigitigradeKhajiitFalmerBootsMale.osd\Armor_Variation_010 -&gt; 1</Data>
             <Data name="shoes0 -&gt; 1" target="shoes">VanillaDigitigradeKhajiitWrapsCutMale.osd\shoes0 -&gt; 1</Data>
+        </Slider>
+        <Slider name="Wraps" invert="false" small="0" big="0" zap="true">
+            <Data name="shoesWraps" target="shoes">VanillaDigitigradeKhajiitWrapsCutMale.osd\shoesWraps</Data>
         </Slider>
     </SliderSet>
 </SliderSetInfo>

@@ -12,5 +12,8 @@
             <Data name="FootPaws_Base0 -&gt; 1" target="FootPaws_Base">VanillaDigitigradeKhajiitFeetFemale.osd\FootPaws_Base0 -&gt; 1</Data>
             <Data name="shoes0 -&gt; 1" target="shoes" local="true">VanillaDigitigradeKhajiitWrapsCutFemale.osd\shoes0 -&gt; 1</Data>
         </Slider>
+        <Slider name="Wraps" invert="false" small="0" big="0" zap="true">
+            <Data name="shoesWraps" target="shoes" local="true">VanillaDigitigradeKhajiitWrapsCutFemale.osd\shoesWraps</Data>
+        </Slider>
     </SliderSet>
 </SliderSetInfo>
