@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="VanillaDigitigradeKhajiitStormcloakBootsFemale">
+        <ReferenceInfo ShapeName="FootPaws_Base"/>
+        <DataFolder>VanillaDigitigradeKhajiitStormcloakBootsFemale</DataFolder>
+        <SourceFile>VanillaDigitigradeKhajiitStormcloakBootsFemale.nif</SourceFile>
+        <OutputPath>meshes\armor\digitigrade\stormcloak</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">bootsf</OutputFile>
+        <Shape target="Boots" DataFolder="VanillaDigitigradeKhajiitStormcloakBootsFemale">Boots</Shape>
+        <Shape target="FootPaws_Base">FootPaws_Base</Shape>
+        <Slider name="0 -&gt; 1" invert="false" small="0" big="100">
+            <Data name="Boots0 -&gt; 1" target="Boots">VanillaDigitigradeKhajiitStormcloakBootsFemale.osd\Boots0 -&gt; 1</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>
