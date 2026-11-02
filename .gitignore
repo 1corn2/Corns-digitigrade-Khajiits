@@ -1,3 +1,11 @@
+# Not ready to publish these yet
+OutfitStudioOutput/CalienteTools/BodySlide/Automations
+# MO2 stuff
+meta.ini
+# do not add my local dev scripts
+*sh
+# Do not publish extracted Bethesda assets
 external/
 !./external/instructs.txt
-blender/*.blend1
+# Blender backup saves, unnecessary
+*.blend1
