@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="VanillaDigitigradeKhajiitBarkeepBootsMale">
+        <ReferenceInfo ProjectFile="SliderSets\VanillaDigitigradeKhajiitFeetMale.osp" ProjectName="VanillaDigitigradeKhajiitFeetMale" ShapeName="FootPaws_Base"/>
+        <DataFolder>VanillaDigitigradeKhajiitBarkeepBootsMale</DataFolder>
+        <SourceFile>VanillaDigitigradeKhajiitBarkeepBootsMale.nif</SourceFile>
+        <OutputPath>meshes\clothes\digitigrade\barkeeper\m</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">shoes</OutputFile>
+        <Shape target="BarKeepShoe_Rig">BarKeepShoe_Rig</Shape>
+        <Shape target="FootPaws_Base" DataFolder="VanillaDigitigradeKhajiitFeetMale">FootPaws_Base</Shape>
+        <Slider name="0 -&gt; 1" invert="false" small="0" big="0">
+            <Data name="FootPaws_Base0 -&gt; 1" target="FootPaws_Base">VanillaDigitigradeKhajiitFeetMale.osd\FootPaws_Base0 -&gt; 1</Data>
+            <Data name="BarKeepShoe_Rig0 -&gt; 1" target="BarKeepShoe_Rig" local="true">VanillaDigitigradeKhajiitBarkeepBootsMale.osd\BarKeepShoe_Rig0 -&gt; 1</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>
