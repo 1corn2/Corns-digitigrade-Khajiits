@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="VanillaDigitigradeKhajiitPsijicBootsFemale">
+        <ReferenceInfo ProjectFile="SliderSets\VanillaDigitigradeKhajiitFeetFemale.osp" ProjectName="VanillaDigitigradeKhajiitFeetFemale" ShapeName="FootPaws_Base"/>
+        <DataFolder>VanillaDigitigradeKhajiitPsijicBootsFemale</DataFolder>
+        <SourceFile>VanillaDigitigradeKhajiitPsijicBootsFemale.nif</SourceFile>
+        <OutputPath>meshes\clothes\digitigrade\psijic</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">psijicbootsf</OutputFile>
+        <Shape target="PsiijicBootsFTOMORPHFROM">PsiijicBootsFTOMORPHFROM</Shape>
+    </SliderSet>
+</SliderSetInfo>
