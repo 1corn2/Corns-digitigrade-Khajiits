@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="VanillaDigitigradeKhajiitMinerBootsMale">
+        <ReferenceInfo ShapeName="FootPaws_Base"/>
+        <DataFolder>VanillaDigitigradeKhajiitMinerBootsMale</DataFolder>
+        <SourceFile>VanillaDigitigradeKhajiitMinerBootsMale.nif</SourceFile>
+        <OutputPath>meshes\clothes\digitigrade\minerclothes</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">minerboots</OutputFile>
+        <Shape target="MinerBoots">MinerBoots</Shape>
+        <Slider name="0 -&gt; 1" invert="false" small="0" big="100">
+            <Data name="MinerBoots0 -&gt; 1" target="MinerBoots" local="true">VanillaDigitigradeKhajiitMinerBootsMale.osd\MinerBoots0 -&gt; 1</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>
