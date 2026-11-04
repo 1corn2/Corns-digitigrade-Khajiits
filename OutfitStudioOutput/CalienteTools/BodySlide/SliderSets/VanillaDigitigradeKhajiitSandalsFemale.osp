@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="VanillaDigitigradeKhajiitSandalsFemale">
+        <ReferenceInfo ProjectFile="SliderSets\VanillaDigitigradeKhajiitFeetFemale.osp" ProjectName="VanillaDigitigradeKhajiitFeetFemale" ShapeName="FootPaws_Base"/>
+        <DataFolder>VanillaDigitigradeKhajiitSandalsFemale</DataFolder>
+        <SourceFile>VanillaDigitigradeKhajiitSandalsFemale.nif</SourceFile>
+        <OutputPath>meshes\clothes\digitigrade\weddingdress</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">sandalsf</OutputFile>
+        <Shape target="FootPaws_Base" DataFolder="VanillaDigitigradeKhajiitFeetFemale">FootPaws_Base</Shape>
+        <Shape target="Wedding_Dress_shoes">Wedding_Dress_shoes</Shape>
+        <Slider name="0 -&gt; 1" invert="false" small="0" big="100">
+            <Data name="FootPaws_Base0 -&gt; 1" target="FootPaws_Base">VanillaDigitigradeKhajiitFeetFemale.osd\FootPaws_Base0 -&gt; 1</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>
