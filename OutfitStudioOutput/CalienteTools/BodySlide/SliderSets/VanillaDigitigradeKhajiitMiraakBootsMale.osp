@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="VanillaDigitigradeKhajiitMiraakBootsMale">
+        <ReferenceInfo ProjectFile="SliderSets\VanillaDigitigradeKhajiitFeetMale.osp" ProjectName="VanillaDigitigradeKhajiitFeetMale" ShapeName="FootPaws_Base"/>
+        <DataFolder>VanillaDigitigradeKhajiitMiraakBootsMale</DataFolder>
+        <SourceFile>VanillaDigitigradeKhajiitMiraakBootsMale.nif</SourceFile>
+        <OutputPath>meshes\dlc02\clothes\digitigrade\miraakrobes</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">miraakbootsm</OutputFile>
+        <Shape target="MiraakBoots">MiraakBoots</Shape>
+        <Slider name="0 -&gt; 1" invert="false" small="0" big="100">
+            <Data name="MiraakBoots0 -&gt; 1" target="MiraakBoots" local="true">VanillaDigitigradeKhajiitMiraakBootsMale.osd\MiraakBoots0 -&gt; 1</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>
