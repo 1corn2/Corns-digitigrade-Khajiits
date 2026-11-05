@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="VanillaDigitigradeKhajiitBloodyWrapsMale">
+        <ReferenceInfo ShapeName="FootPaws_Base"/>
+        <DataFolder>VanillaDigitigradeKhajiitBloodyWrapsMale</DataFolder>
+        <SourceFile>VanillaDigitigradeKhajiitBloodyWrapsMale.nif</SourceFile>
+        <OutputPath>meshes\dlc01\clothes\digitigrade\prisoner</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">prisonershoesbloody</OutputFile>
+        <Shape target="FootPaws_Base" DataFolder="VanillaDigitigradeKhajiitFeetMale">FootPaws_Base</Shape>
+        <Shape target="shoes">shoes</Shape>
+        <Slider name="0 -&gt; 1" invert="false" small="0" big="100">
+            <Data name="FootPaws_Base0 -&gt; 1" target="FootPaws_Base">VanillaDigitigradeKhajiitFeetMale.osd\FootPaws_Base0 -&gt; 1</Data>
+            <Data name="shoes0 -&gt; 1" target="shoes" local="true">VanillaDigitigradeKhajiitBloodyWrapsMale.osd\shoes0 -&gt; 1</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>
