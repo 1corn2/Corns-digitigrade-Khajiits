@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="VanillaDigitigradeKhajiitSkaalBootsFemale">
+        <ReferenceInfo ProjectFile="SliderSets\VanillaDigitigradeKhajiitFeetFemale.osp" ProjectName="VanillaDigitigradeKhajiitFeetFemale" ShapeName="FootPaws_Base"/>
+        <DataFolder>VanillaDigitigradeKhajiitSkaalBootsFemale</DataFolder>
+        <SourceFile>VanillaDigitigradeKhajiitSkaalBootsFemale.nif</SourceFile>
+        <OutputPath>meshes\dlc02\clothes\digitigrade\skaal\f</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">skaalboots</OutputFile>
+        <Shape target="SkaalBoots_female">SkaalBoots_female</Shape>
+        <Slider name="0 -&gt; 1" invert="false" small="0" big="100">
+            <Data name="SkaalBoots_female0 -&gt; 1" target="SkaalBoots_female" local="true">VanillaDigitigradeKhajiitSkaalBootsFemale.osd\SkaalBoots_female0 -&gt; 1</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>
