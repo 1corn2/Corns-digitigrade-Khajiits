@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="VanillaDigitigradeKhajiitVamp02BootsMale">
+        <ReferenceInfo ProjectFile="SliderSets\VanillaDigitigradeKhajiitFeetMale.osp" ProjectName="VanillaDigitigradeKhajiitFeetMale" ShapeName="FootPaws_Base"/>
+        <DataFolder>VanillaDigitigradeKhajiitVamp02BootsMale</DataFolder>
+        <SourceFile>VanillaDigitigradeKhajiitVamp02BootsMale.nif</SourceFile>
+        <OutputPath>meshes\dlc01\clothes\digitigrade\vampire</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">vampirebootsm</OutputFile>
+        <Shape target="boots">boots</Shape>
+        <Slider name="0 -&gt; 1" invert="false" small="0" big="100">
+            <Data name="boots0 -&gt; 1" target="boots" local="true">VanillaDigitigradeKhajiitVamp02BootsMale.osd\boots0 -&gt; 1</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>
