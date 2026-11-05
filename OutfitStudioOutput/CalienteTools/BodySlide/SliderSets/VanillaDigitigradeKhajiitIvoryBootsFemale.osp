@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="VanillaDigitigradeKhajiitIvoryBootsFemale">
+        <ReferenceInfo ShapeName="FootPaws_Base"/>
+        <DataFolder>VanillaDigitigradeKhajiitIvoryBootsFemale</DataFolder>
+        <SourceFile>VanillaDigitigradeKhajiitIvoryBootsFemale.nif</SourceFile>
+        <OutputPath>meshes\dlc01\armor\digitigrade\ivory\f</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">boots</OutputFile>
+        <Shape target="BootsIvory_1">BootsIvory_1</Shape>
+        <Shape target="FootPaws_Base" DataFolder="VanillaDigitigradeKhajiitFeetFemale">FootPaws_Base</Shape>
+        <Shape target="shoes" DataFolder="VanillaDigitigradeKhajiitWrapsCutFemale">shoes</Shape>
+        <Slider name="0 -&gt; 1" invert="false" small="0" big="100">
+            <Data name="FootPaws_Base0 -&gt; 1" target="FootPaws_Base">VanillaDigitigradeKhajiitFeetFemale.osd\FootPaws_Base0 -&gt; 1</Data>
+            <Data name="BootsIvory_10 -&gt; 1" target="BootsIvory_1" local="true">VanillaDigitigradeKhajiitIvoryBootsFemale.osd\BootsIvory_10 -&gt; 1</Data>
+            <Data name="shoes0 -&gt; 1" target="shoes">VanillaDigitigradeKhajiitWrapsCutFemale.osd\shoes0 -&gt; 1</Data>
+        </Slider>
+        <Slider name="Wraps" invert="false" small="0" big="0" zap="true">
+            <Data name="shoesWraps" target="shoes">VanillaDigitigradeKhajiitWrapsCutFemale.osd\shoesWraps</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>
