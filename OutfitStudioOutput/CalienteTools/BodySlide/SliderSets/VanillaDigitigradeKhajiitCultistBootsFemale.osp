@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="VanillaDigitigradeKhajiitCultistBootsFemale">
+        <ReferenceInfo ProjectFile="SliderSets\VanillaDigitigradeKhajiitFeetFemale.osp" ProjectName="VanillaDigitigradeKhajiitFeetFemale" ShapeName="FootPaws_Base"/>
+        <DataFolder>VanillaDigitigradeKhajiitCultistBootsFemale</DataFolder>
+        <SourceFile>VanillaDigitigradeKhajiitCultistBootsFemale.nif</SourceFile>
+        <OutputPath>meshes\dlc02\clothes\digitigrade\cultist\f</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">cultistboots</OutputFile>
+        <Shape target="Cultist_Boots">Cultist_Boots</Shape>
+        <Slider name="0 -&gt; 1" invert="false" small="0" big="100">
+            <Data name="Cultist_Boots0 -&gt; 1" target="Cultist_Boots" local="true">VanillaDigitigradeKhajiitCultistBootsFemale.osd\Cultist_Boots0 -&gt; 1</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>
