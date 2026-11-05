@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="VanillaDigitigradeKhajiitStalhrimHeavyBootsFemale">
+        <ReferenceInfo ShapeName="FootPaws_Base"/>
+        <DataFolder>VanillaDigitigradeKhajiitStalhrimHeavyBootsFemale</DataFolder>
+        <SourceFile>VanillaDigitigradeKhajiitStalhrimHeavyBootsFemale.nif</SourceFile>
+        <OutputPath>meshes\dlc02\armor\digitigrade\stalhrimheavy\f</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">boots</OutputFile>
+        <Shape target="FootPaws_Base" DataFolder="VanillaDigitigradeKhajiitFeetFemale">FootPaws_Base</Shape>
+        <Shape target="StahlrimBoots_1">StahlrimBoots_1</Shape>
+        <Shape target="shoes" DataFolder="VanillaDigitigradeKhajiitWrapsCutFemale">shoes</Shape>
+        <Slider name="0 -&gt; 1" invert="false" small="0" big="100">
+            <Data name="FootPaws_Base0 -&gt; 1" target="FootPaws_Base">VanillaDigitigradeKhajiitFeetFemale.osd\FootPaws_Base0 -&gt; 1</Data>
+            <Data name="StahlrimBoots_10 -&gt; 1" target="StahlrimBoots_1" local="true">VanillaDigitigradeKhajiitStalhrimHeavyBootsFemale.osd\StahlrimBoots_10 -&gt; 1</Data>
+            <Data name="shoes0 -&gt; 1" target="shoes">VanillaDigitigradeKhajiitWrapsCutFemale.osd\shoes0 -&gt; 1</Data>
+        </Slider>
+        <Slider name="Wraps" invert="false" small="0" big="0" zap="true">
+            <Data name="shoesWraps" target="shoes">VanillaDigitigradeKhajiitWrapsCutFemale.osd\shoesWraps</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>
