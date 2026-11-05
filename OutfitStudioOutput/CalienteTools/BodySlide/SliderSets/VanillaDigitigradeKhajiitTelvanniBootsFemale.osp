@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="VanillaDigitigradeKhajiitTelvanniBootsFemale">
+        <ReferenceInfo ShapeName="FootPaws_Base"/>
+        <DataFolder>VanillaDigitigradeKhajiitTelvanniBootsFemale</DataFolder>
+        <SourceFile>VanillaDigitigradeKhajiitTelvanniBootsFemale.nif</SourceFile>
+        <OutputPath>meshes\dlc02\clothes\digitigrade\telvanni</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">bootsf</OutputFile>
+        <Shape target="TelvanniBoots_toFemale">TelvanniBoots_toFemale</Shape>
+    </SliderSet>
+</SliderSetInfo>
