@@ -4,8 +4,12 @@ OutfitStudioOutput/CalienteTools/BodySlide/Automations
 meta.ini
 # do not add my local dev scripts
 *sh
+!package_mod.sh
 # Do not publish extracted Bethesda assets
 external/
 !./external/instructs.txt
 # Blender backup saves, unnecessary
 *.blend1
+# Mod export output
+OS-export
+output
