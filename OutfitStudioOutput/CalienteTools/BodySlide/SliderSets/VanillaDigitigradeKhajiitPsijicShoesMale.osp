@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="VanillaDigitigradeKhajiitPsijicShoesMale">
+        <ReferenceInfo ProjectFile="SliderSets\VanillaDigitigradeKhajiitFeetMale.osp" ProjectName="VanillaDigitigradeKhajiitFeetMale" ShapeName="FootPaws_Base"/>
+        <DataFolder>VanillaDigitigradeKhajiitPsijicShoesMale</DataFolder>
+        <SourceFile>VanillaDigitigradeKhajiitPsijicShoesMale.nif</SourceFile>
+        <OutputPath>meshes\clothes\digitigrade\psijic</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">psijicbootsm</OutputFile>
+        <Shape target="PsiijicBoots">PsiijicBoots</Shape>
+        <Slider name="0 -&gt; 1" invert="false" small="0" big="100">
+            <Data name="PsiijicBoots0 -&gt; 1" target="PsiijicBoots" local="true">VanillaDigitigradeKhajiitPsijicShoesMale.osd\PsiijicBoots0 -&gt; 1</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

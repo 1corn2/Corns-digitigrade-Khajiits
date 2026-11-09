@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="VanillaDigitigradeKhajiitDBHoodShoesFemale">
+        <ReferenceInfo ShapeName="FootPaws_Base"/>
+        <DataFolder>VanillaDigitigradeKhajiitDBHoodShoesFemale</DataFolder>
+        <SourceFile>VanillaDigitigradeKhajiitDBHoodShoesFemale.nif</SourceFile>
+        <OutputPath>meshes\clothes\digitigrade\robedarkbrotherhood\female</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">dbboots</OutputFile>
+        <Shape target="DBboots">DBboots</Shape>
+        <Shape target="FootPaws_Base" DataFolder="VanillaDigitigradeKhajiitFeetFemale">FootPaws_Base</Shape>
+        <Slider name="0 -&gt; 1" invert="false" small="0" big="100">
+            <Data name="FootPaws_Base0 -&gt; 1" target="FootPaws_Base">VanillaDigitigradeKhajiitFeetFemale.osd\FootPaws_Base0 -&gt; 1</Data>
+            <Data name="DBboots0 -&gt; 1" target="DBboots" local="true">VanillaDigitigradeKhajiitDBHoodShoesFemale.osd\DBboots0 -&gt; 1</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

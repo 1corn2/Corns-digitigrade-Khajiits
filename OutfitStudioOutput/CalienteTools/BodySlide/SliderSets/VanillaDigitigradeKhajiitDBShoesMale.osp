@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="VanillaDigitigradeKhajiitDBShoesMale">
+        <ReferenceInfo ProjectFile="SliderSets\VanillaDigitigradeKhajiitWrapsCutMale.osp" ProjectName="VanillaDigitigradeKhajiitWrapsCutMale" ShapeName="FootPaws_Base"/>
+        <DataFolder>VanillaDigitigradeKhajiitDBShoesMale</DataFolder>
+        <SourceFile>VanillaDigitigradeKhajiitDBShoesMale.nif</SourceFile>
+        <OutputPath>meshes\armor\digitigrade\dbarmor</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">dbarmorboots</OutputFile>
+        <Shape target="DBBoots">DBBoots</Shape>
+        <Slider name="0 -&gt; 1" invert="false" small="0" big="100">
+            <Data name="DBBoots0 -&gt; 1" target="DBBoots" local="true">VanillaDigitigradeKhajiitDBShoesMale.osd\DBBoots0 -&gt; 1</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>
