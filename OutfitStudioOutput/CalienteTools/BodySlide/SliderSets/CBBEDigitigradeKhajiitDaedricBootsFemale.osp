@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="CBBEDigitigradeKhajiitDaedricBootsFemale">
+        <ReferenceInfo ProjectFile="SliderSets\CBBEDigitigradeKhajiitWrapsCutFemale.osp" ProjectName="CBBEDigitigradeKhajiitWrapsCutFemale" ShapeName="FootPaws_Base"/>
+        <DataFolder>CBBEDigitigradeKhajiitDaedricBootsFemale</DataFolder>
+        <SourceFile>CBBEDigitigradeKhajiitDaedricBootsFemale.nif</SourceFile>
+        <OutputPath>meshes\armor\digitigrade\daedric</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">daedricbootsf</OutputFile>
+        <Shape target="BootsLowFemale">BootsLowFemale</Shape>
+        <Shape target="FootPaws_Base" DataFolder="VanillaDigitigradeKhajiitFeetFemale;CBBEDigitigradeKhajiitFeetFemale">FootPaws_Base</Shape>
+        <Shape target="shoes" DataFolder="VanillaDigitigradeKhajiitWrapsCutFemale;CBBEDigitigradeKhajiitWrapsCutFemale">shoes</Shape>
+        <Slider name="Wraps" invert="false" small="0" big="0" zap="true">
+            <Data name="shoesWraps" target="shoes">CBBEDigitigradeKhajiitWrapsCutFemale.osd\shoesWraps</Data>
+        </Slider>
+        <Slider name="AnkleSize" invert="false" small="100" big="0">
+            <Data name="FootPaws_BaseAnkleSize" target="FootPaws_Base">CBBEDigitigradeKhajiitFeetFemale.osd\FootPaws_BaseAnkleSize</Data>
+            <Data name="BootsLowFemaleAnkleSize" target="BootsLowFemale" local="true">CBBEDigitigradeKhajiitDaedricBootsFemale.osd\BootsLowFemaleAnkleSize</Data>
+            <Data name="shoesAnkleSize" target="shoes">CBBEDigitigradeKhajiitWrapsCutFemale.osd\shoesAnkleSize</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="false" small="0" big="0">
+            <Data name="BootsLowFemaleButtSmall" target="BootsLowFemale" local="true">CBBEDigitigradeKhajiitDaedricBootsFemale.osd\BootsLowFemaleButtSmall</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="BootsLowFemaleCalfSize" target="BootsLowFemale" local="true">CBBEDigitigradeKhajiitDaedricBootsFemale.osd\BootsLowFemaleCalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="BootsLowFemaleCalfSmooth" target="BootsLowFemale" local="true">CBBEDigitigradeKhajiitDaedricBootsFemale.osd\BootsLowFemaleCalfSmooth</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="BootsLowFemaleChubbyLegs" target="BootsLowFemale" local="true">CBBEDigitigradeKhajiitDaedricBootsFemale.osd\BootsLowFemaleChubbyLegs</Data>
+        </Slider>
+        <Slider name="HipForward" invert="false" small="0" big="0">
+            <Data name="BootsLowFemaleHipForward" target="BootsLowFemale" local="true">CBBEDigitigradeKhajiitDaedricBootsFemale.osd\BootsLowFemaleHipForward</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="BootsLowFemaleKneeHeight" target="BootsLowFemale" local="true">CBBEDigitigradeKhajiitDaedricBootsFemale.osd\BootsLowFemaleKneeHeight</Data>
+        </Slider>
+        <Slider name="KneeShape" invert="false" small="0" big="0">
+            <Data name="BootsLowFemaleKneeShape" target="BootsLowFemale" local="true">CBBEDigitigradeKhajiitDaedricBootsFemale.osd\BootsLowFemaleKneeShape</Data>
+        </Slider>
+        <Slider name="LegShapeClassic" invert="false" small="0" big="0">
+            <Data name="BootsLowFemaleLegShapeClassic" target="BootsLowFemale" local="true">CBBEDigitigradeKhajiitDaedricBootsFemale.osd\BootsLowFemaleLegShapeClassic</Data>
+        </Slider>
+        <Slider name="LegsThin" invert="false" small="0" big="0">
+            <Data name="BootsLowFemaleLegsThin" target="BootsLowFemale" local="true">CBBEDigitigradeKhajiitDaedricBootsFemale.osd\BootsLowFemaleLegsThin</Data>
+        </Slider>
+        <Slider name="MuscleLegs" invert="false" small="0" big="0">
+            <Data name="BootsLowFemaleMuscleLegs" target="BootsLowFemale" local="true">CBBEDigitigradeKhajiitDaedricBootsFemale.osd\BootsLowFemaleMuscleLegs</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="BootsLowFemaleSlimThighs" target="BootsLowFemale" local="true">CBBEDigitigradeKhajiitDaedricBootsFemale.osd\BootsLowFemaleSlimThighs</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="BootsLowFemaleThighs" target="BootsLowFemale" local="true">CBBEDigitigradeKhajiitDaedricBootsFemale.osd\BootsLowFemaleThighs</Data>
+        </Slider>
+        <Slider name="7B Lower" invert="false" small="0" big="0">
+            <Data name="BootsLowFemale7B Lower" target="BootsLowFemale" local="true">CBBEDigitigradeKhajiitDaedricBootsFemale.osd\BootsLowFemale7B Lower</Data>
+        </Slider>
+        <Slider name="VanillaSSEHi" invert="false" small="0" big="0">
+            <Data name="BootsLowFemaleVanillaSSEHi" target="BootsLowFemale" local="true">CBBEDigitigradeKhajiitDaedricBootsFemale.osd\BootsLowFemaleVanillaSSEHi</Data>
+        </Slider>
+        <Slider name="VanillaSSELo" invert="false" small="0" big="0">
+            <Data name="BootsLowFemaleVanillaSSELo" target="BootsLowFemale" local="true">CBBEDigitigradeKhajiitDaedricBootsFemale.osd\BootsLowFemaleVanillaSSELo</Data>
+        </Slider>
+        <Slider name="OldBaseShape" invert="false" small="0" big="0">
+            <Data name="BootsLowFemaleOldBaseShape" target="BootsLowFemale" local="true">CBBEDigitigradeKhajiitDaedricBootsFemale.osd\BootsLowFemaleOldBaseShape</Data>
+        </Slider>
+        <Slider name="7BLeg_v2" invert="false" small="0" big="0">
+            <Data name="BootsLowFemale7BLeg_v2" target="BootsLowFemale" local="true">CBBEDigitigradeKhajiitDaedricBootsFemale.osd\BootsLowFemale7BLeg_v2</Data>
+        </Slider>
+        <Slider name="CalfFBThicc_v2" invert="false" small="0" big="0">
+            <Data name="BootsLowFemaleCalfFBThicc_v2" target="BootsLowFemale" local="true">CBBEDigitigradeKhajiitDaedricBootsFemale.osd\BootsLowFemaleCalfFBThicc_v2</Data>
+        </Slider>
+        <Slider name="KneeTogether_v2" invert="false" small="0" big="0">
+            <Data name="BootsLowFemaleKneeTogether_v2" target="BootsLowFemale" local="true">CBBEDigitigradeKhajiitDaedricBootsFemale.osd\BootsLowFemaleKneeTogether_v2</Data>
+        </Slider>
+        <Slider name="LegSpread_v2" invert="false" small="0" big="0">
+            <Data name="BootsLowFemaleLegSpread_v2" target="BootsLowFemale" local="true">CBBEDigitigradeKhajiitDaedricBootsFemale.osd\BootsLowFemaleLegSpread_v2</Data>
+        </Slider>
+        <Slider name="MuscleMoreLegs_v2" invert="false" small="0" big="0">
+            <Data name="BootsLowFemaleMuscleMoreLegs_v2" target="BootsLowFemale" local="true">CBBEDigitigradeKhajiitDaedricBootsFemale.osd\BootsLowFemaleMuscleMoreLegs_v2</Data>
+        </Slider>
+        <Slider name="FeetFeminine" invert="false" small="0" big="0">
+            <Data name="FootPaws_BaseFeetFeminine" target="FootPaws_Base">CBBEDigitigradeKhajiitFeetFemale.osd\FootPaws_BaseFeetFeminine</Data>
+            <Data name="shoesFeetFeminine" target="shoes">CBBEDigitigradeKhajiitWrapsCutFemale.osd\shoesFeetFeminine</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

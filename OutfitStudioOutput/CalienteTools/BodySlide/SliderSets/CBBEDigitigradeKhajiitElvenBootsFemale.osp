@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="CBBEDigitigradeKhajiitElvenBootsFemale">
+        <ReferenceInfo ProjectFile="SliderSets\CBBEDigitigradeKhajiitWrapsCutFemale.osp" ProjectName="CBBEDigitigradeKhajiitWrapsCutFemale" ShapeName="FootPaws_Base"/>
+        <DataFolder>CBBEDigitigradeKhajiitElvenBootsFemale</DataFolder>
+        <SourceFile>CBBEDigitigradeKhajiitElvenBootsFemale.nif</SourceFile>
+        <OutputPath>meshes\armor\digitigrade\elven\f</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">boots</OutputFile>
+        <Shape target="ElvenBoots">ElvenBoots</Shape>
+        <Shape target="FootPaws_Base" DataFolder="VanillaDigitigradeKhajiitFeetFemale;CBBEDigitigradeKhajiitFeetFemale">FootPaws_Base</Shape>
+        <Shape target="shoes" DataFolder="VanillaDigitigradeKhajiitWrapsCutFemale;CBBEDigitigradeKhajiitWrapsCutFemale">shoes</Shape>
+        <Slider name="Wraps" invert="false" small="0" big="0" zap="true">
+            <Data name="shoesWraps" target="shoes">CBBEDigitigradeKhajiitWrapsCutFemale.osd\shoesWraps</Data>
+        </Slider>
+        <Slider name="AnkleSize" invert="false" small="100" big="0">
+            <Data name="FootPaws_BaseAnkleSize" target="FootPaws_Base">CBBEDigitigradeKhajiitFeetFemale.osd\FootPaws_BaseAnkleSize</Data>
+            <Data name="ElvenBootsAnkleSize" target="ElvenBoots" local="true">CBBEDigitigradeKhajiitElvenBootsFemale.osd\ElvenBootsAnkleSize</Data>
+            <Data name="shoesAnkleSize" target="shoes">CBBEDigitigradeKhajiitWrapsCutFemale.osd\shoesAnkleSize</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="false" small="0" big="0">
+            <Data name="ElvenBootsButtSmall" target="ElvenBoots" local="true">CBBEDigitigradeKhajiitElvenBootsFemale.osd\ElvenBootsButtSmall</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="ElvenBootsCalfSize" target="ElvenBoots" local="true">CBBEDigitigradeKhajiitElvenBootsFemale.osd\ElvenBootsCalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="ElvenBootsCalfSmooth" target="ElvenBoots" local="true">CBBEDigitigradeKhajiitElvenBootsFemale.osd\ElvenBootsCalfSmooth</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="ElvenBootsChubbyLegs" target="ElvenBoots" local="true">CBBEDigitigradeKhajiitElvenBootsFemale.osd\ElvenBootsChubbyLegs</Data>
+        </Slider>
+        <Slider name="HipForward" invert="false" small="0" big="0">
+            <Data name="ElvenBootsHipForward" target="ElvenBoots" local="true">CBBEDigitigradeKhajiitElvenBootsFemale.osd\ElvenBootsHipForward</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="ElvenBootsKneeHeight" target="ElvenBoots" local="true">CBBEDigitigradeKhajiitElvenBootsFemale.osd\ElvenBootsKneeHeight</Data>
+        </Slider>
+        <Slider name="KneeShape" invert="false" small="0" big="0">
+            <Data name="ElvenBootsKneeShape" target="ElvenBoots" local="true">CBBEDigitigradeKhajiitElvenBootsFemale.osd\ElvenBootsKneeShape</Data>
+        </Slider>
+        <Slider name="LegShapeClassic" invert="false" small="0" big="0">
+            <Data name="ElvenBootsLegShapeClassic" target="ElvenBoots" local="true">CBBEDigitigradeKhajiitElvenBootsFemale.osd\ElvenBootsLegShapeClassic</Data>
+        </Slider>
+        <Slider name="LegsThin" invert="false" small="0" big="0">
+            <Data name="ElvenBootsLegsThin" target="ElvenBoots" local="true">CBBEDigitigradeKhajiitElvenBootsFemale.osd\ElvenBootsLegsThin</Data>
+        </Slider>
+        <Slider name="MuscleLegs" invert="false" small="0" big="0">
+            <Data name="ElvenBootsMuscleLegs" target="ElvenBoots" local="true">CBBEDigitigradeKhajiitElvenBootsFemale.osd\ElvenBootsMuscleLegs</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="ElvenBootsSlimThighs" target="ElvenBoots" local="true">CBBEDigitigradeKhajiitElvenBootsFemale.osd\ElvenBootsSlimThighs</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="ElvenBootsThighs" target="ElvenBoots" local="true">CBBEDigitigradeKhajiitElvenBootsFemale.osd\ElvenBootsThighs</Data>
+        </Slider>
+        <Slider name="7B Lower" invert="false" small="0" big="0">
+            <Data name="ElvenBoots7B Lower" target="ElvenBoots" local="true">CBBEDigitigradeKhajiitElvenBootsFemale.osd\ElvenBoots7B Lower</Data>
+        </Slider>
+        <Slider name="VanillaSSEHi" invert="false" small="0" big="0">
+            <Data name="ElvenBootsVanillaSSEHi" target="ElvenBoots" local="true">CBBEDigitigradeKhajiitElvenBootsFemale.osd\ElvenBootsVanillaSSEHi</Data>
+        </Slider>
+        <Slider name="VanillaSSELo" invert="false" small="0" big="0">
+            <Data name="ElvenBootsVanillaSSELo" target="ElvenBoots" local="true">CBBEDigitigradeKhajiitElvenBootsFemale.osd\ElvenBootsVanillaSSELo</Data>
+        </Slider>
+        <Slider name="OldBaseShape" invert="false" small="0" big="0">
+            <Data name="ElvenBootsOldBaseShape" target="ElvenBoots" local="true">CBBEDigitigradeKhajiitElvenBootsFemale.osd\ElvenBootsOldBaseShape</Data>
+        </Slider>
+        <Slider name="7BLeg_v2" invert="false" small="0" big="0">
+            <Data name="ElvenBoots7BLeg_v2" target="ElvenBoots" local="true">CBBEDigitigradeKhajiitElvenBootsFemale.osd\ElvenBoots7BLeg_v2</Data>
+        </Slider>
+        <Slider name="CalfFBThicc_v2" invert="false" small="0" big="0">
+            <Data name="ElvenBootsCalfFBThicc_v2" target="ElvenBoots" local="true">CBBEDigitigradeKhajiitElvenBootsFemale.osd\ElvenBootsCalfFBThicc_v2</Data>
+        </Slider>
+        <Slider name="KneeTogether_v2" invert="false" small="0" big="0">
+            <Data name="ElvenBootsKneeTogether_v2" target="ElvenBoots" local="true">CBBEDigitigradeKhajiitElvenBootsFemale.osd\ElvenBootsKneeTogether_v2</Data>
+        </Slider>
+        <Slider name="LegSpread_v2" invert="false" small="0" big="0">
+            <Data name="ElvenBootsLegSpread_v2" target="ElvenBoots" local="true">CBBEDigitigradeKhajiitElvenBootsFemale.osd\ElvenBootsLegSpread_v2</Data>
+        </Slider>
+        <Slider name="MuscleMoreLegs_v2" invert="false" small="0" big="0">
+            <Data name="ElvenBootsMuscleMoreLegs_v2" target="ElvenBoots" local="true">CBBEDigitigradeKhajiitElvenBootsFemale.osd\ElvenBootsMuscleMoreLegs_v2</Data>
+        </Slider>
+        <Slider name="FeetFeminine" invert="false" small="0" big="0">
+            <Data name="FootPaws_BaseFeetFeminine" target="FootPaws_Base">CBBEDigitigradeKhajiitFeetFemale.osd\FootPaws_BaseFeetFeminine</Data>
+            <Data name="shoesFeetFeminine" target="shoes">CBBEDigitigradeKhajiitWrapsCutFemale.osd\shoesFeetFeminine</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

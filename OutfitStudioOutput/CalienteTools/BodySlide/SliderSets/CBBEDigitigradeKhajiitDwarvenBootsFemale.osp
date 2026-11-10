@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="CBBEDigitigradeKhajiitDwarvenBootsFemale">
+        <ReferenceInfo ProjectFile="SliderSets\CBBEDigitigradeKhajiitWrapsCutFemale.osp" ProjectName="CBBEDigitigradeKhajiitWrapsCutFemale" ShapeName="FootPaws_Base"/>
+        <DataFolder>CBBEDigitigradeKhajiitDwarvenBootsFemale</DataFolder>
+        <SourceFile>CBBEDigitigradeKhajiitDwarvenBootsFemale.nif</SourceFile>
+        <OutputPath>meshes\armor\digitigrade\dwarven</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">dwarvenbootsf</OutputFile>
+        <Shape target="DwarvenBootsF">DwarvenBootsF</Shape>
+        <Shape target="FootPaws_Base" DataFolder="VanillaDigitigradeKhajiitFeetFemale;CBBEDigitigradeKhajiitFeetFemale">FootPaws_Base</Shape>
+        <Shape target="shoes" DataFolder="VanillaDigitigradeKhajiitWrapsCutFemale;CBBEDigitigradeKhajiitWrapsCutFemale">shoes</Shape>
+        <Slider name="Wraps" invert="false" small="0" big="0" zap="true">
+            <Data name="shoesWraps" target="shoes">CBBEDigitigradeKhajiitWrapsCutFemale.osd\shoesWraps</Data>
+        </Slider>
+        <Slider name="AnkleSize" invert="false" small="100" big="0">
+            <Data name="FootPaws_BaseAnkleSize" target="FootPaws_Base">CBBEDigitigradeKhajiitFeetFemale.osd\FootPaws_BaseAnkleSize</Data>
+            <Data name="DwarvenBootsFAnkleSize" target="DwarvenBootsF" local="true">CBBEDigitigradeKhajiitDwarvenBootsFemale.osd\DwarvenBootsFAnkleSize</Data>
+            <Data name="shoesAnkleSize" target="shoes">CBBEDigitigradeKhajiitWrapsCutFemale.osd\shoesAnkleSize</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="false" small="0" big="0">
+            <Data name="DwarvenBootsFButtSmall" target="DwarvenBootsF" local="true">CBBEDigitigradeKhajiitDwarvenBootsFemale.osd\DwarvenBootsFButtSmall</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="DwarvenBootsFCalfSize" target="DwarvenBootsF" local="true">CBBEDigitigradeKhajiitDwarvenBootsFemale.osd\DwarvenBootsFCalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="DwarvenBootsFCalfSmooth" target="DwarvenBootsF" local="true">CBBEDigitigradeKhajiitDwarvenBootsFemale.osd\DwarvenBootsFCalfSmooth</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="DwarvenBootsFChubbyLegs" target="DwarvenBootsF" local="true">CBBEDigitigradeKhajiitDwarvenBootsFemale.osd\DwarvenBootsFChubbyLegs</Data>
+        </Slider>
+        <Slider name="HipForward" invert="false" small="0" big="0">
+            <Data name="DwarvenBootsFHipForward" target="DwarvenBootsF" local="true">CBBEDigitigradeKhajiitDwarvenBootsFemale.osd\DwarvenBootsFHipForward</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="DwarvenBootsFKneeHeight" target="DwarvenBootsF" local="true">CBBEDigitigradeKhajiitDwarvenBootsFemale.osd\DwarvenBootsFKneeHeight</Data>
+        </Slider>
+        <Slider name="KneeShape" invert="false" small="0" big="0">
+            <Data name="DwarvenBootsFKneeShape" target="DwarvenBootsF" local="true">CBBEDigitigradeKhajiitDwarvenBootsFemale.osd\DwarvenBootsFKneeShape</Data>
+        </Slider>
+        <Slider name="LegShapeClassic" invert="false" small="0" big="0">
+            <Data name="DwarvenBootsFLegShapeClassic" target="DwarvenBootsF" local="true">CBBEDigitigradeKhajiitDwarvenBootsFemale.osd\DwarvenBootsFLegShapeClassic</Data>
+        </Slider>
+        <Slider name="LegsThin" invert="false" small="0" big="0">
+            <Data name="DwarvenBootsFLegsThin" target="DwarvenBootsF" local="true">CBBEDigitigradeKhajiitDwarvenBootsFemale.osd\DwarvenBootsFLegsThin</Data>
+        </Slider>
+        <Slider name="MuscleLegs" invert="false" small="0" big="0">
+            <Data name="DwarvenBootsFMuscleLegs" target="DwarvenBootsF" local="true">CBBEDigitigradeKhajiitDwarvenBootsFemale.osd\DwarvenBootsFMuscleLegs</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="DwarvenBootsFSlimThighs" target="DwarvenBootsF" local="true">CBBEDigitigradeKhajiitDwarvenBootsFemale.osd\DwarvenBootsFSlimThighs</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="DwarvenBootsFThighs" target="DwarvenBootsF" local="true">CBBEDigitigradeKhajiitDwarvenBootsFemale.osd\DwarvenBootsFThighs</Data>
+        </Slider>
+        <Slider name="7B Lower" invert="false" small="0" big="0">
+            <Data name="DwarvenBootsF7B Lower" target="DwarvenBootsF" local="true">CBBEDigitigradeKhajiitDwarvenBootsFemale.osd\DwarvenBootsF7B Lower</Data>
+        </Slider>
+        <Slider name="VanillaSSEHi" invert="false" small="0" big="0">
+            <Data name="DwarvenBootsFVanillaSSEHi" target="DwarvenBootsF" local="true">CBBEDigitigradeKhajiitDwarvenBootsFemale.osd\DwarvenBootsFVanillaSSEHi</Data>
+        </Slider>
+        <Slider name="VanillaSSELo" invert="false" small="0" big="0">
+            <Data name="DwarvenBootsFVanillaSSELo" target="DwarvenBootsF" local="true">CBBEDigitigradeKhajiitDwarvenBootsFemale.osd\DwarvenBootsFVanillaSSELo</Data>
+        </Slider>
+        <Slider name="OldBaseShape" invert="false" small="0" big="0">
+            <Data name="DwarvenBootsFOldBaseShape" target="DwarvenBootsF" local="true">CBBEDigitigradeKhajiitDwarvenBootsFemale.osd\DwarvenBootsFOldBaseShape</Data>
+        </Slider>
+        <Slider name="7BLeg_v2" invert="false" small="0" big="0">
+            <Data name="DwarvenBootsF7BLeg_v2" target="DwarvenBootsF" local="true">CBBEDigitigradeKhajiitDwarvenBootsFemale.osd\DwarvenBootsF7BLeg_v2</Data>
+        </Slider>
+        <Slider name="CalfFBThicc_v2" invert="false" small="0" big="0">
+            <Data name="DwarvenBootsFCalfFBThicc_v2" target="DwarvenBootsF" local="true">CBBEDigitigradeKhajiitDwarvenBootsFemale.osd\DwarvenBootsFCalfFBThicc_v2</Data>
+        </Slider>
+        <Slider name="KneeTogether_v2" invert="false" small="0" big="0">
+            <Data name="DwarvenBootsFKneeTogether_v2" target="DwarvenBootsF" local="true">CBBEDigitigradeKhajiitDwarvenBootsFemale.osd\DwarvenBootsFKneeTogether_v2</Data>
+        </Slider>
+        <Slider name="LegSpread_v2" invert="false" small="0" big="0">
+            <Data name="DwarvenBootsFLegSpread_v2" target="DwarvenBootsF" local="true">CBBEDigitigradeKhajiitDwarvenBootsFemale.osd\DwarvenBootsFLegSpread_v2</Data>
+        </Slider>
+        <Slider name="MuscleMoreLegs_v2" invert="false" small="0" big="0">
+            <Data name="DwarvenBootsFMuscleMoreLegs_v2" target="DwarvenBootsF" local="true">CBBEDigitigradeKhajiitDwarvenBootsFemale.osd\DwarvenBootsFMuscleMoreLegs_v2</Data>
+        </Slider>
+        <Slider name="FeetFeminine" invert="false" small="0" big="0">
+            <Data name="FootPaws_BaseFeetFeminine" target="FootPaws_Base">CBBEDigitigradeKhajiitFeetFemale.osd\FootPaws_BaseFeetFeminine</Data>
+            <Data name="shoesFeetFeminine" target="shoes">CBBEDigitigradeKhajiitWrapsCutFemale.osd\shoesFeetFeminine</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

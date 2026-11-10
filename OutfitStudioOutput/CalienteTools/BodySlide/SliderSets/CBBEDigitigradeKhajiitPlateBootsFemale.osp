@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="CBBEDigitigradeKhajiitPlateBootsFemale">
+        <ReferenceInfo ProjectFile="SliderSets\CBBEDigitigradeKhajiitWrapsCutFemale.osp" ProjectName="CBBEDigitigradeKhajiitWrapsCutFemale" ShapeName="FootPaws_Base"/>
+        <DataFolder>CBBEDigitigradeKhajiitPlateBootsFemale</DataFolder>
+        <SourceFile>CBBEDigitigradeKhajiitPlateBootsFemale.nif</SourceFile>
+        <OutputPath>meshes\armor\digitigrade\nordplate</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">nordbootsf</OutputFile>
+        <Shape target="FootPaws_Base" DataFolder="VanillaDigitigradeKhajiitFeetFemale;CBBEDigitigradeKhajiitFeetFemale">FootPaws_Base</Shape>
+        <Shape target="Nord_Plate_Armor_Female_boots">Nord_Plate_Armor_Female_boots</Shape>
+        <Shape target="shoes" DataFolder="VanillaDigitigradeKhajiitWrapsCutFemale;CBBEDigitigradeKhajiitWrapsCutFemale">shoes</Shape>
+        <Slider name="Wraps" invert="false" small="0" big="0" zap="true">
+            <Data name="shoesWraps" target="shoes">CBBEDigitigradeKhajiitWrapsCutFemale.osd\shoesWraps</Data>
+        </Slider>
+        <Slider name="AnkleSize" invert="false" small="100" big="0">
+            <Data name="FootPaws_BaseAnkleSize" target="FootPaws_Base">CBBEDigitigradeKhajiitFeetFemale.osd\FootPaws_BaseAnkleSize</Data>
+            <Data name="Nord_Plate_Armor_Female_bootsAnkleSize" target="Nord_Plate_Armor_Female_boots" local="true">CBBEDigitigradeKhajiitPlateBootsFemale.osd\Nord_Plate_Armor_Female_bootsAnkleSize</Data>
+            <Data name="shoesAnkleSize" target="shoes">CBBEDigitigradeKhajiitWrapsCutFemale.osd\shoesAnkleSize</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="false" small="0" big="0">
+            <Data name="Nord_Plate_Armor_Female_bootsButtSmall" target="Nord_Plate_Armor_Female_boots" local="true">CBBEDigitigradeKhajiitPlateBootsFemale.osd\Nord_Plate_Armor_Female_bootsButtSmall</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="Nord_Plate_Armor_Female_bootsCalfSize" target="Nord_Plate_Armor_Female_boots" local="true">CBBEDigitigradeKhajiitPlateBootsFemale.osd\Nord_Plate_Armor_Female_bootsCalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="Nord_Plate_Armor_Female_bootsCalfSmooth" target="Nord_Plate_Armor_Female_boots" local="true">CBBEDigitigradeKhajiitPlateBootsFemale.osd\Nord_Plate_Armor_Female_bootsCalfSmooth</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="Nord_Plate_Armor_Female_bootsChubbyLegs" target="Nord_Plate_Armor_Female_boots" local="true">CBBEDigitigradeKhajiitPlateBootsFemale.osd\Nord_Plate_Armor_Female_bootsChubbyLegs</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="Nord_Plate_Armor_Female_bootsKneeHeight" target="Nord_Plate_Armor_Female_boots" local="true">CBBEDigitigradeKhajiitPlateBootsFemale.osd\Nord_Plate_Armor_Female_bootsKneeHeight</Data>
+        </Slider>
+        <Slider name="KneeShape" invert="false" small="0" big="0">
+            <Data name="Nord_Plate_Armor_Female_bootsKneeShape" target="Nord_Plate_Armor_Female_boots" local="true">CBBEDigitigradeKhajiitPlateBootsFemale.osd\Nord_Plate_Armor_Female_bootsKneeShape</Data>
+        </Slider>
+        <Slider name="LegShapeClassic" invert="false" small="0" big="0">
+            <Data name="Nord_Plate_Armor_Female_bootsLegShapeClassic" target="Nord_Plate_Armor_Female_boots" local="true">CBBEDigitigradeKhajiitPlateBootsFemale.osd\Nord_Plate_Armor_Female_bootsLegShapeClassic</Data>
+        </Slider>
+        <Slider name="LegsThin" invert="false" small="0" big="0">
+            <Data name="Nord_Plate_Armor_Female_bootsLegsThin" target="Nord_Plate_Armor_Female_boots" local="true">CBBEDigitigradeKhajiitPlateBootsFemale.osd\Nord_Plate_Armor_Female_bootsLegsThin</Data>
+        </Slider>
+        <Slider name="MuscleLegs" invert="false" small="0" big="0">
+            <Data name="Nord_Plate_Armor_Female_bootsMuscleLegs" target="Nord_Plate_Armor_Female_boots" local="true">CBBEDigitigradeKhajiitPlateBootsFemale.osd\Nord_Plate_Armor_Female_bootsMuscleLegs</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="Nord_Plate_Armor_Female_bootsSlimThighs" target="Nord_Plate_Armor_Female_boots" local="true">CBBEDigitigradeKhajiitPlateBootsFemale.osd\Nord_Plate_Armor_Female_bootsSlimThighs</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="Nord_Plate_Armor_Female_bootsThighs" target="Nord_Plate_Armor_Female_boots" local="true">CBBEDigitigradeKhajiitPlateBootsFemale.osd\Nord_Plate_Armor_Female_bootsThighs</Data>
+        </Slider>
+        <Slider name="7B Lower" invert="false" small="0" big="0">
+            <Data name="Nord_Plate_Armor_Female_boots7B Lower" target="Nord_Plate_Armor_Female_boots" local="true">CBBEDigitigradeKhajiitPlateBootsFemale.osd\Nord_Plate_Armor_Female_boots7B Lower</Data>
+        </Slider>
+        <Slider name="VanillaSSEHi" invert="false" small="0" big="0">
+            <Data name="Nord_Plate_Armor_Female_bootsVanillaSSEHi" target="Nord_Plate_Armor_Female_boots" local="true">CBBEDigitigradeKhajiitPlateBootsFemale.osd\Nord_Plate_Armor_Female_bootsVanillaSSEHi</Data>
+        </Slider>
+        <Slider name="VanillaSSELo" invert="false" small="0" big="0">
+            <Data name="Nord_Plate_Armor_Female_bootsVanillaSSELo" target="Nord_Plate_Armor_Female_boots" local="true">CBBEDigitigradeKhajiitPlateBootsFemale.osd\Nord_Plate_Armor_Female_bootsVanillaSSELo</Data>
+        </Slider>
+        <Slider name="OldBaseShape" invert="false" small="0" big="0">
+            <Data name="Nord_Plate_Armor_Female_bootsOldBaseShape" target="Nord_Plate_Armor_Female_boots" local="true">CBBEDigitigradeKhajiitPlateBootsFemale.osd\Nord_Plate_Armor_Female_bootsOldBaseShape</Data>
+        </Slider>
+        <Slider name="7BLeg_v2" invert="false" small="0" big="0">
+            <Data name="Nord_Plate_Armor_Female_boots7BLeg_v2" target="Nord_Plate_Armor_Female_boots" local="true">CBBEDigitigradeKhajiitPlateBootsFemale.osd\Nord_Plate_Armor_Female_boots7BLeg_v2</Data>
+        </Slider>
+        <Slider name="CalfFBThicc_v2" invert="false" small="0" big="0">
+            <Data name="Nord_Plate_Armor_Female_bootsCalfFBThicc_v2" target="Nord_Plate_Armor_Female_boots" local="true">CBBEDigitigradeKhajiitPlateBootsFemale.osd\Nord_Plate_Armor_Female_bootsCalfFBThicc_v2</Data>
+        </Slider>
+        <Slider name="KneeTogether_v2" invert="false" small="0" big="0">
+            <Data name="Nord_Plate_Armor_Female_bootsKneeTogether_v2" target="Nord_Plate_Armor_Female_boots" local="true">CBBEDigitigradeKhajiitPlateBootsFemale.osd\Nord_Plate_Armor_Female_bootsKneeTogether_v2</Data>
+        </Slider>
+        <Slider name="LegSpread_v2" invert="false" small="0" big="0">
+            <Data name="Nord_Plate_Armor_Female_bootsLegSpread_v2" target="Nord_Plate_Armor_Female_boots" local="true">CBBEDigitigradeKhajiitPlateBootsFemale.osd\Nord_Plate_Armor_Female_bootsLegSpread_v2</Data>
+        </Slider>
+        <Slider name="MuscleMoreLegs_v2" invert="false" small="0" big="0">
+            <Data name="Nord_Plate_Armor_Female_bootsMuscleMoreLegs_v2" target="Nord_Plate_Armor_Female_boots" local="true">CBBEDigitigradeKhajiitPlateBootsFemale.osd\Nord_Plate_Armor_Female_bootsMuscleMoreLegs_v2</Data>
+        </Slider>
+        <Slider name="FeetFeminine" invert="false" small="0" big="0">
+            <Data name="FootPaws_BaseFeetFeminine" target="FootPaws_Base">CBBEDigitigradeKhajiitFeetFemale.osd\FootPaws_BaseFeetFeminine</Data>
+            <Data name="shoesFeetFeminine" target="shoes">CBBEDigitigradeKhajiitWrapsCutFemale.osd\shoesFeetFeminine</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

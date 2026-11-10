@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="CBBEDigitigradeKhajiitStalhrimHeavyBootsFemale">
+        <ReferenceInfo ProjectFile="SliderSets\CBBEDigitigradeKhajiitWrapsCutFemale.osp" ProjectName="CBBEDigitigradeKhajiitWrapsCutFemale" ShapeName="FootPaws_Base"/>
+        <DataFolder>CBBEDigitigradeKhajiitStalhrimHeavyBootsFemale</DataFolder>
+        <SourceFile>CBBEDigitigradeKhajiitStalhrimHeavyBootsFemale.nif</SourceFile>
+        <OutputPath>meshes\dlc02\armor\digitigrade\stalhrimheavy\f</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">boots</OutputFile>
+        <Shape target="FootPaws_Base" DataFolder="VanillaDigitigradeKhajiitFeetFemale;CBBEDigitigradeKhajiitFeetFemale">FootPaws_Base</Shape>
+        <Shape target="StahlrimBoots_1">StahlrimBoots_1</Shape>
+        <Shape target="shoes" DataFolder="VanillaDigitigradeKhajiitWrapsCutFemale;CBBEDigitigradeKhajiitWrapsCutFemale">shoes</Shape>
+        <Slider name="Wraps" invert="false" small="0" big="0" zap="true">
+            <Data name="shoesWraps" target="shoes">CBBEDigitigradeKhajiitWrapsCutFemale.osd\shoesWraps</Data>
+        </Slider>
+        <Slider name="AnkleSize" invert="false" small="100" big="0">
+            <Data name="FootPaws_BaseAnkleSize" target="FootPaws_Base">CBBEDigitigradeKhajiitFeetFemale.osd\FootPaws_BaseAnkleSize</Data>
+            <Data name="StahlrimBoots_1AnkleSize" target="StahlrimBoots_1" local="true">CBBEDigitigradeKhajiitStalhrimHeavyBootsFemale.osd\StahlrimBoots_1AnkleSize</Data>
+            <Data name="shoesAnkleSize" target="shoes">CBBEDigitigradeKhajiitWrapsCutFemale.osd\shoesAnkleSize</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="StahlrimBoots_1CalfSize" target="StahlrimBoots_1" local="true">CBBEDigitigradeKhajiitStalhrimHeavyBootsFemale.osd\StahlrimBoots_1CalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="StahlrimBoots_1CalfSmooth" target="StahlrimBoots_1" local="true">CBBEDigitigradeKhajiitStalhrimHeavyBootsFemale.osd\StahlrimBoots_1CalfSmooth</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="StahlrimBoots_1ChubbyLegs" target="StahlrimBoots_1" local="true">CBBEDigitigradeKhajiitStalhrimHeavyBootsFemale.osd\StahlrimBoots_1ChubbyLegs</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="StahlrimBoots_1KneeHeight" target="StahlrimBoots_1" local="true">CBBEDigitigradeKhajiitStalhrimHeavyBootsFemale.osd\StahlrimBoots_1KneeHeight</Data>
+        </Slider>
+        <Slider name="KneeShape" invert="false" small="0" big="0">
+            <Data name="StahlrimBoots_1KneeShape" target="StahlrimBoots_1" local="true">CBBEDigitigradeKhajiitStalhrimHeavyBootsFemale.osd\StahlrimBoots_1KneeShape</Data>
+        </Slider>
+        <Slider name="LegShapeClassic" invert="false" small="0" big="0">
+            <Data name="StahlrimBoots_1LegShapeClassic" target="StahlrimBoots_1" local="true">CBBEDigitigradeKhajiitStalhrimHeavyBootsFemale.osd\StahlrimBoots_1LegShapeClassic</Data>
+        </Slider>
+        <Slider name="LegsThin" invert="false" small="0" big="0">
+            <Data name="StahlrimBoots_1LegsThin" target="StahlrimBoots_1" local="true">CBBEDigitigradeKhajiitStalhrimHeavyBootsFemale.osd\StahlrimBoots_1LegsThin</Data>
+        </Slider>
+        <Slider name="MuscleLegs" invert="false" small="0" big="0">
+            <Data name="StahlrimBoots_1MuscleLegs" target="StahlrimBoots_1" local="true">CBBEDigitigradeKhajiitStalhrimHeavyBootsFemale.osd\StahlrimBoots_1MuscleLegs</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="StahlrimBoots_1Thighs" target="StahlrimBoots_1" local="true">CBBEDigitigradeKhajiitStalhrimHeavyBootsFemale.osd\StahlrimBoots_1Thighs</Data>
+        </Slider>
+        <Slider name="7B Lower" invert="false" small="0" big="0">
+            <Data name="StahlrimBoots_17B Lower" target="StahlrimBoots_1" local="true">CBBEDigitigradeKhajiitStalhrimHeavyBootsFemale.osd\StahlrimBoots_17B Lower</Data>
+        </Slider>
+        <Slider name="VanillaSSEHi" invert="false" small="0" big="0">
+            <Data name="StahlrimBoots_1VanillaSSEHi" target="StahlrimBoots_1" local="true">CBBEDigitigradeKhajiitStalhrimHeavyBootsFemale.osd\StahlrimBoots_1VanillaSSEHi</Data>
+        </Slider>
+        <Slider name="VanillaSSELo" invert="false" small="0" big="0">
+            <Data name="StahlrimBoots_1VanillaSSELo" target="StahlrimBoots_1" local="true">CBBEDigitigradeKhajiitStalhrimHeavyBootsFemale.osd\StahlrimBoots_1VanillaSSELo</Data>
+        </Slider>
+        <Slider name="OldBaseShape" invert="false" small="0" big="0">
+            <Data name="StahlrimBoots_1OldBaseShape" target="StahlrimBoots_1" local="true">CBBEDigitigradeKhajiitStalhrimHeavyBootsFemale.osd\StahlrimBoots_1OldBaseShape</Data>
+        </Slider>
+        <Slider name="7BLeg_v2" invert="false" small="0" big="0">
+            <Data name="StahlrimBoots_17BLeg_v2" target="StahlrimBoots_1" local="true">CBBEDigitigradeKhajiitStalhrimHeavyBootsFemale.osd\StahlrimBoots_17BLeg_v2</Data>
+        </Slider>
+        <Slider name="CalfFBThicc_v2" invert="false" small="0" big="0">
+            <Data name="StahlrimBoots_1CalfFBThicc_v2" target="StahlrimBoots_1" local="true">CBBEDigitigradeKhajiitStalhrimHeavyBootsFemale.osd\StahlrimBoots_1CalfFBThicc_v2</Data>
+        </Slider>
+        <Slider name="KneeTogether_v2" invert="false" small="0" big="0">
+            <Data name="StahlrimBoots_1KneeTogether_v2" target="StahlrimBoots_1" local="true">CBBEDigitigradeKhajiitStalhrimHeavyBootsFemale.osd\StahlrimBoots_1KneeTogether_v2</Data>
+        </Slider>
+        <Slider name="LegSpread_v2" invert="false" small="0" big="0">
+            <Data name="StahlrimBoots_1LegSpread_v2" target="StahlrimBoots_1" local="true">CBBEDigitigradeKhajiitStalhrimHeavyBootsFemale.osd\StahlrimBoots_1LegSpread_v2</Data>
+        </Slider>
+        <Slider name="MuscleMoreLegs_v2" invert="false" small="0" big="0">
+            <Data name="StahlrimBoots_1MuscleMoreLegs_v2" target="StahlrimBoots_1" local="true">CBBEDigitigradeKhajiitStalhrimHeavyBootsFemale.osd\StahlrimBoots_1MuscleMoreLegs_v2</Data>
+        </Slider>
+        <Slider name="FeetFeminine" invert="false" small="0" big="0">
+            <Data name="FootPaws_BaseFeetFeminine" target="FootPaws_Base">CBBEDigitigradeKhajiitFeetFemale.osd\FootPaws_BaseFeetFeminine</Data>
+            <Data name="shoesFeetFeminine" target="shoes">CBBEDigitigradeKhajiitWrapsCutFemale.osd\shoesFeetFeminine</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

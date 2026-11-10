@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="CBBEDigitigradeKhajiitSOTBootsFemale">
+        <ReferenceInfo ProjectFile="SliderSets\CBBEDigitigradeKhajiitWrapsCutFemale.osp" ProjectName="CBBEDigitigradeKhajiitWrapsCutFemale" ShapeName="FootPaws_Base"/>
+        <DataFolder>CBBEDigitigradeKhajiitSOTBootsFemale</DataFolder>
+        <SourceFile>CBBEDigitigradeKhajiitSOTBootsFemale.nif</SourceFile>
+        <OutputPath>meshes\armor\digitigrade\sot</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">bootsf</OutputFile>
+        <Shape target="2-Sons-of-Talos_shoes">2-Sons-of-Talos_shoes</Shape>
+        <Shape target="FootPaws_Base" DataFolder="VanillaDigitigradeKhajiitFeetFemale;CBBEDigitigradeKhajiitFeetFemale">FootPaws_Base</Shape>
+        <Shape target="shoes" DataFolder="VanillaDigitigradeKhajiitWrapsCutFemale;CBBEDigitigradeKhajiitWrapsCutFemale">shoes</Shape>
+        <Slider name="Wraps" invert="false" small="0" big="0" zap="true">
+            <Data name="shoesWraps" target="shoes">CBBEDigitigradeKhajiitWrapsCutFemale.osd\shoesWraps</Data>
+        </Slider>
+        <Slider name="AnkleSize" invert="false" small="100" big="0">
+            <Data name="FootPaws_BaseAnkleSize" target="FootPaws_Base">CBBEDigitigradeKhajiitFeetFemale.osd\FootPaws_BaseAnkleSize</Data>
+            <Data name="2-Sons-of-Talos_shoesAnkleSize" target="2-Sons-of-Talos_shoes" local="true">CBBEDigitigradeKhajiitSOTBootsFemale.osd\2-Sons-of-Talos_shoesAnkleSize</Data>
+            <Data name="shoesAnkleSize" target="shoes">CBBEDigitigradeKhajiitWrapsCutFemale.osd\shoesAnkleSize</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="2-Sons-of-Talos_shoesCalfSize" target="2-Sons-of-Talos_shoes" local="true">CBBEDigitigradeKhajiitSOTBootsFemale.osd\2-Sons-of-Talos_shoesCalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="2-Sons-of-Talos_shoesCalfSmooth" target="2-Sons-of-Talos_shoes" local="true">CBBEDigitigradeKhajiitSOTBootsFemale.osd\2-Sons-of-Talos_shoesCalfSmooth</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="2-Sons-of-Talos_shoesChubbyLegs" target="2-Sons-of-Talos_shoes" local="true">CBBEDigitigradeKhajiitSOTBootsFemale.osd\2-Sons-of-Talos_shoesChubbyLegs</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="2-Sons-of-Talos_shoesKneeHeight" target="2-Sons-of-Talos_shoes" local="true">CBBEDigitigradeKhajiitSOTBootsFemale.osd\2-Sons-of-Talos_shoesKneeHeight</Data>
+        </Slider>
+        <Slider name="KneeShape" invert="false" small="0" big="0">
+            <Data name="2-Sons-of-Talos_shoesKneeShape" target="2-Sons-of-Talos_shoes" local="true">CBBEDigitigradeKhajiitSOTBootsFemale.osd\2-Sons-of-Talos_shoesKneeShape</Data>
+        </Slider>
+        <Slider name="LegShapeClassic" invert="false" small="0" big="0">
+            <Data name="2-Sons-of-Talos_shoesLegShapeClassic" target="2-Sons-of-Talos_shoes" local="true">CBBEDigitigradeKhajiitSOTBootsFemale.osd\2-Sons-of-Talos_shoesLegShapeClassic</Data>
+        </Slider>
+        <Slider name="LegsThin" invert="false" small="0" big="0">
+            <Data name="2-Sons-of-Talos_shoesLegsThin" target="2-Sons-of-Talos_shoes" local="true">CBBEDigitigradeKhajiitSOTBootsFemale.osd\2-Sons-of-Talos_shoesLegsThin</Data>
+        </Slider>
+        <Slider name="MuscleLegs" invert="false" small="0" big="0">
+            <Data name="2-Sons-of-Talos_shoesMuscleLegs" target="2-Sons-of-Talos_shoes" local="true">CBBEDigitigradeKhajiitSOTBootsFemale.osd\2-Sons-of-Talos_shoesMuscleLegs</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="2-Sons-of-Talos_shoesThighs" target="2-Sons-of-Talos_shoes" local="true">CBBEDigitigradeKhajiitSOTBootsFemale.osd\2-Sons-of-Talos_shoesThighs</Data>
+        </Slider>
+        <Slider name="7B Lower" invert="false" small="0" big="0">
+            <Data name="2-Sons-of-Talos_shoes7B Lower" target="2-Sons-of-Talos_shoes" local="true">CBBEDigitigradeKhajiitSOTBootsFemale.osd\2-Sons-of-Talos_shoes7B Lower</Data>
+        </Slider>
+        <Slider name="VanillaSSEHi" invert="false" small="0" big="0">
+            <Data name="2-Sons-of-Talos_shoesVanillaSSEHi" target="2-Sons-of-Talos_shoes" local="true">CBBEDigitigradeKhajiitSOTBootsFemale.osd\2-Sons-of-Talos_shoesVanillaSSEHi</Data>
+        </Slider>
+        <Slider name="VanillaSSELo" invert="false" small="0" big="0">
+            <Data name="2-Sons-of-Talos_shoesVanillaSSELo" target="2-Sons-of-Talos_shoes" local="true">CBBEDigitigradeKhajiitSOTBootsFemale.osd\2-Sons-of-Talos_shoesVanillaSSELo</Data>
+        </Slider>
+        <Slider name="OldBaseShape" invert="false" small="0" big="0">
+            <Data name="2-Sons-of-Talos_shoesOldBaseShape" target="2-Sons-of-Talos_shoes" local="true">CBBEDigitigradeKhajiitSOTBootsFemale.osd\2-Sons-of-Talos_shoesOldBaseShape</Data>
+        </Slider>
+        <Slider name="7BLeg_v2" invert="false" small="0" big="0">
+            <Data name="2-Sons-of-Talos_shoes7BLeg_v2" target="2-Sons-of-Talos_shoes" local="true">CBBEDigitigradeKhajiitSOTBootsFemale.osd\2-Sons-of-Talos_shoes7BLeg_v2</Data>
+        </Slider>
+        <Slider name="CalfFBThicc_v2" invert="false" small="0" big="0">
+            <Data name="2-Sons-of-Talos_shoesCalfFBThicc_v2" target="2-Sons-of-Talos_shoes" local="true">CBBEDigitigradeKhajiitSOTBootsFemale.osd\2-Sons-of-Talos_shoesCalfFBThicc_v2</Data>
+        </Slider>
+        <Slider name="KneeTogether_v2" invert="false" small="0" big="0">
+            <Data name="2-Sons-of-Talos_shoesKneeTogether_v2" target="2-Sons-of-Talos_shoes" local="true">CBBEDigitigradeKhajiitSOTBootsFemale.osd\2-Sons-of-Talos_shoesKneeTogether_v2</Data>
+        </Slider>
+        <Slider name="LegSpread_v2" invert="false" small="0" big="0">
+            <Data name="2-Sons-of-Talos_shoesLegSpread_v2" target="2-Sons-of-Talos_shoes" local="true">CBBEDigitigradeKhajiitSOTBootsFemale.osd\2-Sons-of-Talos_shoesLegSpread_v2</Data>
+        </Slider>
+        <Slider name="MuscleMoreLegs_v2" invert="false" small="0" big="0">
+            <Data name="2-Sons-of-Talos_shoesMuscleMoreLegs_v2" target="2-Sons-of-Talos_shoes" local="true">CBBEDigitigradeKhajiitSOTBootsFemale.osd\2-Sons-of-Talos_shoesMuscleMoreLegs_v2</Data>
+        </Slider>
+        <Slider name="FeetFeminine" invert="false" small="0" big="0">
+            <Data name="FootPaws_BaseFeetFeminine" target="FootPaws_Base">CBBEDigitigradeKhajiitFeetFemale.osd\FootPaws_BaseFeetFeminine</Data>
+            <Data name="shoesFeetFeminine" target="shoes">CBBEDigitigradeKhajiitWrapsCutFemale.osd\shoesFeetFeminine</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

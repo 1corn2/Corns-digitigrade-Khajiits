@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="CBBEDigitigradeKhajiitChitinHeavyBootsFemale">
+        <ReferenceInfo ProjectFile="SliderSets\CBBEDigitigradeKhajiitWrapsCutFemale.osp" ProjectName="CBBEDigitigradeKhajiitWrapsCutFemale" ShapeName="FootPaws_Base"/>
+        <DataFolder>CBBEDigitigradeKhajiitChitinHeavyBootsFemale</DataFolder>
+        <SourceFile>CBBEDigitigradeKhajiitChitinHeavyBootsFemale.nif</SourceFile>
+        <OutputPath>meshes\dlc02\armor\digitigrade\chitinheavy\f</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">boots</OutputFile>
+        <Shape target="ChitinHeavyBootsFemale_1">ChitinHeavyBootsFemale_1</Shape>
+        <Shape target="FootPaws_Base" DataFolder="VanillaDigitigradeKhajiitFeetFemale;CBBEDigitigradeKhajiitFeetFemale">FootPaws_Base</Shape>
+        <Shape target="shoes" DataFolder="VanillaDigitigradeKhajiitWrapsCutFemale;CBBEDigitigradeKhajiitWrapsCutFemale">shoes</Shape>
+        <Slider name="Wraps" invert="false" small="0" big="0" zap="true">
+            <Data name="shoesWraps" target="shoes">CBBEDigitigradeKhajiitWrapsCutFemale.osd\shoesWraps</Data>
+        </Slider>
+        <Slider name="AnkleSize" invert="false" small="100" big="0">
+            <Data name="FootPaws_BaseAnkleSize" target="FootPaws_Base">CBBEDigitigradeKhajiitFeetFemale.osd\FootPaws_BaseAnkleSize</Data>
+            <Data name="ChitinHeavyBootsFemale_1AnkleSize" target="ChitinHeavyBootsFemale_1" local="true">CBBEDigitigradeKhajiitChitinHeavyBootsFemale.osd\ChitinHeavyBootsFemale_1AnkleSize</Data>
+            <Data name="shoesAnkleSize" target="shoes">CBBEDigitigradeKhajiitWrapsCutFemale.osd\shoesAnkleSize</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="ChitinHeavyBootsFemale_1CalfSize" target="ChitinHeavyBootsFemale_1" local="true">CBBEDigitigradeKhajiitChitinHeavyBootsFemale.osd\ChitinHeavyBootsFemale_1CalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="ChitinHeavyBootsFemale_1CalfSmooth" target="ChitinHeavyBootsFemale_1" local="true">CBBEDigitigradeKhajiitChitinHeavyBootsFemale.osd\ChitinHeavyBootsFemale_1CalfSmooth</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="ChitinHeavyBootsFemale_1ChubbyLegs" target="ChitinHeavyBootsFemale_1" local="true">CBBEDigitigradeKhajiitChitinHeavyBootsFemale.osd\ChitinHeavyBootsFemale_1ChubbyLegs</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="ChitinHeavyBootsFemale_1KneeHeight" target="ChitinHeavyBootsFemale_1" local="true">CBBEDigitigradeKhajiitChitinHeavyBootsFemale.osd\ChitinHeavyBootsFemale_1KneeHeight</Data>
+        </Slider>
+        <Slider name="KneeShape" invert="false" small="0" big="0">
+            <Data name="ChitinHeavyBootsFemale_1KneeShape" target="ChitinHeavyBootsFemale_1" local="true">CBBEDigitigradeKhajiitChitinHeavyBootsFemale.osd\ChitinHeavyBootsFemale_1KneeShape</Data>
+        </Slider>
+        <Slider name="LegShapeClassic" invert="false" small="0" big="0">
+            <Data name="ChitinHeavyBootsFemale_1LegShapeClassic" target="ChitinHeavyBootsFemale_1" local="true">CBBEDigitigradeKhajiitChitinHeavyBootsFemale.osd\ChitinHeavyBootsFemale_1LegShapeClassic</Data>
+        </Slider>
+        <Slider name="LegsThin" invert="false" small="0" big="0">
+            <Data name="ChitinHeavyBootsFemale_1LegsThin" target="ChitinHeavyBootsFemale_1" local="true">CBBEDigitigradeKhajiitChitinHeavyBootsFemale.osd\ChitinHeavyBootsFemale_1LegsThin</Data>
+        </Slider>
+        <Slider name="MuscleLegs" invert="false" small="0" big="0">
+            <Data name="ChitinHeavyBootsFemale_1MuscleLegs" target="ChitinHeavyBootsFemale_1" local="true">CBBEDigitigradeKhajiitChitinHeavyBootsFemale.osd\ChitinHeavyBootsFemale_1MuscleLegs</Data>
+        </Slider>
+        <Slider name="7B Lower" invert="false" small="0" big="0">
+            <Data name="ChitinHeavyBootsFemale_17B Lower" target="ChitinHeavyBootsFemale_1" local="true">CBBEDigitigradeKhajiitChitinHeavyBootsFemale.osd\ChitinHeavyBootsFemale_17B Lower</Data>
+        </Slider>
+        <Slider name="VanillaSSEHi" invert="false" small="0" big="0">
+            <Data name="ChitinHeavyBootsFemale_1VanillaSSEHi" target="ChitinHeavyBootsFemale_1" local="true">CBBEDigitigradeKhajiitChitinHeavyBootsFemale.osd\ChitinHeavyBootsFemale_1VanillaSSEHi</Data>
+        </Slider>
+        <Slider name="VanillaSSELo" invert="false" small="0" big="0">
+            <Data name="ChitinHeavyBootsFemale_1VanillaSSELo" target="ChitinHeavyBootsFemale_1" local="true">CBBEDigitigradeKhajiitChitinHeavyBootsFemale.osd\ChitinHeavyBootsFemale_1VanillaSSELo</Data>
+        </Slider>
+        <Slider name="OldBaseShape" invert="false" small="0" big="0">
+            <Data name="ChitinHeavyBootsFemale_1OldBaseShape" target="ChitinHeavyBootsFemale_1" local="true">CBBEDigitigradeKhajiitChitinHeavyBootsFemale.osd\ChitinHeavyBootsFemale_1OldBaseShape</Data>
+        </Slider>
+        <Slider name="7BLeg_v2" invert="false" small="0" big="0">
+            <Data name="ChitinHeavyBootsFemale_17BLeg_v2" target="ChitinHeavyBootsFemale_1" local="true">CBBEDigitigradeKhajiitChitinHeavyBootsFemale.osd\ChitinHeavyBootsFemale_17BLeg_v2</Data>
+        </Slider>
+        <Slider name="CalfFBThicc_v2" invert="false" small="0" big="0">
+            <Data name="ChitinHeavyBootsFemale_1CalfFBThicc_v2" target="ChitinHeavyBootsFemale_1" local="true">CBBEDigitigradeKhajiitChitinHeavyBootsFemale.osd\ChitinHeavyBootsFemale_1CalfFBThicc_v2</Data>
+        </Slider>
+        <Slider name="KneeTogether_v2" invert="false" small="0" big="0">
+            <Data name="ChitinHeavyBootsFemale_1KneeTogether_v2" target="ChitinHeavyBootsFemale_1" local="true">CBBEDigitigradeKhajiitChitinHeavyBootsFemale.osd\ChitinHeavyBootsFemale_1KneeTogether_v2</Data>
+        </Slider>
+        <Slider name="LegSpread_v2" invert="false" small="0" big="0">
+            <Data name="ChitinHeavyBootsFemale_1LegSpread_v2" target="ChitinHeavyBootsFemale_1" local="true">CBBEDigitigradeKhajiitChitinHeavyBootsFemale.osd\ChitinHeavyBootsFemale_1LegSpread_v2</Data>
+        </Slider>
+        <Slider name="MuscleMoreLegs_v2" invert="false" small="0" big="0">
+            <Data name="ChitinHeavyBootsFemale_1MuscleMoreLegs_v2" target="ChitinHeavyBootsFemale_1" local="true">CBBEDigitigradeKhajiitChitinHeavyBootsFemale.osd\ChitinHeavyBootsFemale_1MuscleMoreLegs_v2</Data>
+        </Slider>
+        <Slider name="FeetFeminine" invert="false" small="0" big="0">
+            <Data name="FootPaws_BaseFeetFeminine" target="FootPaws_Base">CBBEDigitigradeKhajiitFeetFemale.osd\FootPaws_BaseFeetFeminine</Data>
+            <Data name="shoesFeetFeminine" target="shoes">CBBEDigitigradeKhajiitWrapsCutFemale.osd\shoesFeetFeminine</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>
