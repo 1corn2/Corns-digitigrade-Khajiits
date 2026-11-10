@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="BHUNPDigitigradeKhajiitBarkeepShoesFemale">
+        <ReferenceInfo ProjectFile="SliderSets\BHUNPDigitigradeKhajiitWrapsCutFemale.osp" ProjectName="BHUNPDigitigradeKhajiitWrapsCutFemale" ShapeName="FootPaws_Base"/>
+        <DataFolder>BHUNPDigitigradeKhajiitBarkeepShoesFemale</DataFolder>
+        <SourceFile>BHUNPDigitigradeKhajiitBarkeepShoesFemale.nif</SourceFile>
+        <OutputPath>meshes\clothes\digitigrade\barkeeper\f</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">shoes</OutputFile>
+        <Shape target="BarkeeperShoes">BarkeeperShoes</Shape>
+        <Shape target="FootPaws_Base" DataFolder="VanillaDigitigradeKhajiitFeetFemale;BHUNPDigitigradeKhajiitFeetFemale">FootPaws_Base</Shape>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="FootPaws_Base7B Low" target="FootPaws_Base">BHUNPDigitigradeKhajiitFeetFemale.osd\FootPaws_Base7B Low</Data>
+            <Data name="BarkeeperShoes7B Low" target="BarkeeperShoes" local="true">BHUNPDigitigradeKhajiitBarkeepShoesFemale.osd\BarkeeperShoes7B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="FootPaws_Base7B High" target="FootPaws_Base">BHUNPDigitigradeKhajiitFeetFemale.osd\FootPaws_Base7B High</Data>
+            <Data name="BarkeeperShoes7B High" target="BarkeeperShoes" local="true">BHUNPDigitigradeKhajiitBarkeepShoesFemale.osd\BarkeeperShoes7B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="FootPaws_Base7B Bombshell Low" target="FootPaws_Base">BHUNPDigitigradeKhajiitFeetFemale.osd\FootPaws_Base7B Bombshell Low</Data>
+            <Data name="BarkeeperShoes7B Bombshell Low" target="BarkeeperShoes" local="true">BHUNPDigitigradeKhajiitBarkeepShoesFemale.osd\BarkeeperShoes7B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="FootPaws_Base7B Bombshell High" target="FootPaws_Base">BHUNPDigitigradeKhajiitFeetFemale.osd\FootPaws_Base7B Bombshell High</Data>
+            <Data name="BarkeeperShoes7B Bombshell High" target="BarkeeperShoes" local="true">BHUNPDigitigradeKhajiitBarkeepShoesFemale.osd\BarkeeperShoes7B Bombshell High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="FootPaws_BaseUNP Low" target="FootPaws_Base">BHUNPDigitigradeKhajiitFeetFemale.osd\FootPaws_BaseUNP Low</Data>
+            <Data name="BarkeeperShoesUNP Low" target="BarkeeperShoes" local="true">BHUNPDigitigradeKhajiitBarkeepShoesFemale.osd\BarkeeperShoesUNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="FootPaws_BaseUNP High" target="FootPaws_Base">BHUNPDigitigradeKhajiitFeetFemale.osd\FootPaws_BaseUNP High</Data>
+            <Data name="BarkeeperShoesUNP High" target="BarkeeperShoes" local="true">BHUNPDigitigradeKhajiitBarkeepShoesFemale.osd\BarkeeperShoesUNP High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="FootPaws_BaseUNPB Low" target="FootPaws_Base">BHUNPDigitigradeKhajiitFeetFemale.osd\FootPaws_BaseUNPB Low</Data>
+            <Data name="BarkeeperShoesUNPB Low" target="BarkeeperShoes" local="true">BHUNPDigitigradeKhajiitBarkeepShoesFemale.osd\BarkeeperShoesUNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="FootPaws_BaseUNPB High" target="FootPaws_Base">BHUNPDigitigradeKhajiitFeetFemale.osd\FootPaws_BaseUNPB High</Data>
+            <Data name="BarkeeperShoesUNPB High" target="BarkeeperShoes" local="true">BHUNPDigitigradeKhajiitBarkeepShoesFemale.osd\BarkeeperShoesUNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="FootPaws_BaseUNPB Oppai v3.2 Low" target="FootPaws_Base">BHUNPDigitigradeKhajiitFeetFemale.osd\FootPaws_BaseUNPB Oppai v3.2 Low</Data>
+            <Data name="BarkeeperShoesUNPB Oppai v3.2 Low" target="BarkeeperShoes" local="true">BHUNPDigitigradeKhajiitBarkeepShoesFemale.osd\BarkeeperShoesUNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="FootPaws_BaseUNPB Oppai v3.2 High" target="FootPaws_Base">BHUNPDigitigradeKhajiitFeetFemale.osd\FootPaws_BaseUNPB Oppai v3.2 High</Data>
+            <Data name="BarkeeperShoesUNPB Oppai v3.2 High" target="BarkeeperShoes" local="true">BHUNPDigitigradeKhajiitBarkeepShoesFemale.osd\BarkeeperShoesUNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="FootPaws_BaseUNPC Low" target="FootPaws_Base">BHUNPDigitigradeKhajiitFeetFemale.osd\FootPaws_BaseUNPC Low</Data>
+            <Data name="BarkeeperShoesUNPC Low" target="BarkeeperShoes" local="true">BHUNPDigitigradeKhajiitBarkeepShoesFemale.osd\BarkeeperShoesUNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="FootPaws_BaseUNPC High" target="FootPaws_Base">BHUNPDigitigradeKhajiitFeetFemale.osd\FootPaws_BaseUNPC High</Data>
+            <Data name="BarkeeperShoesUNPC High" target="BarkeeperShoes" local="true">BHUNPDigitigradeKhajiitBarkeepShoesFemale.osd\BarkeeperShoesUNPC High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="FootPaws_BaseTop Model Low" target="FootPaws_Base">BHUNPDigitigradeKhajiitFeetFemale.osd\FootPaws_BaseTop Model Low</Data>
+            <Data name="BarkeeperShoesTop Model Low" target="BarkeeperShoes" local="true">BHUNPDigitigradeKhajiitBarkeepShoesFemale.osd\BarkeeperShoesTop Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="FootPaws_BaseTop Model High" target="FootPaws_Base">BHUNPDigitigradeKhajiitFeetFemale.osd\FootPaws_BaseTop Model High</Data>
+            <Data name="BarkeeperShoesTop Model High" target="BarkeeperShoes" local="true">BHUNPDigitigradeKhajiitBarkeepShoesFemale.osd\BarkeeperShoesTop Model High</Data>
+        </Slider>
+        <Slider name="Legs" invert="true" small="100" big="100">
+            <Data name="BarkeeperShoesLegs" target="BarkeeperShoes" local="true">BHUNPDigitigradeKhajiitBarkeepShoesFemale.osd\BarkeeperShoesLegs</Data>
+        </Slider>
+        <Slider name="CBBE SE" invert="false" small="0" big="0">
+            <Data name="FootPaws_BaseCBBE SE" target="FootPaws_Base">BHUNPDigitigradeKhajiitFeetFemale.osd\FootPaws_BaseCBBE SE</Data>
+            <Data name="BarkeeperShoesCBBE SE" target="BarkeeperShoes" local="true">BHUNPDigitigradeKhajiitBarkeepShoesFemale.osd\BarkeeperShoesCBBE SE</Data>
+        </Slider>
+        <Slider name="HighHeel" invert="false" small="0" big="0">
+            <Data name="FootPaws_BaseHighHeel" target="FootPaws_Base">BHUNPDigitigradeKhajiitFeetFemale.osd\FootPaws_BaseHighHeel</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

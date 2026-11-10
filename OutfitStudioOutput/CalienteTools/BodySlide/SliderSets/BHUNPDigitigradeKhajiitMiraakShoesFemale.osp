@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="BHUNPDigitigradeKhajiitMiraakShoesFemale">
+        <ReferenceInfo ProjectFile="SliderSets\BHUNPDigitigradeKhajiitWrapsCutFemale.osp" ProjectName="BHUNPDigitigradeKhajiitWrapsCutFemale" ShapeName="FootPaws_Base"/>
+        <DataFolder>BHUNPDigitigradeKhajiitMiraakShoesFemale</DataFolder>
+        <SourceFile>BHUNPDigitigradeKhajiitMiraakShoesFemale.nif</SourceFile>
+        <OutputPath>meshes\dlc02\clothes\digitigrade\miraakrobes</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">miraakbootsf</OutputFile>
+        <Shape target="MiraakBoots">MiraakBoots</Shape>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="MiraakBoots7B Low" target="MiraakBoots" local="true">BHUNPDigitigradeKhajiitMiraakShoesFemale.osd\MiraakBoots7B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="MiraakBoots7B High" target="MiraakBoots" local="true">BHUNPDigitigradeKhajiitMiraakShoesFemale.osd\MiraakBoots7B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="MiraakBoots7B Bombshell Low" target="MiraakBoots" local="true">BHUNPDigitigradeKhajiitMiraakShoesFemale.osd\MiraakBoots7B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="MiraakBoots7B Bombshell High" target="MiraakBoots" local="true">BHUNPDigitigradeKhajiitMiraakShoesFemale.osd\MiraakBoots7B Bombshell High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="MiraakBootsUNP Low" target="MiraakBoots" local="true">BHUNPDigitigradeKhajiitMiraakShoesFemale.osd\MiraakBootsUNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="MiraakBootsUNP High" target="MiraakBoots" local="true">BHUNPDigitigradeKhajiitMiraakShoesFemale.osd\MiraakBootsUNP High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="MiraakBootsUNPB Low" target="MiraakBoots" local="true">BHUNPDigitigradeKhajiitMiraakShoesFemale.osd\MiraakBootsUNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="MiraakBootsUNPB High" target="MiraakBoots" local="true">BHUNPDigitigradeKhajiitMiraakShoesFemale.osd\MiraakBootsUNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="MiraakBootsUNPB Oppai v3.2 Low" target="MiraakBoots" local="true">BHUNPDigitigradeKhajiitMiraakShoesFemale.osd\MiraakBootsUNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="MiraakBootsUNPB Oppai v3.2 High" target="MiraakBoots" local="true">BHUNPDigitigradeKhajiitMiraakShoesFemale.osd\MiraakBootsUNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="MiraakBootsUNPC Low" target="MiraakBoots" local="true">BHUNPDigitigradeKhajiitMiraakShoesFemale.osd\MiraakBootsUNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="MiraakBootsUNPC High" target="MiraakBoots" local="true">BHUNPDigitigradeKhajiitMiraakShoesFemale.osd\MiraakBootsUNPC High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="MiraakBootsTop Model Low" target="MiraakBoots" local="true">BHUNPDigitigradeKhajiitMiraakShoesFemale.osd\MiraakBootsTop Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="MiraakBootsTop Model High" target="MiraakBoots" local="true">BHUNPDigitigradeKhajiitMiraakShoesFemale.osd\MiraakBootsTop Model High</Data>
+        </Slider>
+        <Slider name="Aruru6Duck Low" invert="false" small="0" big="0">
+            <Data name="MiraakBootsAruru6Duck Low" target="MiraakBoots" local="true">BHUNPDigitigradeKhajiitMiraakShoesFemale.osd\MiraakBootsAruru6Duck Low</Data>
+        </Slider>
+        <Slider name="Aruru6Duck High" invert="false" small="0" big="0">
+            <Data name="MiraakBootsAruru6Duck High" target="MiraakBoots" local="true">BHUNPDigitigradeKhajiitMiraakShoesFemale.osd\MiraakBootsAruru6Duck High</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="MiraakBootsCalfSize" target="MiraakBoots" local="true">BHUNPDigitigradeKhajiitMiraakShoesFemale.osd\MiraakBootsCalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="MiraakBootsCalfSmooth" target="MiraakBoots" local="true">BHUNPDigitigradeKhajiitMiraakShoesFemale.osd\MiraakBootsCalfSmooth</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="MiraakBootsChubbyLegs" target="MiraakBoots" local="true">BHUNPDigitigradeKhajiitMiraakShoesFemale.osd\MiraakBootsChubbyLegs</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="MiraakBootsKneeHeight" target="MiraakBoots" local="true">BHUNPDigitigradeKhajiitMiraakShoesFemale.osd\MiraakBootsKneeHeight</Data>
+        </Slider>
+        <Slider name="KneeShape" invert="false" small="0" big="0">
+            <Data name="MiraakBootsKneeShape" target="MiraakBoots" local="true">BHUNPDigitigradeKhajiitMiraakShoesFemale.osd\MiraakBootsKneeShape</Data>
+        </Slider>
+        <Slider name="KneeSlim" invert="false" small="0" big="0">
+            <Data name="MiraakBootsKneeSlim" target="MiraakBoots" local="true">BHUNPDigitigradeKhajiitMiraakShoesFemale.osd\MiraakBootsKneeSlim</Data>
+        </Slider>
+        <Slider name="Legs" invert="true" small="100" big="100">
+            <Data name="MiraakBootsLegs" target="MiraakBoots" local="true">BHUNPDigitigradeKhajiitMiraakShoesFemale.osd\MiraakBootsLegs</Data>
+        </Slider>
+        <Slider name="LegsThin" invert="false" small="0" big="0">
+            <Data name="MiraakBootsLegsThin" target="MiraakBoots" local="true">BHUNPDigitigradeKhajiitMiraakShoesFemale.osd\MiraakBootsLegsThin</Data>
+        </Slider>
+        <Slider name="MuscleLegs" invert="false" small="0" big="0">
+            <Data name="MiraakBootsMuscleLegs" target="MiraakBoots" local="true">BHUNPDigitigradeKhajiitMiraakShoesFemale.osd\MiraakBootsMuscleLegs</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="MiraakBootsSlimThighs" target="MiraakBoots" local="true">BHUNPDigitigradeKhajiitMiraakShoesFemale.osd\MiraakBootsSlimThighs</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="MiraakBootsThighs" target="MiraakBoots" local="true">BHUNPDigitigradeKhajiitMiraakShoesFemale.osd\MiraakBootsThighs</Data>
+        </Slider>
+        <Slider name="LegSpread" invert="false" small="0" big="0">
+            <Data name="MiraakBootsLegSpread" target="MiraakBoots" local="true">BHUNPDigitigradeKhajiitMiraakShoesFemale.osd\MiraakBootsLegSpread</Data>
+        </Slider>
+        <Slider name="Soleus" invert="false" small="0" big="0">
+            <Data name="MiraakBootsSoleus" target="MiraakBoots" local="true">BHUNPDigitigradeKhajiitMiraakShoesFemale.osd\MiraakBootsSoleus</Data>
+        </Slider>
+        <Slider name="CBBE SE" invert="false" small="0" big="0">
+            <Data name="MiraakBootsCBBE SE" target="MiraakBoots" local="true">BHUNPDigitigradeKhajiitMiraakShoesFemale.osd\MiraakBootsCBBE SE</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

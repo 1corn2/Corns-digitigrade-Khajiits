@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="BHUNPDigitigradeKhajiitMinerShoesFemale">
+        <ReferenceInfo ProjectFile="SliderSets\BHUNPDigitigradeKhajiitWrapsCutFemale.osp" ProjectName="BHUNPDigitigradeKhajiitWrapsCutFemale" ShapeName="FootPaws_Base"/>
+        <DataFolder>BHUNPDigitigradeKhajiitMinerShoesFemale</DataFolder>
+        <SourceFile>BHUNPDigitigradeKhajiitMinerShoesFemale.nif</SourceFile>
+        <OutputPath>meshes\clothes\digitigrade\minerclothes</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">bootsf</OutputFile>
+        <Shape target="FemaleMinerBoots">FemaleMinerBoots</Shape>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="FemaleMinerBoots7B Low" target="FemaleMinerBoots" local="true">BHUNPDigitigradeKhajiitMinerShoesFemale.osd\FemaleMinerBoots7B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="FemaleMinerBoots7B High" target="FemaleMinerBoots" local="true">BHUNPDigitigradeKhajiitMinerShoesFemale.osd\FemaleMinerBoots7B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="FemaleMinerBoots7B Bombshell Low" target="FemaleMinerBoots" local="true">BHUNPDigitigradeKhajiitMinerShoesFemale.osd\FemaleMinerBoots7B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="FemaleMinerBoots7B Bombshell High" target="FemaleMinerBoots" local="true">BHUNPDigitigradeKhajiitMinerShoesFemale.osd\FemaleMinerBoots7B Bombshell High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="FemaleMinerBootsUNP Low" target="FemaleMinerBoots" local="true">BHUNPDigitigradeKhajiitMinerShoesFemale.osd\FemaleMinerBootsUNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="FemaleMinerBootsUNP High" target="FemaleMinerBoots" local="true">BHUNPDigitigradeKhajiitMinerShoesFemale.osd\FemaleMinerBootsUNP High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="FemaleMinerBootsUNPB Low" target="FemaleMinerBoots" local="true">BHUNPDigitigradeKhajiitMinerShoesFemale.osd\FemaleMinerBootsUNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="FemaleMinerBootsUNPB High" target="FemaleMinerBoots" local="true">BHUNPDigitigradeKhajiitMinerShoesFemale.osd\FemaleMinerBootsUNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="FemaleMinerBootsUNPB Oppai v3.2 Low" target="FemaleMinerBoots" local="true">BHUNPDigitigradeKhajiitMinerShoesFemale.osd\FemaleMinerBootsUNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="FemaleMinerBootsUNPB Oppai v3.2 High" target="FemaleMinerBoots" local="true">BHUNPDigitigradeKhajiitMinerShoesFemale.osd\FemaleMinerBootsUNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="FemaleMinerBootsUNPC Low" target="FemaleMinerBoots" local="true">BHUNPDigitigradeKhajiitMinerShoesFemale.osd\FemaleMinerBootsUNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="FemaleMinerBootsUNPC High" target="FemaleMinerBoots" local="true">BHUNPDigitigradeKhajiitMinerShoesFemale.osd\FemaleMinerBootsUNPC High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="FemaleMinerBootsTop Model Low" target="FemaleMinerBoots" local="true">BHUNPDigitigradeKhajiitMinerShoesFemale.osd\FemaleMinerBootsTop Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="FemaleMinerBootsTop Model High" target="FemaleMinerBoots" local="true">BHUNPDigitigradeKhajiitMinerShoesFemale.osd\FemaleMinerBootsTop Model High</Data>
+        </Slider>
+        <Slider name="Aruru6Duck Low" invert="false" small="0" big="0">
+            <Data name="FemaleMinerBootsAruru6Duck Low" target="FemaleMinerBoots" local="true">BHUNPDigitigradeKhajiitMinerShoesFemale.osd\FemaleMinerBootsAruru6Duck Low</Data>
+        </Slider>
+        <Slider name="Aruru6Duck High" invert="false" small="0" big="0">
+            <Data name="FemaleMinerBootsAruru6Duck High" target="FemaleMinerBoots" local="true">BHUNPDigitigradeKhajiitMinerShoesFemale.osd\FemaleMinerBootsAruru6Duck High</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="FemaleMinerBootsCalfSize" target="FemaleMinerBoots" local="true">BHUNPDigitigradeKhajiitMinerShoesFemale.osd\FemaleMinerBootsCalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="FemaleMinerBootsCalfSmooth" target="FemaleMinerBoots" local="true">BHUNPDigitigradeKhajiitMinerShoesFemale.osd\FemaleMinerBootsCalfSmooth</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="FemaleMinerBootsChubbyLegs" target="FemaleMinerBoots" local="true">BHUNPDigitigradeKhajiitMinerShoesFemale.osd\FemaleMinerBootsChubbyLegs</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="FemaleMinerBootsKneeHeight" target="FemaleMinerBoots" local="true">BHUNPDigitigradeKhajiitMinerShoesFemale.osd\FemaleMinerBootsKneeHeight</Data>
+        </Slider>
+        <Slider name="KneeShape" invert="false" small="0" big="0">
+            <Data name="FemaleMinerBootsKneeShape" target="FemaleMinerBoots" local="true">BHUNPDigitigradeKhajiitMinerShoesFemale.osd\FemaleMinerBootsKneeShape</Data>
+        </Slider>
+        <Slider name="Legs" invert="true" small="100" big="100">
+            <Data name="FemaleMinerBootsLegs" target="FemaleMinerBoots" local="true">BHUNPDigitigradeKhajiitMinerShoesFemale.osd\FemaleMinerBootsLegs</Data>
+        </Slider>
+        <Slider name="LegsThin" invert="false" small="0" big="0">
+            <Data name="FemaleMinerBootsLegsThin" target="FemaleMinerBoots" local="true">BHUNPDigitigradeKhajiitMinerShoesFemale.osd\FemaleMinerBootsLegsThin</Data>
+        </Slider>
+        <Slider name="Soleus" invert="false" small="0" big="0">
+            <Data name="FemaleMinerBootsSoleus" target="FemaleMinerBoots" local="true">BHUNPDigitigradeKhajiitMinerShoesFemale.osd\FemaleMinerBootsSoleus</Data>
+        </Slider>
+        <Slider name="CBBE SE" invert="false" small="0" big="0">
+            <Data name="FemaleMinerBootsCBBE SE" target="FemaleMinerBoots" local="true">BHUNPDigitigradeKhajiitMinerShoesFemale.osd\FemaleMinerBootsCBBE SE</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

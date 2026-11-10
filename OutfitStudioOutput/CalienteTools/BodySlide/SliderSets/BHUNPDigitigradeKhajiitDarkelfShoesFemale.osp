@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="BHUNPDigitigradeKhajiitDarkelfShoesFemale">
+        <ReferenceInfo ProjectFile="SliderSets\BHUNPDigitigradeKhajiitWrapsCutFemale.osp" ProjectName="BHUNPDigitigradeKhajiitWrapsCutFemale" ShapeName="FootPaws_Base"/>
+        <DataFolder>BHUNPDigitigradeKhajiitDarkelfShoesFemale</DataFolder>
+        <SourceFile>BHUNPDigitigradeKhajiitDarkelfShoesFemale.nif</SourceFile>
+        <OutputPath>meshes\dlc02\clothes\digitigrade\darkelf\f</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">shoes</OutputFile>
+        <Shape target="boots_1">boots_1</Shape>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="boots_17B Low" target="boots_1" local="true">BHUNPDigitigradeKhajiitDarkelfShoesFemale.osd\boots_17B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="boots_17B High" target="boots_1" local="true">BHUNPDigitigradeKhajiitDarkelfShoesFemale.osd\boots_17B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="boots_17B Bombshell Low" target="boots_1" local="true">BHUNPDigitigradeKhajiitDarkelfShoesFemale.osd\boots_17B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="boots_17B Bombshell High" target="boots_1" local="true">BHUNPDigitigradeKhajiitDarkelfShoesFemale.osd\boots_17B Bombshell High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="boots_1UNP Low" target="boots_1" local="true">BHUNPDigitigradeKhajiitDarkelfShoesFemale.osd\boots_1UNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="boots_1UNP High" target="boots_1" local="true">BHUNPDigitigradeKhajiitDarkelfShoesFemale.osd\boots_1UNP High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="boots_1UNPB Low" target="boots_1" local="true">BHUNPDigitigradeKhajiitDarkelfShoesFemale.osd\boots_1UNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="boots_1UNPB High" target="boots_1" local="true">BHUNPDigitigradeKhajiitDarkelfShoesFemale.osd\boots_1UNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="boots_1UNPB Oppai v3.2 Low" target="boots_1" local="true">BHUNPDigitigradeKhajiitDarkelfShoesFemale.osd\boots_1UNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="boots_1UNPB Oppai v3.2 High" target="boots_1" local="true">BHUNPDigitigradeKhajiitDarkelfShoesFemale.osd\boots_1UNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="boots_1UNPC Low" target="boots_1" local="true">BHUNPDigitigradeKhajiitDarkelfShoesFemale.osd\boots_1UNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="boots_1UNPC High" target="boots_1" local="true">BHUNPDigitigradeKhajiitDarkelfShoesFemale.osd\boots_1UNPC High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="boots_1Top Model Low" target="boots_1" local="true">BHUNPDigitigradeKhajiitDarkelfShoesFemale.osd\boots_1Top Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="boots_1Top Model High" target="boots_1" local="true">BHUNPDigitigradeKhajiitDarkelfShoesFemale.osd\boots_1Top Model High</Data>
+        </Slider>
+        <Slider name="Aruru6Duck Low" invert="false" small="0" big="0">
+            <Data name="boots_1Aruru6Duck Low" target="boots_1" local="true">BHUNPDigitigradeKhajiitDarkelfShoesFemale.osd\boots_1Aruru6Duck Low</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="boots_1CalfSize" target="boots_1" local="true">BHUNPDigitigradeKhajiitDarkelfShoesFemale.osd\boots_1CalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="boots_1CalfSmooth" target="boots_1" local="true">BHUNPDigitigradeKhajiitDarkelfShoesFemale.osd\boots_1CalfSmooth</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="boots_1ChubbyLegs" target="boots_1" local="true">BHUNPDigitigradeKhajiitDarkelfShoesFemale.osd\boots_1ChubbyLegs</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="boots_1KneeHeight" target="boots_1" local="true">BHUNPDigitigradeKhajiitDarkelfShoesFemale.osd\boots_1KneeHeight</Data>
+        </Slider>
+        <Slider name="KneeShape" invert="false" small="0" big="0">
+            <Data name="boots_1KneeShape" target="boots_1" local="true">BHUNPDigitigradeKhajiitDarkelfShoesFemale.osd\boots_1KneeShape</Data>
+        </Slider>
+        <Slider name="Legs" invert="true" small="100" big="100">
+            <Data name="boots_1Legs" target="boots_1" local="true">BHUNPDigitigradeKhajiitDarkelfShoesFemale.osd\boots_1Legs</Data>
+        </Slider>
+        <Slider name="LegsThin" invert="false" small="0" big="0">
+            <Data name="boots_1LegsThin" target="boots_1" local="true">BHUNPDigitigradeKhajiitDarkelfShoesFemale.osd\boots_1LegsThin</Data>
+        </Slider>
+        <Slider name="CBBE SE" invert="false" small="0" big="0">
+            <Data name="boots_1CBBE SE" target="boots_1" local="true">BHUNPDigitigradeKhajiitDarkelfShoesFemale.osd\boots_1CBBE SE</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

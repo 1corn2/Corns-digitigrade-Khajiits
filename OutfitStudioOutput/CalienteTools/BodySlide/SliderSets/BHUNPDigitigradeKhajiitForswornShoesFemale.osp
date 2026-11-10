@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="BHUNPDigitigradeKhajiitForswornShoesFemale">
+        <ReferenceInfo ProjectFile="SliderSets\BHUNPDigitigradeKhajiitWrapsCutFemale.osp" ProjectName="BHUNPDigitigradeKhajiitWrapsCutFemale" ShapeName="FootPaws_Base"/>
+        <DataFolder>BHUNPDigitigradeKhajiitForswornShoesFemale</DataFolder>
+        <SourceFile>BHUNPDigitigradeKhajiitForswornShoesFemale.nif</SourceFile>
+        <OutputPath>meshes\clothes\digitigrade\forswornarmor</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">forswornbootsf</OutputFile>
+        <Shape target="ForswornBootsF">ForswornBootsF</Shape>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="ForswornBootsF7B Low" target="ForswornBootsF" local="true">BHUNPDigitigradeKhajiitForswornShoesFemale.osd\ForswornBootsF7B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="ForswornBootsF7B High" target="ForswornBootsF" local="true">BHUNPDigitigradeKhajiitForswornShoesFemale.osd\ForswornBootsF7B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="ForswornBootsF7B Bombshell Low" target="ForswornBootsF" local="true">BHUNPDigitigradeKhajiitForswornShoesFemale.osd\ForswornBootsF7B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="ForswornBootsF7B Bombshell High" target="ForswornBootsF" local="true">BHUNPDigitigradeKhajiitForswornShoesFemale.osd\ForswornBootsF7B Bombshell High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="ForswornBootsFUNP Low" target="ForswornBootsF" local="true">BHUNPDigitigradeKhajiitForswornShoesFemale.osd\ForswornBootsFUNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="ForswornBootsFUNP High" target="ForswornBootsF" local="true">BHUNPDigitigradeKhajiitForswornShoesFemale.osd\ForswornBootsFUNP High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="ForswornBootsFUNPB Low" target="ForswornBootsF" local="true">BHUNPDigitigradeKhajiitForswornShoesFemale.osd\ForswornBootsFUNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="ForswornBootsFUNPB High" target="ForswornBootsF" local="true">BHUNPDigitigradeKhajiitForswornShoesFemale.osd\ForswornBootsFUNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="ForswornBootsFUNPB Oppai v3.2 Low" target="ForswornBootsF" local="true">BHUNPDigitigradeKhajiitForswornShoesFemale.osd\ForswornBootsFUNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="ForswornBootsFUNPB Oppai v3.2 High" target="ForswornBootsF" local="true">BHUNPDigitigradeKhajiitForswornShoesFemale.osd\ForswornBootsFUNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="ForswornBootsFUNPC Low" target="ForswornBootsF" local="true">BHUNPDigitigradeKhajiitForswornShoesFemale.osd\ForswornBootsFUNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="ForswornBootsFUNPC High" target="ForswornBootsF" local="true">BHUNPDigitigradeKhajiitForswornShoesFemale.osd\ForswornBootsFUNPC High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="ForswornBootsFTop Model Low" target="ForswornBootsF" local="true">BHUNPDigitigradeKhajiitForswornShoesFemale.osd\ForswornBootsFTop Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="ForswornBootsFTop Model High" target="ForswornBootsF" local="true">BHUNPDigitigradeKhajiitForswornShoesFemale.osd\ForswornBootsFTop Model High</Data>
+        </Slider>
+        <Slider name="Aruru6Duck Low" invert="false" small="0" big="0">
+            <Data name="ForswornBootsFAruru6Duck Low" target="ForswornBootsF" local="true">BHUNPDigitigradeKhajiitForswornShoesFemale.osd\ForswornBootsFAruru6Duck Low</Data>
+        </Slider>
+        <Slider name="Aruru6Duck High" invert="false" small="0" big="0">
+            <Data name="ForswornBootsFAruru6Duck High" target="ForswornBootsF" local="true">BHUNPDigitigradeKhajiitForswornShoesFemale.osd\ForswornBootsFAruru6Duck High</Data>
+        </Slider>
+        <Slider name="BellyObesity" invert="false" small="0" big="0">
+            <Data name="ForswornBootsFBellyObesity" target="ForswornBootsF" local="true">BHUNPDigitigradeKhajiitForswornShoesFemale.osd\ForswornBootsFBellyObesity</Data>
+        </Slider>
+        <Slider name="Butt" invert="true" small="100" big="100">
+            <Data name="ForswornBootsFButt" target="ForswornBootsF" local="true">BHUNPDigitigradeKhajiitForswornShoesFemale.osd\ForswornBootsFButt</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="true" small="100" big="100">
+            <Data name="ForswornBootsFButtSmall" target="ForswornBootsF" local="true">BHUNPDigitigradeKhajiitForswornShoesFemale.osd\ForswornBootsFButtSmall</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="ForswornBootsFCalfSize" target="ForswornBootsF" local="true">BHUNPDigitigradeKhajiitForswornShoesFemale.osd\ForswornBootsFCalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="ForswornBootsFCalfSmooth" target="ForswornBootsF" local="true">BHUNPDigitigradeKhajiitForswornShoesFemale.osd\ForswornBootsFCalfSmooth</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="ForswornBootsFChubbyLegs" target="ForswornBootsF" local="true">BHUNPDigitigradeKhajiitForswornShoesFemale.osd\ForswornBootsFChubbyLegs</Data>
+        </Slider>
+        <Slider name="CrotchBack" invert="false" small="0" big="0">
+            <Data name="ForswornBootsFCrotchBack" target="ForswornBootsF" local="true">BHUNPDigitigradeKhajiitForswornShoesFemale.osd\ForswornBootsFCrotchBack</Data>
+        </Slider>
+        <Slider name="HipForward" invert="false" small="0" big="0">
+            <Data name="ForswornBootsFHipForward" target="ForswornBootsF" local="true">BHUNPDigitigradeKhajiitForswornShoesFemale.osd\ForswornBootsFHipForward</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="ForswornBootsFKneeHeight" target="ForswornBootsF" local="true">BHUNPDigitigradeKhajiitForswornShoesFemale.osd\ForswornBootsFKneeHeight</Data>
+        </Slider>
+        <Slider name="KneeShape" invert="false" small="0" big="0">
+            <Data name="ForswornBootsFKneeShape" target="ForswornBootsF" local="true">BHUNPDigitigradeKhajiitForswornShoesFemale.osd\ForswornBootsFKneeShape</Data>
+        </Slider>
+        <Slider name="KneeSlim" invert="false" small="0" big="0">
+            <Data name="ForswornBootsFKneeSlim" target="ForswornBootsF" local="true">BHUNPDigitigradeKhajiitForswornShoesFemale.osd\ForswornBootsFKneeSlim</Data>
+        </Slider>
+        <Slider name="Legs" invert="true" small="100" big="100">
+            <Data name="ForswornBootsFLegs" target="ForswornBootsF" local="true">BHUNPDigitigradeKhajiitForswornShoesFemale.osd\ForswornBootsFLegs</Data>
+        </Slider>
+        <Slider name="LegsThin" invert="false" small="0" big="0">
+            <Data name="ForswornBootsFLegsThin" target="ForswornBootsF" local="true">BHUNPDigitigradeKhajiitForswornShoesFemale.osd\ForswornBootsFLegsThin</Data>
+        </Slider>
+        <Slider name="MuscleLegs" invert="false" small="0" big="0">
+            <Data name="ForswornBootsFMuscleLegs" target="ForswornBootsF" local="true">BHUNPDigitigradeKhajiitForswornShoesFemale.osd\ForswornBootsFMuscleLegs</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="ForswornBootsFSlimThighs" target="ForswornBootsF" local="true">BHUNPDigitigradeKhajiitForswornShoesFemale.osd\ForswornBootsFSlimThighs</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="ForswornBootsFThighs" target="ForswornBootsF" local="true">BHUNPDigitigradeKhajiitForswornShoesFemale.osd\ForswornBootsFThighs</Data>
+        </Slider>
+        <Slider name="ThighApart" invert="false" small="0" big="0">
+            <Data name="ForswornBootsFThighApart" target="ForswornBootsF" local="true">BHUNPDigitigradeKhajiitForswornShoesFemale.osd\ForswornBootsFThighApart</Data>
+        </Slider>
+        <Slider name="ThighOuter" invert="false" small="0" big="0">
+            <Data name="ForswornBootsFThighOuter" target="ForswornBootsF" local="true">BHUNPDigitigradeKhajiitForswornShoesFemale.osd\ForswornBootsFThighOuter</Data>
+        </Slider>
+        <Slider name="ThighThicker" invert="false" small="0" big="0">
+            <Data name="ForswornBootsFThighThicker" target="ForswornBootsF" local="true">BHUNPDigitigradeKhajiitForswornShoesFemale.osd\ForswornBootsFThighThicker</Data>
+        </Slider>
+        <Slider name="Sartorius" invert="false" small="0" big="0">
+            <Data name="ForswornBootsFSartorius" target="ForswornBootsF" local="true">BHUNPDigitigradeKhajiitForswornShoesFemale.osd\ForswornBootsFSartorius</Data>
+        </Slider>
+        <Slider name="RectusFemoris" invert="false" small="0" big="0">
+            <Data name="ForswornBootsFRectusFemoris" target="ForswornBootsF" local="true">BHUNPDigitigradeKhajiitForswornShoesFemale.osd\ForswornBootsFRectusFemoris</Data>
+        </Slider>
+        <Slider name="VastusLateralis" invert="false" small="0" big="0">
+            <Data name="ForswornBootsFVastusLateralis" target="ForswornBootsF" local="true">BHUNPDigitigradeKhajiitForswornShoesFemale.osd\ForswornBootsFVastusLateralis</Data>
+        </Slider>
+        <Slider name="VastusMedialis" invert="false" small="0" big="0">
+            <Data name="ForswornBootsFVastusMedialis" target="ForswornBootsF" local="true">BHUNPDigitigradeKhajiitForswornShoesFemale.osd\ForswornBootsFVastusMedialis</Data>
+        </Slider>
+        <Slider name="Hamstrings" invert="false" small="0" big="0">
+            <Data name="ForswornBootsFHamstrings" target="ForswornBootsF" local="true">BHUNPDigitigradeKhajiitForswornShoesFemale.osd\ForswornBootsFHamstrings</Data>
+        </Slider>
+        <Slider name="BicepsFemoris" invert="false" small="0" big="0">
+            <Data name="ForswornBootsFBicepsFemoris" target="ForswornBootsF" local="true">BHUNPDigitigradeKhajiitForswornShoesFemale.osd\ForswornBootsFBicepsFemoris</Data>
+        </Slider>
+        <Slider name="ThighInnerThicker" invert="false" small="0" big="0">
+            <Data name="ForswornBootsFThighInnerThicker" target="ForswornBootsF" local="true">BHUNPDigitigradeKhajiitForswornShoesFemale.osd\ForswornBootsFThighInnerThicker</Data>
+        </Slider>
+        <Slider name="ThighFBThicker" invert="false" small="0" big="0">
+            <Data name="ForswornBootsFThighFBThicker" target="ForswornBootsF" local="true">BHUNPDigitigradeKhajiitForswornShoesFemale.osd\ForswornBootsFThighFBThicker</Data>
+        </Slider>
+        <Slider name="LegSpread" invert="false" small="0" big="0">
+            <Data name="ForswornBootsFLegSpread" target="ForswornBootsF" local="true">BHUNPDigitigradeKhajiitForswornShoesFemale.osd\ForswornBootsFLegSpread</Data>
+        </Slider>
+        <Slider name="Soleus" invert="false" small="0" big="0">
+            <Data name="ForswornBootsFSoleus" target="ForswornBootsF" local="true">BHUNPDigitigradeKhajiitForswornShoesFemale.osd\ForswornBootsFSoleus</Data>
+        </Slider>
+        <Slider name="CBBE SE" invert="false" small="0" big="0">
+            <Data name="ForswornBootsFCBBE SE" target="ForswornBootsF" local="true">BHUNPDigitigradeKhajiitForswornShoesFemale.osd\ForswornBootsFCBBE SE</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

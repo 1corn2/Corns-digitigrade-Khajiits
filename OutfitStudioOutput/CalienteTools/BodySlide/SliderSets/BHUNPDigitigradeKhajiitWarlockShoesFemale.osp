@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="BHUNPDigitigradeKhajiitWarlockShoesFemale">
+        <ReferenceInfo ProjectFile="SliderSets\BHUNPDigitigradeKhajiitWrapsCutFemale.osp" ProjectName="BHUNPDigitigradeKhajiitWrapsCutFemale" ShapeName="FootPaws_Base"/>
+        <DataFolder>BHUNPDigitigradeKhajiitWarlockShoesFemale</DataFolder>
+        <SourceFile>BHUNPDigitigradeKhajiitWarlockShoesFemale.nif</SourceFile>
+        <OutputPath>meshes\clothes\digitigrade\warlock</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">warlockbootsf</OutputFile>
+        <Shape target="boots">boots</Shape>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="boots7B Low" target="boots" local="true">BHUNPDigitigradeKhajiitWarlockShoesFemale.osd\boots7B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="boots7B High" target="boots" local="true">BHUNPDigitigradeKhajiitWarlockShoesFemale.osd\boots7B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="boots7B Bombshell Low" target="boots" local="true">BHUNPDigitigradeKhajiitWarlockShoesFemale.osd\boots7B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="boots7B Bombshell High" target="boots" local="true">BHUNPDigitigradeKhajiitWarlockShoesFemale.osd\boots7B Bombshell High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="bootsUNP Low" target="boots" local="true">BHUNPDigitigradeKhajiitWarlockShoesFemale.osd\bootsUNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="bootsUNP High" target="boots" local="true">BHUNPDigitigradeKhajiitWarlockShoesFemale.osd\bootsUNP High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="bootsUNPB Low" target="boots" local="true">BHUNPDigitigradeKhajiitWarlockShoesFemale.osd\bootsUNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="bootsUNPB High" target="boots" local="true">BHUNPDigitigradeKhajiitWarlockShoesFemale.osd\bootsUNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="bootsUNPB Oppai v3.2 Low" target="boots" local="true">BHUNPDigitigradeKhajiitWarlockShoesFemale.osd\bootsUNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="bootsUNPB Oppai v3.2 High" target="boots" local="true">BHUNPDigitigradeKhajiitWarlockShoesFemale.osd\bootsUNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="bootsUNPC Low" target="boots" local="true">BHUNPDigitigradeKhajiitWarlockShoesFemale.osd\bootsUNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="bootsUNPC High" target="boots" local="true">BHUNPDigitigradeKhajiitWarlockShoesFemale.osd\bootsUNPC High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="bootsTop Model Low" target="boots" local="true">BHUNPDigitigradeKhajiitWarlockShoesFemale.osd\bootsTop Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="bootsTop Model High" target="boots" local="true">BHUNPDigitigradeKhajiitWarlockShoesFemale.osd\bootsTop Model High</Data>
+        </Slider>
+        <Slider name="Aruru6Duck Low" invert="false" small="0" big="0">
+            <Data name="bootsAruru6Duck Low" target="boots" local="true">BHUNPDigitigradeKhajiitWarlockShoesFemale.osd\bootsAruru6Duck Low</Data>
+        </Slider>
+        <Slider name="Aruru6Duck High" invert="false" small="0" big="0">
+            <Data name="bootsAruru6Duck High" target="boots" local="true">BHUNPDigitigradeKhajiitWarlockShoesFemale.osd\bootsAruru6Duck High</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="true" small="100" big="100">
+            <Data name="bootsButtSmall" target="boots" local="true">BHUNPDigitigradeKhajiitWarlockShoesFemale.osd\bootsButtSmall</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="bootsCalfSize" target="boots" local="true">BHUNPDigitigradeKhajiitWarlockShoesFemale.osd\bootsCalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="bootsCalfSmooth" target="boots" local="true">BHUNPDigitigradeKhajiitWarlockShoesFemale.osd\bootsCalfSmooth</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="bootsChubbyLegs" target="boots" local="true">BHUNPDigitigradeKhajiitWarlockShoesFemale.osd\bootsChubbyLegs</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="bootsKneeHeight" target="boots" local="true">BHUNPDigitigradeKhajiitWarlockShoesFemale.osd\bootsKneeHeight</Data>
+        </Slider>
+        <Slider name="KneeShape" invert="false" small="0" big="0">
+            <Data name="bootsKneeShape" target="boots" local="true">BHUNPDigitigradeKhajiitWarlockShoesFemale.osd\bootsKneeShape</Data>
+        </Slider>
+        <Slider name="KneeSlim" invert="false" small="0" big="0">
+            <Data name="bootsKneeSlim" target="boots" local="true">BHUNPDigitigradeKhajiitWarlockShoesFemale.osd\bootsKneeSlim</Data>
+        </Slider>
+        <Slider name="Legs" invert="true" small="100" big="100">
+            <Data name="bootsLegs" target="boots" local="true">BHUNPDigitigradeKhajiitWarlockShoesFemale.osd\bootsLegs</Data>
+        </Slider>
+        <Slider name="LegsThin" invert="false" small="0" big="0">
+            <Data name="bootsLegsThin" target="boots" local="true">BHUNPDigitigradeKhajiitWarlockShoesFemale.osd\bootsLegsThin</Data>
+        </Slider>
+        <Slider name="MuscleLegs" invert="false" small="0" big="0">
+            <Data name="bootsMuscleLegs" target="boots" local="true">BHUNPDigitigradeKhajiitWarlockShoesFemale.osd\bootsMuscleLegs</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="bootsSlimThighs" target="boots" local="true">BHUNPDigitigradeKhajiitWarlockShoesFemale.osd\bootsSlimThighs</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="bootsThighs" target="boots" local="true">BHUNPDigitigradeKhajiitWarlockShoesFemale.osd\bootsThighs</Data>
+        </Slider>
+        <Slider name="LegSpread" invert="false" small="0" big="0">
+            <Data name="bootsLegSpread" target="boots" local="true">BHUNPDigitigradeKhajiitWarlockShoesFemale.osd\bootsLegSpread</Data>
+        </Slider>
+        <Slider name="Soleus" invert="false" small="0" big="0">
+            <Data name="bootsSoleus" target="boots" local="true">BHUNPDigitigradeKhajiitWarlockShoesFemale.osd\bootsSoleus</Data>
+        </Slider>
+        <Slider name="CBBE SE" invert="false" small="0" big="0">
+            <Data name="bootsCBBE SE" target="boots" local="true">BHUNPDigitigradeKhajiitWarlockShoesFemale.osd\bootsCBBE SE</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

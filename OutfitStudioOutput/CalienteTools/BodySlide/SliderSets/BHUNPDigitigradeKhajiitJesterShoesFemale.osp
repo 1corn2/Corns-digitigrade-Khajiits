@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="BHUNPDigitigradeKhajiitJesterShoesFemale">
+        <ReferenceInfo ProjectFile="SliderSets\BHUNPDigitigradeKhajiitWrapsCutFemale.osp" ProjectName="BHUNPDigitigradeKhajiitWrapsCutFemale" ShapeName="FootPaws_Base"/>
+        <DataFolder>BHUNPDigitigradeKhajiitJesterShoesFemale</DataFolder>
+        <SourceFile>BHUNPDigitigradeKhajiitJesterShoesFemale.nif</SourceFile>
+        <OutputPath>meshes\clothes\digitigrade\jester</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">jesterbootsf</OutputFile>
+        <Shape target="Boot">Boot</Shape>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="Boot7B Low" target="Boot" local="true">BHUNPDigitigradeKhajiitJesterShoesFemale.osd\Boot7B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="Boot7B High" target="Boot" local="true">BHUNPDigitigradeKhajiitJesterShoesFemale.osd\Boot7B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="Boot7B Bombshell Low" target="Boot" local="true">BHUNPDigitigradeKhajiitJesterShoesFemale.osd\Boot7B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="Boot7B Bombshell High" target="Boot" local="true">BHUNPDigitigradeKhajiitJesterShoesFemale.osd\Boot7B Bombshell High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="BootUNP Low" target="Boot" local="true">BHUNPDigitigradeKhajiitJesterShoesFemale.osd\BootUNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="BootUNP High" target="Boot" local="true">BHUNPDigitigradeKhajiitJesterShoesFemale.osd\BootUNP High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="BootUNPB Low" target="Boot" local="true">BHUNPDigitigradeKhajiitJesterShoesFemale.osd\BootUNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="BootUNPB High" target="Boot" local="true">BHUNPDigitigradeKhajiitJesterShoesFemale.osd\BootUNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="BootUNPB Oppai v3.2 Low" target="Boot" local="true">BHUNPDigitigradeKhajiitJesterShoesFemale.osd\BootUNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="BootUNPB Oppai v3.2 High" target="Boot" local="true">BHUNPDigitigradeKhajiitJesterShoesFemale.osd\BootUNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="BootUNPC Low" target="Boot" local="true">BHUNPDigitigradeKhajiitJesterShoesFemale.osd\BootUNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="BootUNPC High" target="Boot" local="true">BHUNPDigitigradeKhajiitJesterShoesFemale.osd\BootUNPC High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="BootTop Model Low" target="Boot" local="true">BHUNPDigitigradeKhajiitJesterShoesFemale.osd\BootTop Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="BootTop Model High" target="Boot" local="true">BHUNPDigitigradeKhajiitJesterShoesFemale.osd\BootTop Model High</Data>
+        </Slider>
+        <Slider name="Aruru6Duck Low" invert="false" small="0" big="0">
+            <Data name="BootAruru6Duck Low" target="Boot" local="true">BHUNPDigitigradeKhajiitJesterShoesFemale.osd\BootAruru6Duck Low</Data>
+        </Slider>
+        <Slider name="Aruru6Duck High" invert="false" small="0" big="0">
+            <Data name="BootAruru6Duck High" target="Boot" local="true">BHUNPDigitigradeKhajiitJesterShoesFemale.osd\BootAruru6Duck High</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="BootCalfSize" target="Boot" local="true">BHUNPDigitigradeKhajiitJesterShoesFemale.osd\BootCalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="BootCalfSmooth" target="Boot" local="true">BHUNPDigitigradeKhajiitJesterShoesFemale.osd\BootCalfSmooth</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="BootChubbyLegs" target="Boot" local="true">BHUNPDigitigradeKhajiitJesterShoesFemale.osd\BootChubbyLegs</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="BootKneeHeight" target="Boot" local="true">BHUNPDigitigradeKhajiitJesterShoesFemale.osd\BootKneeHeight</Data>
+        </Slider>
+        <Slider name="KneeShape" invert="false" small="0" big="0">
+            <Data name="BootKneeShape" target="Boot" local="true">BHUNPDigitigradeKhajiitJesterShoesFemale.osd\BootKneeShape</Data>
+        </Slider>
+        <Slider name="KneeSlim" invert="false" small="0" big="0">
+            <Data name="BootKneeSlim" target="Boot" local="true">BHUNPDigitigradeKhajiitJesterShoesFemale.osd\BootKneeSlim</Data>
+        </Slider>
+        <Slider name="Legs" invert="true" small="100" big="100">
+            <Data name="BootLegs" target="Boot" local="true">BHUNPDigitigradeKhajiitJesterShoesFemale.osd\BootLegs</Data>
+        </Slider>
+        <Slider name="LegsThin" invert="false" small="0" big="0">
+            <Data name="BootLegsThin" target="Boot" local="true">BHUNPDigitigradeKhajiitJesterShoesFemale.osd\BootLegsThin</Data>
+        </Slider>
+        <Slider name="MuscleLegs" invert="false" small="0" big="0">
+            <Data name="BootMuscleLegs" target="Boot" local="true">BHUNPDigitigradeKhajiitJesterShoesFemale.osd\BootMuscleLegs</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="BootSlimThighs" target="Boot" local="true">BHUNPDigitigradeKhajiitJesterShoesFemale.osd\BootSlimThighs</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="BootThighs" target="Boot" local="true">BHUNPDigitigradeKhajiitJesterShoesFemale.osd\BootThighs</Data>
+        </Slider>
+        <Slider name="LegSpread" invert="false" small="0" big="0">
+            <Data name="BootLegSpread" target="Boot" local="true">BHUNPDigitigradeKhajiitJesterShoesFemale.osd\BootLegSpread</Data>
+        </Slider>
+        <Slider name="Soleus" invert="false" small="0" big="0">
+            <Data name="BootSoleus" target="Boot" local="true">BHUNPDigitigradeKhajiitJesterShoesFemale.osd\BootSoleus</Data>
+        </Slider>
+        <Slider name="CBBE SE" invert="false" small="0" big="0">
+            <Data name="BootCBBE SE" target="Boot" local="true">BHUNPDigitigradeKhajiitJesterShoesFemale.osd\BootCBBE SE</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

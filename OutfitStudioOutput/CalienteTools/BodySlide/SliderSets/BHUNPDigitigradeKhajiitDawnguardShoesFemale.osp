@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="BHUNPDigitigradeKhajiitDawnguardShoesFemale">
+        <ReferenceInfo ProjectFile="SliderSets\BHUNPDigitigradeKhajiitWrapsCutFemale.osp" ProjectName="BHUNPDigitigradeKhajiitWrapsCutFemale" ShapeName="FootPaws_Base"/>
+        <DataFolder>BHUNPDigitigradeKhajiitDawnguardShoesFemale</DataFolder>
+        <SourceFile>BHUNPDigitigradeKhajiitDawnguardShoesFemale.nif</SourceFile>
+        <OutputPath>meshes\dlc01\armor\digitigrade\dawnguard\</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">dgbootsf</OutputFile>
+        <Shape target="BootsLo_female">BootsLo_female</Shape>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="BootsLo_female7B Low" target="BootsLo_female" local="true">BHUNPDigitigradeKhajiitDawnguardShoesFemale.osd\BootsLo_female7B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="BootsLo_female7B High" target="BootsLo_female" local="true">BHUNPDigitigradeKhajiitDawnguardShoesFemale.osd\BootsLo_female7B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="BootsLo_female7B Bombshell Low" target="BootsLo_female" local="true">BHUNPDigitigradeKhajiitDawnguardShoesFemale.osd\BootsLo_female7B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="BootsLo_female7B Bombshell High" target="BootsLo_female" local="true">BHUNPDigitigradeKhajiitDawnguardShoesFemale.osd\BootsLo_female7B Bombshell High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="BootsLo_femaleUNP Low" target="BootsLo_female" local="true">BHUNPDigitigradeKhajiitDawnguardShoesFemale.osd\BootsLo_femaleUNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="BootsLo_femaleUNP High" target="BootsLo_female" local="true">BHUNPDigitigradeKhajiitDawnguardShoesFemale.osd\BootsLo_femaleUNP High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="BootsLo_femaleUNPB Low" target="BootsLo_female" local="true">BHUNPDigitigradeKhajiitDawnguardShoesFemale.osd\BootsLo_femaleUNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="BootsLo_femaleUNPB High" target="BootsLo_female" local="true">BHUNPDigitigradeKhajiitDawnguardShoesFemale.osd\BootsLo_femaleUNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="BootsLo_femaleUNPB Oppai v3.2 Low" target="BootsLo_female" local="true">BHUNPDigitigradeKhajiitDawnguardShoesFemale.osd\BootsLo_femaleUNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="BootsLo_femaleUNPB Oppai v3.2 High" target="BootsLo_female" local="true">BHUNPDigitigradeKhajiitDawnguardShoesFemale.osd\BootsLo_femaleUNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="BootsLo_femaleUNPC Low" target="BootsLo_female" local="true">BHUNPDigitigradeKhajiitDawnguardShoesFemale.osd\BootsLo_femaleUNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="BootsLo_femaleUNPC High" target="BootsLo_female" local="true">BHUNPDigitigradeKhajiitDawnguardShoesFemale.osd\BootsLo_femaleUNPC High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="BootsLo_femaleTop Model Low" target="BootsLo_female" local="true">BHUNPDigitigradeKhajiitDawnguardShoesFemale.osd\BootsLo_femaleTop Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="BootsLo_femaleTop Model High" target="BootsLo_female" local="true">BHUNPDigitigradeKhajiitDawnguardShoesFemale.osd\BootsLo_femaleTop Model High</Data>
+        </Slider>
+        <Slider name="Aruru6Duck Low" invert="false" small="0" big="0">
+            <Data name="BootsLo_femaleAruru6Duck Low" target="BootsLo_female" local="true">BHUNPDigitigradeKhajiitDawnguardShoesFemale.osd\BootsLo_femaleAruru6Duck Low</Data>
+        </Slider>
+        <Slider name="Aruru6Duck High" invert="false" small="0" big="0">
+            <Data name="BootsLo_femaleAruru6Duck High" target="BootsLo_female" local="true">BHUNPDigitigradeKhajiitDawnguardShoesFemale.osd\BootsLo_femaleAruru6Duck High</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="BootsLo_femaleCalfSize" target="BootsLo_female" local="true">BHUNPDigitigradeKhajiitDawnguardShoesFemale.osd\BootsLo_femaleCalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="BootsLo_femaleCalfSmooth" target="BootsLo_female" local="true">BHUNPDigitigradeKhajiitDawnguardShoesFemale.osd\BootsLo_femaleCalfSmooth</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="BootsLo_femaleChubbyLegs" target="BootsLo_female" local="true">BHUNPDigitigradeKhajiitDawnguardShoesFemale.osd\BootsLo_femaleChubbyLegs</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="BootsLo_femaleKneeHeight" target="BootsLo_female" local="true">BHUNPDigitigradeKhajiitDawnguardShoesFemale.osd\BootsLo_femaleKneeHeight</Data>
+        </Slider>
+        <Slider name="KneeShape" invert="false" small="0" big="0">
+            <Data name="BootsLo_femaleKneeShape" target="BootsLo_female" local="true">BHUNPDigitigradeKhajiitDawnguardShoesFemale.osd\BootsLo_femaleKneeShape</Data>
+        </Slider>
+        <Slider name="KneeSlim" invert="false" small="0" big="0">
+            <Data name="BootsLo_femaleKneeSlim" target="BootsLo_female" local="true">BHUNPDigitigradeKhajiitDawnguardShoesFemale.osd\BootsLo_femaleKneeSlim</Data>
+        </Slider>
+        <Slider name="Legs" invert="true" small="100" big="100">
+            <Data name="BootsLo_femaleLegs" target="BootsLo_female" local="true">BHUNPDigitigradeKhajiitDawnguardShoesFemale.osd\BootsLo_femaleLegs</Data>
+        </Slider>
+        <Slider name="LegsThin" invert="false" small="0" big="0">
+            <Data name="BootsLo_femaleLegsThin" target="BootsLo_female" local="true">BHUNPDigitigradeKhajiitDawnguardShoesFemale.osd\BootsLo_femaleLegsThin</Data>
+        </Slider>
+        <Slider name="MuscleLegs" invert="false" small="0" big="0">
+            <Data name="BootsLo_femaleMuscleLegs" target="BootsLo_female" local="true">BHUNPDigitigradeKhajiitDawnguardShoesFemale.osd\BootsLo_femaleMuscleLegs</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="BootsLo_femaleSlimThighs" target="BootsLo_female" local="true">BHUNPDigitigradeKhajiitDawnguardShoesFemale.osd\BootsLo_femaleSlimThighs</Data>
+        </Slider>
+        <Slider name="LegSpread" invert="false" small="0" big="0">
+            <Data name="BootsLo_femaleLegSpread" target="BootsLo_female" local="true">BHUNPDigitigradeKhajiitDawnguardShoesFemale.osd\BootsLo_femaleLegSpread</Data>
+        </Slider>
+        <Slider name="Soleus" invert="false" small="0" big="0">
+            <Data name="BootsLo_femaleSoleus" target="BootsLo_female" local="true">BHUNPDigitigradeKhajiitDawnguardShoesFemale.osd\BootsLo_femaleSoleus</Data>
+        </Slider>
+        <Slider name="CBBE SE" invert="false" small="0" big="0">
+            <Data name="BootsLo_femaleCBBE SE" target="BootsLo_female" local="true">BHUNPDigitigradeKhajiitDawnguardShoesFemale.osd\BootsLo_femaleCBBE SE</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

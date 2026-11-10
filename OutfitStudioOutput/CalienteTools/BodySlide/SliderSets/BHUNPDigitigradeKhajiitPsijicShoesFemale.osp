@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="BHUNPDigitigradeKhajiitPsijicShoesFemale">
+        <ReferenceInfo ProjectFile="SliderSets\BHUNPDigitigradeKhajiitWrapsCutFemale.osp" ProjectName="BHUNPDigitigradeKhajiitWrapsCutFemale" ShapeName="FootPaws_Base"/>
+        <DataFolder>BHUNPDigitigradeKhajiitPsijicShoesFemale</DataFolder>
+        <SourceFile>BHUNPDigitigradeKhajiitPsijicShoesFemale.nif</SourceFile>
+        <OutputPath>meshes\clothes\digitigrade\psijic</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">psijicbootsf</OutputFile>
+        <Shape target="PsiijicBootsFTOMORPHFROM">PsiijicBootsFTOMORPHFROM</Shape>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="PsiijicBootsFTOMORPHFROM7B Low" target="PsiijicBootsFTOMORPHFROM" local="true">BHUNPDigitigradeKhajiitPsijicShoesFemale.osd\PsiijicBootsFTOMORPHFROM7B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="PsiijicBootsFTOMORPHFROM7B High" target="PsiijicBootsFTOMORPHFROM" local="true">BHUNPDigitigradeKhajiitPsijicShoesFemale.osd\PsiijicBootsFTOMORPHFROM7B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="PsiijicBootsFTOMORPHFROM7B Bombshell Low" target="PsiijicBootsFTOMORPHFROM" local="true">BHUNPDigitigradeKhajiitPsijicShoesFemale.osd\PsiijicBootsFTOMORPHFROM7B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="PsiijicBootsFTOMORPHFROM7B Bombshell High" target="PsiijicBootsFTOMORPHFROM" local="true">BHUNPDigitigradeKhajiitPsijicShoesFemale.osd\PsiijicBootsFTOMORPHFROM7B Bombshell High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="PsiijicBootsFTOMORPHFROMUNP Low" target="PsiijicBootsFTOMORPHFROM" local="true">BHUNPDigitigradeKhajiitPsijicShoesFemale.osd\PsiijicBootsFTOMORPHFROMUNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="PsiijicBootsFTOMORPHFROMUNP High" target="PsiijicBootsFTOMORPHFROM" local="true">BHUNPDigitigradeKhajiitPsijicShoesFemale.osd\PsiijicBootsFTOMORPHFROMUNP High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="PsiijicBootsFTOMORPHFROMUNPB Low" target="PsiijicBootsFTOMORPHFROM" local="true">BHUNPDigitigradeKhajiitPsijicShoesFemale.osd\PsiijicBootsFTOMORPHFROMUNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="PsiijicBootsFTOMORPHFROMUNPB High" target="PsiijicBootsFTOMORPHFROM" local="true">BHUNPDigitigradeKhajiitPsijicShoesFemale.osd\PsiijicBootsFTOMORPHFROMUNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="PsiijicBootsFTOMORPHFROMUNPB Oppai v3.2 Low" target="PsiijicBootsFTOMORPHFROM" local="true">BHUNPDigitigradeKhajiitPsijicShoesFemale.osd\PsiijicBootsFTOMORPHFROMUNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="PsiijicBootsFTOMORPHFROMUNPB Oppai v3.2 High" target="PsiijicBootsFTOMORPHFROM" local="true">BHUNPDigitigradeKhajiitPsijicShoesFemale.osd\PsiijicBootsFTOMORPHFROMUNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="PsiijicBootsFTOMORPHFROMUNPC Low" target="PsiijicBootsFTOMORPHFROM" local="true">BHUNPDigitigradeKhajiitPsijicShoesFemale.osd\PsiijicBootsFTOMORPHFROMUNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="PsiijicBootsFTOMORPHFROMUNPC High" target="PsiijicBootsFTOMORPHFROM" local="true">BHUNPDigitigradeKhajiitPsijicShoesFemale.osd\PsiijicBootsFTOMORPHFROMUNPC High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="PsiijicBootsFTOMORPHFROMTop Model Low" target="PsiijicBootsFTOMORPHFROM" local="true">BHUNPDigitigradeKhajiitPsijicShoesFemale.osd\PsiijicBootsFTOMORPHFROMTop Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="PsiijicBootsFTOMORPHFROMTop Model High" target="PsiijicBootsFTOMORPHFROM" local="true">BHUNPDigitigradeKhajiitPsijicShoesFemale.osd\PsiijicBootsFTOMORPHFROMTop Model High</Data>
+        </Slider>
+        <Slider name="Aruru6Duck Low" invert="false" small="0" big="0">
+            <Data name="PsiijicBootsFTOMORPHFROMAruru6Duck Low" target="PsiijicBootsFTOMORPHFROM" local="true">BHUNPDigitigradeKhajiitPsijicShoesFemale.osd\PsiijicBootsFTOMORPHFROMAruru6Duck Low</Data>
+        </Slider>
+        <Slider name="Aruru6Duck High" invert="false" small="0" big="0">
+            <Data name="PsiijicBootsFTOMORPHFROMAruru6Duck High" target="PsiijicBootsFTOMORPHFROM" local="true">BHUNPDigitigradeKhajiitPsijicShoesFemale.osd\PsiijicBootsFTOMORPHFROMAruru6Duck High</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="PsiijicBootsFTOMORPHFROMCalfSize" target="PsiijicBootsFTOMORPHFROM" local="true">BHUNPDigitigradeKhajiitPsijicShoesFemale.osd\PsiijicBootsFTOMORPHFROMCalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="PsiijicBootsFTOMORPHFROMCalfSmooth" target="PsiijicBootsFTOMORPHFROM" local="true">BHUNPDigitigradeKhajiitPsijicShoesFemale.osd\PsiijicBootsFTOMORPHFROMCalfSmooth</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="PsiijicBootsFTOMORPHFROMChubbyLegs" target="PsiijicBootsFTOMORPHFROM" local="true">BHUNPDigitigradeKhajiitPsijicShoesFemale.osd\PsiijicBootsFTOMORPHFROMChubbyLegs</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="PsiijicBootsFTOMORPHFROMKneeHeight" target="PsiijicBootsFTOMORPHFROM" local="true">BHUNPDigitigradeKhajiitPsijicShoesFemale.osd\PsiijicBootsFTOMORPHFROMKneeHeight</Data>
+        </Slider>
+        <Slider name="KneeShape" invert="false" small="0" big="0">
+            <Data name="PsiijicBootsFTOMORPHFROMKneeShape" target="PsiijicBootsFTOMORPHFROM" local="true">BHUNPDigitigradeKhajiitPsijicShoesFemale.osd\PsiijicBootsFTOMORPHFROMKneeShape</Data>
+        </Slider>
+        <Slider name="Legs" invert="true" small="100" big="100">
+            <Data name="PsiijicBootsFTOMORPHFROMLegs" target="PsiijicBootsFTOMORPHFROM" local="true">BHUNPDigitigradeKhajiitPsijicShoesFemale.osd\PsiijicBootsFTOMORPHFROMLegs</Data>
+        </Slider>
+        <Slider name="LegsThin" invert="false" small="0" big="0">
+            <Data name="PsiijicBootsFTOMORPHFROMLegsThin" target="PsiijicBootsFTOMORPHFROM" local="true">BHUNPDigitigradeKhajiitPsijicShoesFemale.osd\PsiijicBootsFTOMORPHFROMLegsThin</Data>
+        </Slider>
+        <Slider name="MuscleLegs" invert="false" small="0" big="0">
+            <Data name="PsiijicBootsFTOMORPHFROMMuscleLegs" target="PsiijicBootsFTOMORPHFROM" local="true">BHUNPDigitigradeKhajiitPsijicShoesFemale.osd\PsiijicBootsFTOMORPHFROMMuscleLegs</Data>
+        </Slider>
+        <Slider name="LegSpread" invert="false" small="0" big="0">
+            <Data name="PsiijicBootsFTOMORPHFROMLegSpread" target="PsiijicBootsFTOMORPHFROM" local="true">BHUNPDigitigradeKhajiitPsijicShoesFemale.osd\PsiijicBootsFTOMORPHFROMLegSpread</Data>
+        </Slider>
+        <Slider name="Soleus" invert="false" small="0" big="0">
+            <Data name="PsiijicBootsFTOMORPHFROMSoleus" target="PsiijicBootsFTOMORPHFROM" local="true">BHUNPDigitigradeKhajiitPsijicShoesFemale.osd\PsiijicBootsFTOMORPHFROMSoleus</Data>
+        </Slider>
+        <Slider name="CBBE SE" invert="false" small="0" big="0">
+            <Data name="PsiijicBootsFTOMORPHFROMCBBE SE" target="PsiijicBootsFTOMORPHFROM" local="true">BHUNPDigitigradeKhajiitPsijicShoesFemale.osd\PsiijicBootsFTOMORPHFROMCBBE SE</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

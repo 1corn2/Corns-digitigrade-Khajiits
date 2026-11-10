@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="BHUNPDigitigradeKhajiitTelvanniShoesFemale">
+        <ReferenceInfo ProjectFile="SliderSets\BHUNPDigitigradeKhajiitWrapsCutFemale.osp" ProjectName="BHUNPDigitigradeKhajiitWrapsCutFemale" ShapeName="FootPaws_Base"/>
+        <DataFolder>BHUNPDigitigradeKhajiitTelvanniShoesFemale</DataFolder>
+        <SourceFile>BHUNPDigitigradeKhajiitTelvanniShoesFemale.nif</SourceFile>
+        <OutputPath>meshes\dlc02\clothes\digitigrade\telvanni</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">bootsf</OutputFile>
+        <Shape target="TelvanniBoots_toFemale">TelvanniBoots_toFemale</Shape>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="TelvanniBoots_toFemale7B Low" target="TelvanniBoots_toFemale" local="true">BHUNPDigitigradeKhajiitTelvanniShoesFemale.osd\TelvanniBoots_toFemale7B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="TelvanniBoots_toFemale7B High" target="TelvanniBoots_toFemale" local="true">BHUNPDigitigradeKhajiitTelvanniShoesFemale.osd\TelvanniBoots_toFemale7B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="TelvanniBoots_toFemale7B Bombshell Low" target="TelvanniBoots_toFemale" local="true">BHUNPDigitigradeKhajiitTelvanniShoesFemale.osd\TelvanniBoots_toFemale7B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="TelvanniBoots_toFemale7B Bombshell High" target="TelvanniBoots_toFemale" local="true">BHUNPDigitigradeKhajiitTelvanniShoesFemale.osd\TelvanniBoots_toFemale7B Bombshell High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="TelvanniBoots_toFemaleUNP Low" target="TelvanniBoots_toFemale" local="true">BHUNPDigitigradeKhajiitTelvanniShoesFemale.osd\TelvanniBoots_toFemaleUNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="TelvanniBoots_toFemaleUNP High" target="TelvanniBoots_toFemale" local="true">BHUNPDigitigradeKhajiitTelvanniShoesFemale.osd\TelvanniBoots_toFemaleUNP High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="TelvanniBoots_toFemaleUNPB Low" target="TelvanniBoots_toFemale" local="true">BHUNPDigitigradeKhajiitTelvanniShoesFemale.osd\TelvanniBoots_toFemaleUNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="TelvanniBoots_toFemaleUNPB High" target="TelvanniBoots_toFemale" local="true">BHUNPDigitigradeKhajiitTelvanniShoesFemale.osd\TelvanniBoots_toFemaleUNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="TelvanniBoots_toFemaleUNPB Oppai v3.2 Low" target="TelvanniBoots_toFemale" local="true">BHUNPDigitigradeKhajiitTelvanniShoesFemale.osd\TelvanniBoots_toFemaleUNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="TelvanniBoots_toFemaleUNPB Oppai v3.2 High" target="TelvanniBoots_toFemale" local="true">BHUNPDigitigradeKhajiitTelvanniShoesFemale.osd\TelvanniBoots_toFemaleUNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="TelvanniBoots_toFemaleUNPC Low" target="TelvanniBoots_toFemale" local="true">BHUNPDigitigradeKhajiitTelvanniShoesFemale.osd\TelvanniBoots_toFemaleUNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="TelvanniBoots_toFemaleUNPC High" target="TelvanniBoots_toFemale" local="true">BHUNPDigitigradeKhajiitTelvanniShoesFemale.osd\TelvanniBoots_toFemaleUNPC High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="TelvanniBoots_toFemaleTop Model Low" target="TelvanniBoots_toFemale" local="true">BHUNPDigitigradeKhajiitTelvanniShoesFemale.osd\TelvanniBoots_toFemaleTop Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="TelvanniBoots_toFemaleTop Model High" target="TelvanniBoots_toFemale" local="true">BHUNPDigitigradeKhajiitTelvanniShoesFemale.osd\TelvanniBoots_toFemaleTop Model High</Data>
+        </Slider>
+        <Slider name="Aruru6Duck Low" invert="false" small="0" big="0">
+            <Data name="TelvanniBoots_toFemaleAruru6Duck Low" target="TelvanniBoots_toFemale" local="true">BHUNPDigitigradeKhajiitTelvanniShoesFemale.osd\TelvanniBoots_toFemaleAruru6Duck Low</Data>
+        </Slider>
+        <Slider name="Aruru6Duck High" invert="false" small="0" big="0">
+            <Data name="TelvanniBoots_toFemaleAruru6Duck High" target="TelvanniBoots_toFemale" local="true">BHUNPDigitigradeKhajiitTelvanniShoesFemale.osd\TelvanniBoots_toFemaleAruru6Duck High</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="TelvanniBoots_toFemaleCalfSize" target="TelvanniBoots_toFemale" local="true">BHUNPDigitigradeKhajiitTelvanniShoesFemale.osd\TelvanniBoots_toFemaleCalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="TelvanniBoots_toFemaleCalfSmooth" target="TelvanniBoots_toFemale" local="true">BHUNPDigitigradeKhajiitTelvanniShoesFemale.osd\TelvanniBoots_toFemaleCalfSmooth</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="TelvanniBoots_toFemaleChubbyLegs" target="TelvanniBoots_toFemale" local="true">BHUNPDigitigradeKhajiitTelvanniShoesFemale.osd\TelvanniBoots_toFemaleChubbyLegs</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="TelvanniBoots_toFemaleKneeHeight" target="TelvanniBoots_toFemale" local="true">BHUNPDigitigradeKhajiitTelvanniShoesFemale.osd\TelvanniBoots_toFemaleKneeHeight</Data>
+        </Slider>
+        <Slider name="KneeShape" invert="false" small="0" big="0">
+            <Data name="TelvanniBoots_toFemaleKneeShape" target="TelvanniBoots_toFemale" local="true">BHUNPDigitigradeKhajiitTelvanniShoesFemale.osd\TelvanniBoots_toFemaleKneeShape</Data>
+        </Slider>
+        <Slider name="Legs" invert="true" small="100" big="100">
+            <Data name="TelvanniBoots_toFemaleLegs" target="TelvanniBoots_toFemale" local="true">BHUNPDigitigradeKhajiitTelvanniShoesFemale.osd\TelvanniBoots_toFemaleLegs</Data>
+        </Slider>
+        <Slider name="LegsThin" invert="false" small="0" big="0">
+            <Data name="TelvanniBoots_toFemaleLegsThin" target="TelvanniBoots_toFemale" local="true">BHUNPDigitigradeKhajiitTelvanniShoesFemale.osd\TelvanniBoots_toFemaleLegsThin</Data>
+        </Slider>
+        <Slider name="Soleus" invert="false" small="0" big="0">
+            <Data name="TelvanniBoots_toFemaleSoleus" target="TelvanniBoots_toFemale" local="true">BHUNPDigitigradeKhajiitTelvanniShoesFemale.osd\TelvanniBoots_toFemaleSoleus</Data>
+        </Slider>
+        <Slider name="CBBE SE" invert="false" small="0" big="0">
+            <Data name="TelvanniBoots_toFemaleCBBE SE" target="TelvanniBoots_toFemale" local="true">BHUNPDigitigradeKhajiitTelvanniShoesFemale.osd\TelvanniBoots_toFemaleCBBE SE</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

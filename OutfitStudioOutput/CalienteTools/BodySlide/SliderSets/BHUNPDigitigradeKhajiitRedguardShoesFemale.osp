@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="BHUNPDigitigradeKhajiitRedguardShoesFemale">
+        <ReferenceInfo ProjectFile="SliderSets\BHUNPDigitigradeKhajiitWrapsCutFemale.osp" ProjectName="BHUNPDigitigradeKhajiitWrapsCutFemale" ShapeName="FootPaws_Base"/>
+        <DataFolder>BHUNPDigitigradeKhajiitRedguardShoesFemale</DataFolder>
+        <SourceFile>BHUNPDigitigradeKhajiitRedguardShoesFemale.nif</SourceFile>
+        <OutputPath>meshes\clothes\digitigrade\redguard</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">redguardbootsf</OutputFile>
+        <Shape target="Redguard Boots">Redguard Boots</Shape>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="Redguard Boots7B Low" target="Redguard Boots" local="true">BHUNPDigitigradeKhajiitRedguardShoesFemale.osd\Redguard Boots7B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="Redguard Boots7B High" target="Redguard Boots" local="true">BHUNPDigitigradeKhajiitRedguardShoesFemale.osd\Redguard Boots7B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="Redguard Boots7B Bombshell Low" target="Redguard Boots" local="true">BHUNPDigitigradeKhajiitRedguardShoesFemale.osd\Redguard Boots7B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="Redguard Boots7B Bombshell High" target="Redguard Boots" local="true">BHUNPDigitigradeKhajiitRedguardShoesFemale.osd\Redguard Boots7B Bombshell High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="Redguard BootsUNP Low" target="Redguard Boots" local="true">BHUNPDigitigradeKhajiitRedguardShoesFemale.osd\Redguard BootsUNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="Redguard BootsUNP High" target="Redguard Boots" local="true">BHUNPDigitigradeKhajiitRedguardShoesFemale.osd\Redguard BootsUNP High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="Redguard BootsUNPB Low" target="Redguard Boots" local="true">BHUNPDigitigradeKhajiitRedguardShoesFemale.osd\Redguard BootsUNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="Redguard BootsUNPB High" target="Redguard Boots" local="true">BHUNPDigitigradeKhajiitRedguardShoesFemale.osd\Redguard BootsUNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="Redguard BootsUNPB Oppai v3.2 Low" target="Redguard Boots" local="true">BHUNPDigitigradeKhajiitRedguardShoesFemale.osd\Redguard BootsUNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="Redguard BootsUNPB Oppai v3.2 High" target="Redguard Boots" local="true">BHUNPDigitigradeKhajiitRedguardShoesFemale.osd\Redguard BootsUNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="Redguard BootsUNPC Low" target="Redguard Boots" local="true">BHUNPDigitigradeKhajiitRedguardShoesFemale.osd\Redguard BootsUNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="Redguard BootsUNPC High" target="Redguard Boots" local="true">BHUNPDigitigradeKhajiitRedguardShoesFemale.osd\Redguard BootsUNPC High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="Redguard BootsTop Model Low" target="Redguard Boots" local="true">BHUNPDigitigradeKhajiitRedguardShoesFemale.osd\Redguard BootsTop Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="Redguard BootsTop Model High" target="Redguard Boots" local="true">BHUNPDigitigradeKhajiitRedguardShoesFemale.osd\Redguard BootsTop Model High</Data>
+        </Slider>
+        <Slider name="Aruru6Duck Low" invert="false" small="0" big="0">
+            <Data name="Redguard BootsAruru6Duck Low" target="Redguard Boots" local="true">BHUNPDigitigradeKhajiitRedguardShoesFemale.osd\Redguard BootsAruru6Duck Low</Data>
+        </Slider>
+        <Slider name="Aruru6Duck High" invert="false" small="0" big="0">
+            <Data name="Redguard BootsAruru6Duck High" target="Redguard Boots" local="true">BHUNPDigitigradeKhajiitRedguardShoesFemale.osd\Redguard BootsAruru6Duck High</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="Redguard BootsCalfSize" target="Redguard Boots" local="true">BHUNPDigitigradeKhajiitRedguardShoesFemale.osd\Redguard BootsCalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="Redguard BootsCalfSmooth" target="Redguard Boots" local="true">BHUNPDigitigradeKhajiitRedguardShoesFemale.osd\Redguard BootsCalfSmooth</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="Redguard BootsChubbyLegs" target="Redguard Boots" local="true">BHUNPDigitigradeKhajiitRedguardShoesFemale.osd\Redguard BootsChubbyLegs</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="Redguard BootsKneeHeight" target="Redguard Boots" local="true">BHUNPDigitigradeKhajiitRedguardShoesFemale.osd\Redguard BootsKneeHeight</Data>
+        </Slider>
+        <Slider name="KneeShape" invert="false" small="0" big="0">
+            <Data name="Redguard BootsKneeShape" target="Redguard Boots" local="true">BHUNPDigitigradeKhajiitRedguardShoesFemale.osd\Redguard BootsKneeShape</Data>
+        </Slider>
+        <Slider name="Legs" invert="true" small="100" big="100">
+            <Data name="Redguard BootsLegs" target="Redguard Boots" local="true">BHUNPDigitigradeKhajiitRedguardShoesFemale.osd\Redguard BootsLegs</Data>
+        </Slider>
+        <Slider name="LegsThin" invert="false" small="0" big="0">
+            <Data name="Redguard BootsLegsThin" target="Redguard Boots" local="true">BHUNPDigitigradeKhajiitRedguardShoesFemale.osd\Redguard BootsLegsThin</Data>
+        </Slider>
+        <Slider name="MuscleLegs" invert="false" small="0" big="0">
+            <Data name="Redguard BootsMuscleLegs" target="Redguard Boots" local="true">BHUNPDigitigradeKhajiitRedguardShoesFemale.osd\Redguard BootsMuscleLegs</Data>
+        </Slider>
+        <Slider name="LegSpread" invert="false" small="0" big="0">
+            <Data name="Redguard BootsLegSpread" target="Redguard Boots" local="true">BHUNPDigitigradeKhajiitRedguardShoesFemale.osd\Redguard BootsLegSpread</Data>
+        </Slider>
+        <Slider name="Soleus" invert="false" small="0" big="0">
+            <Data name="Redguard BootsSoleus" target="Redguard Boots" local="true">BHUNPDigitigradeKhajiitRedguardShoesFemale.osd\Redguard BootsSoleus</Data>
+        </Slider>
+        <Slider name="CBBE SE" invert="false" small="0" big="0">
+            <Data name="Redguard BootsCBBE SE" target="Redguard Boots" local="true">BHUNPDigitigradeKhajiitRedguardShoesFemale.osd\Redguard BootsCBBE SE</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="BHUNPDigitigradeKhajiitDBHoodShoesFemale">
+        <ReferenceInfo ProjectFile="SliderSets\BHUNPDigitigradeKhajiitWrapsCutFemale.osp" ProjectName="BHUNPDigitigradeKhajiitWrapsCutFemale" ShapeName="FootPaws_Base"/>
+        <DataFolder>BHUNPDigitigradeKhajiitDBHoodShoesFemale</DataFolder>
+        <SourceFile>BHUNPDigitigradeKhajiitDBHoodShoesFemale.nif</SourceFile>
+        <OutputPath>meshes\clothes\digitigrade\robedarkbrotherhood\female</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">dbboots</OutputFile>
+        <Shape target="DBboots">DBboots</Shape>
+        <Shape target="FootPaws_Base" DataFolder="VanillaDigitigradeKhajiitFeetFemale;BHUNPDigitigradeKhajiitFeetFemale">FootPaws_Base</Shape>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="FootPaws_Base7B Low" target="FootPaws_Base">BHUNPDigitigradeKhajiitFeetFemale.osd\FootPaws_Base7B Low</Data>
+            <Data name="DBboots7B Low" target="DBboots" local="true">BHUNPDigitigradeKhajiitDBHoodShoesFemale.osd\DBboots7B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="FootPaws_Base7B High" target="FootPaws_Base">BHUNPDigitigradeKhajiitFeetFemale.osd\FootPaws_Base7B High</Data>
+            <Data name="DBboots7B High" target="DBboots" local="true">BHUNPDigitigradeKhajiitDBHoodShoesFemale.osd\DBboots7B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="FootPaws_Base7B Bombshell Low" target="FootPaws_Base">BHUNPDigitigradeKhajiitFeetFemale.osd\FootPaws_Base7B Bombshell Low</Data>
+            <Data name="DBboots7B Bombshell Low" target="DBboots" local="true">BHUNPDigitigradeKhajiitDBHoodShoesFemale.osd\DBboots7B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="FootPaws_Base7B Bombshell High" target="FootPaws_Base">BHUNPDigitigradeKhajiitFeetFemale.osd\FootPaws_Base7B Bombshell High</Data>
+            <Data name="DBboots7B Bombshell High" target="DBboots" local="true">BHUNPDigitigradeKhajiitDBHoodShoesFemale.osd\DBboots7B Bombshell High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="FootPaws_BaseUNP Low" target="FootPaws_Base">BHUNPDigitigradeKhajiitFeetFemale.osd\FootPaws_BaseUNP Low</Data>
+            <Data name="DBbootsUNP Low" target="DBboots" local="true">BHUNPDigitigradeKhajiitDBHoodShoesFemale.osd\DBbootsUNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="FootPaws_BaseUNP High" target="FootPaws_Base">BHUNPDigitigradeKhajiitFeetFemale.osd\FootPaws_BaseUNP High</Data>
+            <Data name="DBbootsUNP High" target="DBboots" local="true">BHUNPDigitigradeKhajiitDBHoodShoesFemale.osd\DBbootsUNP High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="FootPaws_BaseUNPB Low" target="FootPaws_Base">BHUNPDigitigradeKhajiitFeetFemale.osd\FootPaws_BaseUNPB Low</Data>
+            <Data name="DBbootsUNPB Low" target="DBboots" local="true">BHUNPDigitigradeKhajiitDBHoodShoesFemale.osd\DBbootsUNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="FootPaws_BaseUNPB High" target="FootPaws_Base">BHUNPDigitigradeKhajiitFeetFemale.osd\FootPaws_BaseUNPB High</Data>
+            <Data name="DBbootsUNPB High" target="DBboots" local="true">BHUNPDigitigradeKhajiitDBHoodShoesFemale.osd\DBbootsUNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="FootPaws_BaseUNPB Oppai v3.2 Low" target="FootPaws_Base">BHUNPDigitigradeKhajiitFeetFemale.osd\FootPaws_BaseUNPB Oppai v3.2 Low</Data>
+            <Data name="DBbootsUNPB Oppai v3.2 Low" target="DBboots" local="true">BHUNPDigitigradeKhajiitDBHoodShoesFemale.osd\DBbootsUNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="FootPaws_BaseUNPB Oppai v3.2 High" target="FootPaws_Base">BHUNPDigitigradeKhajiitFeetFemale.osd\FootPaws_BaseUNPB Oppai v3.2 High</Data>
+            <Data name="DBbootsUNPB Oppai v3.2 High" target="DBboots" local="true">BHUNPDigitigradeKhajiitDBHoodShoesFemale.osd\DBbootsUNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="FootPaws_BaseUNPC Low" target="FootPaws_Base">BHUNPDigitigradeKhajiitFeetFemale.osd\FootPaws_BaseUNPC Low</Data>
+            <Data name="DBbootsUNPC Low" target="DBboots" local="true">BHUNPDigitigradeKhajiitDBHoodShoesFemale.osd\DBbootsUNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="FootPaws_BaseUNPC High" target="FootPaws_Base">BHUNPDigitigradeKhajiitFeetFemale.osd\FootPaws_BaseUNPC High</Data>
+            <Data name="DBbootsUNPC High" target="DBboots" local="true">BHUNPDigitigradeKhajiitDBHoodShoesFemale.osd\DBbootsUNPC High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="FootPaws_BaseTop Model Low" target="FootPaws_Base">BHUNPDigitigradeKhajiitFeetFemale.osd\FootPaws_BaseTop Model Low</Data>
+            <Data name="DBbootsTop Model Low" target="DBboots" local="true">BHUNPDigitigradeKhajiitDBHoodShoesFemale.osd\DBbootsTop Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="FootPaws_BaseTop Model High" target="FootPaws_Base">BHUNPDigitigradeKhajiitFeetFemale.osd\FootPaws_BaseTop Model High</Data>
+            <Data name="DBbootsTop Model High" target="DBboots" local="true">BHUNPDigitigradeKhajiitDBHoodShoesFemale.osd\DBbootsTop Model High</Data>
+        </Slider>
+        <Slider name="Legs" invert="true" small="100" big="100">
+            <Data name="DBbootsLegs" target="DBboots" local="true">BHUNPDigitigradeKhajiitDBHoodShoesFemale.osd\DBbootsLegs</Data>
+        </Slider>
+        <Slider name="CBBE SE" invert="false" small="0" big="0">
+            <Data name="FootPaws_BaseCBBE SE" target="FootPaws_Base">BHUNPDigitigradeKhajiitFeetFemale.osd\FootPaws_BaseCBBE SE</Data>
+            <Data name="DBbootsCBBE SE" target="DBboots" local="true">BHUNPDigitigradeKhajiitDBHoodShoesFemale.osd\DBbootsCBBE SE</Data>
+        </Slider>
+        <Slider name="HighHeel" invert="false" small="0" big="0">
+            <Data name="FootPaws_BaseHighHeel" target="FootPaws_Base">BHUNPDigitigradeKhajiitFeetFemale.osd\FootPaws_BaseHighHeel</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

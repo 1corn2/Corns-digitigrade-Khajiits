@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="BHUNPDigitigradeKhajiitBanditShoesFemale">
+        <ReferenceInfo ProjectFile="SliderSets\BHUNPDigitigradeKhajiitWrapsCutFemale.osp" ProjectName="BHUNPDigitigradeKhajiitWrapsCutFemale" ShapeName="FootPaws_Base"/>
+        <DataFolder>BHUNPDigitigradeKhajiitBanditShoesFemale</DataFolder>
+        <SourceFile>BHUNPDigitigradeKhajiitBanditShoesFemale.nif</SourceFile>
+        <OutputPath>meshes\armor\digitigrade\bandit</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">bootsf</OutputFile>
+        <Shape target="Bandit_Armor_Female_Shoes">Bandit_Armor_Female_Shoes</Shape>
+        <Shape target="FootPaws_Base" DataFolder="VanillaDigitigradeKhajiitFeetFemale;BHUNPDigitigradeKhajiitFeetFemale">FootPaws_Base</Shape>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="FootPaws_Base7B Low" target="FootPaws_Base">BHUNPDigitigradeKhajiitFeetFemale.osd\FootPaws_Base7B Low</Data>
+            <Data name="Bandit_Armor_Female_Shoes7B Low" target="Bandit_Armor_Female_Shoes" local="true">BHUNPDigitigradeKhajiitBanditShoesFemale.osd\Bandit_Armor_Female_Shoes7B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="FootPaws_Base7B High" target="FootPaws_Base">BHUNPDigitigradeKhajiitFeetFemale.osd\FootPaws_Base7B High</Data>
+            <Data name="Bandit_Armor_Female_Shoes7B High" target="Bandit_Armor_Female_Shoes" local="true">BHUNPDigitigradeKhajiitBanditShoesFemale.osd\Bandit_Armor_Female_Shoes7B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="FootPaws_Base7B Bombshell Low" target="FootPaws_Base">BHUNPDigitigradeKhajiitFeetFemale.osd\FootPaws_Base7B Bombshell Low</Data>
+            <Data name="Bandit_Armor_Female_Shoes7B Bombshell Low" target="Bandit_Armor_Female_Shoes" local="true">BHUNPDigitigradeKhajiitBanditShoesFemale.osd\Bandit_Armor_Female_Shoes7B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="FootPaws_Base7B Bombshell High" target="FootPaws_Base">BHUNPDigitigradeKhajiitFeetFemale.osd\FootPaws_Base7B Bombshell High</Data>
+            <Data name="Bandit_Armor_Female_Shoes7B Bombshell High" target="Bandit_Armor_Female_Shoes" local="true">BHUNPDigitigradeKhajiitBanditShoesFemale.osd\Bandit_Armor_Female_Shoes7B Bombshell High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="FootPaws_BaseUNP Low" target="FootPaws_Base">BHUNPDigitigradeKhajiitFeetFemale.osd\FootPaws_BaseUNP Low</Data>
+            <Data name="Bandit_Armor_Female_ShoesUNP Low" target="Bandit_Armor_Female_Shoes" local="true">BHUNPDigitigradeKhajiitBanditShoesFemale.osd\Bandit_Armor_Female_ShoesUNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="FootPaws_BaseUNP High" target="FootPaws_Base">BHUNPDigitigradeKhajiitFeetFemale.osd\FootPaws_BaseUNP High</Data>
+            <Data name="Bandit_Armor_Female_ShoesUNP High" target="Bandit_Armor_Female_Shoes" local="true">BHUNPDigitigradeKhajiitBanditShoesFemale.osd\Bandit_Armor_Female_ShoesUNP High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="FootPaws_BaseUNPB Low" target="FootPaws_Base">BHUNPDigitigradeKhajiitFeetFemale.osd\FootPaws_BaseUNPB Low</Data>
+            <Data name="Bandit_Armor_Female_ShoesUNPB Low" target="Bandit_Armor_Female_Shoes" local="true">BHUNPDigitigradeKhajiitBanditShoesFemale.osd\Bandit_Armor_Female_ShoesUNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="FootPaws_BaseUNPB High" target="FootPaws_Base">BHUNPDigitigradeKhajiitFeetFemale.osd\FootPaws_BaseUNPB High</Data>
+            <Data name="Bandit_Armor_Female_ShoesUNPB High" target="Bandit_Armor_Female_Shoes" local="true">BHUNPDigitigradeKhajiitBanditShoesFemale.osd\Bandit_Armor_Female_ShoesUNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="FootPaws_BaseUNPB Oppai v3.2 Low" target="FootPaws_Base">BHUNPDigitigradeKhajiitFeetFemale.osd\FootPaws_BaseUNPB Oppai v3.2 Low</Data>
+            <Data name="Bandit_Armor_Female_ShoesUNPB Oppai v3.2 Low" target="Bandit_Armor_Female_Shoes" local="true">BHUNPDigitigradeKhajiitBanditShoesFemale.osd\Bandit_Armor_Female_ShoesUNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="FootPaws_BaseUNPB Oppai v3.2 High" target="FootPaws_Base">BHUNPDigitigradeKhajiitFeetFemale.osd\FootPaws_BaseUNPB Oppai v3.2 High</Data>
+            <Data name="Bandit_Armor_Female_ShoesUNPB Oppai v3.2 High" target="Bandit_Armor_Female_Shoes" local="true">BHUNPDigitigradeKhajiitBanditShoesFemale.osd\Bandit_Armor_Female_ShoesUNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="FootPaws_BaseUNPC Low" target="FootPaws_Base">BHUNPDigitigradeKhajiitFeetFemale.osd\FootPaws_BaseUNPC Low</Data>
+            <Data name="Bandit_Armor_Female_ShoesUNPC Low" target="Bandit_Armor_Female_Shoes" local="true">BHUNPDigitigradeKhajiitBanditShoesFemale.osd\Bandit_Armor_Female_ShoesUNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="FootPaws_BaseUNPC High" target="FootPaws_Base">BHUNPDigitigradeKhajiitFeetFemale.osd\FootPaws_BaseUNPC High</Data>
+            <Data name="Bandit_Armor_Female_ShoesUNPC High" target="Bandit_Armor_Female_Shoes" local="true">BHUNPDigitigradeKhajiitBanditShoesFemale.osd\Bandit_Armor_Female_ShoesUNPC High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="FootPaws_BaseTop Model Low" target="FootPaws_Base">BHUNPDigitigradeKhajiitFeetFemale.osd\FootPaws_BaseTop Model Low</Data>
+            <Data name="Bandit_Armor_Female_ShoesTop Model Low" target="Bandit_Armor_Female_Shoes" local="true">BHUNPDigitigradeKhajiitBanditShoesFemale.osd\Bandit_Armor_Female_ShoesTop Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="FootPaws_BaseTop Model High" target="FootPaws_Base">BHUNPDigitigradeKhajiitFeetFemale.osd\FootPaws_BaseTop Model High</Data>
+            <Data name="Bandit_Armor_Female_ShoesTop Model High" target="Bandit_Armor_Female_Shoes" local="true">BHUNPDigitigradeKhajiitBanditShoesFemale.osd\Bandit_Armor_Female_ShoesTop Model High</Data>
+        </Slider>
+        <Slider name="Legs" invert="true" small="100" big="100">
+            <Data name="Bandit_Armor_Female_ShoesLegs" target="Bandit_Armor_Female_Shoes" local="true">BHUNPDigitigradeKhajiitBanditShoesFemale.osd\Bandit_Armor_Female_ShoesLegs</Data>
+        </Slider>
+        <Slider name="CBBE SE" invert="false" small="0" big="0">
+            <Data name="FootPaws_BaseCBBE SE" target="FootPaws_Base">BHUNPDigitigradeKhajiitFeetFemale.osd\FootPaws_BaseCBBE SE</Data>
+            <Data name="Bandit_Armor_Female_ShoesCBBE SE" target="Bandit_Armor_Female_Shoes" local="true">BHUNPDigitigradeKhajiitBanditShoesFemale.osd\Bandit_Armor_Female_ShoesCBBE SE</Data>
+        </Slider>
+        <Slider name="HighHeel" invert="false" small="0" big="0">
+            <Data name="FootPaws_BaseHighHeel" target="FootPaws_Base">BHUNPDigitigradeKhajiitFeetFemale.osd\FootPaws_BaseHighHeel</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

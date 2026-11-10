@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="BHUNPDigitigradeKhajiitFarm02ShoesFemale">
+        <ReferenceInfo ProjectFile="SliderSets\BHUNPDigitigradeKhajiitWrapsCutFemale.osp" ProjectName="BHUNPDigitigradeKhajiitWrapsCutFemale" ShapeName="FootPaws_Base"/>
+        <DataFolder>BHUNPDigitigradeKhajiitFarm02ShoesFemale</DataFolder>
+        <SourceFile>BHUNPDigitigradeKhajiitFarm02ShoesFemale.nif</SourceFile>
+        <OutputPath>meshes\clothes\digitigrade\farmclothes02\f</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">shoes</OutputFile>
+        <Shape target="Farm02FShoes">Farm02FShoes</Shape>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="Farm02FShoes7B Low" target="Farm02FShoes" local="true">BHUNPDigitigradeKhajiitFarm02ShoesFemale.osd\Farm02FShoes7B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="Farm02FShoes7B High" target="Farm02FShoes" local="true">BHUNPDigitigradeKhajiitFarm02ShoesFemale.osd\Farm02FShoes7B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="Farm02FShoes7B Bombshell Low" target="Farm02FShoes" local="true">BHUNPDigitigradeKhajiitFarm02ShoesFemale.osd\Farm02FShoes7B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="Farm02FShoes7B Bombshell High" target="Farm02FShoes" local="true">BHUNPDigitigradeKhajiitFarm02ShoesFemale.osd\Farm02FShoes7B Bombshell High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="Farm02FShoesUNP Low" target="Farm02FShoes" local="true">BHUNPDigitigradeKhajiitFarm02ShoesFemale.osd\Farm02FShoesUNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="Farm02FShoesUNP High" target="Farm02FShoes" local="true">BHUNPDigitigradeKhajiitFarm02ShoesFemale.osd\Farm02FShoesUNP High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="Farm02FShoesUNPB Low" target="Farm02FShoes" local="true">BHUNPDigitigradeKhajiitFarm02ShoesFemale.osd\Farm02FShoesUNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="Farm02FShoesUNPB High" target="Farm02FShoes" local="true">BHUNPDigitigradeKhajiitFarm02ShoesFemale.osd\Farm02FShoesUNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="Farm02FShoesUNPB Oppai v3.2 Low" target="Farm02FShoes" local="true">BHUNPDigitigradeKhajiitFarm02ShoesFemale.osd\Farm02FShoesUNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="Farm02FShoesUNPB Oppai v3.2 High" target="Farm02FShoes" local="true">BHUNPDigitigradeKhajiitFarm02ShoesFemale.osd\Farm02FShoesUNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="Farm02FShoesUNPC Low" target="Farm02FShoes" local="true">BHUNPDigitigradeKhajiitFarm02ShoesFemale.osd\Farm02FShoesUNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="Farm02FShoesUNPC High" target="Farm02FShoes" local="true">BHUNPDigitigradeKhajiitFarm02ShoesFemale.osd\Farm02FShoesUNPC High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="Farm02FShoesTop Model Low" target="Farm02FShoes" local="true">BHUNPDigitigradeKhajiitFarm02ShoesFemale.osd\Farm02FShoesTop Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="Farm02FShoesTop Model High" target="Farm02FShoes" local="true">BHUNPDigitigradeKhajiitFarm02ShoesFemale.osd\Farm02FShoesTop Model High</Data>
+        </Slider>
+        <Slider name="Aruru6Duck Low" invert="false" small="0" big="0">
+            <Data name="Farm02FShoesAruru6Duck Low" target="Farm02FShoes" local="true">BHUNPDigitigradeKhajiitFarm02ShoesFemale.osd\Farm02FShoesAruru6Duck Low</Data>
+        </Slider>
+        <Slider name="Aruru6Duck High" invert="false" small="0" big="0">
+            <Data name="Farm02FShoesAruru6Duck High" target="Farm02FShoes" local="true">BHUNPDigitigradeKhajiitFarm02ShoesFemale.osd\Farm02FShoesAruru6Duck High</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="Farm02FShoesCalfSize" target="Farm02FShoes" local="true">BHUNPDigitigradeKhajiitFarm02ShoesFemale.osd\Farm02FShoesCalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="Farm02FShoesCalfSmooth" target="Farm02FShoes" local="true">BHUNPDigitigradeKhajiitFarm02ShoesFemale.osd\Farm02FShoesCalfSmooth</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="Farm02FShoesChubbyLegs" target="Farm02FShoes" local="true">BHUNPDigitigradeKhajiitFarm02ShoesFemale.osd\Farm02FShoesChubbyLegs</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="Farm02FShoesKneeHeight" target="Farm02FShoes" local="true">BHUNPDigitigradeKhajiitFarm02ShoesFemale.osd\Farm02FShoesKneeHeight</Data>
+        </Slider>
+        <Slider name="KneeShape" invert="false" small="0" big="0">
+            <Data name="Farm02FShoesKneeShape" target="Farm02FShoes" local="true">BHUNPDigitigradeKhajiitFarm02ShoesFemale.osd\Farm02FShoesKneeShape</Data>
+        </Slider>
+        <Slider name="Legs" invert="true" small="100" big="100">
+            <Data name="Farm02FShoesLegs" target="Farm02FShoes" local="true">BHUNPDigitigradeKhajiitFarm02ShoesFemale.osd\Farm02FShoesLegs</Data>
+        </Slider>
+        <Slider name="LegsThin" invert="false" small="0" big="0">
+            <Data name="Farm02FShoesLegsThin" target="Farm02FShoes" local="true">BHUNPDigitigradeKhajiitFarm02ShoesFemale.osd\Farm02FShoesLegsThin</Data>
+        </Slider>
+        <Slider name="Soleus" invert="false" small="0" big="0">
+            <Data name="Farm02FShoesSoleus" target="Farm02FShoes" local="true">BHUNPDigitigradeKhajiitFarm02ShoesFemale.osd\Farm02FShoesSoleus</Data>
+        </Slider>
+        <Slider name="CBBE SE" invert="false" small="0" big="0">
+            <Data name="Farm02FShoesCBBE SE" target="Farm02FShoes" local="true">BHUNPDigitigradeKhajiitFarm02ShoesFemale.osd\Farm02FShoesCBBE SE</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

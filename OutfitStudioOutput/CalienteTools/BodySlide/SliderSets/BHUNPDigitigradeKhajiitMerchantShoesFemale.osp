@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="BHUNPDigitigradeKhajiitMerchantShoesFemale">
+        <ReferenceInfo ProjectFile="SliderSets\BHUNPDigitigradeKhajiitWrapsCutFemale.osp" ProjectName="BHUNPDigitigradeKhajiitWrapsCutFemale" ShapeName="FootPaws_Base"/>
+        <DataFolder>BHUNPDigitigradeKhajiitMerchantShoesFemale</DataFolder>
+        <SourceFile>BHUNPDigitigradeKhajiitMerchantShoesFemale.nif</SourceFile>
+        <OutputPath>meshes\clothes\digitigrade\merchantclothes</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">bootsf</OutputFile>
+        <Shape target="merchantboots">merchantboots</Shape>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="merchantboots7B Low" target="merchantboots" local="true">BHUNPDigitigradeKhajiitMerchantShoesFemale.osd\merchantboots7B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="merchantboots7B High" target="merchantboots" local="true">BHUNPDigitigradeKhajiitMerchantShoesFemale.osd\merchantboots7B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="merchantboots7B Bombshell Low" target="merchantboots" local="true">BHUNPDigitigradeKhajiitMerchantShoesFemale.osd\merchantboots7B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="merchantboots7B Bombshell High" target="merchantboots" local="true">BHUNPDigitigradeKhajiitMerchantShoesFemale.osd\merchantboots7B Bombshell High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="merchantbootsUNP Low" target="merchantboots" local="true">BHUNPDigitigradeKhajiitMerchantShoesFemale.osd\merchantbootsUNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="merchantbootsUNP High" target="merchantboots" local="true">BHUNPDigitigradeKhajiitMerchantShoesFemale.osd\merchantbootsUNP High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="merchantbootsUNPB Low" target="merchantboots" local="true">BHUNPDigitigradeKhajiitMerchantShoesFemale.osd\merchantbootsUNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="merchantbootsUNPB High" target="merchantboots" local="true">BHUNPDigitigradeKhajiitMerchantShoesFemale.osd\merchantbootsUNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="merchantbootsUNPB Oppai v3.2 Low" target="merchantboots" local="true">BHUNPDigitigradeKhajiitMerchantShoesFemale.osd\merchantbootsUNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="merchantbootsUNPB Oppai v3.2 High" target="merchantboots" local="true">BHUNPDigitigradeKhajiitMerchantShoesFemale.osd\merchantbootsUNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="merchantbootsUNPC Low" target="merchantboots" local="true">BHUNPDigitigradeKhajiitMerchantShoesFemale.osd\merchantbootsUNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="merchantbootsUNPC High" target="merchantboots" local="true">BHUNPDigitigradeKhajiitMerchantShoesFemale.osd\merchantbootsUNPC High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="merchantbootsTop Model Low" target="merchantboots" local="true">BHUNPDigitigradeKhajiitMerchantShoesFemale.osd\merchantbootsTop Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="merchantbootsTop Model High" target="merchantboots" local="true">BHUNPDigitigradeKhajiitMerchantShoesFemale.osd\merchantbootsTop Model High</Data>
+        </Slider>
+        <Slider name="Aruru6Duck Low" invert="false" small="0" big="0">
+            <Data name="merchantbootsAruru6Duck Low" target="merchantboots" local="true">BHUNPDigitigradeKhajiitMerchantShoesFemale.osd\merchantbootsAruru6Duck Low</Data>
+        </Slider>
+        <Slider name="Aruru6Duck High" invert="false" small="0" big="0">
+            <Data name="merchantbootsAruru6Duck High" target="merchantboots" local="true">BHUNPDigitigradeKhajiitMerchantShoesFemale.osd\merchantbootsAruru6Duck High</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="merchantbootsCalfSize" target="merchantboots" local="true">BHUNPDigitigradeKhajiitMerchantShoesFemale.osd\merchantbootsCalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="merchantbootsCalfSmooth" target="merchantboots" local="true">BHUNPDigitigradeKhajiitMerchantShoesFemale.osd\merchantbootsCalfSmooth</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="merchantbootsChubbyLegs" target="merchantboots" local="true">BHUNPDigitigradeKhajiitMerchantShoesFemale.osd\merchantbootsChubbyLegs</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="merchantbootsKneeHeight" target="merchantboots" local="true">BHUNPDigitigradeKhajiitMerchantShoesFemale.osd\merchantbootsKneeHeight</Data>
+        </Slider>
+        <Slider name="KneeShape" invert="false" small="0" big="0">
+            <Data name="merchantbootsKneeShape" target="merchantboots" local="true">BHUNPDigitigradeKhajiitMerchantShoesFemale.osd\merchantbootsKneeShape</Data>
+        </Slider>
+        <Slider name="KneeSlim" invert="false" small="0" big="0">
+            <Data name="merchantbootsKneeSlim" target="merchantboots" local="true">BHUNPDigitigradeKhajiitMerchantShoesFemale.osd\merchantbootsKneeSlim</Data>
+        </Slider>
+        <Slider name="Legs" invert="true" small="100" big="100">
+            <Data name="merchantbootsLegs" target="merchantboots" local="true">BHUNPDigitigradeKhajiitMerchantShoesFemale.osd\merchantbootsLegs</Data>
+        </Slider>
+        <Slider name="LegsThin" invert="false" small="0" big="0">
+            <Data name="merchantbootsLegsThin" target="merchantboots" local="true">BHUNPDigitigradeKhajiitMerchantShoesFemale.osd\merchantbootsLegsThin</Data>
+        </Slider>
+        <Slider name="MuscleLegs" invert="false" small="0" big="0">
+            <Data name="merchantbootsMuscleLegs" target="merchantboots" local="true">BHUNPDigitigradeKhajiitMerchantShoesFemale.osd\merchantbootsMuscleLegs</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="merchantbootsSlimThighs" target="merchantboots" local="true">BHUNPDigitigradeKhajiitMerchantShoesFemale.osd\merchantbootsSlimThighs</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="merchantbootsThighs" target="merchantboots" local="true">BHUNPDigitigradeKhajiitMerchantShoesFemale.osd\merchantbootsThighs</Data>
+        </Slider>
+        <Slider name="LegSpread" invert="false" small="0" big="0">
+            <Data name="merchantbootsLegSpread" target="merchantboots" local="true">BHUNPDigitigradeKhajiitMerchantShoesFemale.osd\merchantbootsLegSpread</Data>
+        </Slider>
+        <Slider name="Soleus" invert="false" small="0" big="0">
+            <Data name="merchantbootsSoleus" target="merchantboots" local="true">BHUNPDigitigradeKhajiitMerchantShoesFemale.osd\merchantbootsSoleus</Data>
+        </Slider>
+        <Slider name="CBBE SE" invert="false" small="0" big="0">
+            <Data name="merchantbootsCBBE SE" target="merchantboots" local="true">BHUNPDigitigradeKhajiitMerchantShoesFemale.osd\merchantbootsCBBE SE</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

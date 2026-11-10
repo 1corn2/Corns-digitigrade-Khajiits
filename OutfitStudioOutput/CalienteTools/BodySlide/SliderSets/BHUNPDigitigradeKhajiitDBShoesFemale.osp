@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="BHUNPDigitigradeKhajiitDBShoesFemale">
+        <ReferenceInfo ProjectFile="SliderSets\BHUNPDigitigradeKhajiitWrapsCutFemale.osp" ProjectName="BHUNPDigitigradeKhajiitWrapsCutFemale" ShapeName="FootPaws_Base"/>
+        <DataFolder>BHUNPDigitigradeKhajiitDBShoesFemale</DataFolder>
+        <SourceFile>BHUNPDigitigradeKhajiitDBShoesFemale.nif</SourceFile>
+        <OutputPath>meshes\armor\digitigrade\dbarmor</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">dbarmor_boots_f</OutputFile>
+        <Shape target="DBBoots">DBBoots</Shape>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="DBBoots7B Low" target="DBBoots" local="true">BHUNPDigitigradeKhajiitDBShoesFemale.osd\DBBoots7B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="DBBoots7B High" target="DBBoots" local="true">BHUNPDigitigradeKhajiitDBShoesFemale.osd\DBBoots7B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="DBBoots7B Bombshell Low" target="DBBoots" local="true">BHUNPDigitigradeKhajiitDBShoesFemale.osd\DBBoots7B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="DBBoots7B Bombshell High" target="DBBoots" local="true">BHUNPDigitigradeKhajiitDBShoesFemale.osd\DBBoots7B Bombshell High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="DBBootsUNP Low" target="DBBoots" local="true">BHUNPDigitigradeKhajiitDBShoesFemale.osd\DBBootsUNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="DBBootsUNP High" target="DBBoots" local="true">BHUNPDigitigradeKhajiitDBShoesFemale.osd\DBBootsUNP High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="DBBootsUNPB Low" target="DBBoots" local="true">BHUNPDigitigradeKhajiitDBShoesFemale.osd\DBBootsUNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="DBBootsUNPB High" target="DBBoots" local="true">BHUNPDigitigradeKhajiitDBShoesFemale.osd\DBBootsUNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="DBBootsUNPB Oppai v3.2 Low" target="DBBoots" local="true">BHUNPDigitigradeKhajiitDBShoesFemale.osd\DBBootsUNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="DBBootsUNPB Oppai v3.2 High" target="DBBoots" local="true">BHUNPDigitigradeKhajiitDBShoesFemale.osd\DBBootsUNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="DBBootsUNPC Low" target="DBBoots" local="true">BHUNPDigitigradeKhajiitDBShoesFemale.osd\DBBootsUNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="DBBootsUNPC High" target="DBBoots" local="true">BHUNPDigitigradeKhajiitDBShoesFemale.osd\DBBootsUNPC High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="DBBootsTop Model Low" target="DBBoots" local="true">BHUNPDigitigradeKhajiitDBShoesFemale.osd\DBBootsTop Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="DBBootsTop Model High" target="DBBoots" local="true">BHUNPDigitigradeKhajiitDBShoesFemale.osd\DBBootsTop Model High</Data>
+        </Slider>
+        <Slider name="Aruru6Duck Low" invert="false" small="0" big="0">
+            <Data name="DBBootsAruru6Duck Low" target="DBBoots" local="true">BHUNPDigitigradeKhajiitDBShoesFemale.osd\DBBootsAruru6Duck Low</Data>
+        </Slider>
+        <Slider name="Aruru6Duck High" invert="false" small="0" big="0">
+            <Data name="DBBootsAruru6Duck High" target="DBBoots" local="true">BHUNPDigitigradeKhajiitDBShoesFemale.osd\DBBootsAruru6Duck High</Data>
+        </Slider>
+        <Slider name="BellyObesity" invert="false" small="0" big="0">
+            <Data name="DBBootsBellyObesity" target="DBBoots" local="true">BHUNPDigitigradeKhajiitDBShoesFemale.osd\DBBootsBellyObesity</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="true" small="100" big="100">
+            <Data name="DBBootsButtSmall" target="DBBoots" local="true">BHUNPDigitigradeKhajiitDBShoesFemale.osd\DBBootsButtSmall</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="DBBootsCalfSize" target="DBBoots" local="true">BHUNPDigitigradeKhajiitDBShoesFemale.osd\DBBootsCalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="DBBootsCalfSmooth" target="DBBoots" local="true">BHUNPDigitigradeKhajiitDBShoesFemale.osd\DBBootsCalfSmooth</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="DBBootsChubbyLegs" target="DBBoots" local="true">BHUNPDigitigradeKhajiitDBShoesFemale.osd\DBBootsChubbyLegs</Data>
+        </Slider>
+        <Slider name="HipForward" invert="false" small="0" big="0">
+            <Data name="DBBootsHipForward" target="DBBoots" local="true">BHUNPDigitigradeKhajiitDBShoesFemale.osd\DBBootsHipForward</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="DBBootsKneeHeight" target="DBBoots" local="true">BHUNPDigitigradeKhajiitDBShoesFemale.osd\DBBootsKneeHeight</Data>
+        </Slider>
+        <Slider name="KneeShape" invert="false" small="0" big="0">
+            <Data name="DBBootsKneeShape" target="DBBoots" local="true">BHUNPDigitigradeKhajiitDBShoesFemale.osd\DBBootsKneeShape</Data>
+        </Slider>
+        <Slider name="KneeSlim" invert="false" small="0" big="0">
+            <Data name="DBBootsKneeSlim" target="DBBoots" local="true">BHUNPDigitigradeKhajiitDBShoesFemale.osd\DBBootsKneeSlim</Data>
+        </Slider>
+        <Slider name="Legs" invert="true" small="100" big="100">
+            <Data name="DBBootsLegs" target="DBBoots" local="true">BHUNPDigitigradeKhajiitDBShoesFemale.osd\DBBootsLegs</Data>
+        </Slider>
+        <Slider name="LegsThin" invert="false" small="0" big="0">
+            <Data name="DBBootsLegsThin" target="DBBoots" local="true">BHUNPDigitigradeKhajiitDBShoesFemale.osd\DBBootsLegsThin</Data>
+        </Slider>
+        <Slider name="MuscleLegs" invert="false" small="0" big="0">
+            <Data name="DBBootsMuscleLegs" target="DBBoots" local="true">BHUNPDigitigradeKhajiitDBShoesFemale.osd\DBBootsMuscleLegs</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="DBBootsSlimThighs" target="DBBoots" local="true">BHUNPDigitigradeKhajiitDBShoesFemale.osd\DBBootsSlimThighs</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="DBBootsThighs" target="DBBoots" local="true">BHUNPDigitigradeKhajiitDBShoesFemale.osd\DBBootsThighs</Data>
+        </Slider>
+        <Slider name="ThighThicker" invert="false" small="0" big="0">
+            <Data name="DBBootsThighThicker" target="DBBoots" local="true">BHUNPDigitigradeKhajiitDBShoesFemale.osd\DBBootsThighThicker</Data>
+        </Slider>
+        <Slider name="Sartorius" invert="false" small="0" big="0">
+            <Data name="DBBootsSartorius" target="DBBoots" local="true">BHUNPDigitigradeKhajiitDBShoesFemale.osd\DBBootsSartorius</Data>
+        </Slider>
+        <Slider name="VastusMedialis" invert="false" small="0" big="0">
+            <Data name="DBBootsVastusMedialis" target="DBBoots" local="true">BHUNPDigitigradeKhajiitDBShoesFemale.osd\DBBootsVastusMedialis</Data>
+        </Slider>
+        <Slider name="Hamstrings" invert="false" small="0" big="0">
+            <Data name="DBBootsHamstrings" target="DBBoots" local="true">BHUNPDigitigradeKhajiitDBShoesFemale.osd\DBBootsHamstrings</Data>
+        </Slider>
+        <Slider name="BicepsFemoris" invert="false" small="0" big="0">
+            <Data name="DBBootsBicepsFemoris" target="DBBoots" local="true">BHUNPDigitigradeKhajiitDBShoesFemale.osd\DBBootsBicepsFemoris</Data>
+        </Slider>
+        <Slider name="LegSpread" invert="false" small="0" big="0">
+            <Data name="DBBootsLegSpread" target="DBBoots" local="true">BHUNPDigitigradeKhajiitDBShoesFemale.osd\DBBootsLegSpread</Data>
+        </Slider>
+        <Slider name="Soleus" invert="false" small="0" big="0">
+            <Data name="DBBootsSoleus" target="DBBoots" local="true">BHUNPDigitigradeKhajiitDBShoesFemale.osd\DBBootsSoleus</Data>
+        </Slider>
+        <Slider name="CBBE SE" invert="false" small="0" big="0">
+            <Data name="DBBootsCBBE SE" target="DBBoots" local="true">BHUNPDigitigradeKhajiitDBShoesFemale.osd\DBBootsCBBE SE</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>
