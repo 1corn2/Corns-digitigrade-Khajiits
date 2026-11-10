@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <SliderSetInfo version="1">
     <SliderSet name="VanillaDigitigradeKhajiitIronBootsMale">
-        <ReferenceInfo ProjectFile="SliderSets\VanillaDigitigradeKhajiitWrapsCutMale.osp" ProjectName="VanillaDigitigradeKhajiitWrapsCutMale" ShapeName="FootPaws_Base"/>
+        <ReferenceInfo ShapeName="FootPaws_Base"/>
         <DataFolder>VanillaDigitigradeKhajiitIronBootsMale</DataFolder>
         <SourceFile>VanillaDigitigradeKhajiitIronBootsMale.nif</SourceFile>
         <OutputPath>meshes\armor\digitigrade\iron</OutputPath>
