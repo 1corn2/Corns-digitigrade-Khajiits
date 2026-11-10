@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <SliderSetInfo version="1">
     <SliderSet name="CBBEDigitigradeKhajiitDragonBoneBootsFemale">
-        <ReferenceInfo ProjectFile="SliderSets\CBBEDigitigradeKhajiitWrapsCutFemale.osp" ProjectName="CBBEDigitigradeKhajiitWrapsCutFemale" ShapeName="FootPaws_Base"/>
+        <ReferenceInfo ShapeName="FootPaws_Base"/>
         <DataFolder>CBBEDigitigradeKhajiitDragonBoneBootsFemale</DataFolder>
         <SourceFile>CBBEDigitigradeKhajiitDragonBoneBootsFemale.nif</SourceFile>
         <OutputPath>meshes\armor\digitigrade\dragonbone</OutputPath>
