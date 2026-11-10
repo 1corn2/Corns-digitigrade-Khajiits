@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="CBBEDigitigradeKhajiitWenchShoesFemale">
+        <ReferenceInfo ProjectFile="SliderSets\CBBEDigitigradeKhajiitFeetFemale.osp" ProjectName="CBBEDigitigradeKhajiitFeetFemale" ShapeName="FootPaws_Base"/>
+        <DataFolder>CBBEDigitigradeKhajiitWenchShoesFemale</DataFolder>
+        <SourceFile>CBBEDigitigradeKhajiitWenchShoesFemale.nif</SourceFile>
+        <OutputPath>meshes\clothes\digitigrade\wench</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">wenchoutfitbootsf</OutputFile>
+        <Shape target="WenchBoots">WenchBoots</Shape>
+        <Slider name="AnkleSize" invert="false" small="100" big="0">
+            <Data name="WenchBootsAnkleSize" target="WenchBoots" local="true">CBBEDigitigradeKhajiitWenchShoesFemale.osd\WenchBootsAnkleSize</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="WenchBootsCalfSize" target="WenchBoots" local="true">CBBEDigitigradeKhajiitWenchShoesFemale.osd\WenchBootsCalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="WenchBootsCalfSmooth" target="WenchBoots" local="true">CBBEDigitigradeKhajiitWenchShoesFemale.osd\WenchBootsCalfSmooth</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="WenchBootsChubbyLegs" target="WenchBoots" local="true">CBBEDigitigradeKhajiitWenchShoesFemale.osd\WenchBootsChubbyLegs</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="WenchBootsKneeHeight" target="WenchBoots" local="true">CBBEDigitigradeKhajiitWenchShoesFemale.osd\WenchBootsKneeHeight</Data>
+        </Slider>
+        <Slider name="KneeShape" invert="false" small="0" big="0">
+            <Data name="WenchBootsKneeShape" target="WenchBoots" local="true">CBBEDigitigradeKhajiitWenchShoesFemale.osd\WenchBootsKneeShape</Data>
+        </Slider>
+        <Slider name="LegShapeClassic" invert="false" small="0" big="0">
+            <Data name="WenchBootsLegShapeClassic" target="WenchBoots" local="true">CBBEDigitigradeKhajiitWenchShoesFemale.osd\WenchBootsLegShapeClassic</Data>
+        </Slider>
+        <Slider name="LegsThin" invert="false" small="0" big="0">
+            <Data name="WenchBootsLegsThin" target="WenchBoots" local="true">CBBEDigitigradeKhajiitWenchShoesFemale.osd\WenchBootsLegsThin</Data>
+        </Slider>
+        <Slider name="MuscleLegs" invert="false" small="0" big="0">
+            <Data name="WenchBootsMuscleLegs" target="WenchBoots" local="true">CBBEDigitigradeKhajiitWenchShoesFemale.osd\WenchBootsMuscleLegs</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="WenchBootsSlimThighs" target="WenchBoots" local="true">CBBEDigitigradeKhajiitWenchShoesFemale.osd\WenchBootsSlimThighs</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="WenchBootsThighs" target="WenchBoots" local="true">CBBEDigitigradeKhajiitWenchShoesFemale.osd\WenchBootsThighs</Data>
+        </Slider>
+        <Slider name="7B Lower" invert="false" small="0" big="0">
+            <Data name="WenchBoots7B Lower" target="WenchBoots" local="true">CBBEDigitigradeKhajiitWenchShoesFemale.osd\WenchBoots7B Lower</Data>
+        </Slider>
+        <Slider name="VanillaSSEHi" invert="false" small="0" big="0">
+            <Data name="WenchBootsVanillaSSEHi" target="WenchBoots" local="true">CBBEDigitigradeKhajiitWenchShoesFemale.osd\WenchBootsVanillaSSEHi</Data>
+        </Slider>
+        <Slider name="VanillaSSELo" invert="false" small="0" big="0">
+            <Data name="WenchBootsVanillaSSELo" target="WenchBoots" local="true">CBBEDigitigradeKhajiitWenchShoesFemale.osd\WenchBootsVanillaSSELo</Data>
+        </Slider>
+        <Slider name="OldBaseShape" invert="false" small="0" big="0">
+            <Data name="WenchBootsOldBaseShape" target="WenchBoots" local="true">CBBEDigitigradeKhajiitWenchShoesFemale.osd\WenchBootsOldBaseShape</Data>
+        </Slider>
+        <Slider name="7BLeg_v2" invert="false" small="0" big="0">
+            <Data name="WenchBoots7BLeg_v2" target="WenchBoots" local="true">CBBEDigitigradeKhajiitWenchShoesFemale.osd\WenchBoots7BLeg_v2</Data>
+        </Slider>
+        <Slider name="CalfFBThicc_v2" invert="false" small="0" big="0">
+            <Data name="WenchBootsCalfFBThicc_v2" target="WenchBoots" local="true">CBBEDigitigradeKhajiitWenchShoesFemale.osd\WenchBootsCalfFBThicc_v2</Data>
+        </Slider>
+        <Slider name="KneeTogether_v2" invert="false" small="0" big="0">
+            <Data name="WenchBootsKneeTogether_v2" target="WenchBoots" local="true">CBBEDigitigradeKhajiitWenchShoesFemale.osd\WenchBootsKneeTogether_v2</Data>
+        </Slider>
+        <Slider name="LegSpread_v2" invert="false" small="0" big="0">
+            <Data name="WenchBootsLegSpread_v2" target="WenchBoots" local="true">CBBEDigitigradeKhajiitWenchShoesFemale.osd\WenchBootsLegSpread_v2</Data>
+        </Slider>
+        <Slider name="MuscleMoreLegs_v2" invert="false" small="0" big="0">
+            <Data name="WenchBootsMuscleMoreLegs_v2" target="WenchBoots" local="true">CBBEDigitigradeKhajiitWenchShoesFemale.osd\WenchBootsMuscleMoreLegs_v2</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="CBBEDigitigradeKhajiitTelvanniShoesFemale">
+        <ReferenceInfo ProjectFile="SliderSets\CBBEDigitigradeKhajiitFeetFemale.osp" ProjectName="CBBEDigitigradeKhajiitFeetFemale" ShapeName="FootPaws_Base"/>
+        <DataFolder>CBBEDigitigradeKhajiitTelvanniShoesFemale</DataFolder>
+        <SourceFile>CBBEDigitigradeKhajiitTelvanniShoesFemale.nif</SourceFile>
+        <OutputPath>meshes\dlc02\clothes\digitigrade\telvanni</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">bootsf</OutputFile>
+        <Shape target="TelvanniBoots_toFemale">TelvanniBoots_toFemale</Shape>
+        <Slider name="AnkleSize" invert="false" small="100" big="0">
+            <Data name="TelvanniBoots_toFemaleAnkleSize" target="TelvanniBoots_toFemale" local="true">CBBEDigitigradeKhajiitTelvanniShoesFemale.osd\TelvanniBoots_toFemaleAnkleSize</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="TelvanniBoots_toFemaleCalfSize" target="TelvanniBoots_toFemale" local="true">CBBEDigitigradeKhajiitTelvanniShoesFemale.osd\TelvanniBoots_toFemaleCalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="TelvanniBoots_toFemaleCalfSmooth" target="TelvanniBoots_toFemale" local="true">CBBEDigitigradeKhajiitTelvanniShoesFemale.osd\TelvanniBoots_toFemaleCalfSmooth</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="TelvanniBoots_toFemaleChubbyLegs" target="TelvanniBoots_toFemale" local="true">CBBEDigitigradeKhajiitTelvanniShoesFemale.osd\TelvanniBoots_toFemaleChubbyLegs</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="TelvanniBoots_toFemaleKneeHeight" target="TelvanniBoots_toFemale" local="true">CBBEDigitigradeKhajiitTelvanniShoesFemale.osd\TelvanniBoots_toFemaleKneeHeight</Data>
+        </Slider>
+        <Slider name="KneeShape" invert="false" small="0" big="0">
+            <Data name="TelvanniBoots_toFemaleKneeShape" target="TelvanniBoots_toFemale" local="true">CBBEDigitigradeKhajiitTelvanniShoesFemale.osd\TelvanniBoots_toFemaleKneeShape</Data>
+        </Slider>
+        <Slider name="LegShapeClassic" invert="false" small="0" big="0">
+            <Data name="TelvanniBoots_toFemaleLegShapeClassic" target="TelvanniBoots_toFemale" local="true">CBBEDigitigradeKhajiitTelvanniShoesFemale.osd\TelvanniBoots_toFemaleLegShapeClassic</Data>
+        </Slider>
+        <Slider name="LegsThin" invert="false" small="0" big="0">
+            <Data name="TelvanniBoots_toFemaleLegsThin" target="TelvanniBoots_toFemale" local="true">CBBEDigitigradeKhajiitTelvanniShoesFemale.osd\TelvanniBoots_toFemaleLegsThin</Data>
+        </Slider>
+        <Slider name="7B Lower" invert="false" small="0" big="0">
+            <Data name="TelvanniBoots_toFemale7B Lower" target="TelvanniBoots_toFemale" local="true">CBBEDigitigradeKhajiitTelvanniShoesFemale.osd\TelvanniBoots_toFemale7B Lower</Data>
+        </Slider>
+        <Slider name="VanillaSSEHi" invert="false" small="0" big="0">
+            <Data name="TelvanniBoots_toFemaleVanillaSSEHi" target="TelvanniBoots_toFemale" local="true">CBBEDigitigradeKhajiitTelvanniShoesFemale.osd\TelvanniBoots_toFemaleVanillaSSEHi</Data>
+        </Slider>
+        <Slider name="VanillaSSELo" invert="false" small="0" big="0">
+            <Data name="TelvanniBoots_toFemaleVanillaSSELo" target="TelvanniBoots_toFemale" local="true">CBBEDigitigradeKhajiitTelvanniShoesFemale.osd\TelvanniBoots_toFemaleVanillaSSELo</Data>
+        </Slider>
+        <Slider name="OldBaseShape" invert="false" small="0" big="0">
+            <Data name="TelvanniBoots_toFemaleOldBaseShape" target="TelvanniBoots_toFemale" local="true">CBBEDigitigradeKhajiitTelvanniShoesFemale.osd\TelvanniBoots_toFemaleOldBaseShape</Data>
+        </Slider>
+        <Slider name="7BLeg_v2" invert="false" small="0" big="0">
+            <Data name="TelvanniBoots_toFemale7BLeg_v2" target="TelvanniBoots_toFemale" local="true">CBBEDigitigradeKhajiitTelvanniShoesFemale.osd\TelvanniBoots_toFemale7BLeg_v2</Data>
+        </Slider>
+        <Slider name="CalfFBThicc_v2" invert="false" small="0" big="0">
+            <Data name="TelvanniBoots_toFemaleCalfFBThicc_v2" target="TelvanniBoots_toFemale" local="true">CBBEDigitigradeKhajiitTelvanniShoesFemale.osd\TelvanniBoots_toFemaleCalfFBThicc_v2</Data>
+        </Slider>
+        <Slider name="MuscleMoreLegs_v2" invert="false" small="0" big="0">
+            <Data name="TelvanniBoots_toFemaleMuscleMoreLegs_v2" target="TelvanniBoots_toFemale" local="true">CBBEDigitigradeKhajiitTelvanniShoesFemale.osd\TelvanniBoots_toFemaleMuscleMoreLegs_v2</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

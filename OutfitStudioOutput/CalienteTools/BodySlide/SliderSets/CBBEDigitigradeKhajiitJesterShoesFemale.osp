@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="CBBEDigitigradeKhajiitJesterShoesFemale">
+        <ReferenceInfo ProjectFile="SliderSets\CBBEDigitigradeKhajiitFeetFemale.osp" ProjectName="CBBEDigitigradeKhajiitFeetFemale" ShapeName="FootPaws_Base"/>
+        <DataFolder>CBBEDigitigradeKhajiitJesterShoesFemale</DataFolder>
+        <SourceFile>CBBEDigitigradeKhajiitJesterShoesFemale.nif</SourceFile>
+        <OutputPath>meshes\clothes\digitigrade\jester</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">jesterbootsf</OutputFile>
+        <Shape target="Boot">Boot</Shape>
+        <Slider name="AnkleSize" invert="false" small="100" big="0">
+            <Data name="BootAnkleSize" target="Boot" local="true">CBBEDigitigradeKhajiitJesterShoesFemale.osd\BootAnkleSize</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="BootCalfSize" target="Boot" local="true">CBBEDigitigradeKhajiitJesterShoesFemale.osd\BootCalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="BootCalfSmooth" target="Boot" local="true">CBBEDigitigradeKhajiitJesterShoesFemale.osd\BootCalfSmooth</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="BootChubbyLegs" target="Boot" local="true">CBBEDigitigradeKhajiitJesterShoesFemale.osd\BootChubbyLegs</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="BootKneeHeight" target="Boot" local="true">CBBEDigitigradeKhajiitJesterShoesFemale.osd\BootKneeHeight</Data>
+        </Slider>
+        <Slider name="KneeShape" invert="false" small="0" big="0">
+            <Data name="BootKneeShape" target="Boot" local="true">CBBEDigitigradeKhajiitJesterShoesFemale.osd\BootKneeShape</Data>
+        </Slider>
+        <Slider name="LegShapeClassic" invert="false" small="0" big="0">
+            <Data name="BootLegShapeClassic" target="Boot" local="true">CBBEDigitigradeKhajiitJesterShoesFemale.osd\BootLegShapeClassic</Data>
+        </Slider>
+        <Slider name="LegsThin" invert="false" small="0" big="0">
+            <Data name="BootLegsThin" target="Boot" local="true">CBBEDigitigradeKhajiitJesterShoesFemale.osd\BootLegsThin</Data>
+        </Slider>
+        <Slider name="MuscleLegs" invert="false" small="0" big="0">
+            <Data name="BootMuscleLegs" target="Boot" local="true">CBBEDigitigradeKhajiitJesterShoesFemale.osd\BootMuscleLegs</Data>
+        </Slider>
+        <Slider name="7B Lower" invert="false" small="0" big="0">
+            <Data name="Boot7B Lower" target="Boot" local="true">CBBEDigitigradeKhajiitJesterShoesFemale.osd\Boot7B Lower</Data>
+        </Slider>
+        <Slider name="VanillaSSEHi" invert="false" small="0" big="0">
+            <Data name="BootVanillaSSEHi" target="Boot" local="true">CBBEDigitigradeKhajiitJesterShoesFemale.osd\BootVanillaSSEHi</Data>
+        </Slider>
+        <Slider name="VanillaSSELo" invert="false" small="0" big="0">
+            <Data name="BootVanillaSSELo" target="Boot" local="true">CBBEDigitigradeKhajiitJesterShoesFemale.osd\BootVanillaSSELo</Data>
+        </Slider>
+        <Slider name="OldBaseShape" invert="false" small="0" big="0">
+            <Data name="BootOldBaseShape" target="Boot" local="true">CBBEDigitigradeKhajiitJesterShoesFemale.osd\BootOldBaseShape</Data>
+        </Slider>
+        <Slider name="7BLeg_v2" invert="false" small="0" big="0">
+            <Data name="Boot7BLeg_v2" target="Boot" local="true">CBBEDigitigradeKhajiitJesterShoesFemale.osd\Boot7BLeg_v2</Data>
+        </Slider>
+        <Slider name="CalfFBThicc_v2" invert="false" small="0" big="0">
+            <Data name="BootCalfFBThicc_v2" target="Boot" local="true">CBBEDigitigradeKhajiitJesterShoesFemale.osd\BootCalfFBThicc_v2</Data>
+        </Slider>
+        <Slider name="KneeTogether_v2" invert="false" small="0" big="0">
+            <Data name="BootKneeTogether_v2" target="Boot" local="true">CBBEDigitigradeKhajiitJesterShoesFemale.osd\BootKneeTogether_v2</Data>
+        </Slider>
+        <Slider name="LegSpread_v2" invert="false" small="0" big="0">
+            <Data name="BootLegSpread_v2" target="Boot" local="true">CBBEDigitigradeKhajiitJesterShoesFemale.osd\BootLegSpread_v2</Data>
+        </Slider>
+        <Slider name="MuscleMoreLegs_v2" invert="false" small="0" big="0">
+            <Data name="BootMuscleMoreLegs_v2" target="Boot" local="true">CBBEDigitigradeKhajiitJesterShoesFemale.osd\BootMuscleMoreLegs_v2</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

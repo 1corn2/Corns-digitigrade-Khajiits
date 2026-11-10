@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="CBBEDigitigradeKhajiitBanditShoesFemale">
+        <ReferenceInfo ProjectFile="SliderSets\CBBEDigitigradeKhajiitFeetFemale.osp" ProjectName="CBBEDigitigradeKhajiitFeetFemale" ShapeName="FootPaws_Base"/>
+        <DataFolder>CBBEDigitigradeKhajiitBanditShoesFemale</DataFolder>
+        <SourceFile>CBBEDigitigradeKhajiitBanditShoesFemale.nif</SourceFile>
+        <OutputPath>meshes\armor\digitigrade\bandit</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">bootsf</OutputFile>
+        <Shape target="Bandit_Armor_Female_Shoes">Bandit_Armor_Female_Shoes</Shape>
+        <Shape target="FootPaws_Base" DataFolder="CBBEDigitigradeKhajiitFeetFemale">FootPaws_Base</Shape>
+        <Slider name="AnkleSize" invert="false" small="100" big="0">
+            <Data name="FootPaws_BaseAnkleSize" target="FootPaws_Base">CBBEDigitigradeKhajiitFeetFemale.osd\FootPaws_BaseAnkleSize</Data>
+            <Data name="Bandit_Armor_Female_ShoesAnkleSize" target="Bandit_Armor_Female_Shoes" local="true">CBBEDigitigradeKhajiitBanditShoesFemale.osd\Bandit_Armor_Female_ShoesAnkleSize</Data>
+        </Slider>
+        <Slider name="FeetFeminine" invert="false" small="0" big="0">
+            <Data name="FootPaws_BaseFeetFeminine" target="FootPaws_Base">CBBEDigitigradeKhajiitFeetFemale.osd\FootPaws_BaseFeetFeminine</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

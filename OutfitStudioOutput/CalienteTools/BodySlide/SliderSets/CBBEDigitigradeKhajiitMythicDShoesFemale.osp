@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="CBBEDigitigradeKhajiitMythicDShoesFemale">
+        <ReferenceInfo ProjectFile="SliderSets\CBBEDigitigradeKhajiitFeetFemale.osp" ProjectName="CBBEDigitigradeKhajiitFeetFemale" ShapeName="FootPaws_Base"/>
+        <DataFolder>CBBEDigitigradeKhajiitMythicDShoesFemale</DataFolder>
+        <SourceFile>CBBEDigitigradeKhajiitMythicDShoesFemale.nif</SourceFile>
+        <OutputPath>meshes\clothes\digitigrade\robemythicdawn</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">mdshoesf</OutputFile>
+        <Shape target="FootPaws_Base" DataFolder="CBBEDigitigradeKhajiitFeetFemale">FootPaws_Base</Shape>
+        <Shape target="Mythic_Dawn_Outfit_foot">Mythic_Dawn_Outfit_foot</Shape>
+        <Slider name="AnkleSize" invert="false" small="100" big="0">
+            <Data name="FootPaws_BaseAnkleSize" target="FootPaws_Base">CBBEDigitigradeKhajiitFeetFemale.osd\FootPaws_BaseAnkleSize</Data>
+            <Data name="Mythic_Dawn_Outfit_footAnkleSize" target="Mythic_Dawn_Outfit_foot" local="true">CBBEDigitigradeKhajiitMythicDShoesFemale.osd\Mythic_Dawn_Outfit_footAnkleSize</Data>
+        </Slider>
+        <Slider name="FeetFeminine" invert="false" small="0" big="0">
+            <Data name="FootPaws_BaseFeetFeminine" target="FootPaws_Base">CBBEDigitigradeKhajiitFeetFemale.osd\FootPaws_BaseFeetFeminine</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

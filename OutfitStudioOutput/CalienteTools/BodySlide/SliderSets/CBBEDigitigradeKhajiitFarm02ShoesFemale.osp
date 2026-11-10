@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="CBBEDigitigradeKhajiitFarm02ShoesFemale">
+        <ReferenceInfo ProjectFile="SliderSets\CBBEDigitigradeKhajiitFeetFemale.osp" ProjectName="CBBEDigitigradeKhajiitFeetFemale" ShapeName="FootPaws_Base"/>
+        <DataFolder>CBBEDigitigradeKhajiitFarm02ShoesFemale</DataFolder>
+        <SourceFile>CBBEDigitigradeKhajiitFarm02ShoesFemale.nif</SourceFile>
+        <OutputPath>meshes\clothes\digitigrade\farmclothes02\f</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">shoes</OutputFile>
+        <Shape target="Farm02FShoes">Farm02FShoes</Shape>
+        <Slider name="AnkleSize" invert="false" small="100" big="0">
+            <Data name="Farm02FShoesAnkleSize" target="Farm02FShoes" local="true">CBBEDigitigradeKhajiitFarm02ShoesFemale.osd\Farm02FShoesAnkleSize</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="Farm02FShoesCalfSize" target="Farm02FShoes" local="true">CBBEDigitigradeKhajiitFarm02ShoesFemale.osd\Farm02FShoesCalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="Farm02FShoesCalfSmooth" target="Farm02FShoes" local="true">CBBEDigitigradeKhajiitFarm02ShoesFemale.osd\Farm02FShoesCalfSmooth</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="Farm02FShoesChubbyLegs" target="Farm02FShoes" local="true">CBBEDigitigradeKhajiitFarm02ShoesFemale.osd\Farm02FShoesChubbyLegs</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="Farm02FShoesKneeHeight" target="Farm02FShoes" local="true">CBBEDigitigradeKhajiitFarm02ShoesFemale.osd\Farm02FShoesKneeHeight</Data>
+        </Slider>
+        <Slider name="KneeShape" invert="false" small="0" big="0">
+            <Data name="Farm02FShoesKneeShape" target="Farm02FShoes" local="true">CBBEDigitigradeKhajiitFarm02ShoesFemale.osd\Farm02FShoesKneeShape</Data>
+        </Slider>
+        <Slider name="LegShapeClassic" invert="false" small="0" big="0">
+            <Data name="Farm02FShoesLegShapeClassic" target="Farm02FShoes" local="true">CBBEDigitigradeKhajiitFarm02ShoesFemale.osd\Farm02FShoesLegShapeClassic</Data>
+        </Slider>
+        <Slider name="LegsThin" invert="false" small="0" big="0">
+            <Data name="Farm02FShoesLegsThin" target="Farm02FShoes" local="true">CBBEDigitigradeKhajiitFarm02ShoesFemale.osd\Farm02FShoesLegsThin</Data>
+        </Slider>
+        <Slider name="7B Lower" invert="false" small="0" big="0">
+            <Data name="Farm02FShoes7B Lower" target="Farm02FShoes" local="true">CBBEDigitigradeKhajiitFarm02ShoesFemale.osd\Farm02FShoes7B Lower</Data>
+        </Slider>
+        <Slider name="VanillaSSEHi" invert="false" small="0" big="0">
+            <Data name="Farm02FShoesVanillaSSEHi" target="Farm02FShoes" local="true">CBBEDigitigradeKhajiitFarm02ShoesFemale.osd\Farm02FShoesVanillaSSEHi</Data>
+        </Slider>
+        <Slider name="VanillaSSELo" invert="false" small="0" big="0">
+            <Data name="Farm02FShoesVanillaSSELo" target="Farm02FShoes" local="true">CBBEDigitigradeKhajiitFarm02ShoesFemale.osd\Farm02FShoesVanillaSSELo</Data>
+        </Slider>
+        <Slider name="OldBaseShape" invert="false" small="0" big="0">
+            <Data name="Farm02FShoesOldBaseShape" target="Farm02FShoes" local="true">CBBEDigitigradeKhajiitFarm02ShoesFemale.osd\Farm02FShoesOldBaseShape</Data>
+        </Slider>
+        <Slider name="7BLeg_v2" invert="false" small="0" big="0">
+            <Data name="Farm02FShoes7BLeg_v2" target="Farm02FShoes" local="true">CBBEDigitigradeKhajiitFarm02ShoesFemale.osd\Farm02FShoes7BLeg_v2</Data>
+        </Slider>
+        <Slider name="CalfFBThicc_v2" invert="false" small="0" big="0">
+            <Data name="Farm02FShoesCalfFBThicc_v2" target="Farm02FShoes" local="true">CBBEDigitigradeKhajiitFarm02ShoesFemale.osd\Farm02FShoesCalfFBThicc_v2</Data>
+        </Slider>
+        <Slider name="MuscleMoreLegs_v2" invert="false" small="0" big="0">
+            <Data name="Farm02FShoesMuscleMoreLegs_v2" target="Farm02FShoes" local="true">CBBEDigitigradeKhajiitFarm02ShoesFemale.osd\Farm02FShoesMuscleMoreLegs_v2</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

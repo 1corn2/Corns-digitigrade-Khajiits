@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="CBBEDigitigradeKhajiitDBHoodShoesFemale">
+        <ReferenceInfo ProjectFile="SliderSets\CBBEDigitigradeKhajiitFeetFemale.osp" ProjectName="CBBEDigitigradeKhajiitFeetFemale" ShapeName="FootPaws_Base"/>
+        <DataFolder>CBBEDigitigradeKhajiitDBHoodShoesFemale</DataFolder>
+        <SourceFile>CBBEDigitigradeKhajiitDBHoodShoesFemale.nif</SourceFile>
+        <OutputPath>meshes\clothes\digitigrade\robedarkbrotherhood\female</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">dbboots</OutputFile>
+        <Shape target="DBboots">DBboots</Shape>
+        <Shape target="FootPaws_Base" DataFolder="CBBEDigitigradeKhajiitFeetFemale">FootPaws_Base</Shape>
+        <Slider name="AnkleSize" invert="false" small="100" big="0">
+            <Data name="FootPaws_BaseAnkleSize" target="FootPaws_Base">CBBEDigitigradeKhajiitFeetFemale.osd\FootPaws_BaseAnkleSize</Data>
+            <Data name="DBbootsAnkleSize" target="DBboots" local="true">CBBEDigitigradeKhajiitDBHoodShoesFemale.osd\DBbootsAnkleSize</Data>
+        </Slider>
+        <Slider name="FeetFeminine" invert="false" small="0" big="0">
+            <Data name="FootPaws_BaseFeetFeminine" target="FootPaws_Base">CBBEDigitigradeKhajiitFeetFemale.osd\FootPaws_BaseFeetFeminine</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="CBBEDigitigradeKhajiitBlacksmithShoesFemale">
+        <ReferenceInfo ProjectFile="SliderSets\CBBEDigitigradeKhajiitFeetFemale.osp" ProjectName="CBBEDigitigradeKhajiitFeetFemale" ShapeName="FootPaws_Base"/>
+        <DataFolder>CBBEDigitigradeKhajiitBlacksmithShoesFemale</DataFolder>
+        <SourceFile>CBBEDigitigradeKhajiitBlacksmithShoesFemale.nif</SourceFile>
+        <OutputPath>meshes\clothes\digitigrade\blacksmith\f</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">shoes</OutputFile>
+        <Shape target="BlackSmithShoes">BlackSmithShoes</Shape>
+        <Slider name="AnkleSize" invert="false" small="100" big="0">
+            <Data name="BlackSmithShoesAnkleSize" target="BlackSmithShoes" local="true">CBBEDigitigradeKhajiitBlacksmithShoesFemale.osd\BlackSmithShoesAnkleSize</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="BlackSmithShoesCalfSize" target="BlackSmithShoes" local="true">CBBEDigitigradeKhajiitBlacksmithShoesFemale.osd\BlackSmithShoesCalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="BlackSmithShoesCalfSmooth" target="BlackSmithShoes" local="true">CBBEDigitigradeKhajiitBlacksmithShoesFemale.osd\BlackSmithShoesCalfSmooth</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="BlackSmithShoesChubbyLegs" target="BlackSmithShoes" local="true">CBBEDigitigradeKhajiitBlacksmithShoesFemale.osd\BlackSmithShoesChubbyLegs</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="BlackSmithShoesKneeHeight" target="BlackSmithShoes" local="true">CBBEDigitigradeKhajiitBlacksmithShoesFemale.osd\BlackSmithShoesKneeHeight</Data>
+        </Slider>
+        <Slider name="KneeShape" invert="false" small="0" big="0">
+            <Data name="BlackSmithShoesKneeShape" target="BlackSmithShoes" local="true">CBBEDigitigradeKhajiitBlacksmithShoesFemale.osd\BlackSmithShoesKneeShape</Data>
+        </Slider>
+        <Slider name="LegShapeClassic" invert="false" small="0" big="0">
+            <Data name="BlackSmithShoesLegShapeClassic" target="BlackSmithShoes" local="true">CBBEDigitigradeKhajiitBlacksmithShoesFemale.osd\BlackSmithShoesLegShapeClassic</Data>
+        </Slider>
+        <Slider name="LegsThin" invert="false" small="0" big="0">
+            <Data name="BlackSmithShoesLegsThin" target="BlackSmithShoes" local="true">CBBEDigitigradeKhajiitBlacksmithShoesFemale.osd\BlackSmithShoesLegsThin</Data>
+        </Slider>
+        <Slider name="7B Lower" invert="false" small="0" big="0">
+            <Data name="BlackSmithShoes7B Lower" target="BlackSmithShoes" local="true">CBBEDigitigradeKhajiitBlacksmithShoesFemale.osd\BlackSmithShoes7B Lower</Data>
+        </Slider>
+        <Slider name="VanillaSSEHi" invert="false" small="0" big="0">
+            <Data name="BlackSmithShoesVanillaSSEHi" target="BlackSmithShoes" local="true">CBBEDigitigradeKhajiitBlacksmithShoesFemale.osd\BlackSmithShoesVanillaSSEHi</Data>
+        </Slider>
+        <Slider name="VanillaSSELo" invert="false" small="0" big="0">
+            <Data name="BlackSmithShoesVanillaSSELo" target="BlackSmithShoes" local="true">CBBEDigitigradeKhajiitBlacksmithShoesFemale.osd\BlackSmithShoesVanillaSSELo</Data>
+        </Slider>
+        <Slider name="OldBaseShape" invert="false" small="0" big="0">
+            <Data name="BlackSmithShoesOldBaseShape" target="BlackSmithShoes" local="true">CBBEDigitigradeKhajiitBlacksmithShoesFemale.osd\BlackSmithShoesOldBaseShape</Data>
+        </Slider>
+        <Slider name="7BLeg_v2" invert="false" small="0" big="0">
+            <Data name="BlackSmithShoes7BLeg_v2" target="BlackSmithShoes" local="true">CBBEDigitigradeKhajiitBlacksmithShoesFemale.osd\BlackSmithShoes7BLeg_v2</Data>
+        </Slider>
+        <Slider name="CalfFBThicc_v2" invert="false" small="0" big="0">
+            <Data name="BlackSmithShoesCalfFBThicc_v2" target="BlackSmithShoes" local="true">CBBEDigitigradeKhajiitBlacksmithShoesFemale.osd\BlackSmithShoesCalfFBThicc_v2</Data>
+        </Slider>
+        <Slider name="MuscleMoreLegs_v2" invert="false" small="0" big="0">
+            <Data name="BlackSmithShoesMuscleMoreLegs_v2" target="BlackSmithShoes" local="true">CBBEDigitigradeKhajiitBlacksmithShoesFemale.osd\BlackSmithShoesMuscleMoreLegs_v2</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

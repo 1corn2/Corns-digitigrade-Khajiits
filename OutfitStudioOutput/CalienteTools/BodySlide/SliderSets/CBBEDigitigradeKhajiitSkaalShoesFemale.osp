@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="CBBEDigitigradeKhajiitSkaalShoesFemale">
+        <ReferenceInfo ProjectFile="SliderSets\CBBEDigitigradeKhajiitFeetFemale.osp" ProjectName="CBBEDigitigradeKhajiitFeetFemale" ShapeName="FootPaws_Base"/>
+        <DataFolder>CBBEDigitigradeKhajiitSkaalShoesFemale</DataFolder>
+        <SourceFile>CBBEDigitigradeKhajiitSkaalShoesFemale.nif</SourceFile>
+        <OutputPath>meshes\dlc02\clothes\digitigrade\skaal\f</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">skaalboots</OutputFile>
+        <Shape target="SkaalBoots_female">SkaalBoots_female</Shape>
+        <Slider name="AnkleSize" invert="false" small="100" big="0">
+            <Data name="SkaalBoots_femaleAnkleSize" target="SkaalBoots_female" local="true">CBBEDigitigradeKhajiitSkaalShoesFemale.osd\SkaalBoots_femaleAnkleSize</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="SkaalBoots_femaleCalfSize" target="SkaalBoots_female" local="true">CBBEDigitigradeKhajiitSkaalShoesFemale.osd\SkaalBoots_femaleCalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="SkaalBoots_femaleCalfSmooth" target="SkaalBoots_female" local="true">CBBEDigitigradeKhajiitSkaalShoesFemale.osd\SkaalBoots_femaleCalfSmooth</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="SkaalBoots_femaleChubbyLegs" target="SkaalBoots_female" local="true">CBBEDigitigradeKhajiitSkaalShoesFemale.osd\SkaalBoots_femaleChubbyLegs</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="SkaalBoots_femaleKneeHeight" target="SkaalBoots_female" local="true">CBBEDigitigradeKhajiitSkaalShoesFemale.osd\SkaalBoots_femaleKneeHeight</Data>
+        </Slider>
+        <Slider name="KneeShape" invert="false" small="0" big="0">
+            <Data name="SkaalBoots_femaleKneeShape" target="SkaalBoots_female" local="true">CBBEDigitigradeKhajiitSkaalShoesFemale.osd\SkaalBoots_femaleKneeShape</Data>
+        </Slider>
+        <Slider name="LegShapeClassic" invert="false" small="0" big="0">
+            <Data name="SkaalBoots_femaleLegShapeClassic" target="SkaalBoots_female" local="true">CBBEDigitigradeKhajiitSkaalShoesFemale.osd\SkaalBoots_femaleLegShapeClassic</Data>
+        </Slider>
+        <Slider name="LegsThin" invert="false" small="0" big="0">
+            <Data name="SkaalBoots_femaleLegsThin" target="SkaalBoots_female" local="true">CBBEDigitigradeKhajiitSkaalShoesFemale.osd\SkaalBoots_femaleLegsThin</Data>
+        </Slider>
+        <Slider name="MuscleLegs" invert="false" small="0" big="0">
+            <Data name="SkaalBoots_femaleMuscleLegs" target="SkaalBoots_female" local="true">CBBEDigitigradeKhajiitSkaalShoesFemale.osd\SkaalBoots_femaleMuscleLegs</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="SkaalBoots_femaleThighs" target="SkaalBoots_female" local="true">CBBEDigitigradeKhajiitSkaalShoesFemale.osd\SkaalBoots_femaleThighs</Data>
+        </Slider>
+        <Slider name="7B Lower" invert="false" small="0" big="0">
+            <Data name="SkaalBoots_female7B Lower" target="SkaalBoots_female" local="true">CBBEDigitigradeKhajiitSkaalShoesFemale.osd\SkaalBoots_female7B Lower</Data>
+        </Slider>
+        <Slider name="VanillaSSEHi" invert="false" small="0" big="0">
+            <Data name="SkaalBoots_femaleVanillaSSEHi" target="SkaalBoots_female" local="true">CBBEDigitigradeKhajiitSkaalShoesFemale.osd\SkaalBoots_femaleVanillaSSEHi</Data>
+        </Slider>
+        <Slider name="VanillaSSELo" invert="false" small="0" big="0">
+            <Data name="SkaalBoots_femaleVanillaSSELo" target="SkaalBoots_female" local="true">CBBEDigitigradeKhajiitSkaalShoesFemale.osd\SkaalBoots_femaleVanillaSSELo</Data>
+        </Slider>
+        <Slider name="OldBaseShape" invert="false" small="0" big="0">
+            <Data name="SkaalBoots_femaleOldBaseShape" target="SkaalBoots_female" local="true">CBBEDigitigradeKhajiitSkaalShoesFemale.osd\SkaalBoots_femaleOldBaseShape</Data>
+        </Slider>
+        <Slider name="7BLeg_v2" invert="false" small="0" big="0">
+            <Data name="SkaalBoots_female7BLeg_v2" target="SkaalBoots_female" local="true">CBBEDigitigradeKhajiitSkaalShoesFemale.osd\SkaalBoots_female7BLeg_v2</Data>
+        </Slider>
+        <Slider name="CalfFBThicc_v2" invert="false" small="0" big="0">
+            <Data name="SkaalBoots_femaleCalfFBThicc_v2" target="SkaalBoots_female" local="true">CBBEDigitigradeKhajiitSkaalShoesFemale.osd\SkaalBoots_femaleCalfFBThicc_v2</Data>
+        </Slider>
+        <Slider name="KneeTogether_v2" invert="false" small="0" big="0">
+            <Data name="SkaalBoots_femaleKneeTogether_v2" target="SkaalBoots_female" local="true">CBBEDigitigradeKhajiitSkaalShoesFemale.osd\SkaalBoots_femaleKneeTogether_v2</Data>
+        </Slider>
+        <Slider name="LegSpread_v2" invert="false" small="0" big="0">
+            <Data name="SkaalBoots_femaleLegSpread_v2" target="SkaalBoots_female" local="true">CBBEDigitigradeKhajiitSkaalShoesFemale.osd\SkaalBoots_femaleLegSpread_v2</Data>
+        </Slider>
+        <Slider name="MuscleMoreLegs_v2" invert="false" small="0" big="0">
+            <Data name="SkaalBoots_femaleMuscleMoreLegs_v2" target="SkaalBoots_female" local="true">CBBEDigitigradeKhajiitSkaalShoesFemale.osd\SkaalBoots_femaleMuscleMoreLegs_v2</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

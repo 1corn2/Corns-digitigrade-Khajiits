@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="CBBEDigitigradeKhajiitMiraakShoesFemale">
+        <ReferenceInfo ProjectFile="SliderSets\CBBEDigitigradeKhajiitFeetFemale.osp" ProjectName="CBBEDigitigradeKhajiitFeetFemale" ShapeName="FootPaws_Base"/>
+        <DataFolder>CBBEDigitigradeKhajiitMiraakShoesFemale</DataFolder>
+        <SourceFile>CBBEDigitigradeKhajiitMiraakShoesFemale.nif</SourceFile>
+        <OutputPath>meshes\dlc02\clothes\digitigrade\miraakrobes</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">miraakbootsf</OutputFile>
+        <Shape target="MiraakBoots">MiraakBoots</Shape>
+        <Slider name="AnkleSize" invert="false" small="100" big="0">
+            <Data name="MiraakBootsAnkleSize" target="MiraakBoots" local="true">CBBEDigitigradeKhajiitMiraakShoesFemale.osd\MiraakBootsAnkleSize</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="MiraakBootsCalfSize" target="MiraakBoots" local="true">CBBEDigitigradeKhajiitMiraakShoesFemale.osd\MiraakBootsCalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="MiraakBootsCalfSmooth" target="MiraakBoots" local="true">CBBEDigitigradeKhajiitMiraakShoesFemale.osd\MiraakBootsCalfSmooth</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="MiraakBootsChubbyLegs" target="MiraakBoots" local="true">CBBEDigitigradeKhajiitMiraakShoesFemale.osd\MiraakBootsChubbyLegs</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="MiraakBootsKneeHeight" target="MiraakBoots" local="true">CBBEDigitigradeKhajiitMiraakShoesFemale.osd\MiraakBootsKneeHeight</Data>
+        </Slider>
+        <Slider name="KneeShape" invert="false" small="0" big="0">
+            <Data name="MiraakBootsKneeShape" target="MiraakBoots" local="true">CBBEDigitigradeKhajiitMiraakShoesFemale.osd\MiraakBootsKneeShape</Data>
+        </Slider>
+        <Slider name="LegShapeClassic" invert="false" small="0" big="0">
+            <Data name="MiraakBootsLegShapeClassic" target="MiraakBoots" local="true">CBBEDigitigradeKhajiitMiraakShoesFemale.osd\MiraakBootsLegShapeClassic</Data>
+        </Slider>
+        <Slider name="LegsThin" invert="false" small="0" big="0">
+            <Data name="MiraakBootsLegsThin" target="MiraakBoots" local="true">CBBEDigitigradeKhajiitMiraakShoesFemale.osd\MiraakBootsLegsThin</Data>
+        </Slider>
+        <Slider name="MuscleLegs" invert="false" small="0" big="0">
+            <Data name="MiraakBootsMuscleLegs" target="MiraakBoots" local="true">CBBEDigitigradeKhajiitMiraakShoesFemale.osd\MiraakBootsMuscleLegs</Data>
+        </Slider>
+        <Slider name="7B Lower" invert="false" small="0" big="0">
+            <Data name="MiraakBoots7B Lower" target="MiraakBoots" local="true">CBBEDigitigradeKhajiitMiraakShoesFemale.osd\MiraakBoots7B Lower</Data>
+        </Slider>
+        <Slider name="VanillaSSEHi" invert="false" small="0" big="0">
+            <Data name="MiraakBootsVanillaSSEHi" target="MiraakBoots" local="true">CBBEDigitigradeKhajiitMiraakShoesFemale.osd\MiraakBootsVanillaSSEHi</Data>
+        </Slider>
+        <Slider name="VanillaSSELo" invert="false" small="0" big="0">
+            <Data name="MiraakBootsVanillaSSELo" target="MiraakBoots" local="true">CBBEDigitigradeKhajiitMiraakShoesFemale.osd\MiraakBootsVanillaSSELo</Data>
+        </Slider>
+        <Slider name="OldBaseShape" invert="false" small="0" big="0">
+            <Data name="MiraakBootsOldBaseShape" target="MiraakBoots" local="true">CBBEDigitigradeKhajiitMiraakShoesFemale.osd\MiraakBootsOldBaseShape</Data>
+        </Slider>
+        <Slider name="7BLeg_v2" invert="false" small="0" big="0">
+            <Data name="MiraakBoots7BLeg_v2" target="MiraakBoots" local="true">CBBEDigitigradeKhajiitMiraakShoesFemale.osd\MiraakBoots7BLeg_v2</Data>
+        </Slider>
+        <Slider name="CalfFBThicc_v2" invert="false" small="0" big="0">
+            <Data name="MiraakBootsCalfFBThicc_v2" target="MiraakBoots" local="true">CBBEDigitigradeKhajiitMiraakShoesFemale.osd\MiraakBootsCalfFBThicc_v2</Data>
+        </Slider>
+        <Slider name="KneeTogether_v2" invert="false" small="0" big="0">
+            <Data name="MiraakBootsKneeTogether_v2" target="MiraakBoots" local="true">CBBEDigitigradeKhajiitMiraakShoesFemale.osd\MiraakBootsKneeTogether_v2</Data>
+        </Slider>
+        <Slider name="LegSpread_v2" invert="false" small="0" big="0">
+            <Data name="MiraakBootsLegSpread_v2" target="MiraakBoots" local="true">CBBEDigitigradeKhajiitMiraakShoesFemale.osd\MiraakBootsLegSpread_v2</Data>
+        </Slider>
+        <Slider name="MuscleMoreLegs_v2" invert="false" small="0" big="0">
+            <Data name="MiraakBootsMuscleMoreLegs_v2" target="MiraakBoots" local="true">CBBEDigitigradeKhajiitMiraakShoesFemale.osd\MiraakBootsMuscleMoreLegs_v2</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

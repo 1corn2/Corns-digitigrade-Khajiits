@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="CBBEDigitigradeKhajiitDBShoesFemale">
+        <ReferenceInfo ProjectFile="SliderSets\CBBEDigitigradeKhajiitFeetFemale.osp" ProjectName="CBBEDigitigradeKhajiitFeetFemale" ShapeName="FootPaws_Base"/>
+        <DataFolder>CBBEDigitigradeKhajiitDBShoesFemale</DataFolder>
+        <SourceFile>CBBEDigitigradeKhajiitDBShoesFemale.nif</SourceFile>
+        <OutputPath>meshes\armor\digitigrade\dbarmor</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">dbarmor_boots_f</OutputFile>
+        <Shape target="DBBoots">DBBoots</Shape>
+        <Slider name="AnkleSize" invert="false" small="100" big="0">
+            <Data name="DBBootsAnkleSize" target="DBBoots" local="true">CBBEDigitigradeKhajiitDBShoesFemale.osd\DBBootsAnkleSize</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="DBBootsCalfSize" target="DBBoots" local="true">CBBEDigitigradeKhajiitDBShoesFemale.osd\DBBootsCalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="DBBootsCalfSmooth" target="DBBoots" local="true">CBBEDigitigradeKhajiitDBShoesFemale.osd\DBBootsCalfSmooth</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="DBBootsChubbyLegs" target="DBBoots" local="true">CBBEDigitigradeKhajiitDBShoesFemale.osd\DBBootsChubbyLegs</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="DBBootsKneeHeight" target="DBBoots" local="true">CBBEDigitigradeKhajiitDBShoesFemale.osd\DBBootsKneeHeight</Data>
+        </Slider>
+        <Slider name="KneeShape" invert="false" small="0" big="0">
+            <Data name="DBBootsKneeShape" target="DBBoots" local="true">CBBEDigitigradeKhajiitDBShoesFemale.osd\DBBootsKneeShape</Data>
+        </Slider>
+        <Slider name="LegShapeClassic" invert="false" small="0" big="0">
+            <Data name="DBBootsLegShapeClassic" target="DBBoots" local="true">CBBEDigitigradeKhajiitDBShoesFemale.osd\DBBootsLegShapeClassic</Data>
+        </Slider>
+        <Slider name="LegsThin" invert="false" small="0" big="0">
+            <Data name="DBBootsLegsThin" target="DBBoots" local="true">CBBEDigitigradeKhajiitDBShoesFemale.osd\DBBootsLegsThin</Data>
+        </Slider>
+        <Slider name="MuscleLegs" invert="false" small="0" big="0">
+            <Data name="DBBootsMuscleLegs" target="DBBoots" local="true">CBBEDigitigradeKhajiitDBShoesFemale.osd\DBBootsMuscleLegs</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="DBBootsSlimThighs" target="DBBoots" local="true">CBBEDigitigradeKhajiitDBShoesFemale.osd\DBBootsSlimThighs</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="DBBootsThighs" target="DBBoots" local="true">CBBEDigitigradeKhajiitDBShoesFemale.osd\DBBootsThighs</Data>
+        </Slider>
+        <Slider name="7B Lower" invert="false" small="0" big="0">
+            <Data name="DBBoots7B Lower" target="DBBoots" local="true">CBBEDigitigradeKhajiitDBShoesFemale.osd\DBBoots7B Lower</Data>
+        </Slider>
+        <Slider name="VanillaSSEHi" invert="false" small="0" big="0">
+            <Data name="DBBootsVanillaSSEHi" target="DBBoots" local="true">CBBEDigitigradeKhajiitDBShoesFemale.osd\DBBootsVanillaSSEHi</Data>
+        </Slider>
+        <Slider name="VanillaSSELo" invert="false" small="0" big="0">
+            <Data name="DBBootsVanillaSSELo" target="DBBoots" local="true">CBBEDigitigradeKhajiitDBShoesFemale.osd\DBBootsVanillaSSELo</Data>
+        </Slider>
+        <Slider name="OldBaseShape" invert="false" small="0" big="0">
+            <Data name="DBBootsOldBaseShape" target="DBBoots" local="true">CBBEDigitigradeKhajiitDBShoesFemale.osd\DBBootsOldBaseShape</Data>
+        </Slider>
+        <Slider name="7BLeg_v2" invert="false" small="0" big="0">
+            <Data name="DBBoots7BLeg_v2" target="DBBoots" local="true">CBBEDigitigradeKhajiitDBShoesFemale.osd\DBBoots7BLeg_v2</Data>
+        </Slider>
+        <Slider name="CalfFBThicc_v2" invert="false" small="0" big="0">
+            <Data name="DBBootsCalfFBThicc_v2" target="DBBoots" local="true">CBBEDigitigradeKhajiitDBShoesFemale.osd\DBBootsCalfFBThicc_v2</Data>
+        </Slider>
+        <Slider name="KneeTogether_v2" invert="false" small="0" big="0">
+            <Data name="DBBootsKneeTogether_v2" target="DBBoots" local="true">CBBEDigitigradeKhajiitDBShoesFemale.osd\DBBootsKneeTogether_v2</Data>
+        </Slider>
+        <Slider name="LegSpread_v2" invert="false" small="0" big="0">
+            <Data name="DBBootsLegSpread_v2" target="DBBoots" local="true">CBBEDigitigradeKhajiitDBShoesFemale.osd\DBBootsLegSpread_v2</Data>
+        </Slider>
+        <Slider name="MuscleMoreLegs_v2" invert="false" small="0" big="0">
+            <Data name="DBBootsMuscleMoreLegs_v2" target="DBBoots" local="true">CBBEDigitigradeKhajiitDBShoesFemale.osd\DBBootsMuscleMoreLegs_v2</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

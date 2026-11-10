@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="CBBEDigitigradeKhajiitCultistShoesFemale">
+        <ReferenceInfo ProjectFile="SliderSets\CBBEDigitigradeKhajiitFeetFemale.osp" ProjectName="CBBEDigitigradeKhajiitFeetFemale" ShapeName="FootPaws_Base"/>
+        <DataFolder>CBBEDigitigradeKhajiitCultistShoesFemale</DataFolder>
+        <SourceFile>CBBEDigitigradeKhajiitCultistShoesFemale.nif</SourceFile>
+        <OutputPath>meshes\dlc02\clothes\digitigrade\cultist\f</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">cultistboots</OutputFile>
+        <Shape target="Cultist_Boots">Cultist_Boots</Shape>
+        <Slider name="AnkleSize" invert="false" small="100" big="0">
+            <Data name="Cultist_BootsAnkleSize" target="Cultist_Boots" local="true">CBBEDigitigradeKhajiitCultistShoesFemale.osd\Cultist_BootsAnkleSize</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="Cultist_BootsCalfSize" target="Cultist_Boots" local="true">CBBEDigitigradeKhajiitCultistShoesFemale.osd\Cultist_BootsCalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="Cultist_BootsCalfSmooth" target="Cultist_Boots" local="true">CBBEDigitigradeKhajiitCultistShoesFemale.osd\Cultist_BootsCalfSmooth</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="Cultist_BootsChubbyLegs" target="Cultist_Boots" local="true">CBBEDigitigradeKhajiitCultistShoesFemale.osd\Cultist_BootsChubbyLegs</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="Cultist_BootsKneeHeight" target="Cultist_Boots" local="true">CBBEDigitigradeKhajiitCultistShoesFemale.osd\Cultist_BootsKneeHeight</Data>
+        </Slider>
+        <Slider name="KneeShape" invert="false" small="0" big="0">
+            <Data name="Cultist_BootsKneeShape" target="Cultist_Boots" local="true">CBBEDigitigradeKhajiitCultistShoesFemale.osd\Cultist_BootsKneeShape</Data>
+        </Slider>
+        <Slider name="LegShapeClassic" invert="false" small="0" big="0">
+            <Data name="Cultist_BootsLegShapeClassic" target="Cultist_Boots" local="true">CBBEDigitigradeKhajiitCultistShoesFemale.osd\Cultist_BootsLegShapeClassic</Data>
+        </Slider>
+        <Slider name="LegsThin" invert="false" small="0" big="0">
+            <Data name="Cultist_BootsLegsThin" target="Cultist_Boots" local="true">CBBEDigitigradeKhajiitCultistShoesFemale.osd\Cultist_BootsLegsThin</Data>
+        </Slider>
+        <Slider name="MuscleLegs" invert="false" small="0" big="0">
+            <Data name="Cultist_BootsMuscleLegs" target="Cultist_Boots" local="true">CBBEDigitigradeKhajiitCultistShoesFemale.osd\Cultist_BootsMuscleLegs</Data>
+        </Slider>
+        <Slider name="7B Lower" invert="false" small="0" big="0">
+            <Data name="Cultist_Boots7B Lower" target="Cultist_Boots" local="true">CBBEDigitigradeKhajiitCultistShoesFemale.osd\Cultist_Boots7B Lower</Data>
+        </Slider>
+        <Slider name="VanillaSSEHi" invert="false" small="0" big="0">
+            <Data name="Cultist_BootsVanillaSSEHi" target="Cultist_Boots" local="true">CBBEDigitigradeKhajiitCultistShoesFemale.osd\Cultist_BootsVanillaSSEHi</Data>
+        </Slider>
+        <Slider name="VanillaSSELo" invert="false" small="0" big="0">
+            <Data name="Cultist_BootsVanillaSSELo" target="Cultist_Boots" local="true">CBBEDigitigradeKhajiitCultistShoesFemale.osd\Cultist_BootsVanillaSSELo</Data>
+        </Slider>
+        <Slider name="OldBaseShape" invert="false" small="0" big="0">
+            <Data name="Cultist_BootsOldBaseShape" target="Cultist_Boots" local="true">CBBEDigitigradeKhajiitCultistShoesFemale.osd\Cultist_BootsOldBaseShape</Data>
+        </Slider>
+        <Slider name="7BLeg_v2" invert="false" small="0" big="0">
+            <Data name="Cultist_Boots7BLeg_v2" target="Cultist_Boots" local="true">CBBEDigitigradeKhajiitCultistShoesFemale.osd\Cultist_Boots7BLeg_v2</Data>
+        </Slider>
+        <Slider name="CalfFBThicc_v2" invert="false" small="0" big="0">
+            <Data name="Cultist_BootsCalfFBThicc_v2" target="Cultist_Boots" local="true">CBBEDigitigradeKhajiitCultistShoesFemale.osd\Cultist_BootsCalfFBThicc_v2</Data>
+        </Slider>
+        <Slider name="MuscleMoreLegs_v2" invert="false" small="0" big="0">
+            <Data name="Cultist_BootsMuscleMoreLegs_v2" target="Cultist_Boots" local="true">CBBEDigitigradeKhajiitCultistShoesFemale.osd\Cultist_BootsMuscleMoreLegs_v2</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>
