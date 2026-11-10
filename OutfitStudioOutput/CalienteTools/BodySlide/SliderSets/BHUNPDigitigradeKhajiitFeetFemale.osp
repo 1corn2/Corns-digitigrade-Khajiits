@@ -52,5 +52,8 @@
         <Slider name="HighHeel" invert="false" small="0" big="0">
             <Data name="FootPaws_BaseHighHeel" target="FootPaws_Base" local="true">BHUNPDigitigradeKhajiitFeetFemale.osd\FootPaws_BaseHighHeel</Data>
         </Slider>
+        <Slider name="CBBE SE" invert="false" small="0" big="0">
+            <Data name="FootPaws_BaseCBBE SE" target="FootPaws_Base" local="true">BHUNPDigitigradeKhajiitFeetFemale.osd\FootPaws_BaseCBBE SE</Data>
+        </Slider>
     </SliderSet>
 </SliderSetInfo>

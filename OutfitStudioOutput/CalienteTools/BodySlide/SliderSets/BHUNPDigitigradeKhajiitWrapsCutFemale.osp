@@ -71,5 +71,9 @@
             <Data name="FootPaws_BaseHighHeel" target="FootPaws_Base">BHUNPDigitigradeKhajiitFeetFemale.osd\FootPaws_BaseHighHeel</Data>
             <Data name="shoesHighHeel" target="shoes" local="true">BHUNPDigitigradeKhajiitWrapsCutFemale.osd\shoesHighHeel</Data>
         </Slider>
+        <Slider name="CBBE SE" invert="false" small="0" big="0">
+            <Data name="FootPaws_BaseCBBE SE" target="FootPaws_Base">BHUNPDigitigradeKhajiitFeetFemale.osd\FootPaws_BaseCBBE SE</Data>
+            <Data name="shoesCBBE SE" target="shoes" local="true">BHUNPDigitigradeKhajiitWrapsCutFemale.osd\shoesCBBE SE</Data>
+        </Slider>
     </SliderSet>
 </SliderSetInfo>
