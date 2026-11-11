@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="HIMBOVanillaDigitigradeKhajiitFarm03ShoesMale">
+        <ReferenceInfo ProjectFile="SliderSets\HIMBOVanillaDigitigradeKhajiitFeetMale.osp" ProjectName="HIMBOVanillaDigitigradeKhajiitFeetMale" ShapeName="FootPaws_Base"/>
+        <DataFolder>HIMBOVanillaDigitigradeKhajiitFarm03ShoesMale</DataFolder>
+        <SourceFile>HIMBOVanillaDigitigradeKhajiitFarm03ShoesMale.nif</SourceFile>
+        <OutputPath>meshes\clothes\digitigrade\farmclothes03</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">bootsm</OutputFile>
+        <Shape target="bootsmorph">bootsmorph</Shape>
+        <Slider name="Weight 0 to 1" invert="false" small="0" big="100" hidden="true">
+            <Data name="bootsmorphWeight 0 to 1" target="bootsmorph" local="true">HIMBOVanillaDigitigradeKhajiitFarm03ShoesMale.osd\bootsmorphWeight 0 to 1</Data>
+        </Slider>
+        <Slider name="Chubby" invert="false" small="0" big="0">
+            <Data name="bootsmorphChubby" target="bootsmorph" local="true">HIMBOVanillaDigitigradeKhajiitFarm03ShoesMale.osd\bootsmorphChubby</Data>
+        </Slider>
+        <Slider name="Lean" invert="false" small="0" big="0">
+            <Data name="bootsmorphLean" target="bootsmorph" local="true">HIMBOVanillaDigitigradeKhajiitFarm03ShoesMale.osd\bootsmorphLean</Data>
+        </Slider>
+        <Slider name="Muscle" invert="false" small="0" big="0">
+            <Data name="bootsmorphMuscle" target="bootsmorph" local="true">HIMBOVanillaDigitigradeKhajiitFarm03ShoesMale.osd\bootsmorphMuscle</Data>
+        </Slider>
+        <Slider name="SOSlike" invert="false" small="0" big="0">
+            <Data name="bootsmorphSOSlike" target="bootsmorph" local="true">HIMBOVanillaDigitigradeKhajiitFarm03ShoesMale.osd\bootsmorphSOSlike</Data>
+        </Slider>
+        <Slider name="LegsSize" invert="false" small="0" big="0">
+            <Data name="bootsmorphLegsSize" target="bootsmorph" local="true">HIMBOVanillaDigitigradeKhajiitFarm03ShoesMale.osd\bootsmorphLegsSize</Data>
+        </Slider>
+        <Slider name="LegsThinner" invert="false" small="0" big="0">
+            <Data name="bootsmorphLegsThinner" target="bootsmorph" local="true">HIMBOVanillaDigitigradeKhajiitFarm03ShoesMale.osd\bootsmorphLegsThinner</Data>
+        </Slider>
+        <Slider name="LegsChubby" invert="false" small="0" big="0">
+            <Data name="bootsmorphLegsChubby" target="bootsmorph" local="true">HIMBOVanillaDigitigradeKhajiitFarm03ShoesMale.osd\bootsmorphLegsChubby</Data>
+        </Slider>
+        <Slider name="LegsFemurBack" invert="false" small="0" big="0">
+            <Data name="bootsmorphLegsFemurBack" target="bootsmorph" local="true">HIMBOVanillaDigitigradeKhajiitFarm03ShoesMale.osd\bootsmorphLegsFemurBack</Data>
+        </Slider>
+        <Slider name="LegsKneePit" invert="false" small="0" big="0">
+            <Data name="bootsmorphLegsKneePit" target="bootsmorph" local="true">HIMBOVanillaDigitigradeKhajiitFarm03ShoesMale.osd\bootsmorphLegsKneePit</Data>
+        </Slider>
+        <Slider name="LegsCalfSize" invert="false" small="0" big="0">
+            <Data name="bootsmorphLegsCalfSize" target="bootsmorph" local="true">HIMBOVanillaDigitigradeKhajiitFarm03ShoesMale.osd\bootsmorphLegsCalfSize</Data>
+        </Slider>
+        <Slider name="LegsCalfWidth" invert="false" small="0" big="0">
+            <Data name="bootsmorphLegsCalfWidth" target="bootsmorph" local="true">HIMBOVanillaDigitigradeKhajiitFarm03ShoesMale.osd\bootsmorphLegsCalfWidth</Data>
+        </Slider>
+        <Slider name="LegsCalfUpper" invert="false" small="0" big="0">
+            <Data name="bootsmorphLegsCalfUpper" target="bootsmorph" local="true">HIMBOVanillaDigitigradeKhajiitFarm03ShoesMale.osd\bootsmorphLegsCalfUpper</Data>
+        </Slider>
+        <Slider name="LegsCalfLower" invert="false" small="0" big="0">
+            <Data name="bootsmorphLegsCalfLower" target="bootsmorph" local="true">HIMBOVanillaDigitigradeKhajiitFarm03ShoesMale.osd\bootsmorphLegsCalfLower</Data>
+        </Slider>
+        <Slider name="LegsCalfFlatten" invert="false" small="0" big="0">
+            <Data name="bootsmorphLegsCalfFlatten" target="bootsmorph" local="true">HIMBOVanillaDigitigradeKhajiitFarm03ShoesMale.osd\bootsmorphLegsCalfFlatten</Data>
+        </Slider>
+        <Slider name="LegsShinCrease" invert="false" small="0" big="0">
+            <Data name="bootsmorphLegsShinCrease" target="bootsmorph" local="true">HIMBOVanillaDigitigradeKhajiitFarm03ShoesMale.osd\bootsmorphLegsShinCrease</Data>
+        </Slider>
+        <Slider name="FemmeB" invert="false" small="0" big="0">
+            <Data name="bootsmorphFemmeB" target="bootsmorph" local="true">HIMBOVanillaDigitigradeKhajiitFarm03ShoesMale.osd\bootsmorphFemmeB</Data>
+        </Slider>
+        <Slider name="LegsThighUpperSide" invert="false" small="0" big="0">
+            <Data name="bootsmorphLegsThighUpperSide" target="bootsmorph" local="true">HIMBOVanillaDigitigradeKhajiitFarm03ShoesMale.osd\bootsmorphLegsThighUpperSide</Data>
+        </Slider>
+        <Slider name="BodyMass" invert="false" small="0" big="0">
+            <Data name="bootsmorphBodyMass" target="bootsmorph" local="true">HIMBOVanillaDigitigradeKhajiitFarm03ShoesMale.osd\bootsmorphBodyMass</Data>
+        </Slider>
+        <Slider name="SSBBW butt growth" invert="false" small="0" big="0">
+            <Data name="bootsmorphSSBBW butt growth" target="bootsmorph" local="true">HIMBOVanillaDigitigradeKhajiitFarm03ShoesMale.osd\bootsmorphSSBBW butt growth</Data>
+        </Slider>
+        <Slider name="SamuelLike" invert="false" small="0" big="0">
+            <Data name="bootsmorphSamuelLike" target="bootsmorph" local="true">HIMBOVanillaDigitigradeKhajiitFarm03ShoesMale.osd\bootsmorphSamuelLike</Data>
+        </Slider>
+        <Slider name="LegsThighInnerSide" invert="false" small="0" big="0">
+            <Data name="bootsmorphLegsThighInnerSide" target="bootsmorph" local="true">HIMBOVanillaDigitigradeKhajiitFarm03ShoesMale.osd\bootsmorphLegsThighInnerSide</Data>
+        </Slider>
+        <Slider name="LegsKneeInner" invert="false" small="0" big="0">
+            <Data name="bootsmorphLegsKneeInner" target="bootsmorph" local="true">HIMBOVanillaDigitigradeKhajiitFarm03ShoesMale.osd\bootsmorphLegsKneeInner</Data>
+        </Slider>
+        <Slider name="LegsKneeOuter" invert="false" small="0" big="0">
+            <Data name="bootsmorphLegsKneeOuter" target="bootsmorph" local="true">HIMBOVanillaDigitigradeKhajiitFarm03ShoesMale.osd\bootsmorphLegsKneeOuter</Data>
+        </Slider>
+        <Slider name="LegsThighIn" invert="false" small="0" big="0">
+            <Data name="bootsmorphLegsThighIn" target="bootsmorph" local="true">HIMBOVanillaDigitigradeKhajiitFarm03ShoesMale.osd\bootsmorphLegsThighIn</Data>
+        </Slider>
+        <Slider name="LegsCalfSideIn" invert="false" small="0" big="0">
+            <Data name="bootsmorphLegsCalfSideIn" target="bootsmorph" local="true">HIMBOVanillaDigitigradeKhajiitFarm03ShoesMale.osd\bootsmorphLegsCalfSideIn</Data>
+        </Slider>
+        <Slider name="LegsCalfOut" invert="false" small="0" big="0">
+            <Data name="bootsmorphLegsCalfOut" target="bootsmorph" local="true">HIMBOVanillaDigitigradeKhajiitFarm03ShoesMale.osd\bootsmorphLegsCalfOut</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

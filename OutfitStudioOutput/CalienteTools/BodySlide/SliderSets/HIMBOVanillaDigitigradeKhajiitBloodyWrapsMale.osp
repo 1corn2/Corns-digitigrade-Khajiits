@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="HIMBOVanillaDigitigradeKhajiitBloodyWrapsMale">
+        <ReferenceInfo ProjectFile="SliderSets\HIMBOVanillaDigitigradeKhajiitFeetMale.osp" ProjectName="HIMBOVanillaDigitigradeKhajiitFeetMale" ShapeName="FootPaws_Base"/>
+        <DataFolder>HIMBOVanillaDigitigradeKhajiitBloodyWrapsMale</DataFolder>
+        <SourceFile>HIMBOVanillaDigitigradeKhajiitBloodyWrapsMale.nif</SourceFile>
+        <OutputPath>meshes\dlc01\clothes\digitigrade\prisoner</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">prisonershoesbloody</OutputFile>
+        <Shape target="FootPaws_Base" DataFolder="HIMBOVanillaDigitigradeKhajiitFeetMale">FootPaws_Base</Shape>
+        <Shape target="shoes">shoes</Shape>
+        <Slider name="Weight 0 to 1" invert="false" small="0" big="100" hidden="true">
+            <Data name="FootPaws_BaseWeight 0 to 1" target="FootPaws_Base">HIMBOVanillaDigitigradeKhajiitFeetMale.osd\FootPaws_BaseWeight 0 to 1</Data>
+            <Data name="shoesWeight 0 to 1" target="shoes" local="true">HIMBOVanillaDigitigradeKhajiitBloodyWrapsMale.osd\shoesWeight 0 to 1</Data>
+        </Slider>
+        <Slider name="Chubby" invert="false" small="0" big="0">
+            <Data name="shoesChubby" target="shoes" local="true">HIMBOVanillaDigitigradeKhajiitBloodyWrapsMale.osd\shoesChubby</Data>
+        </Slider>
+        <Slider name="Lean" invert="false" small="0" big="0">
+            <Data name="shoesLean" target="shoes" local="true">HIMBOVanillaDigitigradeKhajiitBloodyWrapsMale.osd\shoesLean</Data>
+        </Slider>
+        <Slider name="Muscle" invert="false" small="0" big="0">
+            <Data name="shoesMuscle" target="shoes" local="true">HIMBOVanillaDigitigradeKhajiitBloodyWrapsMale.osd\shoesMuscle</Data>
+        </Slider>
+        <Slider name="SOSlike" invert="false" small="0" big="0">
+            <Data name="shoesSOSlike" target="shoes" local="true">HIMBOVanillaDigitigradeKhajiitBloodyWrapsMale.osd\shoesSOSlike</Data>
+        </Slider>
+        <Slider name="LegsSize" invert="false" small="0" big="0">
+            <Data name="shoesLegsSize" target="shoes" local="true">HIMBOVanillaDigitigradeKhajiitBloodyWrapsMale.osd\shoesLegsSize</Data>
+        </Slider>
+        <Slider name="LegsThinner" invert="false" small="0" big="0">
+            <Data name="shoesLegsThinner" target="shoes" local="true">HIMBOVanillaDigitigradeKhajiitBloodyWrapsMale.osd\shoesLegsThinner</Data>
+        </Slider>
+        <Slider name="LegsChubby" invert="false" small="0" big="0">
+            <Data name="shoesLegsChubby" target="shoes" local="true">HIMBOVanillaDigitigradeKhajiitBloodyWrapsMale.osd\shoesLegsChubby</Data>
+        </Slider>
+        <Slider name="LegsCalfSize" invert="false" small="0" big="0">
+            <Data name="shoesLegsCalfSize" target="shoes" local="true">HIMBOVanillaDigitigradeKhajiitBloodyWrapsMale.osd\shoesLegsCalfSize</Data>
+        </Slider>
+        <Slider name="LegsCalfWidth" invert="false" small="0" big="0">
+            <Data name="shoesLegsCalfWidth" target="shoes" local="true">HIMBOVanillaDigitigradeKhajiitBloodyWrapsMale.osd\shoesLegsCalfWidth</Data>
+        </Slider>
+        <Slider name="LegsCalfLower" invert="false" small="0" big="0">
+            <Data name="shoesLegsCalfLower" target="shoes" local="true">HIMBOVanillaDigitigradeKhajiitBloodyWrapsMale.osd\shoesLegsCalfLower</Data>
+        </Slider>
+        <Slider name="LegsCalfFlatten" invert="false" small="0" big="0">
+            <Data name="shoesLegsCalfFlatten" target="shoes" local="true">HIMBOVanillaDigitigradeKhajiitBloodyWrapsMale.osd\shoesLegsCalfFlatten</Data>
+        </Slider>
+        <Slider name="FemmeB" invert="false" small="0" big="0">
+            <Data name="shoesFemmeB" target="shoes" local="true">HIMBOVanillaDigitigradeKhajiitBloodyWrapsMale.osd\shoesFemmeB</Data>
+        </Slider>
+        <Slider name="BodyMass" invert="false" small="0" big="0">
+            <Data name="shoesBodyMass" target="shoes" local="true">HIMBOVanillaDigitigradeKhajiitBloodyWrapsMale.osd\shoesBodyMass</Data>
+        </Slider>
+        <Slider name="SSBBW butt growth" invert="false" small="0" big="0">
+            <Data name="shoesSSBBW butt growth" target="shoes" local="true">HIMBOVanillaDigitigradeKhajiitBloodyWrapsMale.osd\shoesSSBBW butt growth</Data>
+        </Slider>
+        <Slider name="SamuelLike" invert="false" small="0" big="0">
+            <Data name="shoesSamuelLike" target="shoes" local="true">HIMBOVanillaDigitigradeKhajiitBloodyWrapsMale.osd\shoesSamuelLike</Data>
+        </Slider>
+        <Slider name="LegsCalfSideIn" invert="false" small="0" big="0">
+            <Data name="shoesLegsCalfSideIn" target="shoes" local="true">HIMBOVanillaDigitigradeKhajiitBloodyWrapsMale.osd\shoesLegsCalfSideIn</Data>
+        </Slider>
+        <Slider name="LegsCalfOut" invert="false" small="0" big="0">
+            <Data name="shoesLegsCalfOut" target="shoes" local="true">HIMBOVanillaDigitigradeKhajiitBloodyWrapsMale.osd\shoesLegsCalfOut</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

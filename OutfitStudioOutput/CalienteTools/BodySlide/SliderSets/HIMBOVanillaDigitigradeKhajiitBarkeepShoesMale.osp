@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="HIMBOVanillaDigitigradeKhajiitBarkeepShoesMale">
+        <ReferenceInfo ProjectFile="SliderSets\HIMBOVanillaDigitigradeKhajiitFeetMale.osp" ProjectName="HIMBOVanillaDigitigradeKhajiitFeetMale" ShapeName="FootPaws_Base"/>
+        <DataFolder>HIMBOVanillaDigitigradeKhajiitBarkeepShoesMale</DataFolder>
+        <SourceFile>HIMBOVanillaDigitigradeKhajiitBarkeepShoesMale.nif</SourceFile>
+        <OutputPath>meshes\clothes\digitigrade\barkeeper\m</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">shoes</OutputFile>
+        <Shape target="BarKeepShoe_Rig">BarKeepShoe_Rig</Shape>
+        <Shape target="FootPaws_Base" DataFolder="HIMBOVanillaDigitigradeKhajiitFeetMale">FootPaws_Base</Shape>
+        <Slider name="Weight 0 to 1" invert="false" small="0" big="100" hidden="true">
+            <Data name="FootPaws_BaseWeight 0 to 1" target="FootPaws_Base">HIMBOVanillaDigitigradeKhajiitFeetMale.osd\FootPaws_BaseWeight 0 to 1</Data>
+            <Data name="BarKeepShoe_RigWeight 0 to 1" target="BarKeepShoe_Rig" local="true">HIMBOVanillaDigitigradeKhajiitBarkeepShoesMale.osd\BarKeepShoe_RigWeight 0 to 1</Data>
+        </Slider>
+        <Slider name="LegsCalfSideIn" invert="false" small="0" big="0">
+            <Data name="BarKeepShoe_RigLegsCalfSideIn" target="BarKeepShoe_Rig" local="true">HIMBOVanillaDigitigradeKhajiitBarkeepShoesMale.osd\BarKeepShoe_RigLegsCalfSideIn</Data>
+        </Slider>
+        <Slider name="LegsCalfOut" invert="false" small="0" big="0">
+            <Data name="BarKeepShoe_RigLegsCalfOut" target="BarKeepShoe_Rig" local="true">HIMBOVanillaDigitigradeKhajiitBarkeepShoesMale.osd\BarKeepShoe_RigLegsCalfOut</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

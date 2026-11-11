@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="HIMBOVanillaDigitigradeKhajiitDBHoodShoesMale">
+        <ReferenceInfo ProjectFile="SliderSets\HIMBOVanillaDigitigradeKhajiitFeetMale.osp" ProjectName="HIMBOVanillaDigitigradeKhajiitFeetMale" ShapeName="FootPaws_Base"/>
+        <DataFolder>HIMBOVanillaDigitigradeKhajiitDBHoodShoesMale</DataFolder>
+        <SourceFile>HIMBOVanillaDigitigradeKhajiitDBHoodShoesMale.nif</SourceFile>
+        <OutputPath>meshes\clothes\digitigrade\robedarkbrotherhood</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">dbboots</OutputFile>
+        <Shape target="DBboots">DBboots</Shape>
+        <Shape target="FootPaws_Base" DataFolder="HIMBOVanillaDigitigradeKhajiitFeetMale">FootPaws_Base</Shape>
+        <Slider name="Weight 0 to 1" invert="false" small="0" big="100" hidden="true">
+            <Data name="FootPaws_BaseWeight 0 to 1" target="FootPaws_Base">HIMBOVanillaDigitigradeKhajiitFeetMale.osd\FootPaws_BaseWeight 0 to 1</Data>
+            <Data name="DBbootsWeight 0 to 1" target="DBboots" local="true">HIMBOVanillaDigitigradeKhajiitDBHoodShoesMale.osd\DBbootsWeight 0 to 1</Data>
+        </Slider>
+        <Slider name="LegsCalfSideIn" invert="false" small="0" big="0">
+            <Data name="DBbootsLegsCalfSideIn" target="DBboots" local="true">HIMBOVanillaDigitigradeKhajiitDBHoodShoesMale.osd\DBbootsLegsCalfSideIn</Data>
+        </Slider>
+        <Slider name="LegsCalfOut" invert="false" small="0" big="0">
+            <Data name="DBbootsLegsCalfOut" target="DBboots" local="true">HIMBOVanillaDigitigradeKhajiitDBHoodShoesMale.osd\DBbootsLegsCalfOut</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

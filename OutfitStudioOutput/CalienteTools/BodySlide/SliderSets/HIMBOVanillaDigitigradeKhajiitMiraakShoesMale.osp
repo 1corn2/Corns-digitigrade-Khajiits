@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="HIMBOVanillaDigitigradeKhajiitMiraakShoesMale">
+        <ReferenceInfo ProjectFile="SliderSets\HIMBOVanillaDigitigradeKhajiitFeetMale.osp" ProjectName="HIMBOVanillaDigitigradeKhajiitFeetMale" ShapeName="FootPaws_Base"/>
+        <DataFolder>HIMBOVanillaDigitigradeKhajiitMiraakShoesMale</DataFolder>
+        <SourceFile>HIMBOVanillaDigitigradeKhajiitMiraakShoesMale.nif</SourceFile>
+        <OutputPath>meshes\dlc02\clothes\digitigrade\miraakrobes</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">miraakbootsm</OutputFile>
+        <Shape target="MiraakBoots">MiraakBoots</Shape>
+        <Slider name="Weight 0 to 1" invert="false" small="0" big="100" hidden="true">
+            <Data name="MiraakBootsWeight 0 to 1" target="MiraakBoots" local="true">HIMBOVanillaDigitigradeKhajiitMiraakShoesMale.osd\MiraakBootsWeight 0 to 1</Data>
+        </Slider>
+        <Slider name="Chubby" invert="false" small="0" big="0">
+            <Data name="MiraakBootsChubby" target="MiraakBoots" local="true">HIMBOVanillaDigitigradeKhajiitMiraakShoesMale.osd\MiraakBootsChubby</Data>
+        </Slider>
+        <Slider name="Lean" invert="false" small="0" big="0">
+            <Data name="MiraakBootsLean" target="MiraakBoots" local="true">HIMBOVanillaDigitigradeKhajiitMiraakShoesMale.osd\MiraakBootsLean</Data>
+        </Slider>
+        <Slider name="Muscle" invert="false" small="0" big="0">
+            <Data name="MiraakBootsMuscle" target="MiraakBoots" local="true">HIMBOVanillaDigitigradeKhajiitMiraakShoesMale.osd\MiraakBootsMuscle</Data>
+        </Slider>
+        <Slider name="SOSlike" invert="false" small="0" big="0">
+            <Data name="MiraakBootsSOSlike" target="MiraakBoots" local="true">HIMBOVanillaDigitigradeKhajiitMiraakShoesMale.osd\MiraakBootsSOSlike</Data>
+        </Slider>
+        <Slider name="LegsSize" invert="false" small="0" big="0">
+            <Data name="MiraakBootsLegsSize" target="MiraakBoots" local="true">HIMBOVanillaDigitigradeKhajiitMiraakShoesMale.osd\MiraakBootsLegsSize</Data>
+        </Slider>
+        <Slider name="LegsThinner" invert="false" small="0" big="0">
+            <Data name="MiraakBootsLegsThinner" target="MiraakBoots" local="true">HIMBOVanillaDigitigradeKhajiitMiraakShoesMale.osd\MiraakBootsLegsThinner</Data>
+        </Slider>
+        <Slider name="LegsChubby" invert="false" small="0" big="0">
+            <Data name="MiraakBootsLegsChubby" target="MiraakBoots" local="true">HIMBOVanillaDigitigradeKhajiitMiraakShoesMale.osd\MiraakBootsLegsChubby</Data>
+        </Slider>
+        <Slider name="LegsKneePit" invert="false" small="0" big="0">
+            <Data name="MiraakBootsLegsKneePit" target="MiraakBoots" local="true">HIMBOVanillaDigitigradeKhajiitMiraakShoesMale.osd\MiraakBootsLegsKneePit</Data>
+        </Slider>
+        <Slider name="LegsCalfSize" invert="false" small="0" big="0">
+            <Data name="MiraakBootsLegsCalfSize" target="MiraakBoots" local="true">HIMBOVanillaDigitigradeKhajiitMiraakShoesMale.osd\MiraakBootsLegsCalfSize</Data>
+        </Slider>
+        <Slider name="LegsCalfWidth" invert="false" small="0" big="0">
+            <Data name="MiraakBootsLegsCalfWidth" target="MiraakBoots" local="true">HIMBOVanillaDigitigradeKhajiitMiraakShoesMale.osd\MiraakBootsLegsCalfWidth</Data>
+        </Slider>
+        <Slider name="LegsCalfUpper" invert="false" small="0" big="0">
+            <Data name="MiraakBootsLegsCalfUpper" target="MiraakBoots" local="true">HIMBOVanillaDigitigradeKhajiitMiraakShoesMale.osd\MiraakBootsLegsCalfUpper</Data>
+        </Slider>
+        <Slider name="LegsCalfLower" invert="false" small="0" big="0">
+            <Data name="MiraakBootsLegsCalfLower" target="MiraakBoots" local="true">HIMBOVanillaDigitigradeKhajiitMiraakShoesMale.osd\MiraakBootsLegsCalfLower</Data>
+        </Slider>
+        <Slider name="LegsCalfFlatten" invert="false" small="0" big="0">
+            <Data name="MiraakBootsLegsCalfFlatten" target="MiraakBoots" local="true">HIMBOVanillaDigitigradeKhajiitMiraakShoesMale.osd\MiraakBootsLegsCalfFlatten</Data>
+        </Slider>
+        <Slider name="LegsShinCrease" invert="false" small="0" big="0">
+            <Data name="MiraakBootsLegsShinCrease" target="MiraakBoots" local="true">HIMBOVanillaDigitigradeKhajiitMiraakShoesMale.osd\MiraakBootsLegsShinCrease</Data>
+        </Slider>
+        <Slider name="FemmeB" invert="false" small="0" big="0">
+            <Data name="MiraakBootsFemmeB" target="MiraakBoots" local="true">HIMBOVanillaDigitigradeKhajiitMiraakShoesMale.osd\MiraakBootsFemmeB</Data>
+        </Slider>
+        <Slider name="BodyMass" invert="false" small="0" big="0">
+            <Data name="MiraakBootsBodyMass" target="MiraakBoots" local="true">HIMBOVanillaDigitigradeKhajiitMiraakShoesMale.osd\MiraakBootsBodyMass</Data>
+        </Slider>
+        <Slider name="SSBBW butt growth" invert="false" small="0" big="0">
+            <Data name="MiraakBootsSSBBW butt growth" target="MiraakBoots" local="true">HIMBOVanillaDigitigradeKhajiitMiraakShoesMale.osd\MiraakBootsSSBBW butt growth</Data>
+        </Slider>
+        <Slider name="SamuelLike" invert="false" small="0" big="0">
+            <Data name="MiraakBootsSamuelLike" target="MiraakBoots" local="true">HIMBOVanillaDigitigradeKhajiitMiraakShoesMale.osd\MiraakBootsSamuelLike</Data>
+        </Slider>
+        <Slider name="LegsKneeInner" invert="false" small="0" big="0">
+            <Data name="MiraakBootsLegsKneeInner" target="MiraakBoots" local="true">HIMBOVanillaDigitigradeKhajiitMiraakShoesMale.osd\MiraakBootsLegsKneeInner</Data>
+        </Slider>
+        <Slider name="LegsCalfSideIn" invert="false" small="0" big="0">
+            <Data name="MiraakBootsLegsCalfSideIn" target="MiraakBoots" local="true">HIMBOVanillaDigitigradeKhajiitMiraakShoesMale.osd\MiraakBootsLegsCalfSideIn</Data>
+        </Slider>
+        <Slider name="LegsCalfOut" invert="false" small="0" big="0">
+            <Data name="MiraakBootsLegsCalfOut" target="MiraakBoots" local="true">HIMBOVanillaDigitigradeKhajiitMiraakShoesMale.osd\MiraakBootsLegsCalfOut</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

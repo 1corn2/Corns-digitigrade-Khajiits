@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="HIMBOVanillaDigitigradeKhajiitMinerShoesMale">
+        <ReferenceInfo ProjectFile="SliderSets\HIMBOVanillaDigitigradeKhajiitFeetMale.osp" ProjectName="HIMBOVanillaDigitigradeKhajiitFeetMale" ShapeName="FootPaws_Base"/>
+        <DataFolder>HIMBOVanillaDigitigradeKhajiitMinerShoesMale</DataFolder>
+        <SourceFile>HIMBOVanillaDigitigradeKhajiitMinerShoesMale.nif</SourceFile>
+        <OutputPath>meshes\clothes\digitigrade\minerclothes</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">minerboots</OutputFile>
+        <Shape target="MinerBoots">MinerBoots</Shape>
+        <Slider name="Weight 0 to 1" invert="false" small="0" big="100" hidden="true">
+            <Data name="MinerBootsWeight 0 to 1" target="MinerBoots" local="true">HIMBOVanillaDigitigradeKhajiitMinerShoesMale.osd\MinerBootsWeight 0 to 1</Data>
+        </Slider>
+        <Slider name="LegsCalfSideIn" invert="false" small="0" big="0">
+            <Data name="MinerBootsLegsCalfSideIn" target="MinerBoots" local="true">HIMBOVanillaDigitigradeKhajiitMinerShoesMale.osd\MinerBootsLegsCalfSideIn</Data>
+        </Slider>
+        <Slider name="LegsCalfOut" invert="false" small="0" big="0">
+            <Data name="MinerBootsLegsCalfOut" target="MinerBoots" local="true">HIMBOVanillaDigitigradeKhajiitMinerShoesMale.osd\MinerBootsLegsCalfOut</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

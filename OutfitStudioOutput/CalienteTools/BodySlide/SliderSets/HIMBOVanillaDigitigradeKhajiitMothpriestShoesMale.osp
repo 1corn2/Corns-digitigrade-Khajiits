@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="HIMBOVanillaDigitigradeKhajiitMothpriestShoesMale">
+        <ReferenceInfo ProjectFile="SliderSets\HIMBOVanillaDigitigradeKhajiitFeetMale.osp" ProjectName="HIMBOVanillaDigitigradeKhajiitFeetMale" ShapeName="FootPaws_Base"/>
+        <DataFolder>HIMBOVanillaDigitigradeKhajiitMothpriestShoesMale</DataFolder>
+        <SourceFile>HIMBOVanillaDigitigradeKhajiitMothpriestShoesMale.nif</SourceFile>
+        <OutputPath>meshes\dlc01\clothes\digitigrade\blindmothpriest</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">sandalsm</OutputFile>
+        <Shape target="FootPaws_Base" DataFolder="HIMBOVanillaDigitigradeKhajiitFeetMale">FootPaws_Base</Shape>
+        <Shape target="sandals">sandals</Shape>
+        <Slider name="Weight 0 to 1" invert="false" small="0" big="100" hidden="true">
+            <Data name="FootPaws_BaseWeight 0 to 1" target="FootPaws_Base">HIMBOVanillaDigitigradeKhajiitFeetMale.osd\FootPaws_BaseWeight 0 to 1</Data>
+            <Data name="sandalsWeight 0 to 1" target="sandals" local="true">HIMBOVanillaDigitigradeKhajiitMothpriestShoesMale.osd\sandalsWeight 0 to 1</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

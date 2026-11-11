@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="HIMBOVanillaDigitigradeKhajiitSkaalShoesMale">
+        <ReferenceInfo ProjectFile="SliderSets\HIMBOVanillaDigitigradeKhajiitFeetMale.osp" ProjectName="HIMBOVanillaDigitigradeKhajiitFeetMale" ShapeName="FootPaws_Base"/>
+        <DataFolder>HIMBOVanillaDigitigradeKhajiitSkaalShoesMale</DataFolder>
+        <SourceFile>HIMBOVanillaDigitigradeKhajiitSkaalShoesMale.nif</SourceFile>
+        <OutputPath>meshes\dlc02\clothes\digitigrade\skaal\m</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">skaalboots</OutputFile>
+        <Shape target="SkaalBoots">SkaalBoots</Shape>
+        <Slider name="Weight 0 to 1" invert="false" small="0" big="100" hidden="true">
+            <Data name="SkaalBootsWeight 0 to 1" target="SkaalBoots" local="true">HIMBOVanillaDigitigradeKhajiitSkaalShoesMale.osd\SkaalBootsWeight 0 to 1</Data>
+        </Slider>
+        <Slider name="Chubby" invert="false" small="0" big="0">
+            <Data name="SkaalBootsChubby" target="SkaalBoots" local="true">HIMBOVanillaDigitigradeKhajiitSkaalShoesMale.osd\SkaalBootsChubby</Data>
+        </Slider>
+        <Slider name="Lean" invert="false" small="0" big="0">
+            <Data name="SkaalBootsLean" target="SkaalBoots" local="true">HIMBOVanillaDigitigradeKhajiitSkaalShoesMale.osd\SkaalBootsLean</Data>
+        </Slider>
+        <Slider name="Muscle" invert="false" small="0" big="0">
+            <Data name="SkaalBootsMuscle" target="SkaalBoots" local="true">HIMBOVanillaDigitigradeKhajiitSkaalShoesMale.osd\SkaalBootsMuscle</Data>
+        </Slider>
+        <Slider name="SOSlike" invert="false" small="0" big="0">
+            <Data name="SkaalBootsSOSlike" target="SkaalBoots" local="true">HIMBOVanillaDigitigradeKhajiitSkaalShoesMale.osd\SkaalBootsSOSlike</Data>
+        </Slider>
+        <Slider name="LegsSize" invert="false" small="0" big="0">
+            <Data name="SkaalBootsLegsSize" target="SkaalBoots" local="true">HIMBOVanillaDigitigradeKhajiitSkaalShoesMale.osd\SkaalBootsLegsSize</Data>
+        </Slider>
+        <Slider name="LegsThinner" invert="false" small="0" big="0">
+            <Data name="SkaalBootsLegsThinner" target="SkaalBoots" local="true">HIMBOVanillaDigitigradeKhajiitSkaalShoesMale.osd\SkaalBootsLegsThinner</Data>
+        </Slider>
+        <Slider name="LegsChubby" invert="false" small="0" big="0">
+            <Data name="SkaalBootsLegsChubby" target="SkaalBoots" local="true">HIMBOVanillaDigitigradeKhajiitSkaalShoesMale.osd\SkaalBootsLegsChubby</Data>
+        </Slider>
+        <Slider name="LegsKneePit" invert="false" small="0" big="0">
+            <Data name="SkaalBootsLegsKneePit" target="SkaalBoots" local="true">HIMBOVanillaDigitigradeKhajiitSkaalShoesMale.osd\SkaalBootsLegsKneePit</Data>
+        </Slider>
+        <Slider name="LegsCalfSize" invert="false" small="0" big="0">
+            <Data name="SkaalBootsLegsCalfSize" target="SkaalBoots" local="true">HIMBOVanillaDigitigradeKhajiitSkaalShoesMale.osd\SkaalBootsLegsCalfSize</Data>
+        </Slider>
+        <Slider name="LegsCalfWidth" invert="false" small="0" big="0">
+            <Data name="SkaalBootsLegsCalfWidth" target="SkaalBoots" local="true">HIMBOVanillaDigitigradeKhajiitSkaalShoesMale.osd\SkaalBootsLegsCalfWidth</Data>
+        </Slider>
+        <Slider name="LegsCalfUpper" invert="false" small="0" big="0">
+            <Data name="SkaalBootsLegsCalfUpper" target="SkaalBoots" local="true">HIMBOVanillaDigitigradeKhajiitSkaalShoesMale.osd\SkaalBootsLegsCalfUpper</Data>
+        </Slider>
+        <Slider name="LegsCalfLower" invert="false" small="0" big="0">
+            <Data name="SkaalBootsLegsCalfLower" target="SkaalBoots" local="true">HIMBOVanillaDigitigradeKhajiitSkaalShoesMale.osd\SkaalBootsLegsCalfLower</Data>
+        </Slider>
+        <Slider name="LegsCalfFlatten" invert="false" small="0" big="0">
+            <Data name="SkaalBootsLegsCalfFlatten" target="SkaalBoots" local="true">HIMBOVanillaDigitigradeKhajiitSkaalShoesMale.osd\SkaalBootsLegsCalfFlatten</Data>
+        </Slider>
+        <Slider name="LegsShinCrease" invert="false" small="0" big="0">
+            <Data name="SkaalBootsLegsShinCrease" target="SkaalBoots" local="true">HIMBOVanillaDigitigradeKhajiitSkaalShoesMale.osd\SkaalBootsLegsShinCrease</Data>
+        </Slider>
+        <Slider name="FemmeB" invert="false" small="0" big="0">
+            <Data name="SkaalBootsFemmeB" target="SkaalBoots" local="true">HIMBOVanillaDigitigradeKhajiitSkaalShoesMale.osd\SkaalBootsFemmeB</Data>
+        </Slider>
+        <Slider name="BodyMass" invert="false" small="0" big="0">
+            <Data name="SkaalBootsBodyMass" target="SkaalBoots" local="true">HIMBOVanillaDigitigradeKhajiitSkaalShoesMale.osd\SkaalBootsBodyMass</Data>
+        </Slider>
+        <Slider name="SSBBW butt growth" invert="false" small="0" big="0">
+            <Data name="SkaalBootsSSBBW butt growth" target="SkaalBoots" local="true">HIMBOVanillaDigitigradeKhajiitSkaalShoesMale.osd\SkaalBootsSSBBW butt growth</Data>
+        </Slider>
+        <Slider name="SamuelLike" invert="false" small="0" big="0">
+            <Data name="SkaalBootsSamuelLike" target="SkaalBoots" local="true">HIMBOVanillaDigitigradeKhajiitSkaalShoesMale.osd\SkaalBootsSamuelLike</Data>
+        </Slider>
+        <Slider name="LegsKneeInner" invert="false" small="0" big="0">
+            <Data name="SkaalBootsLegsKneeInner" target="SkaalBoots" local="true">HIMBOVanillaDigitigradeKhajiitSkaalShoesMale.osd\SkaalBootsLegsKneeInner</Data>
+        </Slider>
+        <Slider name="LegsKneeOuter" invert="false" small="0" big="0">
+            <Data name="SkaalBootsLegsKneeOuter" target="SkaalBoots" local="true">HIMBOVanillaDigitigradeKhajiitSkaalShoesMale.osd\SkaalBootsLegsKneeOuter</Data>
+        </Slider>
+        <Slider name="LegsCalfSideIn" invert="false" small="0" big="0">
+            <Data name="SkaalBootsLegsCalfSideIn" target="SkaalBoots" local="true">HIMBOVanillaDigitigradeKhajiitSkaalShoesMale.osd\SkaalBootsLegsCalfSideIn</Data>
+        </Slider>
+        <Slider name="LegsCalfOut" invert="false" small="0" big="0">
+            <Data name="SkaalBootsLegsCalfOut" target="SkaalBoots" local="true">HIMBOVanillaDigitigradeKhajiitSkaalShoesMale.osd\SkaalBootsLegsCalfOut</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="HIMBOVanillaDigitigradeKhajiitMythicDShoesMale">
+        <ReferenceInfo ProjectFile="SliderSets\HIMBOVanillaDigitigradeKhajiitFeetMale.osp" ProjectName="HIMBOVanillaDigitigradeKhajiitFeetMale" ShapeName="FootPaws_Base"/>
+        <DataFolder>HIMBOVanillaDigitigradeKhajiitMythicDShoesMale</DataFolder>
+        <SourceFile>HIMBOVanillaDigitigradeKhajiitMythicDShoesMale.nif</SourceFile>
+        <OutputPath>meshes\clothes\digitigrade\robemythicdawn</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">mdshoesm</OutputFile>
+        <Shape target="FootPaws_Base" DataFolder="HIMBOVanillaDigitigradeKhajiitFeetMale">FootPaws_Base</Shape>
+        <Shape target="Mythic_Dawn_Outfit_foot">Mythic_Dawn_Outfit_foot</Shape>
+        <Slider name="Weight 0 to 1" invert="false" small="0" big="100" hidden="true">
+            <Data name="FootPaws_BaseWeight 0 to 1" target="FootPaws_Base">HIMBOVanillaDigitigradeKhajiitFeetMale.osd\FootPaws_BaseWeight 0 to 1</Data>
+            <Data name="Mythic_Dawn_Outfit_footWeight 0 to 1" target="Mythic_Dawn_Outfit_foot" local="true">HIMBOVanillaDigitigradeKhajiitMythicDShoesMale.osd\Mythic_Dawn_Outfit_footWeight 0 to 1</Data>
+        </Slider>
+        <Slider name="LegsCalfSideIn" invert="false" small="0" big="0">
+            <Data name="Mythic_Dawn_Outfit_footLegsCalfSideIn" target="Mythic_Dawn_Outfit_foot" local="true">HIMBOVanillaDigitigradeKhajiitMythicDShoesMale.osd\Mythic_Dawn_Outfit_footLegsCalfSideIn</Data>
+        </Slider>
+        <Slider name="LegsCalfOut" invert="false" small="0" big="0">
+            <Data name="Mythic_Dawn_Outfit_footLegsCalfOut" target="Mythic_Dawn_Outfit_foot" local="true">HIMBOVanillaDigitigradeKhajiitMythicDShoesMale.osd\Mythic_Dawn_Outfit_footLegsCalfOut</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

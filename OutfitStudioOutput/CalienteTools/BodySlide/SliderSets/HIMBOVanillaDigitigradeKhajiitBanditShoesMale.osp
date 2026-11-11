@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="HIMBOVanillaDigitigradeKhajiitBanditShoesMale">
+        <ReferenceInfo ProjectFile="SliderSets\HIMBOVanillaDigitigradeKhajiitFeetMale.osp" ProjectName="HIMBOVanillaDigitigradeKhajiitFeetMale" ShapeName="FootPaws_Base"/>
+        <DataFolder>HIMBOVanillaDigitigradeKhajiitBanditShoesMale</DataFolder>
+        <SourceFile>HIMBOVanillaDigitigradeKhajiitBanditShoesMale.nif</SourceFile>
+        <OutputPath>meshes\armor\digitigrade\bandit</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">bootsm</OutputFile>
+        <Shape target="Bandit_Armor_Male_shoes">Bandit_Armor_Male_shoes</Shape>
+        <Shape target="FootPaws_Base" DataFolder="HIMBOVanillaDigitigradeKhajiitFeetMale">FootPaws_Base</Shape>
+        <Slider name="Weight 0 to 1" invert="false" small="0" big="100" hidden="true">
+            <Data name="FootPaws_BaseWeight 0 to 1" target="FootPaws_Base">HIMBOVanillaDigitigradeKhajiitFeetMale.osd\FootPaws_BaseWeight 0 to 1</Data>
+            <Data name="Bandit_Armor_Male_shoesWeight 0 to 1" target="Bandit_Armor_Male_shoes" local="true">HIMBOVanillaDigitigradeKhajiitBanditShoesMale.osd\Bandit_Armor_Male_shoesWeight 0 to 1</Data>
+        </Slider>
+        <Slider name="LegsCalfSideIn" invert="false" small="0" big="0">
+            <Data name="Bandit_Armor_Male_shoesLegsCalfSideIn" target="Bandit_Armor_Male_shoes" local="true">HIMBOVanillaDigitigradeKhajiitBanditShoesMale.osd\Bandit_Armor_Male_shoesLegsCalfSideIn</Data>
+        </Slider>
+        <Slider name="LegsCalfOut" invert="false" small="0" big="0">
+            <Data name="Bandit_Armor_Male_shoesLegsCalfOut" target="Bandit_Armor_Male_shoes" local="true">HIMBOVanillaDigitigradeKhajiitBanditShoesMale.osd\Bandit_Armor_Male_shoesLegsCalfOut</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>
