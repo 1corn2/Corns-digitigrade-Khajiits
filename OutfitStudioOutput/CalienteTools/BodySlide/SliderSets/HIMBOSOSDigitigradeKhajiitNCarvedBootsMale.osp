@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="HIMBOSOSDigitigradeKhajiitNCarvedBootsMale">
+        <ReferenceInfo ProjectFile="SliderSets\HIMBOSOSDigitigradeKhajiitWrapsCutMale.osp" ProjectName="HIMBOSOSDigitigradeKhajiitWrapsCutMale" ShapeName="FootPaws_Base"/>
+        <DataFolder>HIMBOSOSDigitigradeKhajiitNCarvedBootsMale</DataFolder>
+        <SourceFile>HIMBOSOSDigitigradeKhajiitNCarvedBootsMale.nif</SourceFile>
+        <OutputPath>meshes\dlc02\armor\digitigrade\nordiccarved</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">bootsm</OutputFile>
+        <Shape target="FootPaws_Base" DataFolder="VanillaDigitigradeKhajiitFeetMale;HIMBOSOSDigitigradeKhajiitFeetMale">FootPaws_Base</Shape>
+        <Shape target="NordicBoots">NordicBoots</Shape>
+        <Shape target="shoes" DataFolder="HIMBOSOSDigitigradeKhajiitWrapsCutMale">shoes</Shape>
+        <Slider name="Weight 0 to 1" invert="false" small="0" big="100" hidden="true">
+            <Data name="FootPaws_BaseWeight 0 to 1" target="FootPaws_Base">HIMBOSOSDigitigradeKhajiitFeetMale.osd\FootPaws_BaseWeight 0 to 1</Data>
+            <Data name="NordicBootsWeight 0 to 1" target="NordicBoots" local="true">HIMBOSOSDigitigradeKhajiitNCarvedBootsMale.osd\NordicBootsWeight 0 to 1</Data>
+            <Data name="shoesWeight 0 to 1" target="shoes">HIMBOSOSDigitigradeKhajiitWrapsCutMale.osd\shoesWeight 0 to 1</Data>
+        </Slider>
+        <Slider name="Chubby" invert="false" small="0" big="0">
+            <Data name="NordicBootsChubby" target="NordicBoots" local="true">HIMBOSOSDigitigradeKhajiitNCarvedBootsMale.osd\NordicBootsChubby</Data>
+        </Slider>
+        <Slider name="Lean" invert="false" small="0" big="0">
+            <Data name="NordicBootsLean" target="NordicBoots" local="true">HIMBOSOSDigitigradeKhajiitNCarvedBootsMale.osd\NordicBootsLean</Data>
+        </Slider>
+        <Slider name="Muscle" invert="false" small="0" big="0">
+            <Data name="NordicBootsMuscle" target="NordicBoots" local="true">HIMBOSOSDigitigradeKhajiitNCarvedBootsMale.osd\NordicBootsMuscle</Data>
+        </Slider>
+        <Slider name="SOSlike" invert="false" small="0" big="0">
+            <Data name="NordicBootsSOSlike" target="NordicBoots" local="true">HIMBOSOSDigitigradeKhajiitNCarvedBootsMale.osd\NordicBootsSOSlike</Data>
+        </Slider>
+        <Slider name="LegsSize" invert="false" small="0" big="0">
+            <Data name="NordicBootsLegsSize" target="NordicBoots" local="true">HIMBOSOSDigitigradeKhajiitNCarvedBootsMale.osd\NordicBootsLegsSize</Data>
+        </Slider>
+        <Slider name="LegsThigh" invert="false" small="0" big="0">
+            <Data name="NordicBootsLegsThigh" target="NordicBoots" local="true">HIMBOSOSDigitigradeKhajiitNCarvedBootsMale.osd\NordicBootsLegsThigh</Data>
+        </Slider>
+        <Slider name="LegsThinner" invert="false" small="0" big="0">
+            <Data name="NordicBootsLegsThinner" target="NordicBoots" local="true">HIMBOSOSDigitigradeKhajiitNCarvedBootsMale.osd\NordicBootsLegsThinner</Data>
+        </Slider>
+        <Slider name="LegsChubby" invert="false" small="0" big="0">
+            <Data name="NordicBootsLegsChubby" target="NordicBoots" local="true">HIMBOSOSDigitigradeKhajiitNCarvedBootsMale.osd\NordicBootsLegsChubby</Data>
+        </Slider>
+        <Slider name="LegsFemurUpper" invert="false" small="0" big="0">
+            <Data name="NordicBootsLegsFemurUpper" target="NordicBoots" local="true">HIMBOSOSDigitigradeKhajiitNCarvedBootsMale.osd\NordicBootsLegsFemurUpper</Data>
+        </Slider>
+        <Slider name="LegsFemurLower" invert="false" small="0" big="0">
+            <Data name="NordicBootsLegsFemurLower" target="NordicBoots" local="true">HIMBOSOSDigitigradeKhajiitNCarvedBootsMale.osd\NordicBootsLegsFemurLower</Data>
+        </Slider>
+        <Slider name="LegsFemurSide" invert="false" small="0" big="0">
+            <Data name="NordicBootsLegsFemurSide" target="NordicBoots" local="true">HIMBOSOSDigitigradeKhajiitNCarvedBootsMale.osd\NordicBootsLegsFemurSide</Data>
+        </Slider>
+        <Slider name="LegsFemurBack" invert="false" small="0" big="0">
+            <Data name="NordicBootsLegsFemurBack" target="NordicBoots" local="true">HIMBOSOSDigitigradeKhajiitNCarvedBootsMale.osd\NordicBootsLegsFemurBack</Data>
+        </Slider>
+        <Slider name="LegsKneePit" invert="false" small="0" big="0">
+            <Data name="NordicBootsLegsKneePit" target="NordicBoots" local="true">HIMBOSOSDigitigradeKhajiitNCarvedBootsMale.osd\NordicBootsLegsKneePit</Data>
+        </Slider>
+        <Slider name="LegsCalfSize" invert="false" small="0" big="0">
+            <Data name="NordicBootsLegsCalfSize" target="NordicBoots" local="true">HIMBOSOSDigitigradeKhajiitNCarvedBootsMale.osd\NordicBootsLegsCalfSize</Data>
+        </Slider>
+        <Slider name="LegsCalfWidth" invert="false" small="0" big="0">
+            <Data name="NordicBootsLegsCalfWidth" target="NordicBoots" local="true">HIMBOSOSDigitigradeKhajiitNCarvedBootsMale.osd\NordicBootsLegsCalfWidth</Data>
+        </Slider>
+        <Slider name="LegsCalfUpper" invert="false" small="0" big="0">
+            <Data name="NordicBootsLegsCalfUpper" target="NordicBoots" local="true">HIMBOSOSDigitigradeKhajiitNCarvedBootsMale.osd\NordicBootsLegsCalfUpper</Data>
+        </Slider>
+        <Slider name="LegsCalfLower" invert="false" small="0" big="0">
+            <Data name="NordicBootsLegsCalfLower" target="NordicBoots" local="true">HIMBOSOSDigitigradeKhajiitNCarvedBootsMale.osd\NordicBootsLegsCalfLower</Data>
+        </Slider>
+        <Slider name="LegsCalfFlatten" invert="false" small="0" big="0">
+            <Data name="NordicBootsLegsCalfFlatten" target="NordicBoots" local="true">HIMBOSOSDigitigradeKhajiitNCarvedBootsMale.osd\NordicBootsLegsCalfFlatten</Data>
+        </Slider>
+        <Slider name="LegsShinCrease" invert="false" small="0" big="0">
+            <Data name="NordicBootsLegsShinCrease" target="NordicBoots" local="true">HIMBOSOSDigitigradeKhajiitNCarvedBootsMale.osd\NordicBootsLegsShinCrease</Data>
+        </Slider>
+        <Slider name="FemmeB" invert="false" small="0" big="0">
+            <Data name="NordicBootsFemmeB" target="NordicBoots" local="true">HIMBOSOSDigitigradeKhajiitNCarvedBootsMale.osd\NordicBootsFemmeB</Data>
+        </Slider>
+        <Slider name="LegsThighUpperSide" invert="false" small="0" big="0">
+            <Data name="NordicBootsLegsThighUpperSide" target="NordicBoots" local="true">HIMBOSOSDigitigradeKhajiitNCarvedBootsMale.osd\NordicBootsLegsThighUpperSide</Data>
+        </Slider>
+        <Slider name="LegsVastusMReduction" invert="false" small="0" big="0">
+            <Data name="NordicBootsLegsVastusMReduction" target="NordicBoots" local="true">HIMBOSOSDigitigradeKhajiitNCarvedBootsMale.osd\NordicBootsLegsVastusMReduction</Data>
+        </Slider>
+        <Slider name="BodyMass" invert="false" small="0" big="0">
+            <Data name="NordicBootsBodyMass" target="NordicBoots" local="true">HIMBOSOSDigitigradeKhajiitNCarvedBootsMale.osd\NordicBootsBodyMass</Data>
+        </Slider>
+        <Slider name="SSBBW butt growth" invert="false" small="0" big="0">
+            <Data name="NordicBootsSSBBW butt growth" target="NordicBoots" local="true">HIMBOSOSDigitigradeKhajiitNCarvedBootsMale.osd\NordicBootsSSBBW butt growth</Data>
+        </Slider>
+        <Slider name="SamuelLike" invert="false" small="0" big="0">
+            <Data name="NordicBootsSamuelLike" target="NordicBoots" local="true">HIMBOSOSDigitigradeKhajiitNCarvedBootsMale.osd\NordicBootsSamuelLike</Data>
+        </Slider>
+        <Slider name="LegsThighInnerSide" invert="false" small="0" big="0">
+            <Data name="NordicBootsLegsThighInnerSide" target="NordicBoots" local="true">HIMBOSOSDigitigradeKhajiitNCarvedBootsMale.osd\NordicBootsLegsThighInnerSide</Data>
+        </Slider>
+        <Slider name="LegsKneeInner" invert="false" small="0" big="0">
+            <Data name="NordicBootsLegsKneeInner" target="NordicBoots" local="true">HIMBOSOSDigitigradeKhajiitNCarvedBootsMale.osd\NordicBootsLegsKneeInner</Data>
+        </Slider>
+        <Slider name="LegsKneeOuter" invert="false" small="0" big="0">
+            <Data name="NordicBootsLegsKneeOuter" target="NordicBoots" local="true">HIMBOSOSDigitigradeKhajiitNCarvedBootsMale.osd\NordicBootsLegsKneeOuter</Data>
+        </Slider>
+        <Slider name="LegsThighIn" invert="false" small="0" big="0">
+            <Data name="NordicBootsLegsThighIn" target="NordicBoots" local="true">HIMBOSOSDigitigradeKhajiitNCarvedBootsMale.osd\NordicBootsLegsThighIn</Data>
+        </Slider>
+        <Slider name="LegsCalfSideIn" invert="false" small="0" big="0">
+            <Data name="NordicBootsLegsCalfSideIn" target="NordicBoots" local="true">HIMBOSOSDigitigradeKhajiitNCarvedBootsMale.osd\NordicBootsLegsCalfSideIn</Data>
+        </Slider>
+        <Slider name="LegsCalfOut" invert="false" small="0" big="0">
+            <Data name="NordicBootsLegsCalfOut" target="NordicBoots" local="true">HIMBOSOSDigitigradeKhajiitNCarvedBootsMale.osd\NordicBootsLegsCalfOut</Data>
+        </Slider>
+        <Slider name="Wraps" invert="false" small="0" big="0" zap="true">
+            <Data name="shoesWraps" target="shoes">HIMBOSOSDigitigradeKhajiitWrapsCutMale.osd\shoesWraps</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

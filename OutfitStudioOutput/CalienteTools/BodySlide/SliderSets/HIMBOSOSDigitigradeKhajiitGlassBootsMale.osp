@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="HIMBOSOSDigitigradeKhajiitGlassBootsMale">
+        <ReferenceInfo ProjectFile="SliderSets\HIMBOSOSDigitigradeKhajiitWrapsCutMale.osp" ProjectName="HIMBOSOSDigitigradeKhajiitWrapsCutMale" ShapeName="FootPaws_Base"/>
+        <DataFolder>HIMBOSOSDigitigradeKhajiitGlassBootsMale</DataFolder>
+        <SourceFile>HIMBOSOSDigitigradeKhajiitGlassBootsMale.nif</SourceFile>
+        <OutputPath>meshes\armor\digitigrade\glass\m</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">boots</OutputFile>
+        <Shape target="FootPaws_Base" DataFolder="VanillaDigitigradeKhajiitFeetMale;HIMBOSOSDigitigradeKhajiitFeetMale">FootPaws_Base</Shape>
+        <Shape target="GlassBoots">GlassBoots</Shape>
+        <Shape target="shoes" DataFolder="HIMBOSOSDigitigradeKhajiitWrapsCutMale">shoes</Shape>
+        <Slider name="Weight 0 to 1" invert="false" small="0" big="100" hidden="true">
+            <Data name="FootPaws_BaseWeight 0 to 1" target="FootPaws_Base">HIMBOSOSDigitigradeKhajiitFeetMale.osd\FootPaws_BaseWeight 0 to 1</Data>
+            <Data name="GlassBootsWeight 0 to 1" target="GlassBoots" local="true">HIMBOSOSDigitigradeKhajiitGlassBootsMale.osd\GlassBootsWeight 0 to 1</Data>
+            <Data name="shoesWeight 0 to 1" target="shoes">HIMBOSOSDigitigradeKhajiitWrapsCutMale.osd\shoesWeight 0 to 1</Data>
+        </Slider>
+        <Slider name="Chubby" invert="false" small="0" big="0">
+            <Data name="GlassBootsChubby" target="GlassBoots" local="true">HIMBOSOSDigitigradeKhajiitGlassBootsMale.osd\GlassBootsChubby</Data>
+        </Slider>
+        <Slider name="Lean" invert="false" small="0" big="0">
+            <Data name="GlassBootsLean" target="GlassBoots" local="true">HIMBOSOSDigitigradeKhajiitGlassBootsMale.osd\GlassBootsLean</Data>
+        </Slider>
+        <Slider name="Muscle" invert="false" small="0" big="0">
+            <Data name="GlassBootsMuscle" target="GlassBoots" local="true">HIMBOSOSDigitigradeKhajiitGlassBootsMale.osd\GlassBootsMuscle</Data>
+        </Slider>
+        <Slider name="SOSlike" invert="false" small="0" big="0">
+            <Data name="GlassBootsSOSlike" target="GlassBoots" local="true">HIMBOSOSDigitigradeKhajiitGlassBootsMale.osd\GlassBootsSOSlike</Data>
+        </Slider>
+        <Slider name="LegsSize" invert="false" small="0" big="0">
+            <Data name="GlassBootsLegsSize" target="GlassBoots" local="true">HIMBOSOSDigitigradeKhajiitGlassBootsMale.osd\GlassBootsLegsSize</Data>
+        </Slider>
+        <Slider name="LegsThigh" invert="false" small="0" big="0">
+            <Data name="GlassBootsLegsThigh" target="GlassBoots" local="true">HIMBOSOSDigitigradeKhajiitGlassBootsMale.osd\GlassBootsLegsThigh</Data>
+        </Slider>
+        <Slider name="LegsThinner" invert="false" small="0" big="0">
+            <Data name="GlassBootsLegsThinner" target="GlassBoots" local="true">HIMBOSOSDigitigradeKhajiitGlassBootsMale.osd\GlassBootsLegsThinner</Data>
+        </Slider>
+        <Slider name="LegsChubby" invert="false" small="0" big="0">
+            <Data name="GlassBootsLegsChubby" target="GlassBoots" local="true">HIMBOSOSDigitigradeKhajiitGlassBootsMale.osd\GlassBootsLegsChubby</Data>
+        </Slider>
+        <Slider name="LegsFemurUpper" invert="false" small="0" big="0">
+            <Data name="GlassBootsLegsFemurUpper" target="GlassBoots" local="true">HIMBOSOSDigitigradeKhajiitGlassBootsMale.osd\GlassBootsLegsFemurUpper</Data>
+        </Slider>
+        <Slider name="LegsFemurLower" invert="false" small="0" big="0">
+            <Data name="GlassBootsLegsFemurLower" target="GlassBoots" local="true">HIMBOSOSDigitigradeKhajiitGlassBootsMale.osd\GlassBootsLegsFemurLower</Data>
+        </Slider>
+        <Slider name="LegsFemurSide" invert="false" small="0" big="0">
+            <Data name="GlassBootsLegsFemurSide" target="GlassBoots" local="true">HIMBOSOSDigitigradeKhajiitGlassBootsMale.osd\GlassBootsLegsFemurSide</Data>
+        </Slider>
+        <Slider name="LegsFemurBack" invert="false" small="0" big="0">
+            <Data name="GlassBootsLegsFemurBack" target="GlassBoots" local="true">HIMBOSOSDigitigradeKhajiitGlassBootsMale.osd\GlassBootsLegsFemurBack</Data>
+        </Slider>
+        <Slider name="LegsKneePit" invert="false" small="0" big="0">
+            <Data name="GlassBootsLegsKneePit" target="GlassBoots" local="true">HIMBOSOSDigitigradeKhajiitGlassBootsMale.osd\GlassBootsLegsKneePit</Data>
+        </Slider>
+        <Slider name="LegsCalfSize" invert="false" small="0" big="0">
+            <Data name="GlassBootsLegsCalfSize" target="GlassBoots" local="true">HIMBOSOSDigitigradeKhajiitGlassBootsMale.osd\GlassBootsLegsCalfSize</Data>
+        </Slider>
+        <Slider name="LegsCalfWidth" invert="false" small="0" big="0">
+            <Data name="GlassBootsLegsCalfWidth" target="GlassBoots" local="true">HIMBOSOSDigitigradeKhajiitGlassBootsMale.osd\GlassBootsLegsCalfWidth</Data>
+        </Slider>
+        <Slider name="LegsCalfUpper" invert="false" small="0" big="0">
+            <Data name="GlassBootsLegsCalfUpper" target="GlassBoots" local="true">HIMBOSOSDigitigradeKhajiitGlassBootsMale.osd\GlassBootsLegsCalfUpper</Data>
+        </Slider>
+        <Slider name="LegsCalfLower" invert="false" small="0" big="0">
+            <Data name="GlassBootsLegsCalfLower" target="GlassBoots" local="true">HIMBOSOSDigitigradeKhajiitGlassBootsMale.osd\GlassBootsLegsCalfLower</Data>
+        </Slider>
+        <Slider name="LegsCalfFlatten" invert="false" small="0" big="0">
+            <Data name="GlassBootsLegsCalfFlatten" target="GlassBoots" local="true">HIMBOSOSDigitigradeKhajiitGlassBootsMale.osd\GlassBootsLegsCalfFlatten</Data>
+        </Slider>
+        <Slider name="LegsShinCrease" invert="false" small="0" big="0">
+            <Data name="GlassBootsLegsShinCrease" target="GlassBoots" local="true">HIMBOSOSDigitigradeKhajiitGlassBootsMale.osd\GlassBootsLegsShinCrease</Data>
+        </Slider>
+        <Slider name="FemmeB" invert="false" small="0" big="0">
+            <Data name="GlassBootsFemmeB" target="GlassBoots" local="true">HIMBOSOSDigitigradeKhajiitGlassBootsMale.osd\GlassBootsFemmeB</Data>
+        </Slider>
+        <Slider name="LegsThighUpperSide" invert="false" small="0" big="0">
+            <Data name="GlassBootsLegsThighUpperSide" target="GlassBoots" local="true">HIMBOSOSDigitigradeKhajiitGlassBootsMale.osd\GlassBootsLegsThighUpperSide</Data>
+        </Slider>
+        <Slider name="LegsVastusMReduction" invert="false" small="0" big="0">
+            <Data name="GlassBootsLegsVastusMReduction" target="GlassBoots" local="true">HIMBOSOSDigitigradeKhajiitGlassBootsMale.osd\GlassBootsLegsVastusMReduction</Data>
+        </Slider>
+        <Slider name="BodyMass" invert="false" small="0" big="0">
+            <Data name="GlassBootsBodyMass" target="GlassBoots" local="true">HIMBOSOSDigitigradeKhajiitGlassBootsMale.osd\GlassBootsBodyMass</Data>
+        </Slider>
+        <Slider name="SSBBW butt growth" invert="false" small="0" big="0">
+            <Data name="GlassBootsSSBBW butt growth" target="GlassBoots" local="true">HIMBOSOSDigitigradeKhajiitGlassBootsMale.osd\GlassBootsSSBBW butt growth</Data>
+        </Slider>
+        <Slider name="SamuelLike" invert="false" small="0" big="0">
+            <Data name="GlassBootsSamuelLike" target="GlassBoots" local="true">HIMBOSOSDigitigradeKhajiitGlassBootsMale.osd\GlassBootsSamuelLike</Data>
+        </Slider>
+        <Slider name="LegsThighInnerSide" invert="false" small="0" big="0">
+            <Data name="GlassBootsLegsThighInnerSide" target="GlassBoots" local="true">HIMBOSOSDigitigradeKhajiitGlassBootsMale.osd\GlassBootsLegsThighInnerSide</Data>
+        </Slider>
+        <Slider name="LegsKneeInner" invert="false" small="0" big="0">
+            <Data name="GlassBootsLegsKneeInner" target="GlassBoots" local="true">HIMBOSOSDigitigradeKhajiitGlassBootsMale.osd\GlassBootsLegsKneeInner</Data>
+        </Slider>
+        <Slider name="LegsKneeOuter" invert="false" small="0" big="0">
+            <Data name="GlassBootsLegsKneeOuter" target="GlassBoots" local="true">HIMBOSOSDigitigradeKhajiitGlassBootsMale.osd\GlassBootsLegsKneeOuter</Data>
+        </Slider>
+        <Slider name="LegsThighIn" invert="false" small="0" big="0">
+            <Data name="GlassBootsLegsThighIn" target="GlassBoots" local="true">HIMBOSOSDigitigradeKhajiitGlassBootsMale.osd\GlassBootsLegsThighIn</Data>
+        </Slider>
+        <Slider name="LegsCalfSideIn" invert="false" small="0" big="0">
+            <Data name="GlassBootsLegsCalfSideIn" target="GlassBoots" local="true">HIMBOSOSDigitigradeKhajiitGlassBootsMale.osd\GlassBootsLegsCalfSideIn</Data>
+        </Slider>
+        <Slider name="LegsCalfOut" invert="false" small="0" big="0">
+            <Data name="GlassBootsLegsCalfOut" target="GlassBoots" local="true">HIMBOSOSDigitigradeKhajiitGlassBootsMale.osd\GlassBootsLegsCalfOut</Data>
+        </Slider>
+        <Slider name="Wraps" invert="false" small="0" big="0" zap="true">
+            <Data name="shoesWraps" target="shoes">HIMBOSOSDigitigradeKhajiitWrapsCutMale.osd\shoesWraps</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

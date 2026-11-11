@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="HIMBOSOSDigitigradeKhajiitSOTBootsMale">
+        <ReferenceInfo ProjectFile="SliderSets\HIMBOSOSDigitigradeKhajiitWrapsCutMale.osp" ProjectName="HIMBOSOSDigitigradeKhajiitWrapsCutMale" ShapeName="FootPaws_Base"/>
+        <DataFolder>HIMBOSOSDigitigradeKhajiitSOTBootsMale</DataFolder>
+        <SourceFile>HIMBOSOSDigitigradeKhajiitSOTBootsMale.nif</SourceFile>
+        <OutputPath>meshes\armor\digitigrade\sot\</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">bootsm</OutputFile>
+        <Shape target="2-Sons-of-Talos_shoes">2-Sons-of-Talos_shoes</Shape>
+        <Shape target="FootPaws_Base" DataFolder="VanillaDigitigradeKhajiitFeetMale;HIMBOSOSDigitigradeKhajiitFeetMale">FootPaws_Base</Shape>
+        <Shape target="shoes" DataFolder="HIMBOSOSDigitigradeKhajiitWrapsCutMale">shoes</Shape>
+        <Slider name="Weight 0 to 1" invert="false" small="0" big="100" hidden="true">
+            <Data name="FootPaws_BaseWeight 0 to 1" target="FootPaws_Base">HIMBOSOSDigitigradeKhajiitFeetMale.osd\FootPaws_BaseWeight 0 to 1</Data>
+            <Data name="2-Sons-of-Talos_shoesWeight 0 to 1" target="2-Sons-of-Talos_shoes" local="true">HIMBOSOSDigitigradeKhajiitSOTBootsMale.osd\2-Sons-of-Talos_shoesWeight 0 to 1</Data>
+            <Data name="shoesWeight 0 to 1" target="shoes">HIMBOSOSDigitigradeKhajiitWrapsCutMale.osd\shoesWeight 0 to 1</Data>
+        </Slider>
+        <Slider name="Chubby" invert="false" small="0" big="0">
+            <Data name="2-Sons-of-Talos_shoesChubby" target="2-Sons-of-Talos_shoes" local="true">HIMBOSOSDigitigradeKhajiitSOTBootsMale.osd\2-Sons-of-Talos_shoesChubby</Data>
+        </Slider>
+        <Slider name="Lean" invert="false" small="0" big="0">
+            <Data name="2-Sons-of-Talos_shoesLean" target="2-Sons-of-Talos_shoes" local="true">HIMBOSOSDigitigradeKhajiitSOTBootsMale.osd\2-Sons-of-Talos_shoesLean</Data>
+        </Slider>
+        <Slider name="Muscle" invert="false" small="0" big="0">
+            <Data name="2-Sons-of-Talos_shoesMuscle" target="2-Sons-of-Talos_shoes" local="true">HIMBOSOSDigitigradeKhajiitSOTBootsMale.osd\2-Sons-of-Talos_shoesMuscle</Data>
+        </Slider>
+        <Slider name="SOSlike" invert="false" small="0" big="0">
+            <Data name="2-Sons-of-Talos_shoesSOSlike" target="2-Sons-of-Talos_shoes" local="true">HIMBOSOSDigitigradeKhajiitSOTBootsMale.osd\2-Sons-of-Talos_shoesSOSlike</Data>
+        </Slider>
+        <Slider name="LegsSize" invert="false" small="0" big="0">
+            <Data name="2-Sons-of-Talos_shoesLegsSize" target="2-Sons-of-Talos_shoes" local="true">HIMBOSOSDigitigradeKhajiitSOTBootsMale.osd\2-Sons-of-Talos_shoesLegsSize</Data>
+        </Slider>
+        <Slider name="LegsThinner" invert="false" small="0" big="0">
+            <Data name="2-Sons-of-Talos_shoesLegsThinner" target="2-Sons-of-Talos_shoes" local="true">HIMBOSOSDigitigradeKhajiitSOTBootsMale.osd\2-Sons-of-Talos_shoesLegsThinner</Data>
+        </Slider>
+        <Slider name="LegsChubby" invert="false" small="0" big="0">
+            <Data name="2-Sons-of-Talos_shoesLegsChubby" target="2-Sons-of-Talos_shoes" local="true">HIMBOSOSDigitigradeKhajiitSOTBootsMale.osd\2-Sons-of-Talos_shoesLegsChubby</Data>
+        </Slider>
+        <Slider name="LegsFemurBack" invert="false" small="0" big="0">
+            <Data name="2-Sons-of-Talos_shoesLegsFemurBack" target="2-Sons-of-Talos_shoes" local="true">HIMBOSOSDigitigradeKhajiitSOTBootsMale.osd\2-Sons-of-Talos_shoesLegsFemurBack</Data>
+        </Slider>
+        <Slider name="LegsKneePit" invert="false" small="0" big="0">
+            <Data name="2-Sons-of-Talos_shoesLegsKneePit" target="2-Sons-of-Talos_shoes" local="true">HIMBOSOSDigitigradeKhajiitSOTBootsMale.osd\2-Sons-of-Talos_shoesLegsKneePit</Data>
+        </Slider>
+        <Slider name="LegsCalfSize" invert="false" small="0" big="0">
+            <Data name="2-Sons-of-Talos_shoesLegsCalfSize" target="2-Sons-of-Talos_shoes" local="true">HIMBOSOSDigitigradeKhajiitSOTBootsMale.osd\2-Sons-of-Talos_shoesLegsCalfSize</Data>
+        </Slider>
+        <Slider name="LegsCalfWidth" invert="false" small="0" big="0">
+            <Data name="2-Sons-of-Talos_shoesLegsCalfWidth" target="2-Sons-of-Talos_shoes" local="true">HIMBOSOSDigitigradeKhajiitSOTBootsMale.osd\2-Sons-of-Talos_shoesLegsCalfWidth</Data>
+        </Slider>
+        <Slider name="LegsCalfUpper" invert="false" small="0" big="0">
+            <Data name="2-Sons-of-Talos_shoesLegsCalfUpper" target="2-Sons-of-Talos_shoes" local="true">HIMBOSOSDigitigradeKhajiitSOTBootsMale.osd\2-Sons-of-Talos_shoesLegsCalfUpper</Data>
+        </Slider>
+        <Slider name="LegsCalfLower" invert="false" small="0" big="0">
+            <Data name="2-Sons-of-Talos_shoesLegsCalfLower" target="2-Sons-of-Talos_shoes" local="true">HIMBOSOSDigitigradeKhajiitSOTBootsMale.osd\2-Sons-of-Talos_shoesLegsCalfLower</Data>
+        </Slider>
+        <Slider name="LegsCalfFlatten" invert="false" small="0" big="0">
+            <Data name="2-Sons-of-Talos_shoesLegsCalfFlatten" target="2-Sons-of-Talos_shoes" local="true">HIMBOSOSDigitigradeKhajiitSOTBootsMale.osd\2-Sons-of-Talos_shoesLegsCalfFlatten</Data>
+        </Slider>
+        <Slider name="LegsShinCrease" invert="false" small="0" big="0">
+            <Data name="2-Sons-of-Talos_shoesLegsShinCrease" target="2-Sons-of-Talos_shoes" local="true">HIMBOSOSDigitigradeKhajiitSOTBootsMale.osd\2-Sons-of-Talos_shoesLegsShinCrease</Data>
+        </Slider>
+        <Slider name="FemmeB" invert="false" small="0" big="0">
+            <Data name="2-Sons-of-Talos_shoesFemmeB" target="2-Sons-of-Talos_shoes" local="true">HIMBOSOSDigitigradeKhajiitSOTBootsMale.osd\2-Sons-of-Talos_shoesFemmeB</Data>
+        </Slider>
+        <Slider name="LegsThighUpperSide" invert="false" small="0" big="0">
+            <Data name="2-Sons-of-Talos_shoesLegsThighUpperSide" target="2-Sons-of-Talos_shoes" local="true">HIMBOSOSDigitigradeKhajiitSOTBootsMale.osd\2-Sons-of-Talos_shoesLegsThighUpperSide</Data>
+        </Slider>
+        <Slider name="BodyMass" invert="false" small="0" big="0">
+            <Data name="2-Sons-of-Talos_shoesBodyMass" target="2-Sons-of-Talos_shoes" local="true">HIMBOSOSDigitigradeKhajiitSOTBootsMale.osd\2-Sons-of-Talos_shoesBodyMass</Data>
+        </Slider>
+        <Slider name="SSBBW butt growth" invert="false" small="0" big="0">
+            <Data name="2-Sons-of-Talos_shoesSSBBW butt growth" target="2-Sons-of-Talos_shoes" local="true">HIMBOSOSDigitigradeKhajiitSOTBootsMale.osd\2-Sons-of-Talos_shoesSSBBW butt growth</Data>
+        </Slider>
+        <Slider name="SamuelLike" invert="false" small="0" big="0">
+            <Data name="2-Sons-of-Talos_shoesSamuelLike" target="2-Sons-of-Talos_shoes" local="true">HIMBOSOSDigitigradeKhajiitSOTBootsMale.osd\2-Sons-of-Talos_shoesSamuelLike</Data>
+        </Slider>
+        <Slider name="LegsThighInnerSide" invert="false" small="0" big="0">
+            <Data name="2-Sons-of-Talos_shoesLegsThighInnerSide" target="2-Sons-of-Talos_shoes" local="true">HIMBOSOSDigitigradeKhajiitSOTBootsMale.osd\2-Sons-of-Talos_shoesLegsThighInnerSide</Data>
+        </Slider>
+        <Slider name="LegsKneeInner" invert="false" small="0" big="0">
+            <Data name="2-Sons-of-Talos_shoesLegsKneeInner" target="2-Sons-of-Talos_shoes" local="true">HIMBOSOSDigitigradeKhajiitSOTBootsMale.osd\2-Sons-of-Talos_shoesLegsKneeInner</Data>
+        </Slider>
+        <Slider name="LegsKneeOuter" invert="false" small="0" big="0">
+            <Data name="2-Sons-of-Talos_shoesLegsKneeOuter" target="2-Sons-of-Talos_shoes" local="true">HIMBOSOSDigitigradeKhajiitSOTBootsMale.osd\2-Sons-of-Talos_shoesLegsKneeOuter</Data>
+        </Slider>
+        <Slider name="LegsCalfSideIn" invert="false" small="0" big="0">
+            <Data name="2-Sons-of-Talos_shoesLegsCalfSideIn" target="2-Sons-of-Talos_shoes" local="true">HIMBOSOSDigitigradeKhajiitSOTBootsMale.osd\2-Sons-of-Talos_shoesLegsCalfSideIn</Data>
+        </Slider>
+        <Slider name="LegsCalfOut" invert="false" small="0" big="0">
+            <Data name="2-Sons-of-Talos_shoesLegsCalfOut" target="2-Sons-of-Talos_shoes" local="true">HIMBOSOSDigitigradeKhajiitSOTBootsMale.osd\2-Sons-of-Talos_shoesLegsCalfOut</Data>
+        </Slider>
+        <Slider name="Wraps" invert="false" small="0" big="0" zap="true">
+            <Data name="shoesWraps" target="shoes">HIMBOSOSDigitigradeKhajiitWrapsCutMale.osd\shoesWraps</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

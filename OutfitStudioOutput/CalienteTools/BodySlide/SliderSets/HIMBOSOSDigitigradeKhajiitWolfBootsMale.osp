@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="HIMBOSOSDigitigradeKhajiitWolfBootsMale">
+        <ReferenceInfo ProjectFile="SliderSets\HIMBOSOSDigitigradeKhajiitWrapsCutMale.osp" ProjectName="HIMBOSOSDigitigradeKhajiitWrapsCutMale" ShapeName="FootPaws_Base"/>
+        <DataFolder>HIMBOSOSDigitigradeKhajiitWolfBootsMale</DataFolder>
+        <SourceFile>HIMBOSOSDigitigradeKhajiitWolfBootsMale.nif</SourceFile>
+        <OutputPath>meshes\armor\digitigrade\wolf</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">bootsm</OutputFile>
+        <Shape target="FootPaws_Base" DataFolder="VanillaDigitigradeKhajiitFeetMale;HIMBOSOSDigitigradeKhajiitFeetMale">FootPaws_Base</Shape>
+        <Shape target="WolfBoots">WolfBoots</Shape>
+        <Shape target="shoes" DataFolder="HIMBOSOSDigitigradeKhajiitWrapsCutMale">shoes</Shape>
+        <Slider name="Weight 0 to 1" invert="false" small="0" big="100" hidden="true">
+            <Data name="FootPaws_BaseWeight 0 to 1" target="FootPaws_Base">HIMBOSOSDigitigradeKhajiitFeetMale.osd\FootPaws_BaseWeight 0 to 1</Data>
+            <Data name="WolfBootsWeight 0 to 1" target="WolfBoots" local="true">HIMBOSOSDigitigradeKhajiitWolfBootsMale.osd\WolfBootsWeight 0 to 1</Data>
+            <Data name="shoesWeight 0 to 1" target="shoes">HIMBOSOSDigitigradeKhajiitWrapsCutMale.osd\shoesWeight 0 to 1</Data>
+        </Slider>
+        <Slider name="Chubby" invert="false" small="0" big="0">
+            <Data name="WolfBootsChubby" target="WolfBoots" local="true">HIMBOSOSDigitigradeKhajiitWolfBootsMale.osd\WolfBootsChubby</Data>
+        </Slider>
+        <Slider name="Lean" invert="false" small="0" big="0">
+            <Data name="WolfBootsLean" target="WolfBoots" local="true">HIMBOSOSDigitigradeKhajiitWolfBootsMale.osd\WolfBootsLean</Data>
+        </Slider>
+        <Slider name="Muscle" invert="false" small="0" big="0">
+            <Data name="WolfBootsMuscle" target="WolfBoots" local="true">HIMBOSOSDigitigradeKhajiitWolfBootsMale.osd\WolfBootsMuscle</Data>
+        </Slider>
+        <Slider name="SOSlike" invert="false" small="0" big="0">
+            <Data name="WolfBootsSOSlike" target="WolfBoots" local="true">HIMBOSOSDigitigradeKhajiitWolfBootsMale.osd\WolfBootsSOSlike</Data>
+        </Slider>
+        <Slider name="LegsSize" invert="false" small="0" big="0">
+            <Data name="WolfBootsLegsSize" target="WolfBoots" local="true">HIMBOSOSDigitigradeKhajiitWolfBootsMale.osd\WolfBootsLegsSize</Data>
+        </Slider>
+        <Slider name="LegsThigh" invert="false" small="0" big="0">
+            <Data name="WolfBootsLegsThigh" target="WolfBoots" local="true">HIMBOSOSDigitigradeKhajiitWolfBootsMale.osd\WolfBootsLegsThigh</Data>
+        </Slider>
+        <Slider name="LegsThinner" invert="false" small="0" big="0">
+            <Data name="WolfBootsLegsThinner" target="WolfBoots" local="true">HIMBOSOSDigitigradeKhajiitWolfBootsMale.osd\WolfBootsLegsThinner</Data>
+        </Slider>
+        <Slider name="LegsChubby" invert="false" small="0" big="0">
+            <Data name="WolfBootsLegsChubby" target="WolfBoots" local="true">HIMBOSOSDigitigradeKhajiitWolfBootsMale.osd\WolfBootsLegsChubby</Data>
+        </Slider>
+        <Slider name="LegsFemurBack" invert="false" small="0" big="0">
+            <Data name="WolfBootsLegsFemurBack" target="WolfBoots" local="true">HIMBOSOSDigitigradeKhajiitWolfBootsMale.osd\WolfBootsLegsFemurBack</Data>
+        </Slider>
+        <Slider name="LegsKneePit" invert="false" small="0" big="0">
+            <Data name="WolfBootsLegsKneePit" target="WolfBoots" local="true">HIMBOSOSDigitigradeKhajiitWolfBootsMale.osd\WolfBootsLegsKneePit</Data>
+        </Slider>
+        <Slider name="LegsCalfSize" invert="false" small="0" big="0">
+            <Data name="WolfBootsLegsCalfSize" target="WolfBoots" local="true">HIMBOSOSDigitigradeKhajiitWolfBootsMale.osd\WolfBootsLegsCalfSize</Data>
+        </Slider>
+        <Slider name="LegsCalfWidth" invert="false" small="0" big="0">
+            <Data name="WolfBootsLegsCalfWidth" target="WolfBoots" local="true">HIMBOSOSDigitigradeKhajiitWolfBootsMale.osd\WolfBootsLegsCalfWidth</Data>
+        </Slider>
+        <Slider name="LegsCalfUpper" invert="false" small="0" big="0">
+            <Data name="WolfBootsLegsCalfUpper" target="WolfBoots" local="true">HIMBOSOSDigitigradeKhajiitWolfBootsMale.osd\WolfBootsLegsCalfUpper</Data>
+        </Slider>
+        <Slider name="LegsCalfLower" invert="false" small="0" big="0">
+            <Data name="WolfBootsLegsCalfLower" target="WolfBoots" local="true">HIMBOSOSDigitigradeKhajiitWolfBootsMale.osd\WolfBootsLegsCalfLower</Data>
+        </Slider>
+        <Slider name="LegsCalfFlatten" invert="false" small="0" big="0">
+            <Data name="WolfBootsLegsCalfFlatten" target="WolfBoots" local="true">HIMBOSOSDigitigradeKhajiitWolfBootsMale.osd\WolfBootsLegsCalfFlatten</Data>
+        </Slider>
+        <Slider name="LegsShinCrease" invert="false" small="0" big="0">
+            <Data name="WolfBootsLegsShinCrease" target="WolfBoots" local="true">HIMBOSOSDigitigradeKhajiitWolfBootsMale.osd\WolfBootsLegsShinCrease</Data>
+        </Slider>
+        <Slider name="FemmeB" invert="false" small="0" big="0">
+            <Data name="WolfBootsFemmeB" target="WolfBoots" local="true">HIMBOSOSDigitigradeKhajiitWolfBootsMale.osd\WolfBootsFemmeB</Data>
+        </Slider>
+        <Slider name="LegsThighUpperSide" invert="false" small="0" big="0">
+            <Data name="WolfBootsLegsThighUpperSide" target="WolfBoots" local="true">HIMBOSOSDigitigradeKhajiitWolfBootsMale.osd\WolfBootsLegsThighUpperSide</Data>
+        </Slider>
+        <Slider name="BodyMass" invert="false" small="0" big="0">
+            <Data name="WolfBootsBodyMass" target="WolfBoots" local="true">HIMBOSOSDigitigradeKhajiitWolfBootsMale.osd\WolfBootsBodyMass</Data>
+        </Slider>
+        <Slider name="SSBBW butt growth" invert="false" small="0" big="0">
+            <Data name="WolfBootsSSBBW butt growth" target="WolfBoots" local="true">HIMBOSOSDigitigradeKhajiitWolfBootsMale.osd\WolfBootsSSBBW butt growth</Data>
+        </Slider>
+        <Slider name="SamuelLike" invert="false" small="0" big="0">
+            <Data name="WolfBootsSamuelLike" target="WolfBoots" local="true">HIMBOSOSDigitigradeKhajiitWolfBootsMale.osd\WolfBootsSamuelLike</Data>
+        </Slider>
+        <Slider name="LegsThighInnerSide" invert="false" small="0" big="0">
+            <Data name="WolfBootsLegsThighInnerSide" target="WolfBoots" local="true">HIMBOSOSDigitigradeKhajiitWolfBootsMale.osd\WolfBootsLegsThighInnerSide</Data>
+        </Slider>
+        <Slider name="LegsKneeInner" invert="false" small="0" big="0">
+            <Data name="WolfBootsLegsKneeInner" target="WolfBoots" local="true">HIMBOSOSDigitigradeKhajiitWolfBootsMale.osd\WolfBootsLegsKneeInner</Data>
+        </Slider>
+        <Slider name="LegsKneeOuter" invert="false" small="0" big="0">
+            <Data name="WolfBootsLegsKneeOuter" target="WolfBoots" local="true">HIMBOSOSDigitigradeKhajiitWolfBootsMale.osd\WolfBootsLegsKneeOuter</Data>
+        </Slider>
+        <Slider name="LegsThighIn" invert="false" small="0" big="0">
+            <Data name="WolfBootsLegsThighIn" target="WolfBoots" local="true">HIMBOSOSDigitigradeKhajiitWolfBootsMale.osd\WolfBootsLegsThighIn</Data>
+        </Slider>
+        <Slider name="LegsCalfSideIn" invert="false" small="0" big="0">
+            <Data name="WolfBootsLegsCalfSideIn" target="WolfBoots" local="true">HIMBOSOSDigitigradeKhajiitWolfBootsMale.osd\WolfBootsLegsCalfSideIn</Data>
+        </Slider>
+        <Slider name="LegsCalfOut" invert="false" small="0" big="0">
+            <Data name="WolfBootsLegsCalfOut" target="WolfBoots" local="true">HIMBOSOSDigitigradeKhajiitWolfBootsMale.osd\WolfBootsLegsCalfOut</Data>
+        </Slider>
+        <Slider name="Wraps" invert="false" small="0" big="0" zap="true">
+            <Data name="shoesWraps" target="shoes">HIMBOSOSDigitigradeKhajiitWrapsCutMale.osd\shoesWraps</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

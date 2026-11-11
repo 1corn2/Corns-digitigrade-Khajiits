@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="HIMBOSOSDigitigradeKhajiitFalmerBootsMale">
+        <ReferenceInfo ProjectFile="SliderSets\HIMBOSOSDigitigradeKhajiitWrapsCutMale.osp" ProjectName="HIMBOSOSDigitigradeKhajiitWrapsCutMale" ShapeName="FootPaws_Base"/>
+        <DataFolder>HIMBOSOSDigitigradeKhajiitFalmerBootsMale</DataFolder>
+        <SourceFile>HIMBOSOSDigitigradeKhajiitFalmerBootsMale.nif</SourceFile>
+        <OutputPath>meshes\armor\digitigrade\falmer</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">falmerbootsm</OutputFile>
+        <Shape target="Armor_Variation_01">Armor_Variation_01</Shape>
+        <Shape target="FootPaws_Base" DataFolder="VanillaDigitigradeKhajiitFeetMale;HIMBOSOSDigitigradeKhajiitFeetMale">FootPaws_Base</Shape>
+        <Shape target="shoes" DataFolder="HIMBOSOSDigitigradeKhajiitWrapsCutMale">shoes</Shape>
+        <Slider name="Weight 0 to 1" invert="false" small="0" big="100" hidden="true">
+            <Data name="FootPaws_BaseWeight 0 to 1" target="FootPaws_Base">HIMBOSOSDigitigradeKhajiitFeetMale.osd\FootPaws_BaseWeight 0 to 1</Data>
+            <Data name="Armor_Variation_01Weight 0 to 1" target="Armor_Variation_01" local="true">HIMBOSOSDigitigradeKhajiitFalmerBootsMale.osd\Armor_Variation_01Weight 0 to 1</Data>
+            <Data name="shoesWeight 0 to 1" target="shoes">HIMBOSOSDigitigradeKhajiitWrapsCutMale.osd\shoesWeight 0 to 1</Data>
+        </Slider>
+        <Slider name="Chubby" invert="false" small="0" big="0">
+            <Data name="Armor_Variation_01Chubby" target="Armor_Variation_01" local="true">HIMBOSOSDigitigradeKhajiitFalmerBootsMale.osd\Armor_Variation_01Chubby</Data>
+        </Slider>
+        <Slider name="Lean" invert="false" small="0" big="0">
+            <Data name="Armor_Variation_01Lean" target="Armor_Variation_01" local="true">HIMBOSOSDigitigradeKhajiitFalmerBootsMale.osd\Armor_Variation_01Lean</Data>
+        </Slider>
+        <Slider name="Muscle" invert="false" small="0" big="0">
+            <Data name="Armor_Variation_01Muscle" target="Armor_Variation_01" local="true">HIMBOSOSDigitigradeKhajiitFalmerBootsMale.osd\Armor_Variation_01Muscle</Data>
+        </Slider>
+        <Slider name="SOSlike" invert="false" small="0" big="0">
+            <Data name="Armor_Variation_01SOSlike" target="Armor_Variation_01" local="true">HIMBOSOSDigitigradeKhajiitFalmerBootsMale.osd\Armor_Variation_01SOSlike</Data>
+        </Slider>
+        <Slider name="LegsSize" invert="false" small="0" big="0">
+            <Data name="Armor_Variation_01LegsSize" target="Armor_Variation_01" local="true">HIMBOSOSDigitigradeKhajiitFalmerBootsMale.osd\Armor_Variation_01LegsSize</Data>
+        </Slider>
+        <Slider name="LegsThigh" invert="false" small="0" big="0">
+            <Data name="Armor_Variation_01LegsThigh" target="Armor_Variation_01" local="true">HIMBOSOSDigitigradeKhajiitFalmerBootsMale.osd\Armor_Variation_01LegsThigh</Data>
+        </Slider>
+        <Slider name="LegsThinner" invert="false" small="0" big="0">
+            <Data name="Armor_Variation_01LegsThinner" target="Armor_Variation_01" local="true">HIMBOSOSDigitigradeKhajiitFalmerBootsMale.osd\Armor_Variation_01LegsThinner</Data>
+        </Slider>
+        <Slider name="LegsChubby" invert="false" small="0" big="0">
+            <Data name="Armor_Variation_01LegsChubby" target="Armor_Variation_01" local="true">HIMBOSOSDigitigradeKhajiitFalmerBootsMale.osd\Armor_Variation_01LegsChubby</Data>
+        </Slider>
+        <Slider name="LegsFemurUpper" invert="false" small="0" big="0">
+            <Data name="Armor_Variation_01LegsFemurUpper" target="Armor_Variation_01" local="true">HIMBOSOSDigitigradeKhajiitFalmerBootsMale.osd\Armor_Variation_01LegsFemurUpper</Data>
+        </Slider>
+        <Slider name="LegsFemurLower" invert="false" small="0" big="0">
+            <Data name="Armor_Variation_01LegsFemurLower" target="Armor_Variation_01" local="true">HIMBOSOSDigitigradeKhajiitFalmerBootsMale.osd\Armor_Variation_01LegsFemurLower</Data>
+        </Slider>
+        <Slider name="LegsFemurSide" invert="false" small="0" big="0">
+            <Data name="Armor_Variation_01LegsFemurSide" target="Armor_Variation_01" local="true">HIMBOSOSDigitigradeKhajiitFalmerBootsMale.osd\Armor_Variation_01LegsFemurSide</Data>
+        </Slider>
+        <Slider name="LegsFemurBack" invert="false" small="0" big="0">
+            <Data name="Armor_Variation_01LegsFemurBack" target="Armor_Variation_01" local="true">HIMBOSOSDigitigradeKhajiitFalmerBootsMale.osd\Armor_Variation_01LegsFemurBack</Data>
+        </Slider>
+        <Slider name="LegsKneePit" invert="false" small="0" big="0">
+            <Data name="Armor_Variation_01LegsKneePit" target="Armor_Variation_01" local="true">HIMBOSOSDigitigradeKhajiitFalmerBootsMale.osd\Armor_Variation_01LegsKneePit</Data>
+        </Slider>
+        <Slider name="LegsCalfSize" invert="false" small="0" big="0">
+            <Data name="Armor_Variation_01LegsCalfSize" target="Armor_Variation_01" local="true">HIMBOSOSDigitigradeKhajiitFalmerBootsMale.osd\Armor_Variation_01LegsCalfSize</Data>
+        </Slider>
+        <Slider name="LegsCalfWidth" invert="false" small="0" big="0">
+            <Data name="Armor_Variation_01LegsCalfWidth" target="Armor_Variation_01" local="true">HIMBOSOSDigitigradeKhajiitFalmerBootsMale.osd\Armor_Variation_01LegsCalfWidth</Data>
+        </Slider>
+        <Slider name="LegsCalfUpper" invert="false" small="0" big="0">
+            <Data name="Armor_Variation_01LegsCalfUpper" target="Armor_Variation_01" local="true">HIMBOSOSDigitigradeKhajiitFalmerBootsMale.osd\Armor_Variation_01LegsCalfUpper</Data>
+        </Slider>
+        <Slider name="LegsCalfLower" invert="false" small="0" big="0">
+            <Data name="Armor_Variation_01LegsCalfLower" target="Armor_Variation_01" local="true">HIMBOSOSDigitigradeKhajiitFalmerBootsMale.osd\Armor_Variation_01LegsCalfLower</Data>
+        </Slider>
+        <Slider name="LegsCalfFlatten" invert="false" small="0" big="0">
+            <Data name="Armor_Variation_01LegsCalfFlatten" target="Armor_Variation_01" local="true">HIMBOSOSDigitigradeKhajiitFalmerBootsMale.osd\Armor_Variation_01LegsCalfFlatten</Data>
+        </Slider>
+        <Slider name="LegsShinCrease" invert="false" small="0" big="0">
+            <Data name="Armor_Variation_01LegsShinCrease" target="Armor_Variation_01" local="true">HIMBOSOSDigitigradeKhajiitFalmerBootsMale.osd\Armor_Variation_01LegsShinCrease</Data>
+        </Slider>
+        <Slider name="FemmeB" invert="false" small="0" big="0">
+            <Data name="Armor_Variation_01FemmeB" target="Armor_Variation_01" local="true">HIMBOSOSDigitigradeKhajiitFalmerBootsMale.osd\Armor_Variation_01FemmeB</Data>
+        </Slider>
+        <Slider name="LegsThighUpperSide" invert="false" small="0" big="0">
+            <Data name="Armor_Variation_01LegsThighUpperSide" target="Armor_Variation_01" local="true">HIMBOSOSDigitigradeKhajiitFalmerBootsMale.osd\Armor_Variation_01LegsThighUpperSide</Data>
+        </Slider>
+        <Slider name="LegsVastusMReduction" invert="false" small="0" big="0">
+            <Data name="Armor_Variation_01LegsVastusMReduction" target="Armor_Variation_01" local="true">HIMBOSOSDigitigradeKhajiitFalmerBootsMale.osd\Armor_Variation_01LegsVastusMReduction</Data>
+        </Slider>
+        <Slider name="BodyMass" invert="false" small="0" big="0">
+            <Data name="Armor_Variation_01BodyMass" target="Armor_Variation_01" local="true">HIMBOSOSDigitigradeKhajiitFalmerBootsMale.osd\Armor_Variation_01BodyMass</Data>
+        </Slider>
+        <Slider name="SSBBW butt growth" invert="false" small="0" big="0">
+            <Data name="Armor_Variation_01SSBBW butt growth" target="Armor_Variation_01" local="true">HIMBOSOSDigitigradeKhajiitFalmerBootsMale.osd\Armor_Variation_01SSBBW butt growth</Data>
+        </Slider>
+        <Slider name="SamuelLike" invert="false" small="0" big="0">
+            <Data name="Armor_Variation_01SamuelLike" target="Armor_Variation_01" local="true">HIMBOSOSDigitigradeKhajiitFalmerBootsMale.osd\Armor_Variation_01SamuelLike</Data>
+        </Slider>
+        <Slider name="LegsThighInnerSide" invert="false" small="0" big="0">
+            <Data name="Armor_Variation_01LegsThighInnerSide" target="Armor_Variation_01" local="true">HIMBOSOSDigitigradeKhajiitFalmerBootsMale.osd\Armor_Variation_01LegsThighInnerSide</Data>
+        </Slider>
+        <Slider name="LegsKneeInner" invert="false" small="0" big="0">
+            <Data name="Armor_Variation_01LegsKneeInner" target="Armor_Variation_01" local="true">HIMBOSOSDigitigradeKhajiitFalmerBootsMale.osd\Armor_Variation_01LegsKneeInner</Data>
+        </Slider>
+        <Slider name="LegsKneeOuter" invert="false" small="0" big="0">
+            <Data name="Armor_Variation_01LegsKneeOuter" target="Armor_Variation_01" local="true">HIMBOSOSDigitigradeKhajiitFalmerBootsMale.osd\Armor_Variation_01LegsKneeOuter</Data>
+        </Slider>
+        <Slider name="LegsThighIn" invert="false" small="0" big="0">
+            <Data name="Armor_Variation_01LegsThighIn" target="Armor_Variation_01" local="true">HIMBOSOSDigitigradeKhajiitFalmerBootsMale.osd\Armor_Variation_01LegsThighIn</Data>
+        </Slider>
+        <Slider name="LegsCalfSideIn" invert="false" small="0" big="0">
+            <Data name="Armor_Variation_01LegsCalfSideIn" target="Armor_Variation_01" local="true">HIMBOSOSDigitigradeKhajiitFalmerBootsMale.osd\Armor_Variation_01LegsCalfSideIn</Data>
+        </Slider>
+        <Slider name="LegsCalfOut" invert="false" small="0" big="0">
+            <Data name="Armor_Variation_01LegsCalfOut" target="Armor_Variation_01" local="true">HIMBOSOSDigitigradeKhajiitFalmerBootsMale.osd\Armor_Variation_01LegsCalfOut</Data>
+        </Slider>
+        <Slider name="Wraps" invert="false" small="0" big="0" zap="true">
+            <Data name="shoesWraps" target="shoes">HIMBOSOSDigitigradeKhajiitWrapsCutMale.osd\shoesWraps</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

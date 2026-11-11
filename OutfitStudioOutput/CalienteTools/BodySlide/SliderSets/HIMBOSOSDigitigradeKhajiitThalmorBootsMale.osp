@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="HIMBOSOSDigitigradeKhajiitThalmorBootsMale">
+        <ReferenceInfo ProjectFile="SliderSets\HIMBOSOSDigitigradeKhajiitWrapsCutMale.osp" ProjectName="HIMBOSOSDigitigradeKhajiitWrapsCutMale" ShapeName="FootPaws_Base"/>
+        <DataFolder>HIMBOSOSDigitigradeKhajiitThalmorBootsMale</DataFolder>
+        <SourceFile>HIMBOSOSDigitigradeKhajiitThalmorBootsMale.nif</SourceFile>
+        <OutputPath>meshes\clothes\digitigrade\thalmor</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">thalmorbootsm</OutputFile>
+        <Shape target="FootPaws_Base" DataFolder="VanillaDigitigradeKhajiitFeetMale;HIMBOSOSDigitigradeKhajiitFeetMale">FootPaws_Base</Shape>
+        <Shape target="ThalmorBoots">ThalmorBoots</Shape>
+        <Shape target="shoes" DataFolder="HIMBOSOSDigitigradeKhajiitWrapsCutMale">shoes</Shape>
+        <Slider name="Weight 0 to 1" invert="false" small="0" big="100" hidden="true">
+            <Data name="FootPaws_BaseWeight 0 to 1" target="FootPaws_Base">HIMBOSOSDigitigradeKhajiitFeetMale.osd\FootPaws_BaseWeight 0 to 1</Data>
+            <Data name="ThalmorBootsWeight 0 to 1" target="ThalmorBoots" local="true">HIMBOSOSDigitigradeKhajiitThalmorBootsMale.osd\ThalmorBootsWeight 0 to 1</Data>
+            <Data name="shoesWeight 0 to 1" target="shoes">HIMBOSOSDigitigradeKhajiitWrapsCutMale.osd\shoesWeight 0 to 1</Data>
+        </Slider>
+        <Slider name="Chubby" invert="false" small="0" big="0">
+            <Data name="ThalmorBootsChubby" target="ThalmorBoots" local="true">HIMBOSOSDigitigradeKhajiitThalmorBootsMale.osd\ThalmorBootsChubby</Data>
+        </Slider>
+        <Slider name="Lean" invert="false" small="0" big="0">
+            <Data name="ThalmorBootsLean" target="ThalmorBoots" local="true">HIMBOSOSDigitigradeKhajiitThalmorBootsMale.osd\ThalmorBootsLean</Data>
+        </Slider>
+        <Slider name="Muscle" invert="false" small="0" big="0">
+            <Data name="ThalmorBootsMuscle" target="ThalmorBoots" local="true">HIMBOSOSDigitigradeKhajiitThalmorBootsMale.osd\ThalmorBootsMuscle</Data>
+        </Slider>
+        <Slider name="SOSlike" invert="false" small="0" big="0">
+            <Data name="ThalmorBootsSOSlike" target="ThalmorBoots" local="true">HIMBOSOSDigitigradeKhajiitThalmorBootsMale.osd\ThalmorBootsSOSlike</Data>
+        </Slider>
+        <Slider name="LegsSize" invert="false" small="0" big="0">
+            <Data name="ThalmorBootsLegsSize" target="ThalmorBoots" local="true">HIMBOSOSDigitigradeKhajiitThalmorBootsMale.osd\ThalmorBootsLegsSize</Data>
+        </Slider>
+        <Slider name="LegsThigh" invert="false" small="0" big="0">
+            <Data name="ThalmorBootsLegsThigh" target="ThalmorBoots" local="true">HIMBOSOSDigitigradeKhajiitThalmorBootsMale.osd\ThalmorBootsLegsThigh</Data>
+        </Slider>
+        <Slider name="LegsThinner" invert="false" small="0" big="0">
+            <Data name="ThalmorBootsLegsThinner" target="ThalmorBoots" local="true">HIMBOSOSDigitigradeKhajiitThalmorBootsMale.osd\ThalmorBootsLegsThinner</Data>
+        </Slider>
+        <Slider name="LegsChubby" invert="false" small="0" big="0">
+            <Data name="ThalmorBootsLegsChubby" target="ThalmorBoots" local="true">HIMBOSOSDigitigradeKhajiitThalmorBootsMale.osd\ThalmorBootsLegsChubby</Data>
+        </Slider>
+        <Slider name="LegsFemurUpper" invert="false" small="0" big="0">
+            <Data name="ThalmorBootsLegsFemurUpper" target="ThalmorBoots" local="true">HIMBOSOSDigitigradeKhajiitThalmorBootsMale.osd\ThalmorBootsLegsFemurUpper</Data>
+        </Slider>
+        <Slider name="LegsFemurLower" invert="false" small="0" big="0">
+            <Data name="ThalmorBootsLegsFemurLower" target="ThalmorBoots" local="true">HIMBOSOSDigitigradeKhajiitThalmorBootsMale.osd\ThalmorBootsLegsFemurLower</Data>
+        </Slider>
+        <Slider name="LegsFemurSide" invert="false" small="0" big="0">
+            <Data name="ThalmorBootsLegsFemurSide" target="ThalmorBoots" local="true">HIMBOSOSDigitigradeKhajiitThalmorBootsMale.osd\ThalmorBootsLegsFemurSide</Data>
+        </Slider>
+        <Slider name="LegsFemurBack" invert="false" small="0" big="0">
+            <Data name="ThalmorBootsLegsFemurBack" target="ThalmorBoots" local="true">HIMBOSOSDigitigradeKhajiitThalmorBootsMale.osd\ThalmorBootsLegsFemurBack</Data>
+        </Slider>
+        <Slider name="LegsKneePit" invert="false" small="0" big="0">
+            <Data name="ThalmorBootsLegsKneePit" target="ThalmorBoots" local="true">HIMBOSOSDigitigradeKhajiitThalmorBootsMale.osd\ThalmorBootsLegsKneePit</Data>
+        </Slider>
+        <Slider name="LegsCalfSize" invert="false" small="0" big="0">
+            <Data name="ThalmorBootsLegsCalfSize" target="ThalmorBoots" local="true">HIMBOSOSDigitigradeKhajiitThalmorBootsMale.osd\ThalmorBootsLegsCalfSize</Data>
+        </Slider>
+        <Slider name="LegsCalfWidth" invert="false" small="0" big="0">
+            <Data name="ThalmorBootsLegsCalfWidth" target="ThalmorBoots" local="true">HIMBOSOSDigitigradeKhajiitThalmorBootsMale.osd\ThalmorBootsLegsCalfWidth</Data>
+        </Slider>
+        <Slider name="LegsCalfUpper" invert="false" small="0" big="0">
+            <Data name="ThalmorBootsLegsCalfUpper" target="ThalmorBoots" local="true">HIMBOSOSDigitigradeKhajiitThalmorBootsMale.osd\ThalmorBootsLegsCalfUpper</Data>
+        </Slider>
+        <Slider name="LegsCalfLower" invert="false" small="0" big="0">
+            <Data name="ThalmorBootsLegsCalfLower" target="ThalmorBoots" local="true">HIMBOSOSDigitigradeKhajiitThalmorBootsMale.osd\ThalmorBootsLegsCalfLower</Data>
+        </Slider>
+        <Slider name="LegsCalfFlatten" invert="false" small="0" big="0">
+            <Data name="ThalmorBootsLegsCalfFlatten" target="ThalmorBoots" local="true">HIMBOSOSDigitigradeKhajiitThalmorBootsMale.osd\ThalmorBootsLegsCalfFlatten</Data>
+        </Slider>
+        <Slider name="LegsShinCrease" invert="false" small="0" big="0">
+            <Data name="ThalmorBootsLegsShinCrease" target="ThalmorBoots" local="true">HIMBOSOSDigitigradeKhajiitThalmorBootsMale.osd\ThalmorBootsLegsShinCrease</Data>
+        </Slider>
+        <Slider name="FemmeB" invert="false" small="0" big="0">
+            <Data name="ThalmorBootsFemmeB" target="ThalmorBoots" local="true">HIMBOSOSDigitigradeKhajiitThalmorBootsMale.osd\ThalmorBootsFemmeB</Data>
+        </Slider>
+        <Slider name="LegsThighUpperSide" invert="false" small="0" big="0">
+            <Data name="ThalmorBootsLegsThighUpperSide" target="ThalmorBoots" local="true">HIMBOSOSDigitigradeKhajiitThalmorBootsMale.osd\ThalmorBootsLegsThighUpperSide</Data>
+        </Slider>
+        <Slider name="LegsVastusMReduction" invert="false" small="0" big="0">
+            <Data name="ThalmorBootsLegsVastusMReduction" target="ThalmorBoots" local="true">HIMBOSOSDigitigradeKhajiitThalmorBootsMale.osd\ThalmorBootsLegsVastusMReduction</Data>
+        </Slider>
+        <Slider name="BodyMass" invert="false" small="0" big="0">
+            <Data name="ThalmorBootsBodyMass" target="ThalmorBoots" local="true">HIMBOSOSDigitigradeKhajiitThalmorBootsMale.osd\ThalmorBootsBodyMass</Data>
+        </Slider>
+        <Slider name="SSBBW butt growth" invert="false" small="0" big="0">
+            <Data name="ThalmorBootsSSBBW butt growth" target="ThalmorBoots" local="true">HIMBOSOSDigitigradeKhajiitThalmorBootsMale.osd\ThalmorBootsSSBBW butt growth</Data>
+        </Slider>
+        <Slider name="SamuelLike" invert="false" small="0" big="0">
+            <Data name="ThalmorBootsSamuelLike" target="ThalmorBoots" local="true">HIMBOSOSDigitigradeKhajiitThalmorBootsMale.osd\ThalmorBootsSamuelLike</Data>
+        </Slider>
+        <Slider name="LegsThighInnerSide" invert="false" small="0" big="0">
+            <Data name="ThalmorBootsLegsThighInnerSide" target="ThalmorBoots" local="true">HIMBOSOSDigitigradeKhajiitThalmorBootsMale.osd\ThalmorBootsLegsThighInnerSide</Data>
+        </Slider>
+        <Slider name="LegsKneeInner" invert="false" small="0" big="0">
+            <Data name="ThalmorBootsLegsKneeInner" target="ThalmorBoots" local="true">HIMBOSOSDigitigradeKhajiitThalmorBootsMale.osd\ThalmorBootsLegsKneeInner</Data>
+        </Slider>
+        <Slider name="LegsKneeOuter" invert="false" small="0" big="0">
+            <Data name="ThalmorBootsLegsKneeOuter" target="ThalmorBoots" local="true">HIMBOSOSDigitigradeKhajiitThalmorBootsMale.osd\ThalmorBootsLegsKneeOuter</Data>
+        </Slider>
+        <Slider name="LegsThighIn" invert="false" small="0" big="0">
+            <Data name="ThalmorBootsLegsThighIn" target="ThalmorBoots" local="true">HIMBOSOSDigitigradeKhajiitThalmorBootsMale.osd\ThalmorBootsLegsThighIn</Data>
+        </Slider>
+        <Slider name="LegsCalfSideIn" invert="false" small="0" big="0">
+            <Data name="ThalmorBootsLegsCalfSideIn" target="ThalmorBoots" local="true">HIMBOSOSDigitigradeKhajiitThalmorBootsMale.osd\ThalmorBootsLegsCalfSideIn</Data>
+        </Slider>
+        <Slider name="LegsCalfOut" invert="false" small="0" big="0">
+            <Data name="ThalmorBootsLegsCalfOut" target="ThalmorBoots" local="true">HIMBOSOSDigitigradeKhajiitThalmorBootsMale.osd\ThalmorBootsLegsCalfOut</Data>
+        </Slider>
+        <Slider name="Wraps" invert="false" small="0" big="0" zap="true">
+            <Data name="shoesWraps" target="shoes">HIMBOSOSDigitigradeKhajiitWrapsCutMale.osd\shoesWraps</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

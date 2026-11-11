@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="HIMBOSOSDigitigradeKhajiitBonemoldBootsMale">
+        <ReferenceInfo ProjectFile="SliderSets\HIMBOSOSDigitigradeKhajiitWrapsCutMale.osp" ProjectName="HIMBOSOSDigitigradeKhajiitWrapsCutMale" ShapeName="FootPaws_Base"/>
+        <DataFolder>HIMBOSOSDigitigradeKhajiitBonemoldBootsMale</DataFolder>
+        <SourceFile>HIMBOSOSDigitigradeKhajiitBonemoldBootsMale.nif</SourceFile>
+        <OutputPath>meshes\dlc02\armor\digitigrade\bonemold\m</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">boots</OutputFile>
+        <Shape target="BonemoldBoots_1">BonemoldBoots_1</Shape>
+        <Shape target="FootPaws_Base" DataFolder="VanillaDigitigradeKhajiitFeetMale;HIMBOSOSDigitigradeKhajiitFeetMale">FootPaws_Base</Shape>
+        <Shape target="shoes" DataFolder="HIMBOSOSDigitigradeKhajiitWrapsCutMale">shoes</Shape>
+        <Slider name="Weight 0 to 1" invert="false" small="0" big="100" hidden="true">
+            <Data name="FootPaws_BaseWeight 0 to 1" target="FootPaws_Base">HIMBOSOSDigitigradeKhajiitFeetMale.osd\FootPaws_BaseWeight 0 to 1</Data>
+            <Data name="BonemoldBoots_1Weight 0 to 1" target="BonemoldBoots_1" local="true">HIMBOSOSDigitigradeKhajiitBonemoldBootsMale.osd\BonemoldBoots_1Weight 0 to 1</Data>
+            <Data name="shoesWeight 0 to 1" target="shoes">HIMBOSOSDigitigradeKhajiitWrapsCutMale.osd\shoesWeight 0 to 1</Data>
+        </Slider>
+        <Slider name="Chubby" invert="false" small="0" big="0">
+            <Data name="BonemoldBoots_1Chubby" target="BonemoldBoots_1" local="true">HIMBOSOSDigitigradeKhajiitBonemoldBootsMale.osd\BonemoldBoots_1Chubby</Data>
+        </Slider>
+        <Slider name="Lean" invert="false" small="0" big="0">
+            <Data name="BonemoldBoots_1Lean" target="BonemoldBoots_1" local="true">HIMBOSOSDigitigradeKhajiitBonemoldBootsMale.osd\BonemoldBoots_1Lean</Data>
+        </Slider>
+        <Slider name="Muscle" invert="false" small="0" big="0">
+            <Data name="BonemoldBoots_1Muscle" target="BonemoldBoots_1" local="true">HIMBOSOSDigitigradeKhajiitBonemoldBootsMale.osd\BonemoldBoots_1Muscle</Data>
+        </Slider>
+        <Slider name="SOSlike" invert="false" small="0" big="0">
+            <Data name="BonemoldBoots_1SOSlike" target="BonemoldBoots_1" local="true">HIMBOSOSDigitigradeKhajiitBonemoldBootsMale.osd\BonemoldBoots_1SOSlike</Data>
+        </Slider>
+        <Slider name="LegsSize" invert="false" small="0" big="0">
+            <Data name="BonemoldBoots_1LegsSize" target="BonemoldBoots_1" local="true">HIMBOSOSDigitigradeKhajiitBonemoldBootsMale.osd\BonemoldBoots_1LegsSize</Data>
+        </Slider>
+        <Slider name="LegsThinner" invert="false" small="0" big="0">
+            <Data name="BonemoldBoots_1LegsThinner" target="BonemoldBoots_1" local="true">HIMBOSOSDigitigradeKhajiitBonemoldBootsMale.osd\BonemoldBoots_1LegsThinner</Data>
+        </Slider>
+        <Slider name="LegsChubby" invert="false" small="0" big="0">
+            <Data name="BonemoldBoots_1LegsChubby" target="BonemoldBoots_1" local="true">HIMBOSOSDigitigradeKhajiitBonemoldBootsMale.osd\BonemoldBoots_1LegsChubby</Data>
+        </Slider>
+        <Slider name="LegsFemurLower" invert="false" small="0" big="0">
+            <Data name="BonemoldBoots_1LegsFemurLower" target="BonemoldBoots_1" local="true">HIMBOSOSDigitigradeKhajiitBonemoldBootsMale.osd\BonemoldBoots_1LegsFemurLower</Data>
+        </Slider>
+        <Slider name="LegsFemurSide" invert="false" small="0" big="0">
+            <Data name="BonemoldBoots_1LegsFemurSide" target="BonemoldBoots_1" local="true">HIMBOSOSDigitigradeKhajiitBonemoldBootsMale.osd\BonemoldBoots_1LegsFemurSide</Data>
+        </Slider>
+        <Slider name="LegsFemurBack" invert="false" small="0" big="0">
+            <Data name="BonemoldBoots_1LegsFemurBack" target="BonemoldBoots_1" local="true">HIMBOSOSDigitigradeKhajiitBonemoldBootsMale.osd\BonemoldBoots_1LegsFemurBack</Data>
+        </Slider>
+        <Slider name="LegsKneePit" invert="false" small="0" big="0">
+            <Data name="BonemoldBoots_1LegsKneePit" target="BonemoldBoots_1" local="true">HIMBOSOSDigitigradeKhajiitBonemoldBootsMale.osd\BonemoldBoots_1LegsKneePit</Data>
+        </Slider>
+        <Slider name="LegsCalfSize" invert="false" small="0" big="0">
+            <Data name="BonemoldBoots_1LegsCalfSize" target="BonemoldBoots_1" local="true">HIMBOSOSDigitigradeKhajiitBonemoldBootsMale.osd\BonemoldBoots_1LegsCalfSize</Data>
+        </Slider>
+        <Slider name="LegsCalfWidth" invert="false" small="0" big="0">
+            <Data name="BonemoldBoots_1LegsCalfWidth" target="BonemoldBoots_1" local="true">HIMBOSOSDigitigradeKhajiitBonemoldBootsMale.osd\BonemoldBoots_1LegsCalfWidth</Data>
+        </Slider>
+        <Slider name="LegsCalfUpper" invert="false" small="0" big="0">
+            <Data name="BonemoldBoots_1LegsCalfUpper" target="BonemoldBoots_1" local="true">HIMBOSOSDigitigradeKhajiitBonemoldBootsMale.osd\BonemoldBoots_1LegsCalfUpper</Data>
+        </Slider>
+        <Slider name="LegsCalfLower" invert="false" small="0" big="0">
+            <Data name="BonemoldBoots_1LegsCalfLower" target="BonemoldBoots_1" local="true">HIMBOSOSDigitigradeKhajiitBonemoldBootsMale.osd\BonemoldBoots_1LegsCalfLower</Data>
+        </Slider>
+        <Slider name="LegsCalfFlatten" invert="false" small="0" big="0">
+            <Data name="BonemoldBoots_1LegsCalfFlatten" target="BonemoldBoots_1" local="true">HIMBOSOSDigitigradeKhajiitBonemoldBootsMale.osd\BonemoldBoots_1LegsCalfFlatten</Data>
+        </Slider>
+        <Slider name="LegsShinCrease" invert="false" small="0" big="0">
+            <Data name="BonemoldBoots_1LegsShinCrease" target="BonemoldBoots_1" local="true">HIMBOSOSDigitigradeKhajiitBonemoldBootsMale.osd\BonemoldBoots_1LegsShinCrease</Data>
+        </Slider>
+        <Slider name="FemmeB" invert="false" small="0" big="0">
+            <Data name="BonemoldBoots_1FemmeB" target="BonemoldBoots_1" local="true">HIMBOSOSDigitigradeKhajiitBonemoldBootsMale.osd\BonemoldBoots_1FemmeB</Data>
+        </Slider>
+        <Slider name="LegsThighUpperSide" invert="false" small="0" big="0">
+            <Data name="BonemoldBoots_1LegsThighUpperSide" target="BonemoldBoots_1" local="true">HIMBOSOSDigitigradeKhajiitBonemoldBootsMale.osd\BonemoldBoots_1LegsThighUpperSide</Data>
+        </Slider>
+        <Slider name="LegsVastusMReduction" invert="false" small="0" big="0">
+            <Data name="BonemoldBoots_1LegsVastusMReduction" target="BonemoldBoots_1" local="true">HIMBOSOSDigitigradeKhajiitBonemoldBootsMale.osd\BonemoldBoots_1LegsVastusMReduction</Data>
+        </Slider>
+        <Slider name="BodyMass" invert="false" small="0" big="0">
+            <Data name="BonemoldBoots_1BodyMass" target="BonemoldBoots_1" local="true">HIMBOSOSDigitigradeKhajiitBonemoldBootsMale.osd\BonemoldBoots_1BodyMass</Data>
+        </Slider>
+        <Slider name="SSBBW butt growth" invert="false" small="0" big="0">
+            <Data name="BonemoldBoots_1SSBBW butt growth" target="BonemoldBoots_1" local="true">HIMBOSOSDigitigradeKhajiitBonemoldBootsMale.osd\BonemoldBoots_1SSBBW butt growth</Data>
+        </Slider>
+        <Slider name="SamuelLike" invert="false" small="0" big="0">
+            <Data name="BonemoldBoots_1SamuelLike" target="BonemoldBoots_1" local="true">HIMBOSOSDigitigradeKhajiitBonemoldBootsMale.osd\BonemoldBoots_1SamuelLike</Data>
+        </Slider>
+        <Slider name="LegsThighInnerSide" invert="false" small="0" big="0">
+            <Data name="BonemoldBoots_1LegsThighInnerSide" target="BonemoldBoots_1" local="true">HIMBOSOSDigitigradeKhajiitBonemoldBootsMale.osd\BonemoldBoots_1LegsThighInnerSide</Data>
+        </Slider>
+        <Slider name="LegsKneeInner" invert="false" small="0" big="0">
+            <Data name="BonemoldBoots_1LegsKneeInner" target="BonemoldBoots_1" local="true">HIMBOSOSDigitigradeKhajiitBonemoldBootsMale.osd\BonemoldBoots_1LegsKneeInner</Data>
+        </Slider>
+        <Slider name="LegsKneeOuter" invert="false" small="0" big="0">
+            <Data name="BonemoldBoots_1LegsKneeOuter" target="BonemoldBoots_1" local="true">HIMBOSOSDigitigradeKhajiitBonemoldBootsMale.osd\BonemoldBoots_1LegsKneeOuter</Data>
+        </Slider>
+        <Slider name="LegsCalfSideIn" invert="false" small="0" big="0">
+            <Data name="BonemoldBoots_1LegsCalfSideIn" target="BonemoldBoots_1" local="true">HIMBOSOSDigitigradeKhajiitBonemoldBootsMale.osd\BonemoldBoots_1LegsCalfSideIn</Data>
+        </Slider>
+        <Slider name="LegsCalfOut" invert="false" small="0" big="0">
+            <Data name="BonemoldBoots_1LegsCalfOut" target="BonemoldBoots_1" local="true">HIMBOSOSDigitigradeKhajiitBonemoldBootsMale.osd\BonemoldBoots_1LegsCalfOut</Data>
+        </Slider>
+        <Slider name="Wraps" invert="false" small="0" big="0" zap="true">
+            <Data name="shoesWraps" target="shoes">HIMBOSOSDigitigradeKhajiitWrapsCutMale.osd\shoesWraps</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="HIMBOSOSDigitigradeKhajiitDwarvenBootsMale">
+        <ReferenceInfo ProjectFile="SliderSets\HIMBOSOSDigitigradeKhajiitWrapsCutMale.osp" ProjectName="HIMBOSOSDigitigradeKhajiitWrapsCutMale" ShapeName="FootPaws_Base"/>
+        <DataFolder>HIMBOSOSDigitigradeKhajiitDwarvenBootsMale</DataFolder>
+        <SourceFile>HIMBOSOSDigitigradeKhajiitDwarvenBootsMale.nif</SourceFile>
+        <OutputPath>meshes\armor\digitigrade\dwarven</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">dwarvenboots</OutputFile>
+        <Shape target="DwarvenBoots">DwarvenBoots</Shape>
+        <Shape target="FootPaws_Base" DataFolder="VanillaDigitigradeKhajiitFeetMale;HIMBOSOSDigitigradeKhajiitFeetMale">FootPaws_Base</Shape>
+        <Shape target="shoes" DataFolder="HIMBOSOSDigitigradeKhajiitWrapsCutMale">shoes</Shape>
+        <Slider name="Weight 0 to 1" invert="false" small="0" big="100" hidden="true">
+            <Data name="FootPaws_BaseWeight 0 to 1" target="FootPaws_Base">HIMBOSOSDigitigradeKhajiitFeetMale.osd\FootPaws_BaseWeight 0 to 1</Data>
+            <Data name="DwarvenBootsWeight 0 to 1" target="DwarvenBoots" local="true">HIMBOSOSDigitigradeKhajiitDwarvenBootsMale.osd\DwarvenBootsWeight 0 to 1</Data>
+            <Data name="shoesWeight 0 to 1" target="shoes">HIMBOSOSDigitigradeKhajiitWrapsCutMale.osd\shoesWeight 0 to 1</Data>
+        </Slider>
+        <Slider name="Chubby" invert="false" small="0" big="0">
+            <Data name="DwarvenBootsChubby" target="DwarvenBoots" local="true">HIMBOSOSDigitigradeKhajiitDwarvenBootsMale.osd\DwarvenBootsChubby</Data>
+        </Slider>
+        <Slider name="Lean" invert="false" small="0" big="0">
+            <Data name="DwarvenBootsLean" target="DwarvenBoots" local="true">HIMBOSOSDigitigradeKhajiitDwarvenBootsMale.osd\DwarvenBootsLean</Data>
+        </Slider>
+        <Slider name="Muscle" invert="false" small="0" big="0">
+            <Data name="DwarvenBootsMuscle" target="DwarvenBoots" local="true">HIMBOSOSDigitigradeKhajiitDwarvenBootsMale.osd\DwarvenBootsMuscle</Data>
+        </Slider>
+        <Slider name="SOSlike" invert="false" small="0" big="0">
+            <Data name="DwarvenBootsSOSlike" target="DwarvenBoots" local="true">HIMBOSOSDigitigradeKhajiitDwarvenBootsMale.osd\DwarvenBootsSOSlike</Data>
+        </Slider>
+        <Slider name="LegsSize" invert="false" small="0" big="0">
+            <Data name="DwarvenBootsLegsSize" target="DwarvenBoots" local="true">HIMBOSOSDigitigradeKhajiitDwarvenBootsMale.osd\DwarvenBootsLegsSize</Data>
+        </Slider>
+        <Slider name="LegsThigh" invert="false" small="0" big="0">
+            <Data name="DwarvenBootsLegsThigh" target="DwarvenBoots" local="true">HIMBOSOSDigitigradeKhajiitDwarvenBootsMale.osd\DwarvenBootsLegsThigh</Data>
+        </Slider>
+        <Slider name="LegsThinner" invert="false" small="0" big="0">
+            <Data name="DwarvenBootsLegsThinner" target="DwarvenBoots" local="true">HIMBOSOSDigitigradeKhajiitDwarvenBootsMale.osd\DwarvenBootsLegsThinner</Data>
+        </Slider>
+        <Slider name="LegsChubby" invert="false" small="0" big="0">
+            <Data name="DwarvenBootsLegsChubby" target="DwarvenBoots" local="true">HIMBOSOSDigitigradeKhajiitDwarvenBootsMale.osd\DwarvenBootsLegsChubby</Data>
+        </Slider>
+        <Slider name="LegsFemurUpper" invert="false" small="0" big="0">
+            <Data name="DwarvenBootsLegsFemurUpper" target="DwarvenBoots" local="true">HIMBOSOSDigitigradeKhajiitDwarvenBootsMale.osd\DwarvenBootsLegsFemurUpper</Data>
+        </Slider>
+        <Slider name="LegsFemurLower" invert="false" small="0" big="0">
+            <Data name="DwarvenBootsLegsFemurLower" target="DwarvenBoots" local="true">HIMBOSOSDigitigradeKhajiitDwarvenBootsMale.osd\DwarvenBootsLegsFemurLower</Data>
+        </Slider>
+        <Slider name="LegsFemurSide" invert="false" small="0" big="0">
+            <Data name="DwarvenBootsLegsFemurSide" target="DwarvenBoots" local="true">HIMBOSOSDigitigradeKhajiitDwarvenBootsMale.osd\DwarvenBootsLegsFemurSide</Data>
+        </Slider>
+        <Slider name="LegsFemurBack" invert="false" small="0" big="0">
+            <Data name="DwarvenBootsLegsFemurBack" target="DwarvenBoots" local="true">HIMBOSOSDigitigradeKhajiitDwarvenBootsMale.osd\DwarvenBootsLegsFemurBack</Data>
+        </Slider>
+        <Slider name="LegsKneePit" invert="false" small="0" big="0">
+            <Data name="DwarvenBootsLegsKneePit" target="DwarvenBoots" local="true">HIMBOSOSDigitigradeKhajiitDwarvenBootsMale.osd\DwarvenBootsLegsKneePit</Data>
+        </Slider>
+        <Slider name="LegsCalfSize" invert="false" small="0" big="0">
+            <Data name="DwarvenBootsLegsCalfSize" target="DwarvenBoots" local="true">HIMBOSOSDigitigradeKhajiitDwarvenBootsMale.osd\DwarvenBootsLegsCalfSize</Data>
+        </Slider>
+        <Slider name="LegsCalfWidth" invert="false" small="0" big="0">
+            <Data name="DwarvenBootsLegsCalfWidth" target="DwarvenBoots" local="true">HIMBOSOSDigitigradeKhajiitDwarvenBootsMale.osd\DwarvenBootsLegsCalfWidth</Data>
+        </Slider>
+        <Slider name="LegsCalfUpper" invert="false" small="0" big="0">
+            <Data name="DwarvenBootsLegsCalfUpper" target="DwarvenBoots" local="true">HIMBOSOSDigitigradeKhajiitDwarvenBootsMale.osd\DwarvenBootsLegsCalfUpper</Data>
+        </Slider>
+        <Slider name="LegsCalfLower" invert="false" small="0" big="0">
+            <Data name="DwarvenBootsLegsCalfLower" target="DwarvenBoots" local="true">HIMBOSOSDigitigradeKhajiitDwarvenBootsMale.osd\DwarvenBootsLegsCalfLower</Data>
+        </Slider>
+        <Slider name="LegsCalfFlatten" invert="false" small="0" big="0">
+            <Data name="DwarvenBootsLegsCalfFlatten" target="DwarvenBoots" local="true">HIMBOSOSDigitigradeKhajiitDwarvenBootsMale.osd\DwarvenBootsLegsCalfFlatten</Data>
+        </Slider>
+        <Slider name="LegsShinCrease" invert="false" small="0" big="0">
+            <Data name="DwarvenBootsLegsShinCrease" target="DwarvenBoots" local="true">HIMBOSOSDigitigradeKhajiitDwarvenBootsMale.osd\DwarvenBootsLegsShinCrease</Data>
+        </Slider>
+        <Slider name="FemmeB" invert="false" small="0" big="0">
+            <Data name="DwarvenBootsFemmeB" target="DwarvenBoots" local="true">HIMBOSOSDigitigradeKhajiitDwarvenBootsMale.osd\DwarvenBootsFemmeB</Data>
+        </Slider>
+        <Slider name="LegsThighUpperSide" invert="false" small="0" big="0">
+            <Data name="DwarvenBootsLegsThighUpperSide" target="DwarvenBoots" local="true">HIMBOSOSDigitigradeKhajiitDwarvenBootsMale.osd\DwarvenBootsLegsThighUpperSide</Data>
+        </Slider>
+        <Slider name="LegsVastusMReduction" invert="false" small="0" big="0">
+            <Data name="DwarvenBootsLegsVastusMReduction" target="DwarvenBoots" local="true">HIMBOSOSDigitigradeKhajiitDwarvenBootsMale.osd\DwarvenBootsLegsVastusMReduction</Data>
+        </Slider>
+        <Slider name="BodyMass" invert="false" small="0" big="0">
+            <Data name="DwarvenBootsBodyMass" target="DwarvenBoots" local="true">HIMBOSOSDigitigradeKhajiitDwarvenBootsMale.osd\DwarvenBootsBodyMass</Data>
+        </Slider>
+        <Slider name="SSBBW butt growth" invert="false" small="0" big="0">
+            <Data name="DwarvenBootsSSBBW butt growth" target="DwarvenBoots" local="true">HIMBOSOSDigitigradeKhajiitDwarvenBootsMale.osd\DwarvenBootsSSBBW butt growth</Data>
+        </Slider>
+        <Slider name="SamuelLike" invert="false" small="0" big="0">
+            <Data name="DwarvenBootsSamuelLike" target="DwarvenBoots" local="true">HIMBOSOSDigitigradeKhajiitDwarvenBootsMale.osd\DwarvenBootsSamuelLike</Data>
+        </Slider>
+        <Slider name="LegsThighInnerSide" invert="false" small="0" big="0">
+            <Data name="DwarvenBootsLegsThighInnerSide" target="DwarvenBoots" local="true">HIMBOSOSDigitigradeKhajiitDwarvenBootsMale.osd\DwarvenBootsLegsThighInnerSide</Data>
+        </Slider>
+        <Slider name="LegsKneeInner" invert="false" small="0" big="0">
+            <Data name="DwarvenBootsLegsKneeInner" target="DwarvenBoots" local="true">HIMBOSOSDigitigradeKhajiitDwarvenBootsMale.osd\DwarvenBootsLegsKneeInner</Data>
+        </Slider>
+        <Slider name="LegsKneeOuter" invert="false" small="0" big="0">
+            <Data name="DwarvenBootsLegsKneeOuter" target="DwarvenBoots" local="true">HIMBOSOSDigitigradeKhajiitDwarvenBootsMale.osd\DwarvenBootsLegsKneeOuter</Data>
+        </Slider>
+        <Slider name="LegsThighIn" invert="false" small="0" big="0">
+            <Data name="DwarvenBootsLegsThighIn" target="DwarvenBoots" local="true">HIMBOSOSDigitigradeKhajiitDwarvenBootsMale.osd\DwarvenBootsLegsThighIn</Data>
+        </Slider>
+        <Slider name="LegsCalfSideIn" invert="false" small="0" big="0">
+            <Data name="DwarvenBootsLegsCalfSideIn" target="DwarvenBoots" local="true">HIMBOSOSDigitigradeKhajiitDwarvenBootsMale.osd\DwarvenBootsLegsCalfSideIn</Data>
+        </Slider>
+        <Slider name="LegsCalfOut" invert="false" small="0" big="0">
+            <Data name="DwarvenBootsLegsCalfOut" target="DwarvenBoots" local="true">HIMBOSOSDigitigradeKhajiitDwarvenBootsMale.osd\DwarvenBootsLegsCalfOut</Data>
+        </Slider>
+        <Slider name="Wraps" invert="false" small="0" big="0" zap="true">
+            <Data name="shoesWraps" target="shoes">HIMBOSOSDigitigradeKhajiitWrapsCutMale.osd\shoesWraps</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

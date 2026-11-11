@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="HIMBOSOSDigitigradeKhajiitTempleBootsMale">
+        <ReferenceInfo ProjectFile="SliderSets\HIMBOSOSDigitigradeKhajiitWrapsCutMale.osp" ProjectName="HIMBOSOSDigitigradeKhajiitWrapsCutMale" ShapeName="FootPaws_Base"/>
+        <DataFolder>HIMBOSOSDigitigradeKhajiitTempleBootsMale</DataFolder>
+        <SourceFile>HIMBOSOSDigitigradeKhajiitTempleBootsMale.nif</SourceFile>
+        <OutputPath>meshes\dlc02\clothes\digitigrade\temple</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">bootsm</OutputFile>
+        <Shape target="FootPaws_Base" DataFolder="VanillaDigitigradeKhajiitFeetMale;HIMBOSOSDigitigradeKhajiitFeetMale">FootPaws_Base</Shape>
+        <Shape target="Object02">Object02</Shape>
+        <Shape target="shoes" DataFolder="HIMBOSOSDigitigradeKhajiitWrapsCutMale">shoes</Shape>
+        <Slider name="Weight 0 to 1" invert="false" small="0" big="100" hidden="true">
+            <Data name="FootPaws_BaseWeight 0 to 1" target="FootPaws_Base">HIMBOSOSDigitigradeKhajiitFeetMale.osd\FootPaws_BaseWeight 0 to 1</Data>
+            <Data name="Object02Weight 0 to 1" target="Object02" local="true">HIMBOSOSDigitigradeKhajiitTempleBootsMale.osd\Object02Weight 0 to 1</Data>
+            <Data name="shoesWeight 0 to 1" target="shoes">HIMBOSOSDigitigradeKhajiitWrapsCutMale.osd\shoesWeight 0 to 1</Data>
+        </Slider>
+        <Slider name="Chubby" invert="false" small="0" big="0">
+            <Data name="Object02Chubby" target="Object02" local="true">HIMBOSOSDigitigradeKhajiitTempleBootsMale.osd\Object02Chubby</Data>
+        </Slider>
+        <Slider name="Lean" invert="false" small="0" big="0">
+            <Data name="Object02Lean" target="Object02" local="true">HIMBOSOSDigitigradeKhajiitTempleBootsMale.osd\Object02Lean</Data>
+        </Slider>
+        <Slider name="Muscle" invert="false" small="0" big="0">
+            <Data name="Object02Muscle" target="Object02" local="true">HIMBOSOSDigitigradeKhajiitTempleBootsMale.osd\Object02Muscle</Data>
+        </Slider>
+        <Slider name="SOSlike" invert="false" small="0" big="0">
+            <Data name="Object02SOSlike" target="Object02" local="true">HIMBOSOSDigitigradeKhajiitTempleBootsMale.osd\Object02SOSlike</Data>
+        </Slider>
+        <Slider name="LegsSize" invert="false" small="0" big="0">
+            <Data name="Object02LegsSize" target="Object02" local="true">HIMBOSOSDigitigradeKhajiitTempleBootsMale.osd\Object02LegsSize</Data>
+        </Slider>
+        <Slider name="LegsThinner" invert="false" small="0" big="0">
+            <Data name="Object02LegsThinner" target="Object02" local="true">HIMBOSOSDigitigradeKhajiitTempleBootsMale.osd\Object02LegsThinner</Data>
+        </Slider>
+        <Slider name="LegsChubby" invert="false" small="0" big="0">
+            <Data name="Object02LegsChubby" target="Object02" local="true">HIMBOSOSDigitigradeKhajiitTempleBootsMale.osd\Object02LegsChubby</Data>
+        </Slider>
+        <Slider name="LegsFemurBack" invert="false" small="0" big="0">
+            <Data name="Object02LegsFemurBack" target="Object02" local="true">HIMBOSOSDigitigradeKhajiitTempleBootsMale.osd\Object02LegsFemurBack</Data>
+        </Slider>
+        <Slider name="LegsKneePit" invert="false" small="0" big="0">
+            <Data name="Object02LegsKneePit" target="Object02" local="true">HIMBOSOSDigitigradeKhajiitTempleBootsMale.osd\Object02LegsKneePit</Data>
+        </Slider>
+        <Slider name="LegsCalfSize" invert="false" small="0" big="0">
+            <Data name="Object02LegsCalfSize" target="Object02" local="true">HIMBOSOSDigitigradeKhajiitTempleBootsMale.osd\Object02LegsCalfSize</Data>
+        </Slider>
+        <Slider name="LegsCalfWidth" invert="false" small="0" big="0">
+            <Data name="Object02LegsCalfWidth" target="Object02" local="true">HIMBOSOSDigitigradeKhajiitTempleBootsMale.osd\Object02LegsCalfWidth</Data>
+        </Slider>
+        <Slider name="LegsCalfUpper" invert="false" small="0" big="0">
+            <Data name="Object02LegsCalfUpper" target="Object02" local="true">HIMBOSOSDigitigradeKhajiitTempleBootsMale.osd\Object02LegsCalfUpper</Data>
+        </Slider>
+        <Slider name="LegsCalfLower" invert="false" small="0" big="0">
+            <Data name="Object02LegsCalfLower" target="Object02" local="true">HIMBOSOSDigitigradeKhajiitTempleBootsMale.osd\Object02LegsCalfLower</Data>
+        </Slider>
+        <Slider name="LegsCalfFlatten" invert="false" small="0" big="0">
+            <Data name="Object02LegsCalfFlatten" target="Object02" local="true">HIMBOSOSDigitigradeKhajiitTempleBootsMale.osd\Object02LegsCalfFlatten</Data>
+        </Slider>
+        <Slider name="LegsShinCrease" invert="false" small="0" big="0">
+            <Data name="Object02LegsShinCrease" target="Object02" local="true">HIMBOSOSDigitigradeKhajiitTempleBootsMale.osd\Object02LegsShinCrease</Data>
+        </Slider>
+        <Slider name="FemmeB" invert="false" small="0" big="0">
+            <Data name="Object02FemmeB" target="Object02" local="true">HIMBOSOSDigitigradeKhajiitTempleBootsMale.osd\Object02FemmeB</Data>
+        </Slider>
+        <Slider name="LegsThighUpperSide" invert="false" small="0" big="0">
+            <Data name="Object02LegsThighUpperSide" target="Object02" local="true">HIMBOSOSDigitigradeKhajiitTempleBootsMale.osd\Object02LegsThighUpperSide</Data>
+        </Slider>
+        <Slider name="BodyMass" invert="false" small="0" big="0">
+            <Data name="Object02BodyMass" target="Object02" local="true">HIMBOSOSDigitigradeKhajiitTempleBootsMale.osd\Object02BodyMass</Data>
+        </Slider>
+        <Slider name="SSBBW butt growth" invert="false" small="0" big="0">
+            <Data name="Object02SSBBW butt growth" target="Object02" local="true">HIMBOSOSDigitigradeKhajiitTempleBootsMale.osd\Object02SSBBW butt growth</Data>
+        </Slider>
+        <Slider name="SamuelLike" invert="false" small="0" big="0">
+            <Data name="Object02SamuelLike" target="Object02" local="true">HIMBOSOSDigitigradeKhajiitTempleBootsMale.osd\Object02SamuelLike</Data>
+        </Slider>
+        <Slider name="LegsThighInnerSide" invert="false" small="0" big="0">
+            <Data name="Object02LegsThighInnerSide" target="Object02" local="true">HIMBOSOSDigitigradeKhajiitTempleBootsMale.osd\Object02LegsThighInnerSide</Data>
+        </Slider>
+        <Slider name="LegsKneeInner" invert="false" small="0" big="0">
+            <Data name="Object02LegsKneeInner" target="Object02" local="true">HIMBOSOSDigitigradeKhajiitTempleBootsMale.osd\Object02LegsKneeInner</Data>
+        </Slider>
+        <Slider name="LegsKneeOuter" invert="false" small="0" big="0">
+            <Data name="Object02LegsKneeOuter" target="Object02" local="true">HIMBOSOSDigitigradeKhajiitTempleBootsMale.osd\Object02LegsKneeOuter</Data>
+        </Slider>
+        <Slider name="LegsThighIn" invert="false" small="0" big="0">
+            <Data name="Object02LegsThighIn" target="Object02" local="true">HIMBOSOSDigitigradeKhajiitTempleBootsMale.osd\Object02LegsThighIn</Data>
+        </Slider>
+        <Slider name="LegsCalfSideIn" invert="false" small="0" big="0">
+            <Data name="Object02LegsCalfSideIn" target="Object02" local="true">HIMBOSOSDigitigradeKhajiitTempleBootsMale.osd\Object02LegsCalfSideIn</Data>
+        </Slider>
+        <Slider name="LegsCalfOut" invert="false" small="0" big="0">
+            <Data name="Object02LegsCalfOut" target="Object02" local="true">HIMBOSOSDigitigradeKhajiitTempleBootsMale.osd\Object02LegsCalfOut</Data>
+        </Slider>
+        <Slider name="Wraps" invert="false" small="0" big="0" zap="true">
+            <Data name="shoesWraps" target="shoes">HIMBOSOSDigitigradeKhajiitWrapsCutMale.osd\shoesWraps</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

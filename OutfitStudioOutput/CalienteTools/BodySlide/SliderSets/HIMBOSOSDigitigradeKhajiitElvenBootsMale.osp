@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="HIMBOSOSDigitigradeKhajiitElvenBootsMale">
+        <ReferenceInfo ProjectFile="SliderSets\HIMBOSOSDigitigradeKhajiitWrapsCutMale.osp" ProjectName="HIMBOSOSDigitigradeKhajiitWrapsCutMale" ShapeName="FootPaws_Base"/>
+        <DataFolder>HIMBOSOSDigitigradeKhajiitElvenBootsMale</DataFolder>
+        <SourceFile>HIMBOSOSDigitigradeKhajiitElvenBootsMale.nif</SourceFile>
+        <OutputPath>meshes\armor\digitigrade\elven\m</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">boots</OutputFile>
+        <Shape target="ElvenBoots">ElvenBoots</Shape>
+        <Shape target="FootPaws_Base" DataFolder="VanillaDigitigradeKhajiitFeetMale;HIMBOSOSDigitigradeKhajiitFeetMale">FootPaws_Base</Shape>
+        <Shape target="shoes" DataFolder="HIMBOSOSDigitigradeKhajiitWrapsCutMale">shoes</Shape>
+        <Slider name="Weight 0 to 1" invert="false" small="0" big="100" hidden="true">
+            <Data name="FootPaws_BaseWeight 0 to 1" target="FootPaws_Base">HIMBOSOSDigitigradeKhajiitFeetMale.osd\FootPaws_BaseWeight 0 to 1</Data>
+            <Data name="ElvenBootsWeight 0 to 1" target="ElvenBoots" local="true">HIMBOSOSDigitigradeKhajiitElvenBootsMale.osd\ElvenBootsWeight 0 to 1</Data>
+            <Data name="shoesWeight 0 to 1" target="shoes">HIMBOSOSDigitigradeKhajiitWrapsCutMale.osd\shoesWeight 0 to 1</Data>
+        </Slider>
+        <Slider name="Chubby" invert="false" small="0" big="0">
+            <Data name="ElvenBootsChubby" target="ElvenBoots" local="true">HIMBOSOSDigitigradeKhajiitElvenBootsMale.osd\ElvenBootsChubby</Data>
+        </Slider>
+        <Slider name="Lean" invert="false" small="0" big="0">
+            <Data name="ElvenBootsLean" target="ElvenBoots" local="true">HIMBOSOSDigitigradeKhajiitElvenBootsMale.osd\ElvenBootsLean</Data>
+        </Slider>
+        <Slider name="Muscle" invert="false" small="0" big="0">
+            <Data name="ElvenBootsMuscle" target="ElvenBoots" local="true">HIMBOSOSDigitigradeKhajiitElvenBootsMale.osd\ElvenBootsMuscle</Data>
+        </Slider>
+        <Slider name="SOSlike" invert="false" small="0" big="0">
+            <Data name="ElvenBootsSOSlike" target="ElvenBoots" local="true">HIMBOSOSDigitigradeKhajiitElvenBootsMale.osd\ElvenBootsSOSlike</Data>
+        </Slider>
+        <Slider name="LegsSize" invert="false" small="0" big="0">
+            <Data name="ElvenBootsLegsSize" target="ElvenBoots" local="true">HIMBOSOSDigitigradeKhajiitElvenBootsMale.osd\ElvenBootsLegsSize</Data>
+        </Slider>
+        <Slider name="LegsThigh" invert="false" small="0" big="0">
+            <Data name="ElvenBootsLegsThigh" target="ElvenBoots" local="true">HIMBOSOSDigitigradeKhajiitElvenBootsMale.osd\ElvenBootsLegsThigh</Data>
+        </Slider>
+        <Slider name="LegsThinner" invert="false" small="0" big="0">
+            <Data name="ElvenBootsLegsThinner" target="ElvenBoots" local="true">HIMBOSOSDigitigradeKhajiitElvenBootsMale.osd\ElvenBootsLegsThinner</Data>
+        </Slider>
+        <Slider name="LegsChubby" invert="false" small="0" big="0">
+            <Data name="ElvenBootsLegsChubby" target="ElvenBoots" local="true">HIMBOSOSDigitigradeKhajiitElvenBootsMale.osd\ElvenBootsLegsChubby</Data>
+        </Slider>
+        <Slider name="LegsFemurUpper" invert="false" small="0" big="0">
+            <Data name="ElvenBootsLegsFemurUpper" target="ElvenBoots" local="true">HIMBOSOSDigitigradeKhajiitElvenBootsMale.osd\ElvenBootsLegsFemurUpper</Data>
+        </Slider>
+        <Slider name="LegsFemurLower" invert="false" small="0" big="0">
+            <Data name="ElvenBootsLegsFemurLower" target="ElvenBoots" local="true">HIMBOSOSDigitigradeKhajiitElvenBootsMale.osd\ElvenBootsLegsFemurLower</Data>
+        </Slider>
+        <Slider name="LegsFemurSide" invert="false" small="0" big="0">
+            <Data name="ElvenBootsLegsFemurSide" target="ElvenBoots" local="true">HIMBOSOSDigitigradeKhajiitElvenBootsMale.osd\ElvenBootsLegsFemurSide</Data>
+        </Slider>
+        <Slider name="LegsFemurBack" invert="false" small="0" big="0">
+            <Data name="ElvenBootsLegsFemurBack" target="ElvenBoots" local="true">HIMBOSOSDigitigradeKhajiitElvenBootsMale.osd\ElvenBootsLegsFemurBack</Data>
+        </Slider>
+        <Slider name="LegsKneePit" invert="false" small="0" big="0">
+            <Data name="ElvenBootsLegsKneePit" target="ElvenBoots" local="true">HIMBOSOSDigitigradeKhajiitElvenBootsMale.osd\ElvenBootsLegsKneePit</Data>
+        </Slider>
+        <Slider name="LegsCalfSize" invert="false" small="0" big="0">
+            <Data name="ElvenBootsLegsCalfSize" target="ElvenBoots" local="true">HIMBOSOSDigitigradeKhajiitElvenBootsMale.osd\ElvenBootsLegsCalfSize</Data>
+        </Slider>
+        <Slider name="LegsCalfWidth" invert="false" small="0" big="0">
+            <Data name="ElvenBootsLegsCalfWidth" target="ElvenBoots" local="true">HIMBOSOSDigitigradeKhajiitElvenBootsMale.osd\ElvenBootsLegsCalfWidth</Data>
+        </Slider>
+        <Slider name="LegsCalfUpper" invert="false" small="0" big="0">
+            <Data name="ElvenBootsLegsCalfUpper" target="ElvenBoots" local="true">HIMBOSOSDigitigradeKhajiitElvenBootsMale.osd\ElvenBootsLegsCalfUpper</Data>
+        </Slider>
+        <Slider name="LegsCalfLower" invert="false" small="0" big="0">
+            <Data name="ElvenBootsLegsCalfLower" target="ElvenBoots" local="true">HIMBOSOSDigitigradeKhajiitElvenBootsMale.osd\ElvenBootsLegsCalfLower</Data>
+        </Slider>
+        <Slider name="LegsCalfFlatten" invert="false" small="0" big="0">
+            <Data name="ElvenBootsLegsCalfFlatten" target="ElvenBoots" local="true">HIMBOSOSDigitigradeKhajiitElvenBootsMale.osd\ElvenBootsLegsCalfFlatten</Data>
+        </Slider>
+        <Slider name="LegsShinCrease" invert="false" small="0" big="0">
+            <Data name="ElvenBootsLegsShinCrease" target="ElvenBoots" local="true">HIMBOSOSDigitigradeKhajiitElvenBootsMale.osd\ElvenBootsLegsShinCrease</Data>
+        </Slider>
+        <Slider name="FemmeB" invert="false" small="0" big="0">
+            <Data name="ElvenBootsFemmeB" target="ElvenBoots" local="true">HIMBOSOSDigitigradeKhajiitElvenBootsMale.osd\ElvenBootsFemmeB</Data>
+        </Slider>
+        <Slider name="LegsThighUpperSide" invert="false" small="0" big="0">
+            <Data name="ElvenBootsLegsThighUpperSide" target="ElvenBoots" local="true">HIMBOSOSDigitigradeKhajiitElvenBootsMale.osd\ElvenBootsLegsThighUpperSide</Data>
+        </Slider>
+        <Slider name="LegsVastusMReduction" invert="false" small="0" big="0">
+            <Data name="ElvenBootsLegsVastusMReduction" target="ElvenBoots" local="true">HIMBOSOSDigitigradeKhajiitElvenBootsMale.osd\ElvenBootsLegsVastusMReduction</Data>
+        </Slider>
+        <Slider name="BodyMass" invert="false" small="0" big="0">
+            <Data name="ElvenBootsBodyMass" target="ElvenBoots" local="true">HIMBOSOSDigitigradeKhajiitElvenBootsMale.osd\ElvenBootsBodyMass</Data>
+        </Slider>
+        <Slider name="SSBBW butt growth" invert="false" small="0" big="0">
+            <Data name="ElvenBootsSSBBW butt growth" target="ElvenBoots" local="true">HIMBOSOSDigitigradeKhajiitElvenBootsMale.osd\ElvenBootsSSBBW butt growth</Data>
+        </Slider>
+        <Slider name="SamuelLike" invert="false" small="0" big="0">
+            <Data name="ElvenBootsSamuelLike" target="ElvenBoots" local="true">HIMBOSOSDigitigradeKhajiitElvenBootsMale.osd\ElvenBootsSamuelLike</Data>
+        </Slider>
+        <Slider name="LegsThighInnerSide" invert="false" small="0" big="0">
+            <Data name="ElvenBootsLegsThighInnerSide" target="ElvenBoots" local="true">HIMBOSOSDigitigradeKhajiitElvenBootsMale.osd\ElvenBootsLegsThighInnerSide</Data>
+        </Slider>
+        <Slider name="LegsKneeInner" invert="false" small="0" big="0">
+            <Data name="ElvenBootsLegsKneeInner" target="ElvenBoots" local="true">HIMBOSOSDigitigradeKhajiitElvenBootsMale.osd\ElvenBootsLegsKneeInner</Data>
+        </Slider>
+        <Slider name="LegsKneeOuter" invert="false" small="0" big="0">
+            <Data name="ElvenBootsLegsKneeOuter" target="ElvenBoots" local="true">HIMBOSOSDigitigradeKhajiitElvenBootsMale.osd\ElvenBootsLegsKneeOuter</Data>
+        </Slider>
+        <Slider name="LegsThighIn" invert="false" small="0" big="0">
+            <Data name="ElvenBootsLegsThighIn" target="ElvenBoots" local="true">HIMBOSOSDigitigradeKhajiitElvenBootsMale.osd\ElvenBootsLegsThighIn</Data>
+        </Slider>
+        <Slider name="LegsCalfSideIn" invert="false" small="0" big="0">
+            <Data name="ElvenBootsLegsCalfSideIn" target="ElvenBoots" local="true">HIMBOSOSDigitigradeKhajiitElvenBootsMale.osd\ElvenBootsLegsCalfSideIn</Data>
+        </Slider>
+        <Slider name="LegsCalfOut" invert="false" small="0" big="0">
+            <Data name="ElvenBootsLegsCalfOut" target="ElvenBoots" local="true">HIMBOSOSDigitigradeKhajiitElvenBootsMale.osd\ElvenBootsLegsCalfOut</Data>
+        </Slider>
+        <Slider name="Wraps" invert="false" small="0" big="0" zap="true">
+            <Data name="shoesWraps" target="shoes">HIMBOSOSDigitigradeKhajiitWrapsCutMale.osd\shoesWraps</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>
