@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="HIMBOSOSDigitigradeKhajiitFarm02ShoesMale">
+        <ReferenceInfo ProjectFile="SliderSets\HIMBOSOSDigitigradeKhajiitWrapsCutMale.osp" ProjectName="HIMBOSOSDigitigradeKhajiitWrapsCutMale" ShapeName="FootPaws_Base"/>
+        <DataFolder>HIMBOSOSDigitigradeKhajiitFarm02ShoesMale</DataFolder>
+        <SourceFile>HIMBOSOSDigitigradeKhajiitFarm02ShoesMale.nif</SourceFile>
+        <OutputPath>meshes\clothes\digitigrade\farmclothes02\m</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">shoes</OutputFile>
+        <Shape target="Shoes">Shoes</Shape>
+        <Slider name="Weight 0 to 1" invert="false" small="0" big="100" hidden="true">
+            <Data name="ShoesWeight 0 to 1" target="Shoes" local="true">HIMBOSOSDigitigradeKhajiitFarm02ShoesMale.osd\ShoesWeight 0 to 1</Data>
+        </Slider>
+        <Slider name="Muscle" invert="false" small="0" big="0">
+            <Data name="ShoesMuscle" target="Shoes" local="true">HIMBOSOSDigitigradeKhajiitFarm02ShoesMale.osd\ShoesMuscle</Data>
+        </Slider>
+        <Slider name="SOSlike" invert="false" small="0" big="0">
+            <Data name="ShoesSOSlike" target="Shoes" local="true">HIMBOSOSDigitigradeKhajiitFarm02ShoesMale.osd\ShoesSOSlike</Data>
+        </Slider>
+        <Slider name="LegsSize" invert="false" small="0" big="0">
+            <Data name="ShoesLegsSize" target="Shoes" local="true">HIMBOSOSDigitigradeKhajiitFarm02ShoesMale.osd\ShoesLegsSize</Data>
+        </Slider>
+        <Slider name="LegsThinner" invert="false" small="0" big="0">
+            <Data name="ShoesLegsThinner" target="Shoes" local="true">HIMBOSOSDigitigradeKhajiitFarm02ShoesMale.osd\ShoesLegsThinner</Data>
+        </Slider>
+        <Slider name="LegsChubby" invert="false" small="0" big="0">
+            <Data name="ShoesLegsChubby" target="Shoes" local="true">HIMBOSOSDigitigradeKhajiitFarm02ShoesMale.osd\ShoesLegsChubby</Data>
+        </Slider>
+        <Slider name="LegsCalfSize" invert="false" small="0" big="0">
+            <Data name="ShoesLegsCalfSize" target="Shoes" local="true">HIMBOSOSDigitigradeKhajiitFarm02ShoesMale.osd\ShoesLegsCalfSize</Data>
+        </Slider>
+        <Slider name="LegsCalfWidth" invert="false" small="0" big="0">
+            <Data name="ShoesLegsCalfWidth" target="Shoes" local="true">HIMBOSOSDigitigradeKhajiitFarm02ShoesMale.osd\ShoesLegsCalfWidth</Data>
+        </Slider>
+        <Slider name="LegsCalfLower" invert="false" small="0" big="0">
+            <Data name="ShoesLegsCalfLower" target="Shoes" local="true">HIMBOSOSDigitigradeKhajiitFarm02ShoesMale.osd\ShoesLegsCalfLower</Data>
+        </Slider>
+        <Slider name="FemmeB" invert="false" small="0" big="0">
+            <Data name="ShoesFemmeB" target="Shoes" local="true">HIMBOSOSDigitigradeKhajiitFarm02ShoesMale.osd\ShoesFemmeB</Data>
+        </Slider>
+        <Slider name="BodyMass" invert="false" small="0" big="0">
+            <Data name="ShoesBodyMass" target="Shoes" local="true">HIMBOSOSDigitigradeKhajiitFarm02ShoesMale.osd\ShoesBodyMass</Data>
+        </Slider>
+        <Slider name="SSBBW butt growth" invert="false" small="0" big="0">
+            <Data name="ShoesSSBBW butt growth" target="Shoes" local="true">HIMBOSOSDigitigradeKhajiitFarm02ShoesMale.osd\ShoesSSBBW butt growth</Data>
+        </Slider>
+        <Slider name="SamuelLike" invert="false" small="0" big="0">
+            <Data name="ShoesSamuelLike" target="Shoes" local="true">HIMBOSOSDigitigradeKhajiitFarm02ShoesMale.osd\ShoesSamuelLike</Data>
+        </Slider>
+        <Slider name="LegsCalfSideIn" invert="false" small="0" big="0">
+            <Data name="ShoesLegsCalfSideIn" target="Shoes" local="true">HIMBOSOSDigitigradeKhajiitFarm02ShoesMale.osd\ShoesLegsCalfSideIn</Data>
+        </Slider>
+        <Slider name="LegsCalfOut" invert="false" small="0" big="0">
+            <Data name="ShoesLegsCalfOut" target="Shoes" local="true">HIMBOSOSDigitigradeKhajiitFarm02ShoesMale.osd\ShoesLegsCalfOut</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

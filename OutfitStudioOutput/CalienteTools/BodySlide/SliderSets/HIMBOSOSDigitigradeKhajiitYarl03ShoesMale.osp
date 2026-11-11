@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="HIMBOSOSDigitigradeKhajiitYarl03ShoesMale">
+        <ReferenceInfo ProjectFile="SliderSets\HIMBOSOSDigitigradeKhajiitWrapsCutMale.osp" ProjectName="HIMBOSOSDigitigradeKhajiitWrapsCutMale" ShapeName="FootPaws_Base"/>
+        <DataFolder>HIMBOSOSDigitigradeKhajiitYarl03ShoesMale</DataFolder>
+        <SourceFile>HIMBOSOSDigitigradeKhajiitYarl03ShoesMale.nif</SourceFile>
+        <OutputPath>meshes\clothes\digitigrade\yarlclothes03</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">bootsm</OutputFile>
+        <Shape target="YarlClothes03_Shoes">YarlClothes03_Shoes</Shape>
+        <Slider name="Weight 0 to 1" invert="false" small="0" big="100" hidden="true">
+            <Data name="YarlClothes03_ShoesWeight 0 to 1" target="YarlClothes03_Shoes" local="true">HIMBOSOSDigitigradeKhajiitYarl03ShoesMale.osd\YarlClothes03_ShoesWeight 0 to 1</Data>
+        </Slider>
+        <Slider name="Chubby" invert="false" small="0" big="0">
+            <Data name="YarlClothes03_ShoesChubby" target="YarlClothes03_Shoes" local="true">HIMBOSOSDigitigradeKhajiitYarl03ShoesMale.osd\YarlClothes03_ShoesChubby</Data>
+        </Slider>
+        <Slider name="Lean" invert="false" small="0" big="0">
+            <Data name="YarlClothes03_ShoesLean" target="YarlClothes03_Shoes" local="true">HIMBOSOSDigitigradeKhajiitYarl03ShoesMale.osd\YarlClothes03_ShoesLean</Data>
+        </Slider>
+        <Slider name="Muscle" invert="false" small="0" big="0">
+            <Data name="YarlClothes03_ShoesMuscle" target="YarlClothes03_Shoes" local="true">HIMBOSOSDigitigradeKhajiitYarl03ShoesMale.osd\YarlClothes03_ShoesMuscle</Data>
+        </Slider>
+        <Slider name="SOSlike" invert="false" small="0" big="0">
+            <Data name="YarlClothes03_ShoesSOSlike" target="YarlClothes03_Shoes" local="true">HIMBOSOSDigitigradeKhajiitYarl03ShoesMale.osd\YarlClothes03_ShoesSOSlike</Data>
+        </Slider>
+        <Slider name="LegsSize" invert="false" small="0" big="0">
+            <Data name="YarlClothes03_ShoesLegsSize" target="YarlClothes03_Shoes" local="true">HIMBOSOSDigitigradeKhajiitYarl03ShoesMale.osd\YarlClothes03_ShoesLegsSize</Data>
+        </Slider>
+        <Slider name="LegsThinner" invert="false" small="0" big="0">
+            <Data name="YarlClothes03_ShoesLegsThinner" target="YarlClothes03_Shoes" local="true">HIMBOSOSDigitigradeKhajiitYarl03ShoesMale.osd\YarlClothes03_ShoesLegsThinner</Data>
+        </Slider>
+        <Slider name="LegsChubby" invert="false" small="0" big="0">
+            <Data name="YarlClothes03_ShoesLegsChubby" target="YarlClothes03_Shoes" local="true">HIMBOSOSDigitigradeKhajiitYarl03ShoesMale.osd\YarlClothes03_ShoesLegsChubby</Data>
+        </Slider>
+        <Slider name="LegsKneePit" invert="false" small="0" big="0">
+            <Data name="YarlClothes03_ShoesLegsKneePit" target="YarlClothes03_Shoes" local="true">HIMBOSOSDigitigradeKhajiitYarl03ShoesMale.osd\YarlClothes03_ShoesLegsKneePit</Data>
+        </Slider>
+        <Slider name="LegsCalfSize" invert="false" small="0" big="0">
+            <Data name="YarlClothes03_ShoesLegsCalfSize" target="YarlClothes03_Shoes" local="true">HIMBOSOSDigitigradeKhajiitYarl03ShoesMale.osd\YarlClothes03_ShoesLegsCalfSize</Data>
+        </Slider>
+        <Slider name="LegsCalfWidth" invert="false" small="0" big="0">
+            <Data name="YarlClothes03_ShoesLegsCalfWidth" target="YarlClothes03_Shoes" local="true">HIMBOSOSDigitigradeKhajiitYarl03ShoesMale.osd\YarlClothes03_ShoesLegsCalfWidth</Data>
+        </Slider>
+        <Slider name="LegsCalfUpper" invert="false" small="0" big="0">
+            <Data name="YarlClothes03_ShoesLegsCalfUpper" target="YarlClothes03_Shoes" local="true">HIMBOSOSDigitigradeKhajiitYarl03ShoesMale.osd\YarlClothes03_ShoesLegsCalfUpper</Data>
+        </Slider>
+        <Slider name="LegsCalfLower" invert="false" small="0" big="0">
+            <Data name="YarlClothes03_ShoesLegsCalfLower" target="YarlClothes03_Shoes" local="true">HIMBOSOSDigitigradeKhajiitYarl03ShoesMale.osd\YarlClothes03_ShoesLegsCalfLower</Data>
+        </Slider>
+        <Slider name="LegsCalfFlatten" invert="false" small="0" big="0">
+            <Data name="YarlClothes03_ShoesLegsCalfFlatten" target="YarlClothes03_Shoes" local="true">HIMBOSOSDigitigradeKhajiitYarl03ShoesMale.osd\YarlClothes03_ShoesLegsCalfFlatten</Data>
+        </Slider>
+        <Slider name="LegsShinCrease" invert="false" small="0" big="0">
+            <Data name="YarlClothes03_ShoesLegsShinCrease" target="YarlClothes03_Shoes" local="true">HIMBOSOSDigitigradeKhajiitYarl03ShoesMale.osd\YarlClothes03_ShoesLegsShinCrease</Data>
+        </Slider>
+        <Slider name="FemmeB" invert="false" small="0" big="0">
+            <Data name="YarlClothes03_ShoesFemmeB" target="YarlClothes03_Shoes" local="true">HIMBOSOSDigitigradeKhajiitYarl03ShoesMale.osd\YarlClothes03_ShoesFemmeB</Data>
+        </Slider>
+        <Slider name="BodyMass" invert="false" small="0" big="0">
+            <Data name="YarlClothes03_ShoesBodyMass" target="YarlClothes03_Shoes" local="true">HIMBOSOSDigitigradeKhajiitYarl03ShoesMale.osd\YarlClothes03_ShoesBodyMass</Data>
+        </Slider>
+        <Slider name="SSBBW butt growth" invert="false" small="0" big="0">
+            <Data name="YarlClothes03_ShoesSSBBW butt growth" target="YarlClothes03_Shoes" local="true">HIMBOSOSDigitigradeKhajiitYarl03ShoesMale.osd\YarlClothes03_ShoesSSBBW butt growth</Data>
+        </Slider>
+        <Slider name="SamuelLike" invert="false" small="0" big="0">
+            <Data name="YarlClothes03_ShoesSamuelLike" target="YarlClothes03_Shoes" local="true">HIMBOSOSDigitigradeKhajiitYarl03ShoesMale.osd\YarlClothes03_ShoesSamuelLike</Data>
+        </Slider>
+        <Slider name="LegsThighInnerSide" invert="false" small="0" big="0">
+            <Data name="YarlClothes03_ShoesLegsThighInnerSide" target="YarlClothes03_Shoes" local="true">HIMBOSOSDigitigradeKhajiitYarl03ShoesMale.osd\YarlClothes03_ShoesLegsThighInnerSide</Data>
+        </Slider>
+        <Slider name="LegsKneeInner" invert="false" small="0" big="0">
+            <Data name="YarlClothes03_ShoesLegsKneeInner" target="YarlClothes03_Shoes" local="true">HIMBOSOSDigitigradeKhajiitYarl03ShoesMale.osd\YarlClothes03_ShoesLegsKneeInner</Data>
+        </Slider>
+        <Slider name="LegsKneeOuter" invert="false" small="0" big="0">
+            <Data name="YarlClothes03_ShoesLegsKneeOuter" target="YarlClothes03_Shoes" local="true">HIMBOSOSDigitigradeKhajiitYarl03ShoesMale.osd\YarlClothes03_ShoesLegsKneeOuter</Data>
+        </Slider>
+        <Slider name="LegsCalfSideIn" invert="false" small="0" big="0">
+            <Data name="YarlClothes03_ShoesLegsCalfSideIn" target="YarlClothes03_Shoes" local="true">HIMBOSOSDigitigradeKhajiitYarl03ShoesMale.osd\YarlClothes03_ShoesLegsCalfSideIn</Data>
+        </Slider>
+        <Slider name="LegsCalfOut" invert="false" small="0" big="0">
+            <Data name="YarlClothes03_ShoesLegsCalfOut" target="YarlClothes03_Shoes" local="true">HIMBOSOSDigitigradeKhajiitYarl03ShoesMale.osd\YarlClothes03_ShoesLegsCalfOut</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

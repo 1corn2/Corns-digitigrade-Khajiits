@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="HIMBOSOSDigitigradeKhajiitNecromancerShoesMale">
+        <ReferenceInfo ProjectFile="SliderSets\HIMBOSOSDigitigradeKhajiitWrapsCutMale.osp" ProjectName="HIMBOSOSDigitigradeKhajiitWrapsCutMale" ShapeName="FootPaws_Base"/>
+        <DataFolder>HIMBOSOSDigitigradeKhajiitNecromancerShoesMale</DataFolder>
+        <SourceFile>HIMBOSOSDigitigradeKhajiitNecromancerShoesMale.nif</SourceFile>
+        <OutputPath>meshes\clothes\digitigrade\necromancer</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">necromancerboots</OutputFile>
+        <Shape target="boots">boots</Shape>
+        <Slider name="Weight 0 to 1" invert="false" small="0" big="100" hidden="true">
+            <Data name="bootsWeight 0 to 1" target="boots" local="true">HIMBOSOSDigitigradeKhajiitNecromancerShoesMale.osd\bootsWeight 0 to 1</Data>
+        </Slider>
+        <Slider name="Chubby" invert="false" small="0" big="0">
+            <Data name="bootsChubby" target="boots" local="true">HIMBOSOSDigitigradeKhajiitNecromancerShoesMale.osd\bootsChubby</Data>
+        </Slider>
+        <Slider name="Lean" invert="false" small="0" big="0">
+            <Data name="bootsLean" target="boots" local="true">HIMBOSOSDigitigradeKhajiitNecromancerShoesMale.osd\bootsLean</Data>
+        </Slider>
+        <Slider name="Muscle" invert="false" small="0" big="0">
+            <Data name="bootsMuscle" target="boots" local="true">HIMBOSOSDigitigradeKhajiitNecromancerShoesMale.osd\bootsMuscle</Data>
+        </Slider>
+        <Slider name="SOSlike" invert="false" small="0" big="0">
+            <Data name="bootsSOSlike" target="boots" local="true">HIMBOSOSDigitigradeKhajiitNecromancerShoesMale.osd\bootsSOSlike</Data>
+        </Slider>
+        <Slider name="LegsSize" invert="false" small="0" big="0">
+            <Data name="bootsLegsSize" target="boots" local="true">HIMBOSOSDigitigradeKhajiitNecromancerShoesMale.osd\bootsLegsSize</Data>
+        </Slider>
+        <Slider name="LegsThinner" invert="false" small="0" big="0">
+            <Data name="bootsLegsThinner" target="boots" local="true">HIMBOSOSDigitigradeKhajiitNecromancerShoesMale.osd\bootsLegsThinner</Data>
+        </Slider>
+        <Slider name="LegsChubby" invert="false" small="0" big="0">
+            <Data name="bootsLegsChubby" target="boots" local="true">HIMBOSOSDigitigradeKhajiitNecromancerShoesMale.osd\bootsLegsChubby</Data>
+        </Slider>
+        <Slider name="LegsFemurBack" invert="false" small="0" big="0">
+            <Data name="bootsLegsFemurBack" target="boots" local="true">HIMBOSOSDigitigradeKhajiitNecromancerShoesMale.osd\bootsLegsFemurBack</Data>
+        </Slider>
+        <Slider name="LegsKneePit" invert="false" small="0" big="0">
+            <Data name="bootsLegsKneePit" target="boots" local="true">HIMBOSOSDigitigradeKhajiitNecromancerShoesMale.osd\bootsLegsKneePit</Data>
+        </Slider>
+        <Slider name="LegsCalfSize" invert="false" small="0" big="0">
+            <Data name="bootsLegsCalfSize" target="boots" local="true">HIMBOSOSDigitigradeKhajiitNecromancerShoesMale.osd\bootsLegsCalfSize</Data>
+        </Slider>
+        <Slider name="LegsCalfWidth" invert="false" small="0" big="0">
+            <Data name="bootsLegsCalfWidth" target="boots" local="true">HIMBOSOSDigitigradeKhajiitNecromancerShoesMale.osd\bootsLegsCalfWidth</Data>
+        </Slider>
+        <Slider name="LegsCalfUpper" invert="false" small="0" big="0">
+            <Data name="bootsLegsCalfUpper" target="boots" local="true">HIMBOSOSDigitigradeKhajiitNecromancerShoesMale.osd\bootsLegsCalfUpper</Data>
+        </Slider>
+        <Slider name="LegsCalfLower" invert="false" small="0" big="0">
+            <Data name="bootsLegsCalfLower" target="boots" local="true">HIMBOSOSDigitigradeKhajiitNecromancerShoesMale.osd\bootsLegsCalfLower</Data>
+        </Slider>
+        <Slider name="LegsCalfFlatten" invert="false" small="0" big="0">
+            <Data name="bootsLegsCalfFlatten" target="boots" local="true">HIMBOSOSDigitigradeKhajiitNecromancerShoesMale.osd\bootsLegsCalfFlatten</Data>
+        </Slider>
+        <Slider name="LegsShinCrease" invert="false" small="0" big="0">
+            <Data name="bootsLegsShinCrease" target="boots" local="true">HIMBOSOSDigitigradeKhajiitNecromancerShoesMale.osd\bootsLegsShinCrease</Data>
+        </Slider>
+        <Slider name="FemmeB" invert="false" small="0" big="0">
+            <Data name="bootsFemmeB" target="boots" local="true">HIMBOSOSDigitigradeKhajiitNecromancerShoesMale.osd\bootsFemmeB</Data>
+        </Slider>
+        <Slider name="BodyMass" invert="false" small="0" big="0">
+            <Data name="bootsBodyMass" target="boots" local="true">HIMBOSOSDigitigradeKhajiitNecromancerShoesMale.osd\bootsBodyMass</Data>
+        </Slider>
+        <Slider name="SSBBW butt growth" invert="false" small="0" big="0">
+            <Data name="bootsSSBBW butt growth" target="boots" local="true">HIMBOSOSDigitigradeKhajiitNecromancerShoesMale.osd\bootsSSBBW butt growth</Data>
+        </Slider>
+        <Slider name="SamuelLike" invert="false" small="0" big="0">
+            <Data name="bootsSamuelLike" target="boots" local="true">HIMBOSOSDigitigradeKhajiitNecromancerShoesMale.osd\bootsSamuelLike</Data>
+        </Slider>
+        <Slider name="LegsThighInnerSide" invert="false" small="0" big="0">
+            <Data name="bootsLegsThighInnerSide" target="boots" local="true">HIMBOSOSDigitigradeKhajiitNecromancerShoesMale.osd\bootsLegsThighInnerSide</Data>
+        </Slider>
+        <Slider name="LegsKneeInner" invert="false" small="0" big="0">
+            <Data name="bootsLegsKneeInner" target="boots" local="true">HIMBOSOSDigitigradeKhajiitNecromancerShoesMale.osd\bootsLegsKneeInner</Data>
+        </Slider>
+        <Slider name="LegsKneeOuter" invert="false" small="0" big="0">
+            <Data name="bootsLegsKneeOuter" target="boots" local="true">HIMBOSOSDigitigradeKhajiitNecromancerShoesMale.osd\bootsLegsKneeOuter</Data>
+        </Slider>
+        <Slider name="LegsCalfSideIn" invert="false" small="0" big="0">
+            <Data name="bootsLegsCalfSideIn" target="boots" local="true">HIMBOSOSDigitigradeKhajiitNecromancerShoesMale.osd\bootsLegsCalfSideIn</Data>
+        </Slider>
+        <Slider name="LegsCalfOut" invert="false" small="0" big="0">
+            <Data name="bootsLegsCalfOut" target="boots" local="true">HIMBOSOSDigitigradeKhajiitNecromancerShoesMale.osd\bootsLegsCalfOut</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

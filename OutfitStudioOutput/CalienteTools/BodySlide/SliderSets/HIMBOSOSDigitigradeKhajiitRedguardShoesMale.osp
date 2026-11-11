@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="HIMBOSOSDigitigradeKhajiitRedguardShoesMale">
+        <ReferenceInfo ProjectFile="SliderSets\HIMBOSOSDigitigradeKhajiitWrapsCutMale.osp" ProjectName="HIMBOSOSDigitigradeKhajiitWrapsCutMale" ShapeName="FootPaws_Base"/>
+        <DataFolder>HIMBOSOSDigitigradeKhajiitRedguardShoesMale</DataFolder>
+        <SourceFile>HIMBOSOSDigitigradeKhajiitRedguardShoesMale.nif</SourceFile>
+        <OutputPath>meshes\clothes\digitigrade\redguard</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">redguardboots</OutputFile>
+        <Shape target="Redguard Fat Boots">Redguard Fat Boots</Shape>
+        <Slider name="Weight 0 to 1" invert="false" small="0" big="100" hidden="true">
+            <Data name="Redguard Fat BootsWeight 0 to 1" target="Redguard Fat Boots" local="true">HIMBOSOSDigitigradeKhajiitRedguardShoesMale.osd\Redguard Fat BootsWeight 0 to 1</Data>
+        </Slider>
+        <Slider name="Chubby" invert="false" small="0" big="0">
+            <Data name="Redguard Fat BootsChubby" target="Redguard Fat Boots" local="true">HIMBOSOSDigitigradeKhajiitRedguardShoesMale.osd\Redguard Fat BootsChubby</Data>
+        </Slider>
+        <Slider name="Lean" invert="false" small="0" big="0">
+            <Data name="Redguard Fat BootsLean" target="Redguard Fat Boots" local="true">HIMBOSOSDigitigradeKhajiitRedguardShoesMale.osd\Redguard Fat BootsLean</Data>
+        </Slider>
+        <Slider name="Muscle" invert="false" small="0" big="0">
+            <Data name="Redguard Fat BootsMuscle" target="Redguard Fat Boots" local="true">HIMBOSOSDigitigradeKhajiitRedguardShoesMale.osd\Redguard Fat BootsMuscle</Data>
+        </Slider>
+        <Slider name="SOSlike" invert="false" small="0" big="0">
+            <Data name="Redguard Fat BootsSOSlike" target="Redguard Fat Boots" local="true">HIMBOSOSDigitigradeKhajiitRedguardShoesMale.osd\Redguard Fat BootsSOSlike</Data>
+        </Slider>
+        <Slider name="LegsSize" invert="false" small="0" big="0">
+            <Data name="Redguard Fat BootsLegsSize" target="Redguard Fat Boots" local="true">HIMBOSOSDigitigradeKhajiitRedguardShoesMale.osd\Redguard Fat BootsLegsSize</Data>
+        </Slider>
+        <Slider name="LegsThinner" invert="false" small="0" big="0">
+            <Data name="Redguard Fat BootsLegsThinner" target="Redguard Fat Boots" local="true">HIMBOSOSDigitigradeKhajiitRedguardShoesMale.osd\Redguard Fat BootsLegsThinner</Data>
+        </Slider>
+        <Slider name="LegsChubby" invert="false" small="0" big="0">
+            <Data name="Redguard Fat BootsLegsChubby" target="Redguard Fat Boots" local="true">HIMBOSOSDigitigradeKhajiitRedguardShoesMale.osd\Redguard Fat BootsLegsChubby</Data>
+        </Slider>
+        <Slider name="LegsCalfSize" invert="false" small="0" big="0">
+            <Data name="Redguard Fat BootsLegsCalfSize" target="Redguard Fat Boots" local="true">HIMBOSOSDigitigradeKhajiitRedguardShoesMale.osd\Redguard Fat BootsLegsCalfSize</Data>
+        </Slider>
+        <Slider name="LegsCalfWidth" invert="false" small="0" big="0">
+            <Data name="Redguard Fat BootsLegsCalfWidth" target="Redguard Fat Boots" local="true">HIMBOSOSDigitigradeKhajiitRedguardShoesMale.osd\Redguard Fat BootsLegsCalfWidth</Data>
+        </Slider>
+        <Slider name="LegsCalfUpper" invert="false" small="0" big="0">
+            <Data name="Redguard Fat BootsLegsCalfUpper" target="Redguard Fat Boots" local="true">HIMBOSOSDigitigradeKhajiitRedguardShoesMale.osd\Redguard Fat BootsLegsCalfUpper</Data>
+        </Slider>
+        <Slider name="LegsCalfLower" invert="false" small="0" big="0">
+            <Data name="Redguard Fat BootsLegsCalfLower" target="Redguard Fat Boots" local="true">HIMBOSOSDigitigradeKhajiitRedguardShoesMale.osd\Redguard Fat BootsLegsCalfLower</Data>
+        </Slider>
+        <Slider name="LegsCalfFlatten" invert="false" small="0" big="0">
+            <Data name="Redguard Fat BootsLegsCalfFlatten" target="Redguard Fat Boots" local="true">HIMBOSOSDigitigradeKhajiitRedguardShoesMale.osd\Redguard Fat BootsLegsCalfFlatten</Data>
+        </Slider>
+        <Slider name="LegsShinCrease" invert="false" small="0" big="0">
+            <Data name="Redguard Fat BootsLegsShinCrease" target="Redguard Fat Boots" local="true">HIMBOSOSDigitigradeKhajiitRedguardShoesMale.osd\Redguard Fat BootsLegsShinCrease</Data>
+        </Slider>
+        <Slider name="FemmeB" invert="false" small="0" big="0">
+            <Data name="Redguard Fat BootsFemmeB" target="Redguard Fat Boots" local="true">HIMBOSOSDigitigradeKhajiitRedguardShoesMale.osd\Redguard Fat BootsFemmeB</Data>
+        </Slider>
+        <Slider name="BodyMass" invert="false" small="0" big="0">
+            <Data name="Redguard Fat BootsBodyMass" target="Redguard Fat Boots" local="true">HIMBOSOSDigitigradeKhajiitRedguardShoesMale.osd\Redguard Fat BootsBodyMass</Data>
+        </Slider>
+        <Slider name="SSBBW butt growth" invert="false" small="0" big="0">
+            <Data name="Redguard Fat BootsSSBBW butt growth" target="Redguard Fat Boots" local="true">HIMBOSOSDigitigradeKhajiitRedguardShoesMale.osd\Redguard Fat BootsSSBBW butt growth</Data>
+        </Slider>
+        <Slider name="SamuelLike" invert="false" small="0" big="0">
+            <Data name="Redguard Fat BootsSamuelLike" target="Redguard Fat Boots" local="true">HIMBOSOSDigitigradeKhajiitRedguardShoesMale.osd\Redguard Fat BootsSamuelLike</Data>
+        </Slider>
+        <Slider name="LegsCalfSideIn" invert="false" small="0" big="0">
+            <Data name="Redguard Fat BootsLegsCalfSideIn" target="Redguard Fat Boots" local="true">HIMBOSOSDigitigradeKhajiitRedguardShoesMale.osd\Redguard Fat BootsLegsCalfSideIn</Data>
+        </Slider>
+        <Slider name="LegsCalfOut" invert="false" small="0" big="0">
+            <Data name="Redguard Fat BootsLegsCalfOut" target="Redguard Fat Boots" local="true">HIMBOSOSDigitigradeKhajiitRedguardShoesMale.osd\Redguard Fat BootsLegsCalfOut</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

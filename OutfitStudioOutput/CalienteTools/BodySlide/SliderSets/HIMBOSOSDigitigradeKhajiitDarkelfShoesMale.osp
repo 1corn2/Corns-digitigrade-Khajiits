@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="HIMBOSOSDigitigradeKhajiitDarkelfShoesMale">
+        <ReferenceInfo ProjectFile="SliderSets\HIMBOSOSDigitigradeKhajiitWrapsCutMale.osp" ProjectName="HIMBOSOSDigitigradeKhajiitWrapsCutMale" ShapeName="FootPaws_Base"/>
+        <DataFolder>HIMBOSOSDigitigradeKhajiitDarkelfShoesMale</DataFolder>
+        <SourceFile>HIMBOSOSDigitigradeKhajiitDarkelfShoesMale.nif</SourceFile>
+        <OutputPath>meshes\dlc02\clothes\digitigrade\darkelf\m</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">shoes</OutputFile>
+        <Shape target="Dark_Elf_Outfit_male_boots_1">Dark_Elf_Outfit_male_boots_1</Shape>
+        <Shape target="FootPaws_Base" DataFolder="VanillaDigitigradeKhajiitFeetMale;HIMBOSOSDigitigradeKhajiitFeetMale">FootPaws_Base</Shape>
+        <Slider name="Weight 0 to 1" invert="false" small="0" big="100" hidden="true">
+            <Data name="FootPaws_BaseWeight 0 to 1" target="FootPaws_Base">HIMBOSOSDigitigradeKhajiitFeetMale.osd\FootPaws_BaseWeight 0 to 1</Data>
+            <Data name="Dark_Elf_Outfit_male_boots_1Weight 0 to 1" target="Dark_Elf_Outfit_male_boots_1" local="true">HIMBOSOSDigitigradeKhajiitDarkelfShoesMale.osd\Dark_Elf_Outfit_male_boots_1Weight 0 to 1</Data>
+        </Slider>
+        <Slider name="Muscle" invert="false" small="0" big="0">
+            <Data name="Dark_Elf_Outfit_male_boots_1Muscle" target="Dark_Elf_Outfit_male_boots_1" local="true">HIMBOSOSDigitigradeKhajiitDarkelfShoesMale.osd\Dark_Elf_Outfit_male_boots_1Muscle</Data>
+        </Slider>
+        <Slider name="SOSlike" invert="false" small="0" big="0">
+            <Data name="Dark_Elf_Outfit_male_boots_1SOSlike" target="Dark_Elf_Outfit_male_boots_1" local="true">HIMBOSOSDigitigradeKhajiitDarkelfShoesMale.osd\Dark_Elf_Outfit_male_boots_1SOSlike</Data>
+        </Slider>
+        <Slider name="LegsSize" invert="false" small="0" big="0">
+            <Data name="Dark_Elf_Outfit_male_boots_1LegsSize" target="Dark_Elf_Outfit_male_boots_1" local="true">HIMBOSOSDigitigradeKhajiitDarkelfShoesMale.osd\Dark_Elf_Outfit_male_boots_1LegsSize</Data>
+        </Slider>
+        <Slider name="LegsThinner" invert="false" small="0" big="0">
+            <Data name="Dark_Elf_Outfit_male_boots_1LegsThinner" target="Dark_Elf_Outfit_male_boots_1" local="true">HIMBOSOSDigitigradeKhajiitDarkelfShoesMale.osd\Dark_Elf_Outfit_male_boots_1LegsThinner</Data>
+        </Slider>
+        <Slider name="LegsChubby" invert="false" small="0" big="0">
+            <Data name="Dark_Elf_Outfit_male_boots_1LegsChubby" target="Dark_Elf_Outfit_male_boots_1" local="true">HIMBOSOSDigitigradeKhajiitDarkelfShoesMale.osd\Dark_Elf_Outfit_male_boots_1LegsChubby</Data>
+        </Slider>
+        <Slider name="LegsCalfSize" invert="false" small="0" big="0">
+            <Data name="Dark_Elf_Outfit_male_boots_1LegsCalfSize" target="Dark_Elf_Outfit_male_boots_1" local="true">HIMBOSOSDigitigradeKhajiitDarkelfShoesMale.osd\Dark_Elf_Outfit_male_boots_1LegsCalfSize</Data>
+        </Slider>
+        <Slider name="LegsCalfWidth" invert="false" small="0" big="0">
+            <Data name="Dark_Elf_Outfit_male_boots_1LegsCalfWidth" target="Dark_Elf_Outfit_male_boots_1" local="true">HIMBOSOSDigitigradeKhajiitDarkelfShoesMale.osd\Dark_Elf_Outfit_male_boots_1LegsCalfWidth</Data>
+        </Slider>
+        <Slider name="LegsCalfLower" invert="false" small="0" big="0">
+            <Data name="Dark_Elf_Outfit_male_boots_1LegsCalfLower" target="Dark_Elf_Outfit_male_boots_1" local="true">HIMBOSOSDigitigradeKhajiitDarkelfShoesMale.osd\Dark_Elf_Outfit_male_boots_1LegsCalfLower</Data>
+        </Slider>
+        <Slider name="FemmeB" invert="false" small="0" big="0">
+            <Data name="Dark_Elf_Outfit_male_boots_1FemmeB" target="Dark_Elf_Outfit_male_boots_1" local="true">HIMBOSOSDigitigradeKhajiitDarkelfShoesMale.osd\Dark_Elf_Outfit_male_boots_1FemmeB</Data>
+        </Slider>
+        <Slider name="BodyMass" invert="false" small="0" big="0">
+            <Data name="Dark_Elf_Outfit_male_boots_1BodyMass" target="Dark_Elf_Outfit_male_boots_1" local="true">HIMBOSOSDigitigradeKhajiitDarkelfShoesMale.osd\Dark_Elf_Outfit_male_boots_1BodyMass</Data>
+        </Slider>
+        <Slider name="SSBBW butt growth" invert="false" small="0" big="0">
+            <Data name="Dark_Elf_Outfit_male_boots_1SSBBW butt growth" target="Dark_Elf_Outfit_male_boots_1" local="true">HIMBOSOSDigitigradeKhajiitDarkelfShoesMale.osd\Dark_Elf_Outfit_male_boots_1SSBBW butt growth</Data>
+        </Slider>
+        <Slider name="SamuelLike" invert="false" small="0" big="0">
+            <Data name="Dark_Elf_Outfit_male_boots_1SamuelLike" target="Dark_Elf_Outfit_male_boots_1" local="true">HIMBOSOSDigitigradeKhajiitDarkelfShoesMale.osd\Dark_Elf_Outfit_male_boots_1SamuelLike</Data>
+        </Slider>
+        <Slider name="LegsCalfSideIn" invert="false" small="0" big="0">
+            <Data name="Dark_Elf_Outfit_male_boots_1LegsCalfSideIn" target="Dark_Elf_Outfit_male_boots_1" local="true">HIMBOSOSDigitigradeKhajiitDarkelfShoesMale.osd\Dark_Elf_Outfit_male_boots_1LegsCalfSideIn</Data>
+        </Slider>
+        <Slider name="LegsCalfOut" invert="false" small="0" big="0">
+            <Data name="Dark_Elf_Outfit_male_boots_1LegsCalfOut" target="Dark_Elf_Outfit_male_boots_1" local="true">HIMBOSOSDigitigradeKhajiitDarkelfShoesMale.osd\Dark_Elf_Outfit_male_boots_1LegsCalfOut</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

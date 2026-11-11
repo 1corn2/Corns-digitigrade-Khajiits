@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="HIMBOSOSDigitigradeKhajiitTelvanniShoesMale">
+        <ReferenceInfo ProjectFile="SliderSets\HIMBOSOSDigitigradeKhajiitWrapsCutMale.osp" ProjectName="HIMBOSOSDigitigradeKhajiitWrapsCutMale" ShapeName="FootPaws_Base"/>
+        <DataFolder>HIMBOSOSDigitigradeKhajiitTelvanniShoesMale</DataFolder>
+        <SourceFile>HIMBOSOSDigitigradeKhajiitTelvanniShoesMale.nif</SourceFile>
+        <OutputPath>meshes\dlc02\clothes\digitigrade\telvanni</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">bootsm</OutputFile>
+        <Shape target="TelvanniBoots">TelvanniBoots</Shape>
+        <Slider name="Weight 0 to 1" invert="false" small="0" big="100" hidden="true">
+            <Data name="TelvanniBootsWeight 0 to 1" target="TelvanniBoots" local="true">HIMBOSOSDigitigradeKhajiitTelvanniShoesMale.osd\TelvanniBootsWeight 0 to 1</Data>
+        </Slider>
+        <Slider name="Muscle" invert="false" small="0" big="0">
+            <Data name="TelvanniBootsMuscle" target="TelvanniBoots" local="true">HIMBOSOSDigitigradeKhajiitTelvanniShoesMale.osd\TelvanniBootsMuscle</Data>
+        </Slider>
+        <Slider name="SOSlike" invert="false" small="0" big="0">
+            <Data name="TelvanniBootsSOSlike" target="TelvanniBoots" local="true">HIMBOSOSDigitigradeKhajiitTelvanniShoesMale.osd\TelvanniBootsSOSlike</Data>
+        </Slider>
+        <Slider name="LegsSize" invert="false" small="0" big="0">
+            <Data name="TelvanniBootsLegsSize" target="TelvanniBoots" local="true">HIMBOSOSDigitigradeKhajiitTelvanniShoesMale.osd\TelvanniBootsLegsSize</Data>
+        </Slider>
+        <Slider name="LegsThinner" invert="false" small="0" big="0">
+            <Data name="TelvanniBootsLegsThinner" target="TelvanniBoots" local="true">HIMBOSOSDigitigradeKhajiitTelvanniShoesMale.osd\TelvanniBootsLegsThinner</Data>
+        </Slider>
+        <Slider name="LegsChubby" invert="false" small="0" big="0">
+            <Data name="TelvanniBootsLegsChubby" target="TelvanniBoots" local="true">HIMBOSOSDigitigradeKhajiitTelvanniShoesMale.osd\TelvanniBootsLegsChubby</Data>
+        </Slider>
+        <Slider name="LegsCalfSize" invert="false" small="0" big="0">
+            <Data name="TelvanniBootsLegsCalfSize" target="TelvanniBoots" local="true">HIMBOSOSDigitigradeKhajiitTelvanniShoesMale.osd\TelvanniBootsLegsCalfSize</Data>
+        </Slider>
+        <Slider name="LegsCalfWidth" invert="false" small="0" big="0">
+            <Data name="TelvanniBootsLegsCalfWidth" target="TelvanniBoots" local="true">HIMBOSOSDigitigradeKhajiitTelvanniShoesMale.osd\TelvanniBootsLegsCalfWidth</Data>
+        </Slider>
+        <Slider name="LegsCalfLower" invert="false" small="0" big="0">
+            <Data name="TelvanniBootsLegsCalfLower" target="TelvanniBoots" local="true">HIMBOSOSDigitigradeKhajiitTelvanniShoesMale.osd\TelvanniBootsLegsCalfLower</Data>
+        </Slider>
+        <Slider name="FemmeB" invert="false" small="0" big="0">
+            <Data name="TelvanniBootsFemmeB" target="TelvanniBoots" local="true">HIMBOSOSDigitigradeKhajiitTelvanniShoesMale.osd\TelvanniBootsFemmeB</Data>
+        </Slider>
+        <Slider name="BodyMass" invert="false" small="0" big="0">
+            <Data name="TelvanniBootsBodyMass" target="TelvanniBoots" local="true">HIMBOSOSDigitigradeKhajiitTelvanniShoesMale.osd\TelvanniBootsBodyMass</Data>
+        </Slider>
+        <Slider name="SSBBW butt growth" invert="false" small="0" big="0">
+            <Data name="TelvanniBootsSSBBW butt growth" target="TelvanniBoots" local="true">HIMBOSOSDigitigradeKhajiitTelvanniShoesMale.osd\TelvanniBootsSSBBW butt growth</Data>
+        </Slider>
+        <Slider name="SamuelLike" invert="false" small="0" big="0">
+            <Data name="TelvanniBootsSamuelLike" target="TelvanniBoots" local="true">HIMBOSOSDigitigradeKhajiitTelvanniShoesMale.osd\TelvanniBootsSamuelLike</Data>
+        </Slider>
+        <Slider name="LegsCalfSideIn" invert="false" small="0" big="0">
+            <Data name="TelvanniBootsLegsCalfSideIn" target="TelvanniBoots" local="true">HIMBOSOSDigitigradeKhajiitTelvanniShoesMale.osd\TelvanniBootsLegsCalfSideIn</Data>
+        </Slider>
+        <Slider name="LegsCalfOut" invert="false" small="0" big="0">
+            <Data name="TelvanniBootsLegsCalfOut" target="TelvanniBoots" local="true">HIMBOSOSDigitigradeKhajiitTelvanniShoesMale.osd\TelvanniBootsLegsCalfOut</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

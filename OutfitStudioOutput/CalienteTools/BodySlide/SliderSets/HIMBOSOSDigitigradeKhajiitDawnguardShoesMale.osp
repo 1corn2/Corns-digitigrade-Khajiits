@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="HIMBOSOSDigitigradeKhajiitDawnguardShoesMale">
+        <ReferenceInfo ProjectFile="SliderSets\HIMBOSOSDigitigradeKhajiitWrapsCutMale.osp" ProjectName="HIMBOSOSDigitigradeKhajiitWrapsCutMale" ShapeName="FootPaws_Base"/>
+        <DataFolder>HIMBOSOSDigitigradeKhajiitDawnguardShoesMale</DataFolder>
+        <SourceFile>HIMBOSOSDigitigradeKhajiitDawnguardShoesMale.nif</SourceFile>
+        <OutputPath>meshes\dlc01\armor\digitigrade\dawnguard\</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">dgbootsm</OutputFile>
+        <Shape target="BootsLo">BootsLo</Shape>
+        <Slider name="Weight 0 to 1" invert="false" small="0" big="100" hidden="true">
+            <Data name="BootsLoWeight 0 to 1" target="BootsLo" local="true">HIMBOSOSDigitigradeKhajiitDawnguardShoesMale.osd\BootsLoWeight 0 to 1</Data>
+        </Slider>
+        <Slider name="Chubby" invert="false" small="0" big="0">
+            <Data name="BootsLoChubby" target="BootsLo" local="true">HIMBOSOSDigitigradeKhajiitDawnguardShoesMale.osd\BootsLoChubby</Data>
+        </Slider>
+        <Slider name="Lean" invert="false" small="0" big="0">
+            <Data name="BootsLoLean" target="BootsLo" local="true">HIMBOSOSDigitigradeKhajiitDawnguardShoesMale.osd\BootsLoLean</Data>
+        </Slider>
+        <Slider name="Muscle" invert="false" small="0" big="0">
+            <Data name="BootsLoMuscle" target="BootsLo" local="true">HIMBOSOSDigitigradeKhajiitDawnguardShoesMale.osd\BootsLoMuscle</Data>
+        </Slider>
+        <Slider name="SOSlike" invert="false" small="0" big="0">
+            <Data name="BootsLoSOSlike" target="BootsLo" local="true">HIMBOSOSDigitigradeKhajiitDawnguardShoesMale.osd\BootsLoSOSlike</Data>
+        </Slider>
+        <Slider name="LegsSize" invert="false" small="0" big="0">
+            <Data name="BootsLoLegsSize" target="BootsLo" local="true">HIMBOSOSDigitigradeKhajiitDawnguardShoesMale.osd\BootsLoLegsSize</Data>
+        </Slider>
+        <Slider name="LegsThinner" invert="false" small="0" big="0">
+            <Data name="BootsLoLegsThinner" target="BootsLo" local="true">HIMBOSOSDigitigradeKhajiitDawnguardShoesMale.osd\BootsLoLegsThinner</Data>
+        </Slider>
+        <Slider name="LegsChubby" invert="false" small="0" big="0">
+            <Data name="BootsLoLegsChubby" target="BootsLo" local="true">HIMBOSOSDigitigradeKhajiitDawnguardShoesMale.osd\BootsLoLegsChubby</Data>
+        </Slider>
+        <Slider name="LegsKneePit" invert="false" small="0" big="0">
+            <Data name="BootsLoLegsKneePit" target="BootsLo" local="true">HIMBOSOSDigitigradeKhajiitDawnguardShoesMale.osd\BootsLoLegsKneePit</Data>
+        </Slider>
+        <Slider name="LegsCalfSize" invert="false" small="0" big="0">
+            <Data name="BootsLoLegsCalfSize" target="BootsLo" local="true">HIMBOSOSDigitigradeKhajiitDawnguardShoesMale.osd\BootsLoLegsCalfSize</Data>
+        </Slider>
+        <Slider name="LegsCalfWidth" invert="false" small="0" big="0">
+            <Data name="BootsLoLegsCalfWidth" target="BootsLo" local="true">HIMBOSOSDigitigradeKhajiitDawnguardShoesMale.osd\BootsLoLegsCalfWidth</Data>
+        </Slider>
+        <Slider name="LegsCalfUpper" invert="false" small="0" big="0">
+            <Data name="BootsLoLegsCalfUpper" target="BootsLo" local="true">HIMBOSOSDigitigradeKhajiitDawnguardShoesMale.osd\BootsLoLegsCalfUpper</Data>
+        </Slider>
+        <Slider name="LegsCalfLower" invert="false" small="0" big="0">
+            <Data name="BootsLoLegsCalfLower" target="BootsLo" local="true">HIMBOSOSDigitigradeKhajiitDawnguardShoesMale.osd\BootsLoLegsCalfLower</Data>
+        </Slider>
+        <Slider name="LegsCalfFlatten" invert="false" small="0" big="0">
+            <Data name="BootsLoLegsCalfFlatten" target="BootsLo" local="true">HIMBOSOSDigitigradeKhajiitDawnguardShoesMale.osd\BootsLoLegsCalfFlatten</Data>
+        </Slider>
+        <Slider name="LegsShinCrease" invert="false" small="0" big="0">
+            <Data name="BootsLoLegsShinCrease" target="BootsLo" local="true">HIMBOSOSDigitigradeKhajiitDawnguardShoesMale.osd\BootsLoLegsShinCrease</Data>
+        </Slider>
+        <Slider name="FemmeB" invert="false" small="0" big="0">
+            <Data name="BootsLoFemmeB" target="BootsLo" local="true">HIMBOSOSDigitigradeKhajiitDawnguardShoesMale.osd\BootsLoFemmeB</Data>
+        </Slider>
+        <Slider name="BodyMass" invert="false" small="0" big="0">
+            <Data name="BootsLoBodyMass" target="BootsLo" local="true">HIMBOSOSDigitigradeKhajiitDawnguardShoesMale.osd\BootsLoBodyMass</Data>
+        </Slider>
+        <Slider name="SSBBW butt growth" invert="false" small="0" big="0">
+            <Data name="BootsLoSSBBW butt growth" target="BootsLo" local="true">HIMBOSOSDigitigradeKhajiitDawnguardShoesMale.osd\BootsLoSSBBW butt growth</Data>
+        </Slider>
+        <Slider name="SamuelLike" invert="false" small="0" big="0">
+            <Data name="BootsLoSamuelLike" target="BootsLo" local="true">HIMBOSOSDigitigradeKhajiitDawnguardShoesMale.osd\BootsLoSamuelLike</Data>
+        </Slider>
+        <Slider name="LegsCalfSideIn" invert="false" small="0" big="0">
+            <Data name="BootsLoLegsCalfSideIn" target="BootsLo" local="true">HIMBOSOSDigitigradeKhajiitDawnguardShoesMale.osd\BootsLoLegsCalfSideIn</Data>
+        </Slider>
+        <Slider name="LegsCalfOut" invert="false" small="0" big="0">
+            <Data name="BootsLoLegsCalfOut" target="BootsLo" local="true">HIMBOSOSDigitigradeKhajiitDawnguardShoesMale.osd\BootsLoLegsCalfOut</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

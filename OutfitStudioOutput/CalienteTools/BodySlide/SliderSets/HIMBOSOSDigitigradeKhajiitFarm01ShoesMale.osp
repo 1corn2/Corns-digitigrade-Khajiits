@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="HIMBOSOSDigitigradeKhajiitFarm01ShoesMale">
+        <ReferenceInfo ProjectFile="SliderSets\HIMBOSOSDigitigradeKhajiitWrapsCutMale.osp" ProjectName="HIMBOSOSDigitigradeKhajiitWrapsCutMale" ShapeName="FootPaws_Base"/>
+        <DataFolder>HIMBOSOSDigitigradeKhajiitFarm01ShoesMale</DataFolder>
+        <SourceFile>HIMBOSOSDigitigradeKhajiitFarm01ShoesMale.nif</SourceFile>
+        <OutputPath>meshes\clothes\digitigrade\farmclothes01</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">bootsm</OutputFile>
+        <Shape target="shoes">shoes</Shape>
+        <Slider name="Weight 0 to 1" invert="false" small="0" big="100" hidden="true">
+            <Data name="shoesWeight 0 to 1" target="shoes" local="true">HIMBOSOSDigitigradeKhajiitFarm01ShoesMale.osd\shoesWeight 0 to 1</Data>
+        </Slider>
+        <Slider name="LegsCalfSideIn" invert="false" small="0" big="0">
+            <Data name="shoesLegsCalfSideIn" target="shoes" local="true">HIMBOSOSDigitigradeKhajiitFarm01ShoesMale.osd\shoesLegsCalfSideIn</Data>
+        </Slider>
+        <Slider name="LegsCalfOut" invert="false" small="0" big="0">
+            <Data name="shoesLegsCalfOut" target="shoes" local="true">HIMBOSOSDigitigradeKhajiitFarm01ShoesMale.osd\shoesLegsCalfOut</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="HIMBOSOSDigitigradeKhajiitMerchantShoesMale">
+        <ReferenceInfo ProjectFile="SliderSets\HIMBOSOSDigitigradeKhajiitWrapsCutMale.osp" ProjectName="HIMBOSOSDigitigradeKhajiitWrapsCutMale" ShapeName="FootPaws_Base"/>
+        <DataFolder>HIMBOSOSDigitigradeKhajiitMerchantShoesMale</DataFolder>
+        <SourceFile>HIMBOSOSDigitigradeKhajiitMerchantShoesMale.nif</SourceFile>
+        <OutputPath>meshes\clothes\digitigrade\merchantclothes</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">bootsm</OutputFile>
+        <Shape target="merchantboots">merchantboots</Shape>
+        <Slider name="Weight 0 to 1" invert="false" small="0" big="100" hidden="true">
+            <Data name="merchantbootsWeight 0 to 1" target="merchantboots" local="true">HIMBOSOSDigitigradeKhajiitMerchantShoesMale.osd\merchantbootsWeight 0 to 1</Data>
+        </Slider>
+        <Slider name="Chubby" invert="false" small="0" big="0">
+            <Data name="merchantbootsChubby" target="merchantboots" local="true">HIMBOSOSDigitigradeKhajiitMerchantShoesMale.osd\merchantbootsChubby</Data>
+        </Slider>
+        <Slider name="Lean" invert="false" small="0" big="0">
+            <Data name="merchantbootsLean" target="merchantboots" local="true">HIMBOSOSDigitigradeKhajiitMerchantShoesMale.osd\merchantbootsLean</Data>
+        </Slider>
+        <Slider name="Muscle" invert="false" small="0" big="0">
+            <Data name="merchantbootsMuscle" target="merchantboots" local="true">HIMBOSOSDigitigradeKhajiitMerchantShoesMale.osd\merchantbootsMuscle</Data>
+        </Slider>
+        <Slider name="SOSlike" invert="false" small="0" big="0">
+            <Data name="merchantbootsSOSlike" target="merchantboots" local="true">HIMBOSOSDigitigradeKhajiitMerchantShoesMale.osd\merchantbootsSOSlike</Data>
+        </Slider>
+        <Slider name="LegsSize" invert="false" small="0" big="0">
+            <Data name="merchantbootsLegsSize" target="merchantboots" local="true">HIMBOSOSDigitigradeKhajiitMerchantShoesMale.osd\merchantbootsLegsSize</Data>
+        </Slider>
+        <Slider name="LegsThinner" invert="false" small="0" big="0">
+            <Data name="merchantbootsLegsThinner" target="merchantboots" local="true">HIMBOSOSDigitigradeKhajiitMerchantShoesMale.osd\merchantbootsLegsThinner</Data>
+        </Slider>
+        <Slider name="LegsChubby" invert="false" small="0" big="0">
+            <Data name="merchantbootsLegsChubby" target="merchantboots" local="true">HIMBOSOSDigitigradeKhajiitMerchantShoesMale.osd\merchantbootsLegsChubby</Data>
+        </Slider>
+        <Slider name="LegsKneePit" invert="false" small="0" big="0">
+            <Data name="merchantbootsLegsKneePit" target="merchantboots" local="true">HIMBOSOSDigitigradeKhajiitMerchantShoesMale.osd\merchantbootsLegsKneePit</Data>
+        </Slider>
+        <Slider name="LegsCalfSize" invert="false" small="0" big="0">
+            <Data name="merchantbootsLegsCalfSize" target="merchantboots" local="true">HIMBOSOSDigitigradeKhajiitMerchantShoesMale.osd\merchantbootsLegsCalfSize</Data>
+        </Slider>
+        <Slider name="LegsCalfWidth" invert="false" small="0" big="0">
+            <Data name="merchantbootsLegsCalfWidth" target="merchantboots" local="true">HIMBOSOSDigitigradeKhajiitMerchantShoesMale.osd\merchantbootsLegsCalfWidth</Data>
+        </Slider>
+        <Slider name="LegsCalfUpper" invert="false" small="0" big="0">
+            <Data name="merchantbootsLegsCalfUpper" target="merchantboots" local="true">HIMBOSOSDigitigradeKhajiitMerchantShoesMale.osd\merchantbootsLegsCalfUpper</Data>
+        </Slider>
+        <Slider name="LegsCalfLower" invert="false" small="0" big="0">
+            <Data name="merchantbootsLegsCalfLower" target="merchantboots" local="true">HIMBOSOSDigitigradeKhajiitMerchantShoesMale.osd\merchantbootsLegsCalfLower</Data>
+        </Slider>
+        <Slider name="LegsCalfFlatten" invert="false" small="0" big="0">
+            <Data name="merchantbootsLegsCalfFlatten" target="merchantboots" local="true">HIMBOSOSDigitigradeKhajiitMerchantShoesMale.osd\merchantbootsLegsCalfFlatten</Data>
+        </Slider>
+        <Slider name="LegsShinCrease" invert="false" small="0" big="0">
+            <Data name="merchantbootsLegsShinCrease" target="merchantboots" local="true">HIMBOSOSDigitigradeKhajiitMerchantShoesMale.osd\merchantbootsLegsShinCrease</Data>
+        </Slider>
+        <Slider name="FemmeB" invert="false" small="0" big="0">
+            <Data name="merchantbootsFemmeB" target="merchantboots" local="true">HIMBOSOSDigitigradeKhajiitMerchantShoesMale.osd\merchantbootsFemmeB</Data>
+        </Slider>
+        <Slider name="BodyMass" invert="false" small="0" big="0">
+            <Data name="merchantbootsBodyMass" target="merchantboots" local="true">HIMBOSOSDigitigradeKhajiitMerchantShoesMale.osd\merchantbootsBodyMass</Data>
+        </Slider>
+        <Slider name="SSBBW butt growth" invert="false" small="0" big="0">
+            <Data name="merchantbootsSSBBW butt growth" target="merchantboots" local="true">HIMBOSOSDigitigradeKhajiitMerchantShoesMale.osd\merchantbootsSSBBW butt growth</Data>
+        </Slider>
+        <Slider name="SamuelLike" invert="false" small="0" big="0">
+            <Data name="merchantbootsSamuelLike" target="merchantboots" local="true">HIMBOSOSDigitigradeKhajiitMerchantShoesMale.osd\merchantbootsSamuelLike</Data>
+        </Slider>
+        <Slider name="LegsKneeInner" invert="false" small="0" big="0">
+            <Data name="merchantbootsLegsKneeInner" target="merchantboots" local="true">HIMBOSOSDigitigradeKhajiitMerchantShoesMale.osd\merchantbootsLegsKneeInner</Data>
+        </Slider>
+        <Slider name="LegsCalfSideIn" invert="false" small="0" big="0">
+            <Data name="merchantbootsLegsCalfSideIn" target="merchantboots" local="true">HIMBOSOSDigitigradeKhajiitMerchantShoesMale.osd\merchantbootsLegsCalfSideIn</Data>
+        </Slider>
+        <Slider name="LegsCalfOut" invert="false" small="0" big="0">
+            <Data name="merchantbootsLegsCalfOut" target="merchantboots" local="true">HIMBOSOSDigitigradeKhajiitMerchantShoesMale.osd\merchantbootsLegsCalfOut</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

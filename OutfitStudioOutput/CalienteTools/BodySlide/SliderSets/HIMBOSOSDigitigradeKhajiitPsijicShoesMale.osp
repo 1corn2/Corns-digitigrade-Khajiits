@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="HIMBOSOSDigitigradeKhajiitPsijicShoesMale">
+        <ReferenceInfo ProjectFile="SliderSets\HIMBOSOSDigitigradeKhajiitWrapsCutMale.osp" ProjectName="HIMBOSOSDigitigradeKhajiitWrapsCutMale" ShapeName="FootPaws_Base"/>
+        <DataFolder>HIMBOSOSDigitigradeKhajiitPsijicShoesMale</DataFolder>
+        <SourceFile>HIMBOSOSDigitigradeKhajiitPsijicShoesMale.nif</SourceFile>
+        <OutputPath>meshes\clothes\digitigrade\psijic</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">psijicbootsm</OutputFile>
+        <Shape target="PsiijicBoots">PsiijicBoots</Shape>
+        <Slider name="Weight 0 to 1" invert="false" small="0" big="100" hidden="true">
+            <Data name="PsiijicBootsWeight 0 to 1" target="PsiijicBoots" local="true">HIMBOSOSDigitigradeKhajiitPsijicShoesMale.osd\PsiijicBootsWeight 0 to 1</Data>
+        </Slider>
+        <Slider name="Chubby" invert="false" small="0" big="0">
+            <Data name="PsiijicBootsChubby" target="PsiijicBoots" local="true">HIMBOSOSDigitigradeKhajiitPsijicShoesMale.osd\PsiijicBootsChubby</Data>
+        </Slider>
+        <Slider name="Lean" invert="false" small="0" big="0">
+            <Data name="PsiijicBootsLean" target="PsiijicBoots" local="true">HIMBOSOSDigitigradeKhajiitPsijicShoesMale.osd\PsiijicBootsLean</Data>
+        </Slider>
+        <Slider name="Muscle" invert="false" small="0" big="0">
+            <Data name="PsiijicBootsMuscle" target="PsiijicBoots" local="true">HIMBOSOSDigitigradeKhajiitPsijicShoesMale.osd\PsiijicBootsMuscle</Data>
+        </Slider>
+        <Slider name="SOSlike" invert="false" small="0" big="0">
+            <Data name="PsiijicBootsSOSlike" target="PsiijicBoots" local="true">HIMBOSOSDigitigradeKhajiitPsijicShoesMale.osd\PsiijicBootsSOSlike</Data>
+        </Slider>
+        <Slider name="LegsSize" invert="false" small="0" big="0">
+            <Data name="PsiijicBootsLegsSize" target="PsiijicBoots" local="true">HIMBOSOSDigitigradeKhajiitPsijicShoesMale.osd\PsiijicBootsLegsSize</Data>
+        </Slider>
+        <Slider name="LegsThinner" invert="false" small="0" big="0">
+            <Data name="PsiijicBootsLegsThinner" target="PsiijicBoots" local="true">HIMBOSOSDigitigradeKhajiitPsijicShoesMale.osd\PsiijicBootsLegsThinner</Data>
+        </Slider>
+        <Slider name="LegsChubby" invert="false" small="0" big="0">
+            <Data name="PsiijicBootsLegsChubby" target="PsiijicBoots" local="true">HIMBOSOSDigitigradeKhajiitPsijicShoesMale.osd\PsiijicBootsLegsChubby</Data>
+        </Slider>
+        <Slider name="LegsCalfSize" invert="false" small="0" big="0">
+            <Data name="PsiijicBootsLegsCalfSize" target="PsiijicBoots" local="true">HIMBOSOSDigitigradeKhajiitPsijicShoesMale.osd\PsiijicBootsLegsCalfSize</Data>
+        </Slider>
+        <Slider name="LegsCalfWidth" invert="false" small="0" big="0">
+            <Data name="PsiijicBootsLegsCalfWidth" target="PsiijicBoots" local="true">HIMBOSOSDigitigradeKhajiitPsijicShoesMale.osd\PsiijicBootsLegsCalfWidth</Data>
+        </Slider>
+        <Slider name="LegsCalfUpper" invert="false" small="0" big="0">
+            <Data name="PsiijicBootsLegsCalfUpper" target="PsiijicBoots" local="true">HIMBOSOSDigitigradeKhajiitPsijicShoesMale.osd\PsiijicBootsLegsCalfUpper</Data>
+        </Slider>
+        <Slider name="LegsCalfLower" invert="false" small="0" big="0">
+            <Data name="PsiijicBootsLegsCalfLower" target="PsiijicBoots" local="true">HIMBOSOSDigitigradeKhajiitPsijicShoesMale.osd\PsiijicBootsLegsCalfLower</Data>
+        </Slider>
+        <Slider name="LegsCalfFlatten" invert="false" small="0" big="0">
+            <Data name="PsiijicBootsLegsCalfFlatten" target="PsiijicBoots" local="true">HIMBOSOSDigitigradeKhajiitPsijicShoesMale.osd\PsiijicBootsLegsCalfFlatten</Data>
+        </Slider>
+        <Slider name="LegsShinCrease" invert="false" small="0" big="0">
+            <Data name="PsiijicBootsLegsShinCrease" target="PsiijicBoots" local="true">HIMBOSOSDigitigradeKhajiitPsijicShoesMale.osd\PsiijicBootsLegsShinCrease</Data>
+        </Slider>
+        <Slider name="FemmeB" invert="false" small="0" big="0">
+            <Data name="PsiijicBootsFemmeB" target="PsiijicBoots" local="true">HIMBOSOSDigitigradeKhajiitPsijicShoesMale.osd\PsiijicBootsFemmeB</Data>
+        </Slider>
+        <Slider name="BodyMass" invert="false" small="0" big="0">
+            <Data name="PsiijicBootsBodyMass" target="PsiijicBoots" local="true">HIMBOSOSDigitigradeKhajiitPsijicShoesMale.osd\PsiijicBootsBodyMass</Data>
+        </Slider>
+        <Slider name="SSBBW butt growth" invert="false" small="0" big="0">
+            <Data name="PsiijicBootsSSBBW butt growth" target="PsiijicBoots" local="true">HIMBOSOSDigitigradeKhajiitPsijicShoesMale.osd\PsiijicBootsSSBBW butt growth</Data>
+        </Slider>
+        <Slider name="SamuelLike" invert="false" small="0" big="0">
+            <Data name="PsiijicBootsSamuelLike" target="PsiijicBoots" local="true">HIMBOSOSDigitigradeKhajiitPsijicShoesMale.osd\PsiijicBootsSamuelLike</Data>
+        </Slider>
+        <Slider name="LegsCalfSideIn" invert="false" small="0" big="0">
+            <Data name="PsiijicBootsLegsCalfSideIn" target="PsiijicBoots" local="true">HIMBOSOSDigitigradeKhajiitPsijicShoesMale.osd\PsiijicBootsLegsCalfSideIn</Data>
+        </Slider>
+        <Slider name="LegsCalfOut" invert="false" small="0" big="0">
+            <Data name="PsiijicBootsLegsCalfOut" target="PsiijicBoots" local="true">HIMBOSOSDigitigradeKhajiitPsijicShoesMale.osd\PsiijicBootsLegsCalfOut</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>
