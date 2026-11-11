@@ -3,10 +3,12 @@
     <Template sourcefile="SliderSets\CBBEDigitigradeKhajiitFeetFemale.osp" set="CBBEDigitigradeKhajiitFeetFemale" shape="FootPaws_Base">CBBEDigitigradeKhajiitFeetFemale</Template>
     <Template sourcefile="SliderSets\BHUNPDigitigradeKhajiitFeetFemale.osp" set="BHUNPDigitigradeKhajiitFeetFemale" shape="FootPaws_Base">BHUNPDigitigradeKhajiitFeetFemale</Template>
     <Template sourcefile="SliderSets\VanillaDigitigradeKhajiitFeetMale.osp" set="VanillaDigitigradeKhajiitFeetMale" shape="FootPaws_Base">VanillaDigitigradeKhajiitFeetMale</Template>
+    <Template sourcefile="SliderSets\HIMBODigitigradeKhajiitFeetMale.osp" set="HIMBODigitigradeKhajiitFeetMale" shape="FootPaws_Base">HIMBODigitigradeKhajiitFeetMale</Template>
     <Template sourcefile="SliderSets\VanillaDigitigradeKhajiitWrapsCutFemale.osp" set="VanillaDigitigradeKhajiitWrapsCutFemale" shape="FootPaws_Base" loadAll="true">VanillaDigitigradeKhajiitWrapsCutFemale</Template>
     <Template sourcefile="SliderSets\CBBEDigitigradeKhajiitWrapsCutFemale.osp" set="CBBEDigitigradeKhajiitWrapsCutFemale" shape="FootPaws_Base" loadAll="true">CBBEDigitigradeKhajiitWrapsCutFemale</Template>
     <Template sourcefile="SliderSets\BHUNPDigitigradeKhajiitWrapsCutFemale.osp" set="BHUNPDigitigradeKhajiitWrapsCutFemale" shape="FootPaws_Base" loadAll="true">BHUNPDigitigradeKhajiitWrapsCutFemale</Template>
     <Template sourcefile="SliderSets\VanillaDigitigradeKhajiitWrapsCutMale.osp" set="VanillaDigitigradeKhajiitWrapsCutMale" shape="FootPaws_Base" loadAll="true">VanillaDigitigradeKhajiitWrapsCutMale</Template>
+    <Template sourcefile="SliderSets\HIMBODigitigradeKhajiitWrapsCutMale.osp" set="HIMBODigitigradeKhajiitWrapsCutMale" shape="FootPaws_Base" loadAll="true">HIMBODigitigradeKhajiitWrapsCutMale</Template>
 	<Template sourcefile="ConversionSets\Vanilla2DigitigradeMale.osp" set="Vanilla2DigitigradeMale" shape="FootMale_Big">Convert: Vanilla to Digitigrade Male</Template>
     <Template sourcefile="ConversionSets\Vanilla2DigitigradeFemale.osp" set="Vanilla2DigitigradeFemale" shape="FootFemale_Big">Convert: Vanilla to Digitigrade Female</Template>
 </RefTemplates>

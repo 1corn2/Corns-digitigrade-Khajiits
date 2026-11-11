@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="HIMBODigitigradeKhajiitFeetMale">
+        <ReferenceInfo ShapeName="FootPaws_Base"/>
+        <DataFolder>HIMBODigitigradeKhajiitFeetMale</DataFolder>
+        <SourceFile>HIMBODigitigradeKhajiitFeetMale.nif</SourceFile>
+        <OutputPath>meshes\actors\character\character assets\digitigrade</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">khajiitfeetm</OutputFile>
+        <Shape target="FootPaws_Base">FootPaws_Base</Shape>
+        <Slider name="Weight 0 to 1" invert="false" small="0" big="100" hidden="true">
+            <Data name="FootPaws_BaseWeight 0 to 1" target="FootPaws_Base" local="true">HIMBODigitigradeKhajiitFeetMale.osd\FootPaws_BaseWeight 0 to 1</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>
