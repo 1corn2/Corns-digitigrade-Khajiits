@@ -71,9 +71,6 @@
         <Slider name="LegsKneeInner" invert="false" small="0" big="0">
             <Data name="BootsHeavy_1LegsKneeInner" target="BootsHeavy_1" local="true">HIMBOSOSDigitigradeKhajiitHideHeavyBootsMale.osd\BootsHeavy_1LegsKneeInner</Data>
         </Slider>
-        <Slider name="LegsKneeOuter" invert="false" small="0" big="0">
-            <Data name="BootsHeavy_1LegsKneeOuter" target="BootsHeavy_1" local="true">HIMBOSOSDigitigradeKhajiitHideHeavyBootsMale.osd\BootsHeavy_1LegsKneeOuter</Data>
-        </Slider>
         <Slider name="LegsCalfSideIn" invert="false" small="0" big="0">
             <Data name="BootsHeavy_1LegsCalfSideIn" target="BootsHeavy_1" local="true">HIMBOSOSDigitigradeKhajiitHideHeavyBootsMale.osd\BootsHeavy_1LegsCalfSideIn</Data>
         </Slider>

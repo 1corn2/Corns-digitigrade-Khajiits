@@ -27,9 +27,6 @@
         <Slider name="LegsChubby" invert="false" small="0" big="0">
             <Data name="Dark_Elf_Outfit_male_boots_1LegsChubby" target="Dark_Elf_Outfit_male_boots_1" local="true">HIMBOSOSDigitigradeKhajiitDarkelfShoesMale.osd\Dark_Elf_Outfit_male_boots_1LegsChubby</Data>
         </Slider>
-        <Slider name="LegsCalfSize" invert="false" small="0" big="0">
-            <Data name="Dark_Elf_Outfit_male_boots_1LegsCalfSize" target="Dark_Elf_Outfit_male_boots_1" local="true">HIMBOSOSDigitigradeKhajiitDarkelfShoesMale.osd\Dark_Elf_Outfit_male_boots_1LegsCalfSize</Data>
-        </Slider>
         <Slider name="LegsCalfWidth" invert="false" small="0" big="0">
             <Data name="Dark_Elf_Outfit_male_boots_1LegsCalfWidth" target="Dark_Elf_Outfit_male_boots_1" local="true">HIMBOSOSDigitigradeKhajiitDarkelfShoesMale.osd\Dark_Elf_Outfit_male_boots_1LegsCalfWidth</Data>
         </Slider>

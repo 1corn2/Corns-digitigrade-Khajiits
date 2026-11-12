@@ -35,6 +35,9 @@
         <Slider name="LegsChubby" invert="false" small="0" big="0">
             <Data name="StahlrimLightBoots_1LegsChubby" target="StahlrimLightBoots_1" local="true">HIMBOSOSDigitigradeKhajiitStalhrimLightBootsMale.osd\StahlrimLightBoots_1LegsChubby</Data>
         </Slider>
+        <Slider name="LegsFemurBack" invert="false" small="0" big="0">
+            <Data name="StahlrimLightBoots_1LegsFemurBack" target="StahlrimLightBoots_1" local="true">HIMBOSOSDigitigradeKhajiitStalhrimLightBootsMale.osd\StahlrimLightBoots_1LegsFemurBack</Data>
+        </Slider>
         <Slider name="LegsKneePit" invert="false" small="0" big="0">
             <Data name="StahlrimLightBoots_1LegsKneePit" target="StahlrimLightBoots_1" local="true">HIMBOSOSDigitigradeKhajiitStalhrimLightBootsMale.osd\StahlrimLightBoots_1LegsKneePit</Data>
         </Slider>
