@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="HIMBOVanillaDigitigradeKhajiitWrapsCutMale">
+        <ReferenceInfo ProjectFile="SliderSets\HIMBOVanillaDigitigradeKhajiitFeetMale.osp" ProjectName="HIMBOVanillaDigitigradeKhajiitFeetMale" ShapeName="FootPaws_Base"/>
+        <DataFolder>HIMBOVanillaDigitigradeKhajiitWrapsCutMale</DataFolder>
+        <SourceFile>HIMBOVanillaDigitigradeKhajiitWrapsCutMale.nif</SourceFile>
+        <OutputPath>meshes\clothes\digitigrade\prisoner</OutputPath>
+        <OutputFile GenWeights="false" PreventMorphFile="false" KeepZappedShapes="false">prisonershoes</OutputFile>
+        <Shape target="FootPaws_Base" DataFolder="VanillaDigitigradeKhajiitFeetMale;HIMBOVanillaDigitigradeKhajiitFeetMale">FootPaws_Base</Shape>
+        <Shape target="shoes">shoes</Shape>
+        <Slider name="Wraps" invert="false" default="0" zap="true">
+            <Data name="shoesWraps" target="shoes" local="true">HIMBOVanillaDigitigradeKhajiitWrapsCutMale.osd\shoesWraps</Data>
+        </Slider>
+        <Slider name="Weight 0 to 1" invert="false" default="100">
+            <Data name="FootPaws_BaseWeight 0 to 1" target="FootPaws_Base">HIMBOVanillaDigitigradeKhajiitFeetMale.osd\FootPaws_BaseWeight 0 to 1</Data>
+            <Data name="shoesWeight 0 to 1" target="shoes" local="true">HIMBOVanillaDigitigradeKhajiitWrapsCutMale.osd\shoesWeight 0 to 1</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

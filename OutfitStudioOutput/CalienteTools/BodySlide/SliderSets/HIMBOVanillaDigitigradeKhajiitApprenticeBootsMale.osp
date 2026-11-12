@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="HIMBOVanillaDigitigradeKhajiitApprenticeBootsMale">
+        <ReferenceInfo ProjectFile="SliderSets\HIMBOVanillaDigitigradeKhajiitWrapsCutMale.osp" ProjectName="HIMBOVanillaDigitigradeKhajiitWrapsCutMale" ShapeName="FootPaws_Base"/>
+        <DataFolder>HIMBOVanillaDigitigradeKhajiitApprenticeBootsMale</DataFolder>
+        <SourceFile>HIMBOVanillaDigitigradeKhajiitApprenticeBootsMale.nif</SourceFile>
+        <OutputPath>meshes\clothes\digitigrade\mageapprentice</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">mageapprenticebootsm</OutputFile>
+        <Shape target="FootPaws_Base" DataFolder="VanillaDigitigradeKhajiitFeetMale;HIMBOVanillaDigitigradeKhajiitFeetMale">FootPaws_Base</Shape>
+        <Shape target="boots:0">boots:0</Shape>
+        <Shape target="boots:1">boots:1</Shape>
+        <Shape target="shoes" DataFolder="HIMBOVanillaDigitigradeKhajiitWrapsCutMale">shoes</Shape>
+        <Slider name="Weight 0 to 1" invert="false" small="0" big="100" hidden="true">
+            <Data name="FootPaws_BaseWeight 0 to 1" target="FootPaws_Base">HIMBOVanillaDigitigradeKhajiitFeetMale.osd\FootPaws_BaseWeight 0 to 1</Data>
+            <Data name="boots:0Weight 0 to 1" target="boots:0" local="true">HIMBOVanillaDigitigradeKhajiitApprenticeBootsMale.osd\boots:0Weight 0 to 1</Data>
+            <Data name="boots:1Weight 0 to 1" target="boots:1" local="true">HIMBOVanillaDigitigradeKhajiitApprenticeBootsMale.osd\boots:1Weight 0 to 1</Data>
+            <Data name="shoesWeight 0 to 1" target="shoes">HIMBOVanillaDigitigradeKhajiitWrapsCutMale.osd\shoesWeight 0 to 1</Data>
+        </Slider>
+        <Slider name="Chubby" invert="false" small="0" big="0">
+            <Data name="boots:0Chubby" target="boots:0" local="true">HIMBOVanillaDigitigradeKhajiitApprenticeBootsMale.osd\boots:0Chubby</Data>
+            <Data name="boots:1Chubby" target="boots:1" local="true">HIMBOVanillaDigitigradeKhajiitApprenticeBootsMale.osd\boots:1Chubby</Data>
+        </Slider>
+        <Slider name="Lean" invert="false" small="0" big="0">
+            <Data name="boots:0Lean" target="boots:0" local="true">HIMBOVanillaDigitigradeKhajiitApprenticeBootsMale.osd\boots:0Lean</Data>
+            <Data name="boots:1Lean" target="boots:1" local="true">HIMBOVanillaDigitigradeKhajiitApprenticeBootsMale.osd\boots:1Lean</Data>
+        </Slider>
+        <Slider name="Muscle" invert="false" small="0" big="0">
+            <Data name="boots:0Muscle" target="boots:0" local="true">HIMBOVanillaDigitigradeKhajiitApprenticeBootsMale.osd\boots:0Muscle</Data>
+            <Data name="boots:1Muscle" target="boots:1" local="true">HIMBOVanillaDigitigradeKhajiitApprenticeBootsMale.osd\boots:1Muscle</Data>
+        </Slider>
+        <Slider name="SOSlike" invert="false" small="0" big="0">
+            <Data name="boots:0SOSlike" target="boots:0" local="true">HIMBOVanillaDigitigradeKhajiitApprenticeBootsMale.osd\boots:0SOSlike</Data>
+            <Data name="boots:1SOSlike" target="boots:1" local="true">HIMBOVanillaDigitigradeKhajiitApprenticeBootsMale.osd\boots:1SOSlike</Data>
+        </Slider>
+        <Slider name="LegsSize" invert="false" small="0" big="0">
+            <Data name="boots:0LegsSize" target="boots:0" local="true">HIMBOVanillaDigitigradeKhajiitApprenticeBootsMale.osd\boots:0LegsSize</Data>
+            <Data name="boots:1LegsSize" target="boots:1" local="true">HIMBOVanillaDigitigradeKhajiitApprenticeBootsMale.osd\boots:1LegsSize</Data>
+        </Slider>
+        <Slider name="LegsThinner" invert="false" small="0" big="0">
+            <Data name="boots:0LegsThinner" target="boots:0" local="true">HIMBOVanillaDigitigradeKhajiitApprenticeBootsMale.osd\boots:0LegsThinner</Data>
+            <Data name="boots:1LegsThinner" target="boots:1" local="true">HIMBOVanillaDigitigradeKhajiitApprenticeBootsMale.osd\boots:1LegsThinner</Data>
+        </Slider>
+        <Slider name="LegsChubby" invert="false" small="0" big="0">
+            <Data name="boots:0LegsChubby" target="boots:0" local="true">HIMBOVanillaDigitigradeKhajiitApprenticeBootsMale.osd\boots:0LegsChubby</Data>
+            <Data name="boots:1LegsChubby" target="boots:1" local="true">HIMBOVanillaDigitigradeKhajiitApprenticeBootsMale.osd\boots:1LegsChubby</Data>
+        </Slider>
+        <Slider name="LegsKneePit" invert="false" small="0" big="0">
+            <Data name="boots:0LegsKneePit" target="boots:0" local="true">HIMBOVanillaDigitigradeKhajiitApprenticeBootsMale.osd\boots:0LegsKneePit</Data>
+            <Data name="boots:1LegsKneePit" target="boots:1" local="true">HIMBOVanillaDigitigradeKhajiitApprenticeBootsMale.osd\boots:1LegsKneePit</Data>
+        </Slider>
+        <Slider name="LegsCalfSize" invert="false" small="0" big="0">
+            <Data name="boots:0LegsCalfSize" target="boots:0" local="true">HIMBOVanillaDigitigradeKhajiitApprenticeBootsMale.osd\boots:0LegsCalfSize</Data>
+            <Data name="boots:1LegsCalfSize" target="boots:1" local="true">HIMBOVanillaDigitigradeKhajiitApprenticeBootsMale.osd\boots:1LegsCalfSize</Data>
+        </Slider>
+        <Slider name="LegsCalfWidth" invert="false" small="0" big="0">
+            <Data name="boots:0LegsCalfWidth" target="boots:0" local="true">HIMBOVanillaDigitigradeKhajiitApprenticeBootsMale.osd\boots:0LegsCalfWidth</Data>
+            <Data name="boots:1LegsCalfWidth" target="boots:1" local="true">HIMBOVanillaDigitigradeKhajiitApprenticeBootsMale.osd\boots:1LegsCalfWidth</Data>
+        </Slider>
+        <Slider name="LegsCalfUpper" invert="false" small="0" big="0">
+            <Data name="boots:0LegsCalfUpper" target="boots:0" local="true">HIMBOVanillaDigitigradeKhajiitApprenticeBootsMale.osd\boots:0LegsCalfUpper</Data>
+            <Data name="boots:1LegsCalfUpper" target="boots:1" local="true">HIMBOVanillaDigitigradeKhajiitApprenticeBootsMale.osd\boots:1LegsCalfUpper</Data>
+        </Slider>
+        <Slider name="LegsCalfLower" invert="false" small="0" big="0">
+            <Data name="boots:0LegsCalfLower" target="boots:0" local="true">HIMBOVanillaDigitigradeKhajiitApprenticeBootsMale.osd\boots:0LegsCalfLower</Data>
+            <Data name="boots:1LegsCalfLower" target="boots:1" local="true">HIMBOVanillaDigitigradeKhajiitApprenticeBootsMale.osd\boots:1LegsCalfLower</Data>
+        </Slider>
+        <Slider name="LegsCalfFlatten" invert="false" small="0" big="0">
+            <Data name="boots:0LegsCalfFlatten" target="boots:0" local="true">HIMBOVanillaDigitigradeKhajiitApprenticeBootsMale.osd\boots:0LegsCalfFlatten</Data>
+            <Data name="boots:1LegsCalfFlatten" target="boots:1" local="true">HIMBOVanillaDigitigradeKhajiitApprenticeBootsMale.osd\boots:1LegsCalfFlatten</Data>
+        </Slider>
+        <Slider name="LegsShinCrease" invert="false" small="0" big="0">
+            <Data name="boots:0LegsShinCrease" target="boots:0" local="true">HIMBOVanillaDigitigradeKhajiitApprenticeBootsMale.osd\boots:0LegsShinCrease</Data>
+            <Data name="boots:1LegsShinCrease" target="boots:1" local="true">HIMBOVanillaDigitigradeKhajiitApprenticeBootsMale.osd\boots:1LegsShinCrease</Data>
+        </Slider>
+        <Slider name="FemmeB" invert="false" small="0" big="0">
+            <Data name="boots:0FemmeB" target="boots:0" local="true">HIMBOVanillaDigitigradeKhajiitApprenticeBootsMale.osd\boots:0FemmeB</Data>
+            <Data name="boots:1FemmeB" target="boots:1" local="true">HIMBOVanillaDigitigradeKhajiitApprenticeBootsMale.osd\boots:1FemmeB</Data>
+        </Slider>
+        <Slider name="BodyMass" invert="false" small="0" big="0">
+            <Data name="boots:0BodyMass" target="boots:0" local="true">HIMBOVanillaDigitigradeKhajiitApprenticeBootsMale.osd\boots:0BodyMass</Data>
+            <Data name="boots:1BodyMass" target="boots:1" local="true">HIMBOVanillaDigitigradeKhajiitApprenticeBootsMale.osd\boots:1BodyMass</Data>
+        </Slider>
+        <Slider name="SSBBW butt growth" invert="false" small="0" big="0">
+            <Data name="boots:0SSBBW butt growth" target="boots:0" local="true">HIMBOVanillaDigitigradeKhajiitApprenticeBootsMale.osd\boots:0SSBBW butt growth</Data>
+        </Slider>
+        <Slider name="SamuelLike" invert="false" small="0" big="0">
+            <Data name="boots:0SamuelLike" target="boots:0" local="true">HIMBOVanillaDigitigradeKhajiitApprenticeBootsMale.osd\boots:0SamuelLike</Data>
+            <Data name="boots:1SamuelLike" target="boots:1" local="true">HIMBOVanillaDigitigradeKhajiitApprenticeBootsMale.osd\boots:1SamuelLike</Data>
+        </Slider>
+        <Slider name="LegsKneeInner" invert="false" small="0" big="0">
+            <Data name="boots:1LegsKneeInner" target="boots:1" local="true">HIMBOVanillaDigitigradeKhajiitApprenticeBootsMale.osd\boots:1LegsKneeInner</Data>
+        </Slider>
+        <Slider name="LegsCalfSideIn" invert="false" small="0" big="0">
+            <Data name="boots:0LegsCalfSideIn" target="boots:0" local="true">HIMBOVanillaDigitigradeKhajiitApprenticeBootsMale.osd\boots:0LegsCalfSideIn</Data>
+            <Data name="boots:1LegsCalfSideIn" target="boots:1" local="true">HIMBOVanillaDigitigradeKhajiitApprenticeBootsMale.osd\boots:1LegsCalfSideIn</Data>
+        </Slider>
+        <Slider name="LegsCalfOut" invert="false" small="0" big="0">
+            <Data name="boots:0LegsCalfOut" target="boots:0" local="true">HIMBOVanillaDigitigradeKhajiitApprenticeBootsMale.osd\boots:0LegsCalfOut</Data>
+            <Data name="boots:1LegsCalfOut" target="boots:1" local="true">HIMBOVanillaDigitigradeKhajiitApprenticeBootsMale.osd\boots:1LegsCalfOut</Data>
+        </Slider>
+        <Slider name="Wraps" invert="false" small="0" big="0" zap="true">
+            <Data name="shoesWraps" target="shoes">HIMBOVanillaDigitigradeKhajiitWrapsCutMale.osd\shoesWraps</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

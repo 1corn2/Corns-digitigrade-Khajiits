@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="HIMBOVanillaDigitigradeKhajiitFalmerHeavyBootsMale">
+        <ReferenceInfo ProjectFile="SliderSets\HIMBOVanillaDigitigradeKhajiitWrapsCutMale.osp" ProjectName="HIMBOVanillaDigitigradeKhajiitWrapsCutMale" ShapeName="FootPaws_Base"/>
+        <DataFolder>HIMBOVanillaDigitigradeKhajiitFalmerHeavyBootsMale</DataFolder>
+        <SourceFile>HIMBOVanillaDigitigradeKhajiitFalmerHeavyBootsMale.nif</SourceFile>
+        <OutputPath>meshes\dlc01\armor\digitigrade\falmerheavy</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">bootsm</OutputFile>
+        <Shape target="FalmerBoots">FalmerBoots</Shape>
+        <Shape target="FootPaws_Base" DataFolder="VanillaDigitigradeKhajiitFeetMale;HIMBOVanillaDigitigradeKhajiitFeetMale">FootPaws_Base</Shape>
+        <Shape target="shoes" DataFolder="HIMBOVanillaDigitigradeKhajiitWrapsCutMale">shoes</Shape>
+        <Slider name="Weight 0 to 1" invert="false" small="0" big="100" hidden="true">
+            <Data name="FootPaws_BaseWeight 0 to 1" target="FootPaws_Base">HIMBOVanillaDigitigradeKhajiitFeetMale.osd\FootPaws_BaseWeight 0 to 1</Data>
+            <Data name="FalmerBootsWeight 0 to 1" target="FalmerBoots" local="true">HIMBOVanillaDigitigradeKhajiitFalmerHeavyBootsMale.osd\FalmerBootsWeight 0 to 1</Data>
+            <Data name="shoesWeight 0 to 1" target="shoes">HIMBOVanillaDigitigradeKhajiitWrapsCutMale.osd\shoesWeight 0 to 1</Data>
+        </Slider>
+        <Slider name="Chubby" invert="false" small="0" big="0">
+            <Data name="FalmerBootsChubby" target="FalmerBoots" local="true">HIMBOVanillaDigitigradeKhajiitFalmerHeavyBootsMale.osd\FalmerBootsChubby</Data>
+        </Slider>
+        <Slider name="Lean" invert="false" small="0" big="0">
+            <Data name="FalmerBootsLean" target="FalmerBoots" local="true">HIMBOVanillaDigitigradeKhajiitFalmerHeavyBootsMale.osd\FalmerBootsLean</Data>
+        </Slider>
+        <Slider name="Muscle" invert="false" small="0" big="0">
+            <Data name="FalmerBootsMuscle" target="FalmerBoots" local="true">HIMBOVanillaDigitigradeKhajiitFalmerHeavyBootsMale.osd\FalmerBootsMuscle</Data>
+        </Slider>
+        <Slider name="SOSlike" invert="false" small="0" big="0">
+            <Data name="FalmerBootsSOSlike" target="FalmerBoots" local="true">HIMBOVanillaDigitigradeKhajiitFalmerHeavyBootsMale.osd\FalmerBootsSOSlike</Data>
+        </Slider>
+        <Slider name="LegsSize" invert="false" small="0" big="0">
+            <Data name="FalmerBootsLegsSize" target="FalmerBoots" local="true">HIMBOVanillaDigitigradeKhajiitFalmerHeavyBootsMale.osd\FalmerBootsLegsSize</Data>
+        </Slider>
+        <Slider name="LegsThinner" invert="false" small="0" big="0">
+            <Data name="FalmerBootsLegsThinner" target="FalmerBoots" local="true">HIMBOVanillaDigitigradeKhajiitFalmerHeavyBootsMale.osd\FalmerBootsLegsThinner</Data>
+        </Slider>
+        <Slider name="LegsChubby" invert="false" small="0" big="0">
+            <Data name="FalmerBootsLegsChubby" target="FalmerBoots" local="true">HIMBOVanillaDigitigradeKhajiitFalmerHeavyBootsMale.osd\FalmerBootsLegsChubby</Data>
+        </Slider>
+        <Slider name="LegsFemurLower" invert="false" small="0" big="0">
+            <Data name="FalmerBootsLegsFemurLower" target="FalmerBoots" local="true">HIMBOVanillaDigitigradeKhajiitFalmerHeavyBootsMale.osd\FalmerBootsLegsFemurLower</Data>
+        </Slider>
+        <Slider name="LegsFemurSide" invert="false" small="0" big="0">
+            <Data name="FalmerBootsLegsFemurSide" target="FalmerBoots" local="true">HIMBOVanillaDigitigradeKhajiitFalmerHeavyBootsMale.osd\FalmerBootsLegsFemurSide</Data>
+        </Slider>
+        <Slider name="LegsKneePit" invert="false" small="0" big="0">
+            <Data name="FalmerBootsLegsKneePit" target="FalmerBoots" local="true">HIMBOVanillaDigitigradeKhajiitFalmerHeavyBootsMale.osd\FalmerBootsLegsKneePit</Data>
+        </Slider>
+        <Slider name="LegsCalfSize" invert="false" small="0" big="0">
+            <Data name="FalmerBootsLegsCalfSize" target="FalmerBoots" local="true">HIMBOVanillaDigitigradeKhajiitFalmerHeavyBootsMale.osd\FalmerBootsLegsCalfSize</Data>
+        </Slider>
+        <Slider name="LegsCalfWidth" invert="false" small="0" big="0">
+            <Data name="FalmerBootsLegsCalfWidth" target="FalmerBoots" local="true">HIMBOVanillaDigitigradeKhajiitFalmerHeavyBootsMale.osd\FalmerBootsLegsCalfWidth</Data>
+        </Slider>
+        <Slider name="LegsCalfUpper" invert="false" small="0" big="0">
+            <Data name="FalmerBootsLegsCalfUpper" target="FalmerBoots" local="true">HIMBOVanillaDigitigradeKhajiitFalmerHeavyBootsMale.osd\FalmerBootsLegsCalfUpper</Data>
+        </Slider>
+        <Slider name="LegsCalfLower" invert="false" small="0" big="0">
+            <Data name="FalmerBootsLegsCalfLower" target="FalmerBoots" local="true">HIMBOVanillaDigitigradeKhajiitFalmerHeavyBootsMale.osd\FalmerBootsLegsCalfLower</Data>
+        </Slider>
+        <Slider name="LegsCalfFlatten" invert="false" small="0" big="0">
+            <Data name="FalmerBootsLegsCalfFlatten" target="FalmerBoots" local="true">HIMBOVanillaDigitigradeKhajiitFalmerHeavyBootsMale.osd\FalmerBootsLegsCalfFlatten</Data>
+        </Slider>
+        <Slider name="LegsShinCrease" invert="false" small="0" big="0">
+            <Data name="FalmerBootsLegsShinCrease" target="FalmerBoots" local="true">HIMBOVanillaDigitigradeKhajiitFalmerHeavyBootsMale.osd\FalmerBootsLegsShinCrease</Data>
+        </Slider>
+        <Slider name="FemmeB" invert="false" small="0" big="0">
+            <Data name="FalmerBootsFemmeB" target="FalmerBoots" local="true">HIMBOVanillaDigitigradeKhajiitFalmerHeavyBootsMale.osd\FalmerBootsFemmeB</Data>
+        </Slider>
+        <Slider name="LegsThighUpperSide" invert="false" small="0" big="0">
+            <Data name="FalmerBootsLegsThighUpperSide" target="FalmerBoots" local="true">HIMBOVanillaDigitigradeKhajiitFalmerHeavyBootsMale.osd\FalmerBootsLegsThighUpperSide</Data>
+        </Slider>
+        <Slider name="BodyMass" invert="false" small="0" big="0">
+            <Data name="FalmerBootsBodyMass" target="FalmerBoots" local="true">HIMBOVanillaDigitigradeKhajiitFalmerHeavyBootsMale.osd\FalmerBootsBodyMass</Data>
+        </Slider>
+        <Slider name="SSBBW butt growth" invert="false" small="0" big="0">
+            <Data name="FalmerBootsSSBBW butt growth" target="FalmerBoots" local="true">HIMBOVanillaDigitigradeKhajiitFalmerHeavyBootsMale.osd\FalmerBootsSSBBW butt growth</Data>
+        </Slider>
+        <Slider name="SamuelLike" invert="false" small="0" big="0">
+            <Data name="FalmerBootsSamuelLike" target="FalmerBoots" local="true">HIMBOVanillaDigitigradeKhajiitFalmerHeavyBootsMale.osd\FalmerBootsSamuelLike</Data>
+        </Slider>
+        <Slider name="LegsThighInnerSide" invert="false" small="0" big="0">
+            <Data name="FalmerBootsLegsThighInnerSide" target="FalmerBoots" local="true">HIMBOVanillaDigitigradeKhajiitFalmerHeavyBootsMale.osd\FalmerBootsLegsThighInnerSide</Data>
+        </Slider>
+        <Slider name="LegsKneeInner" invert="false" small="0" big="0">
+            <Data name="FalmerBootsLegsKneeInner" target="FalmerBoots" local="true">HIMBOVanillaDigitigradeKhajiitFalmerHeavyBootsMale.osd\FalmerBootsLegsKneeInner</Data>
+        </Slider>
+        <Slider name="LegsKneeOuter" invert="false" small="0" big="0">
+            <Data name="FalmerBootsLegsKneeOuter" target="FalmerBoots" local="true">HIMBOVanillaDigitigradeKhajiitFalmerHeavyBootsMale.osd\FalmerBootsLegsKneeOuter</Data>
+        </Slider>
+        <Slider name="LegsCalfSideIn" invert="false" small="0" big="0">
+            <Data name="FalmerBootsLegsCalfSideIn" target="FalmerBoots" local="true">HIMBOVanillaDigitigradeKhajiitFalmerHeavyBootsMale.osd\FalmerBootsLegsCalfSideIn</Data>
+        </Slider>
+        <Slider name="LegsCalfOut" invert="false" small="0" big="0">
+            <Data name="FalmerBootsLegsCalfOut" target="FalmerBoots" local="true">HIMBOVanillaDigitigradeKhajiitFalmerHeavyBootsMale.osd\FalmerBootsLegsCalfOut</Data>
+        </Slider>
+        <Slider name="Wraps" invert="false" small="0" big="0" zap="true">
+            <Data name="shoesWraps" target="shoes">HIMBOVanillaDigitigradeKhajiitWrapsCutMale.osd\shoesWraps</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

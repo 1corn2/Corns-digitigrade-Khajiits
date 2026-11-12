@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="HIMBOVanillaDigitigradeKhajiitStalhrimHeavyBootsMale">
+        <ReferenceInfo ProjectFile="SliderSets\HIMBOVanillaDigitigradeKhajiitWrapsCutMale.osp" ProjectName="HIMBOVanillaDigitigradeKhajiitWrapsCutMale" ShapeName="FootPaws_Base"/>
+        <DataFolder>HIMBOVanillaDigitigradeKhajiitStalhrimHeavyBootsMale</DataFolder>
+        <SourceFile>HIMBOVanillaDigitigradeKhajiitStalhrimHeavyBootsMale.nif</SourceFile>
+        <OutputPath>meshes\dlc02\armor\digitigrade\stalhrimheavy\m</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">boots</OutputFile>
+        <Shape target="FootPaws_Base" DataFolder="VanillaDigitigradeKhajiitFeetMale;HIMBOVanillaDigitigradeKhajiitFeetMale">FootPaws_Base</Shape>
+        <Shape target="StahlrimBoots_1">StahlrimBoots_1</Shape>
+        <Shape target="shoes" DataFolder="HIMBOVanillaDigitigradeKhajiitWrapsCutMale">shoes</Shape>
+        <Slider name="Weight 0 to 1" invert="false" small="0" big="100" hidden="true">
+            <Data name="FootPaws_BaseWeight 0 to 1" target="FootPaws_Base">HIMBOVanillaDigitigradeKhajiitFeetMale.osd\FootPaws_BaseWeight 0 to 1</Data>
+            <Data name="StahlrimBoots_1Weight 0 to 1" target="StahlrimBoots_1" local="true">HIMBOVanillaDigitigradeKhajiitStalhrimHeavyBootsMale.osd\StahlrimBoots_1Weight 0 to 1</Data>
+            <Data name="shoesWeight 0 to 1" target="shoes">HIMBOVanillaDigitigradeKhajiitWrapsCutMale.osd\shoesWeight 0 to 1</Data>
+        </Slider>
+        <Slider name="Chubby" invert="false" small="0" big="0">
+            <Data name="StahlrimBoots_1Chubby" target="StahlrimBoots_1" local="true">HIMBOVanillaDigitigradeKhajiitStalhrimHeavyBootsMale.osd\StahlrimBoots_1Chubby</Data>
+        </Slider>
+        <Slider name="Lean" invert="false" small="0" big="0">
+            <Data name="StahlrimBoots_1Lean" target="StahlrimBoots_1" local="true">HIMBOVanillaDigitigradeKhajiitStalhrimHeavyBootsMale.osd\StahlrimBoots_1Lean</Data>
+        </Slider>
+        <Slider name="Muscle" invert="false" small="0" big="0">
+            <Data name="StahlrimBoots_1Muscle" target="StahlrimBoots_1" local="true">HIMBOVanillaDigitigradeKhajiitStalhrimHeavyBootsMale.osd\StahlrimBoots_1Muscle</Data>
+        </Slider>
+        <Slider name="SOSlike" invert="false" small="0" big="0">
+            <Data name="StahlrimBoots_1SOSlike" target="StahlrimBoots_1" local="true">HIMBOVanillaDigitigradeKhajiitStalhrimHeavyBootsMale.osd\StahlrimBoots_1SOSlike</Data>
+        </Slider>
+        <Slider name="LegsSize" invert="false" small="0" big="0">
+            <Data name="StahlrimBoots_1LegsSize" target="StahlrimBoots_1" local="true">HIMBOVanillaDigitigradeKhajiitStalhrimHeavyBootsMale.osd\StahlrimBoots_1LegsSize</Data>
+        </Slider>
+        <Slider name="LegsThinner" invert="false" small="0" big="0">
+            <Data name="StahlrimBoots_1LegsThinner" target="StahlrimBoots_1" local="true">HIMBOVanillaDigitigradeKhajiitStalhrimHeavyBootsMale.osd\StahlrimBoots_1LegsThinner</Data>
+        </Slider>
+        <Slider name="LegsChubby" invert="false" small="0" big="0">
+            <Data name="StahlrimBoots_1LegsChubby" target="StahlrimBoots_1" local="true">HIMBOVanillaDigitigradeKhajiitStalhrimHeavyBootsMale.osd\StahlrimBoots_1LegsChubby</Data>
+        </Slider>
+        <Slider name="LegsFemurBack" invert="false" small="0" big="0">
+            <Data name="StahlrimBoots_1LegsFemurBack" target="StahlrimBoots_1" local="true">HIMBOVanillaDigitigradeKhajiitStalhrimHeavyBootsMale.osd\StahlrimBoots_1LegsFemurBack</Data>
+        </Slider>
+        <Slider name="LegsKneePit" invert="false" small="0" big="0">
+            <Data name="StahlrimBoots_1LegsKneePit" target="StahlrimBoots_1" local="true">HIMBOVanillaDigitigradeKhajiitStalhrimHeavyBootsMale.osd\StahlrimBoots_1LegsKneePit</Data>
+        </Slider>
+        <Slider name="LegsCalfSize" invert="false" small="0" big="0">
+            <Data name="StahlrimBoots_1LegsCalfSize" target="StahlrimBoots_1" local="true">HIMBOVanillaDigitigradeKhajiitStalhrimHeavyBootsMale.osd\StahlrimBoots_1LegsCalfSize</Data>
+        </Slider>
+        <Slider name="LegsCalfWidth" invert="false" small="0" big="0">
+            <Data name="StahlrimBoots_1LegsCalfWidth" target="StahlrimBoots_1" local="true">HIMBOVanillaDigitigradeKhajiitStalhrimHeavyBootsMale.osd\StahlrimBoots_1LegsCalfWidth</Data>
+        </Slider>
+        <Slider name="LegsCalfUpper" invert="false" small="0" big="0">
+            <Data name="StahlrimBoots_1LegsCalfUpper" target="StahlrimBoots_1" local="true">HIMBOVanillaDigitigradeKhajiitStalhrimHeavyBootsMale.osd\StahlrimBoots_1LegsCalfUpper</Data>
+        </Slider>
+        <Slider name="LegsCalfLower" invert="false" small="0" big="0">
+            <Data name="StahlrimBoots_1LegsCalfLower" target="StahlrimBoots_1" local="true">HIMBOVanillaDigitigradeKhajiitStalhrimHeavyBootsMale.osd\StahlrimBoots_1LegsCalfLower</Data>
+        </Slider>
+        <Slider name="LegsCalfFlatten" invert="false" small="0" big="0">
+            <Data name="StahlrimBoots_1LegsCalfFlatten" target="StahlrimBoots_1" local="true">HIMBOVanillaDigitigradeKhajiitStalhrimHeavyBootsMale.osd\StahlrimBoots_1LegsCalfFlatten</Data>
+        </Slider>
+        <Slider name="LegsShinCrease" invert="false" small="0" big="0">
+            <Data name="StahlrimBoots_1LegsShinCrease" target="StahlrimBoots_1" local="true">HIMBOVanillaDigitigradeKhajiitStalhrimHeavyBootsMale.osd\StahlrimBoots_1LegsShinCrease</Data>
+        </Slider>
+        <Slider name="FemmeB" invert="false" small="0" big="0">
+            <Data name="StahlrimBoots_1FemmeB" target="StahlrimBoots_1" local="true">HIMBOVanillaDigitigradeKhajiitStalhrimHeavyBootsMale.osd\StahlrimBoots_1FemmeB</Data>
+        </Slider>
+        <Slider name="BodyMass" invert="false" small="0" big="0">
+            <Data name="StahlrimBoots_1BodyMass" target="StahlrimBoots_1" local="true">HIMBOVanillaDigitigradeKhajiitStalhrimHeavyBootsMale.osd\StahlrimBoots_1BodyMass</Data>
+        </Slider>
+        <Slider name="SSBBW butt growth" invert="false" small="0" big="0">
+            <Data name="StahlrimBoots_1SSBBW butt growth" target="StahlrimBoots_1" local="true">HIMBOVanillaDigitigradeKhajiitStalhrimHeavyBootsMale.osd\StahlrimBoots_1SSBBW butt growth</Data>
+        </Slider>
+        <Slider name="SamuelLike" invert="false" small="0" big="0">
+            <Data name="StahlrimBoots_1SamuelLike" target="StahlrimBoots_1" local="true">HIMBOVanillaDigitigradeKhajiitStalhrimHeavyBootsMale.osd\StahlrimBoots_1SamuelLike</Data>
+        </Slider>
+        <Slider name="LegsThighInnerSide" invert="false" small="0" big="0">
+            <Data name="StahlrimBoots_1LegsThighInnerSide" target="StahlrimBoots_1" local="true">HIMBOVanillaDigitigradeKhajiitStalhrimHeavyBootsMale.osd\StahlrimBoots_1LegsThighInnerSide</Data>
+        </Slider>
+        <Slider name="LegsKneeInner" invert="false" small="0" big="0">
+            <Data name="StahlrimBoots_1LegsKneeInner" target="StahlrimBoots_1" local="true">HIMBOVanillaDigitigradeKhajiitStalhrimHeavyBootsMale.osd\StahlrimBoots_1LegsKneeInner</Data>
+        </Slider>
+        <Slider name="LegsKneeOuter" invert="false" small="0" big="0">
+            <Data name="StahlrimBoots_1LegsKneeOuter" target="StahlrimBoots_1" local="true">HIMBOVanillaDigitigradeKhajiitStalhrimHeavyBootsMale.osd\StahlrimBoots_1LegsKneeOuter</Data>
+        </Slider>
+        <Slider name="LegsCalfSideIn" invert="false" small="0" big="0">
+            <Data name="StahlrimBoots_1LegsCalfSideIn" target="StahlrimBoots_1" local="true">HIMBOVanillaDigitigradeKhajiitStalhrimHeavyBootsMale.osd\StahlrimBoots_1LegsCalfSideIn</Data>
+        </Slider>
+        <Slider name="LegsCalfOut" invert="false" small="0" big="0">
+            <Data name="StahlrimBoots_1LegsCalfOut" target="StahlrimBoots_1" local="true">HIMBOVanillaDigitigradeKhajiitStalhrimHeavyBootsMale.osd\StahlrimBoots_1LegsCalfOut</Data>
+        </Slider>
+        <Slider name="Wraps" invert="false" small="0" big="0" zap="true">
+            <Data name="shoesWraps" target="shoes">HIMBOVanillaDigitigradeKhajiitWrapsCutMale.osd\shoesWraps</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>
