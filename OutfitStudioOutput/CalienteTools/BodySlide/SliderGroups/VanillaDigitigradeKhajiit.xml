@@ -72,6 +72,8 @@
         <Member name="BHUNPDigitigradeKhajiitYarl02ShoesFemale"/>
         <Member name="BHUNPDigitigradeKhajiitYarl03ShoesFemale"/>
         <Member name="BHUNPDigitigradeKhajiitYarlShoesFemale"/>
+        <Member name="BHUNPDigitigradeKhajiitBloodyWrapsFemale"/>
+        <Member name="BHUNPDigitigradeKhajiitWrapsFemale"/>
     </Group>
     <Group name="CBBE Digitigrade Khajiit">
         <Member name="CBBEDigitigradeKhajiitApprenticeBootsFemale"/>
@@ -145,6 +147,8 @@
         <Member name="CBBEDigitigradeKhajiitYarl02ShoesFemale"/>
         <Member name="CBBEDigitigradeKhajiitYarl03ShoesFemale"/>
         <Member name="CBBEDigitigradeKhajiitYarlShoesFemale"/>
+        <Member name="CBBEDigitigradeKhajiitBloodyWrapsFemale"/>
+        <Member name="CBBEDigitigradeKhajiitWrapsFemale"/>
     </Group>
     <Group name="HIMBOVanilla Digitigrade Khajiit">
         <Member name="HIMBOVanillaDigitigradeKhajiitApprenticeBootsMale"/>

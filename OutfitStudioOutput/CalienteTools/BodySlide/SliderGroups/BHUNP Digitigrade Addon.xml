@@ -72,5 +72,7 @@
         <Member name="BHUNPDigitigradeKhajiitYarl02ShoesFemale"/>
         <Member name="BHUNPDigitigradeKhajiitYarl03ShoesFemale"/>
         <Member name="BHUNPDigitigradeKhajiitYarlShoesFemale"/>
+        <Member name="BHUNPDigitigradeKhajiitBloodyWrapsFemale"/>
+        <Member name="BHUNPDigitigradeKhajiitWrapsFemale"/>
     </Group>
 </SliderGroups>

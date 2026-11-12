@@ -77,6 +77,7 @@
         <Member name="HIMBOSOSDigitigradeKhajiitYarl03ShoesMale"/>
         <Member name="HIMBOSOSDigitigradeKhajiitYarlShoesMale"/>
         <Member name="HIMBOSOSDigitigradeKhajiitWrapsMale"/>
+        <Member name="HIMBOSOSDigitigradeKhajiitBloodyWrapsMale"/>
     </Group>
     <Group name="HIMBOSOS Digitigrade Khajiit">
         <Member name="HIMBOSOSDigitigradeKhajiitApprenticeBootsMale"/>
@@ -155,5 +156,6 @@
         <Member name="HIMBOSOSDigitigradeKhajiitYarl02ShoesMale"/>
         <Member name="HIMBOSOSDigitigradeKhajiitYarl03ShoesMale"/>
         <Member name="HIMBOSOSDigitigradeKhajiitYarlShoesMale"/>
+        <Member name="HIMBOSOSDigitigradeKhajiitBloodyWrapsMale"/>
     </Group>
 </SliderGroups>
