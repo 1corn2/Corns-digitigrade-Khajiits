@@ -12,7 +12,7 @@
         <Slider name="Weight 0 to 1" invert="false" small="0" big="100" hidden="true">
             <Data name="FootPaws_BaseWeight 0 to 1" target="FootPaws_Base">HIMBOSOSDigitigradeKhajiitFeetMale.osd\FootPaws_BaseWeight 0 to 1</Data>
             <Data name="2-Sons-of-Talos_shoesWeight 0 to 1" target="2-Sons-of-Talos_shoes" local="true">HIMBOSOSDigitigradeKhajiitSOTBootsMale.osd\2-Sons-of-Talos_shoesWeight 0 to 1</Data>
-            <Data name="shoesWeight 0 to 1" target="shoes">HIMBOSOSDigitigradeKhajiitWrapsCutMale.osd\shoesWeight 0 to 1</Data>
+            <Data name="shoesWeight 0 to 1" target="shoes" local="true">HIMBOSOSDigitigradeKhajiitSOTBootsMale.osd\shoesWeight 0 to 1</Data>
         </Slider>
         <Slider name="Chubby" invert="false" small="0" big="0">
             <Data name="2-Sons-of-Talos_shoesChubby" target="2-Sons-of-Talos_shoes" local="true">HIMBOSOSDigitigradeKhajiitSOTBootsMale.osd\2-Sons-of-Talos_shoesChubby</Data>

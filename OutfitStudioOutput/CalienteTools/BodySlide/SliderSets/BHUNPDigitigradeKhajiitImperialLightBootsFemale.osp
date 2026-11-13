@@ -127,9 +127,6 @@
         <Slider name="VastusMedialis" invert="false" small="0" big="0">
             <Data name="BootsLight_1nVastusMedialis" target="BootsLight_1n" local="true">BHUNPDigitigradeKhajiitImperialLightBootsFemale.osd\BootsLight_1nVastusMedialis</Data>
         </Slider>
-        <Slider name="BicepsFemoris" invert="false" small="0" big="0">
-            <Data name="BootsLight_1nBicepsFemoris" target="BootsLight_1n" local="true">BHUNPDigitigradeKhajiitImperialLightBootsFemale.osd\BootsLight_1nBicepsFemoris</Data>
-        </Slider>
         <Slider name="LegSpread" invert="false" small="0" big="0">
             <Data name="BootsLight_1nLegSpread" target="BootsLight_1n" local="true">BHUNPDigitigradeKhajiitImperialLightBootsFemale.osd\BootsLight_1nLegSpread</Data>
         </Slider>

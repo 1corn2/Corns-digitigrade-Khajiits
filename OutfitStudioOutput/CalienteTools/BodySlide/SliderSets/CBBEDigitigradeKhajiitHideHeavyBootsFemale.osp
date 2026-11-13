@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <SliderSetInfo version="1">
     <SliderSet name="CBBEDigitigradeKhajiitHideHeavyBootsFemale">
-        <ReferenceInfo ProjectFile="SliderSets\CBBEDigitigradeKhajiitWrapsCutFemale.osp" ProjectName="CBBEDigitigradeKhajiitWrapsCutFemale" ShapeName="FootPaws_Base"/>
+        <ReferenceInfo ShapeName="FootPaws_Base"/>
         <DataFolder>CBBEDigitigradeKhajiitHideHeavyBootsFemale</DataFolder>
         <SourceFile>CBBEDigitigradeKhajiitHideHeavyBootsFemale.nif</SourceFile>
         <OutputPath>meshes\armor\digitigrade\hide\f\</OutputPath>
