@@ -87,9 +87,6 @@
             <Data name="boots:0SamuelLike" target="boots:0" local="true">HIMBOVanillaDigitigradeKhajiitApprenticeBootsMale.osd\boots:0SamuelLike</Data>
             <Data name="boots:1SamuelLike" target="boots:1" local="true">HIMBOVanillaDigitigradeKhajiitApprenticeBootsMale.osd\boots:1SamuelLike</Data>
         </Slider>
-        <Slider name="LegsKneeInner" invert="false" small="0" big="0">
-            <Data name="boots:1LegsKneeInner" target="boots:1" local="true">HIMBOVanillaDigitigradeKhajiitApprenticeBootsMale.osd\boots:1LegsKneeInner</Data>
-        </Slider>
         <Slider name="LegsCalfSideIn" invert="false" small="0" big="0">
             <Data name="boots:0LegsCalfSideIn" target="boots:0" local="true">HIMBOVanillaDigitigradeKhajiitApprenticeBootsMale.osd\boots:0LegsCalfSideIn</Data>
             <Data name="boots:1LegsCalfSideIn" target="boots:1" local="true">HIMBOVanillaDigitigradeKhajiitApprenticeBootsMale.osd\boots:1LegsCalfSideIn</Data>
