@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderPresets>
+    <Preset name="Vanilla Khajiit No Wraps" set="VanillaDigitigradeKhajiitSteelBootsMale">
+        <Group name="Vanilla Digitigrade Khajiit Female"/>
+        <Group name="Vanilla Digitigrade Khajiit Male"/>
+        <SetSlider name="Wraps" size="big" value="100"/>
+        <SetSlider name="Wraps" size="small" value="100"/>
+    </Preset>
+	    <Preset name="Vanilla Khajiit Wraps" set="VanillaDigitigradeKhajiitSteelBootsMale">
+        <Group name="Vanilla Digitigrade Khajiit Female"/>
+        <Group name="Vanilla Digitigrade Khajiit Male"/>
+    </Preset>
+</SliderPresets>
