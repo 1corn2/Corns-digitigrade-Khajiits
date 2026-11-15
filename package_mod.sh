@@ -17,6 +17,10 @@ cp -r "${PROJECTDIR}/SNIFF-fixes/"* "./CalienteTools/BodySlide/ShapeData/" || ex
 cp "${PROJECTDIR}/Corns Khajiits/corns_khajiits.esp" .
 # Do not grab the addon group file for first export
 echo "Packaging base mod..."
-find .  -type f \( ! -name 'HIMBO*' \) -o -name 'HIMBOVanilla*' | zip -9  "${PROJECTDIR}/output/CornsKhajiits.zip" -@
+find .  -type f \( ! -name '*HIMBO*' \) -o -name 'HIMBOVanilla*' | zip -9  "${PROJECTDIR}/output/CornsKhajiits.zip" -@
 echo "Packaging HIMBO+SOS addon..."
-find .  -type f -name 'HIMBOSOS*' -o -name 'HIMBO*xml' | zip -9  "${PROJECTDIR}/output/CornsKhajiits_HimboAddon.zip" -@
+find .  -type f -name '*HIMBOSOS*' -o -name 'HIMBO*xml' | zip -9  "${PROJECTDIR}/output/CornsKhajiits_HimboAddon.zip" -@
+echo "Packaging USSEP patch"
+cp "${PROJECTDIR}/Corns Khajiits USSEP patch/corns_khajiits_ussep_patch.esp" .
+zip -9 "${PROJECTDIR}/output/CornsKhajiits_USSEP.zip" ./corns_khajiits_ussep_patch.esp
+rm ./corns_khajiits_ussep_patch.esp
