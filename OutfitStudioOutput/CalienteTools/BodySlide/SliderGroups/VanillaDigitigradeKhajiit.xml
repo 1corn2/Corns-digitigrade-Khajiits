@@ -613,5 +613,6 @@
         <Member name="VanillaDigitigradeKhajiitYarl02ShoesMale"/>
         <Member name="VanillaDigitigradeKhajiitYarl03ShoesMale"/>
         <Member name="VanillaDigitigradeKhajiitYarlShoesMale"/>
+        <Member name="VanillaDigitigradeKhajiitFeetMale"/>
     </Group>
 </SliderGroups>
