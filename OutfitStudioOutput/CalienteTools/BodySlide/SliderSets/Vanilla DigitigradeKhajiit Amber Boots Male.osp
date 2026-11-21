@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="2">
+    <SliderSet name="Vanilla DigitigradeKhajiit Amber Boots Male" id="6889eac6-def1-4d5d-ad56-49f002d5a3ee">
+        <ReferenceInfo ShapeName="FootPaws_Base"/>
+        <DataFolder>Vanilla DigitigradeKhajiit Amber Boots Male</DataFolder>
+        <SourceFile>Vanilla DigitigradeKhajiit Amber Boots Male.nif</SourceFile>
+        <OutputPath>meshes\creationclub\bgssse025\armor\digitigrade\amber</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">amberbootsm</OutputFile>
+        <Shape target="Amber Armor_m_Boots">Amber Armor_m_Boots</Shape>
+        <Shape target="FootPaws_Base" DataFolder="VanillaDigitigradeKhajiitFeetMale">FootPaws_Base</Shape>
+        <Shape target="shoes" DataFolder="VanillaDigitigradeKhajiitWrapsCutMale">shoes</Shape>
+        <Slider name="0 -&gt; 1" invert="false" small="0" big="100">
+            <Data name="FootPaws_Base0 -&gt; 1" target="FootPaws_Base">VanillaDigitigradeKhajiitFeetMale.osd\FootPaws_Base0 -&gt; 1</Data>
+            <Data name="Amber Armor_m_Boots0 -&gt; 1" target="Amber Armor_m_Boots" local="true">Vanilla DigitigradeKhajiit Amber Boots Male.osd\Amber Armor_m_Boots0 -&gt; 1</Data>
+            <Data name="shoes0 -&gt; 1" target="shoes">VanillaDigitigradeKhajiitWrapsCutMale.osd\shoes0 -&gt; 1</Data>
+        </Slider>
+        <Slider name="Wraps" invert="false" small="0" big="0" zap="true">
+            <Data name="shoesWraps" target="shoes">VanillaDigitigradeKhajiitWrapsCutMale.osd\shoesWraps</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>
