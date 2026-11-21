@@ -1,0 +1,14 @@
+{
+  "Nickname": "CornsKhajiitsArmorDigitigrader",
+  "Visibility": "Visible",
+  "OneLineDescription": "Prevents mods from adding back Khajiits into ArmorAddons",
+  "LongDescription": "Corn's digitigrade Khajiits requires vanilla armors not to contain Khajiits in the default ArmorAddons so the modded ArmorAddons can take effect. But if any mod touches the addons and overwrites the mod, they will unintentionally add them back. So this patcher just removes those records.",
+  "PreferredAutoVersioning": "Default",
+  "RequiredMods": [],
+  "TargetedReleases": [
+    "SkyrimLE",
+    "SkyrimSE",
+    "SkyrimVR",
+    "SkyrimSEGog"
+  ]
+}
