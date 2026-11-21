@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="2">
+    <SliderSet name="Vanilla DigitigradeKhajiit Darkseducer Boots Female" id="1a09c0e8-34d9-4aa8-b86a-b7f78f251b60">
+        <ReferenceInfo ShapeName="FootPaws_Base"/>
+        <DataFolder>Vanilla DigitigradeKhajiit Darkseducer Boots Female</DataFolder>
+        <SourceFile>Vanilla DigitigradeKhajiit Darkseducer Boots Female.nif</SourceFile>
+        <OutputPath>meshes\creationclub\bgssse025\armor\digitigrade\darkseducer</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">darkseducerbootsf</OutputFile>
+        <Shape target="FemaleDarkSeducer_Boots">FemaleDarkSeducer_Boots</Shape>
+        <Shape target="FootPaws_Base" DataFolder="VanillaDigitigradeKhajiitFeetFemale">FootPaws_Base</Shape>
+        <Shape target="shoes" DataFolder="VanillaDigitigradeKhajiitWrapsCutFemale">shoes</Shape>
+        <Slider name="0 -&gt; 1" invert="false" small="0" big="100">
+            <Data name="FootPaws_Base0 -&gt; 1" target="FootPaws_Base">VanillaDigitigradeKhajiitFeetFemale.osd\FootPaws_Base0 -&gt; 1</Data>
+            <Data name="FemaleDarkSeducer_Boots0 -&gt; 1" target="FemaleDarkSeducer_Boots" local="true">Vanilla DigitigradeKhajiit Darkseducer Boots Female.osd\FemaleDarkSeducer_Boots0 -&gt; 1</Data>
+            <Data name="shoes0 -&gt; 1" target="shoes">VanillaDigitigradeKhajiitWrapsCutFemale.osd\shoes0 -&gt; 1</Data>
+        </Slider>
+        <Slider name="Wraps" invert="false" small="0" big="0" zap="true">
+            <Data name="shoesWraps" target="shoes">VanillaDigitigradeKhajiitWrapsCutFemale.osd\shoesWraps</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>
