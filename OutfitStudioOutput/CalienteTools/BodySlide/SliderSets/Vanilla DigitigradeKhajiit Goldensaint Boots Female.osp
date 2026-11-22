@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="2">
+    <SliderSet name="Vanilla DigitigradeKhajiit Goldensaint Boots Female" id="793e7863-4ba3-4698-919b-8b0d4490474f">
+        <ReferenceInfo ShapeName="FootPaws_Base"/>
+        <DataFolder>Vanilla DigitigradeKhajiit Goldensaint Boots Female</DataFolder>
+        <SourceFile>Vanilla DigitigradeKhajiit Goldensaint Boots Female.nif</SourceFile>
+        <OutputPath>meshes\creationclub\bgssse025\armor\digitigrade\goldensaint</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">goldensaintbootsf</OutputFile>
+        <Shape target="FemaleGoldenSaint_Boots">FemaleGoldenSaint_Boots</Shape>
+        <Shape target="FootPaws_Base" DataFolder="VanillaDigitigradeKhajiitFeetFemale">FootPaws_Base</Shape>
+        <Shape target="shoes" DataFolder="VanillaDigitigradeKhajiitWrapsCutFemale">shoes</Shape>
+        <Slider name="0 -&gt; 1" invert="false" small="0" big="100">
+            <Data name="FootPaws_Base0 -&gt; 1" target="FootPaws_Base">VanillaDigitigradeKhajiitFeetFemale.osd\FootPaws_Base0 -&gt; 1</Data>
+            <Data name="FemaleGoldenSaint_Boots0 -&gt; 1" target="FemaleGoldenSaint_Boots" local="true">Vanilla DigitigradeKhajiit Goldensaint Boots Female.osd\FemaleGoldenSaint_Boots0 -&gt; 1</Data>
+            <Data name="shoes0 -&gt; 1" target="shoes">VanillaDigitigradeKhajiitWrapsCutFemale.osd\shoes0 -&gt; 1</Data>
+        </Slider>
+        <Slider name="Wraps" invert="false" small="0" big="0" zap="true">
+            <Data name="shoesWraps" target="shoes">VanillaDigitigradeKhajiitWrapsCutFemale.osd\shoesWraps</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>
