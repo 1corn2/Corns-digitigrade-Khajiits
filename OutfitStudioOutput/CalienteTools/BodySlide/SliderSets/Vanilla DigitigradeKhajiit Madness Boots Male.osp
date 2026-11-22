@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="2">
+    <SliderSet name="Vanilla DigitigradeKhajiit Madness Boots Male" id="6cbdf65b-05b5-467f-b6cd-146140589d9e">
+        <ReferenceInfo ShapeName="FootPaws_Base"/>
+        <DataFolder>Vanilla DigitigradeKhajiit Madness Boots Male</DataFolder>
+        <SourceFile>Vanilla DigitigradeKhajiit Madness Boots Male.nif</SourceFile>
+        <OutputPath>meshes\creationclub\bgssse025\armor\digitigrade\madness</OutputPath>
+        <OutputFile GenWeights="true" PreventMorphFile="false" KeepZappedShapes="false">madnessbootsm</OutputFile>
+        <Shape target="FootPaws_Base" DataFolder="VanillaDigitigradeKhajiitFeetMale">FootPaws_Base</Shape>
+        <Shape target="Madness_Armor_m_Boots">Madness_Armor_m_Boots</Shape>
+        <Shape target="shoes" DataFolder="VanillaDigitigradeKhajiitWrapsCutMale">shoes</Shape>
+        <Slider name="0 -&gt; 1" invert="false" small="0" big="100">
+            <Data name="FootPaws_Base0 -&gt; 1" target="FootPaws_Base">VanillaDigitigradeKhajiitFeetMale.osd\FootPaws_Base0 -&gt; 1</Data>
+            <Data name="Madness_Armor_m_Boots0 -&gt; 1" target="Madness_Armor_m_Boots" local="true">Vanilla DigitigradeKhajiit Madness Boots Male.osd\Madness_Armor_m_Boots0 -&gt; 1</Data>
+            <Data name="shoes0 -&gt; 1" target="shoes">VanillaDigitigradeKhajiitWrapsCutMale.osd\shoes0 -&gt; 1</Data>
+        </Slider>
+        <Slider name="Wraps" invert="false" small="0" big="0" zap="true">
+            <Data name="shoesWraps" target="shoes">VanillaDigitigradeKhajiitWrapsCutMale.osd\shoesWraps</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>
