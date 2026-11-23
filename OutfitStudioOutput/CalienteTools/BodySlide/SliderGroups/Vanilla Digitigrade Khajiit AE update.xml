@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderGroups>
+    <Group name="Vanilla Digitigrade Khajiit Female">
+        <Member name="Vanilla DigitigradeKhajiit Amber Boots Female"/>
+        <Member name="Vanilla DigitigradeKhajiit Darkseducer Boots Female"/>
+        <Member name="Vanilla DigitigradeKhajiit Fishing Boots Female"/>
+        <Member name="Vanilla DigitigradeKhajiit Goldensaint Boots Female"/>
+        <Member name="Vanilla DigitigradeKhajiit Madness Boots Female"/>
+    </Group>
+    <Group name="Vanilla Digitigrade Khajiit Male">
+        <Member name="Vanilla DigitigradeKhajiit Amber Boots Male"/>
+        <Member name="Vanilla DigitigradeKhajiit Darkseducer Boots Male"/>
+        <Member name="Vanilla DigitigradeKhajiit Fishing Boots Male"/>
+        <Member name="Vanilla DigitigradeKhajiit Goldensaint Boots Male"/>
+        <Member name="Vanilla DigitigradeKhajiit Madness Boots Male"/>
+    </Group>
+</SliderGroups>
